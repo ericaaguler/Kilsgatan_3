@@ -13,3 +13,8 @@ Varje uppladdad fil ska:
 1. få ett Bevis-ID i [bevisregistret](../../BEVISREGISTER.md),
 2. länkas från relevant rad i [tidslinjen](../../TIDSLINJE.md),
 3. beskrivas endast utifrån vad originalet faktiskt säger.
+
+
+## Trådindex
+
+- [Samlat trådindex för samtliga aktörer](../TRADINDEX.md)

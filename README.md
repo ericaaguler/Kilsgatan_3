@@ -29,8 +29,12 @@ Repositoryt ska inte innehålla:
 
 - [Tidslinje](TIDSLINJE.md)
 - [Bevisregister](BEVISREGISTER.md)
+- [Samlat trådindex](korrespondens/TRADINDEX.md)
+- [Granskningslogg för Outlook](korrespondens/GRANSKNINGSLOGG.md)
 - [Korrespondens med Familjebostäder](korrespondens/familjebostader/README.md)
 - [Korrespondens med Miljöförvaltningen](korrespondens/miljoforvaltningen/README.md)
+- [Övriga aktörer](korrespondens/)
+- [Uppladdade handlingar](handlingar/README.md)
 - [Inspelningar](inspelningar/README.md)
 - [Transkriptioner](transkriptioner/README.md)
 - [Registreringsmall](mallar/registrera-bevis.md)

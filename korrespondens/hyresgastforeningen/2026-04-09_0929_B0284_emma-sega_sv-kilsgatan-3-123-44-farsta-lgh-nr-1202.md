@@ -1,0 +1,152 @@
+# B0284 – Sv: Kilsgatan 3, 123 44 Farsta lgh nr 1202
+
+> Källfilen är en direkt återgivning av metadata och fullständig meddelandetext som Outlook-anslutningen lämnade den 18 augusti 2026. Det är inte en rå MIME-/EML-export. Citerad äldre trådtext har bevarats; varje faktiskt meddelande i materialet har en egen bevisfil.
+
+- **Bevis-ID:** B0284
+- **Tråd:** [Tråd 079](../tradar/trad-079-kilsgatan-3-123-44-farsta-lgh-nr-1202.md) — separat vidarebefordrad gren från tråd 028
+- **Outlook-meddelande-ID:** `AQMkADAwATE4MTAxLWE1YmUtNWRmNy0wMAItMDAKAEYAAANIvi1X3ERcT4vpZt2ALwI1BwCwChX9viOGQadejfJC0_-OAAACAQwAAACwChX9viOGQadejfJC0_-OAAj59nkmAAAA`
+- **Outlook-tid (UTC):** 2026-04-09T07:29:26Z
+- **Svensk lokal tid:** 2026-04-09 09:29:26 CEST
+- **Mapp vid hämtning:** inbox
+- **Avsändare:** Emma Sega <emma.sega@hyresgastforeningen.se>
+- **Mottagare:** Erica A. Güler <Ericaguler@hotmail.com>
+- **Kopia:** —
+- **Dold kopia:** —
+- **Ämne:** Sv: Kilsgatan 3, 123 44 Farsta lgh nr 1202
+- **Outlook-länk:** [Öppna originalmeddelandet i Outlook](https://outlook.live.com/owa/?ItemID=AQMkADAwATE4MTAxLWE1YmUtNWRmNy0wMAItMDAKAEYAAANIvi1X3ERcT4vpZt2ALwI1BwCwChX9viOGQadejfJC0%2B%2FOAAACAQwAAACwChX9viOGQadejfJC0%2B%2FOAAj59nkmAAAA&exvsurl=1&viewmodel=ReadMessageItem)
+- **Kontrollerat mot Outlook:** Ja, den 18 augusti 2026
+
+## Bilagor
+
+Ingen separat sakbilaga registrerad. Generiska signaturbilder med namn som `image001.png` har utelämnats.
+
+## Vad källan direkt visar
+
+Emma Sega <emma.sega@hyresgastforeningen.se> skickade ett e-postmeddelande till Erica A. Güler <Ericaguler@hotmail.com> med ämnet ”Sv: Kilsgatan 3, 123 44 Farsta lgh nr 1202”.
+
+## Ordagrant ämnescitat
+
+> Ämne: Sv: Kilsgatan 3, 123 44 Farsta lgh nr 1202
+
+## Outlook-anslutningens fullständiga återgivning av meddelandetexten
+
+~~~text
+Hej,
+
+
+
+Jag är din handläggare.
+
+Att jag vill ha miljöförvaltningens beslut är för att se om det finns en
+olägenhet för människors hälsa. Det är dom som beslutar om hyresvärden måste
+vidta vissa åtgärder.
+
+
+
+Jag har också mejlar till Jennifer för att höra om målningen åter igen, men
+som du också säkert fick svar på att hon är på semester. Vi får avvakta och se
+hur dom tänker göra.
+
+
+
+Med vänlig hälsning
+
+
+
+Emma Sega
+
+Ärendehandläggare
+
+Juridiskaenheten
+
+Box 101 17
+
+121 28 Stockholm- Globen
+
+Besök: Arenavägen 63
+
+Direkt nr: 010-459 2040
+
+Växel:0771-443443
+
+E-post:
+[emma.sega@hyresgastforeningen.se](mailto:emma.sartin@hyresgastforeningen.se)
+
+ _Hemsida:[ www.hyresgastforeningen.se](http://www.hyresgastforeningen.se/)_
+
+
+
+**Från:** Erica A. Güler <ericaguler@hotmail.com>  
+**Skickat:** den 8 april 2026 09:36  
+**Till:** Jennifer Ehlin <jennifer.ehlin@familjebostader.com>  
+**Kopia:** Emma Sega <emma.sega@hyresgastforeningen.se>  
+**Ämne:** Kilsgatan 3, 123 44 Farsta lgh nr 1202
+
+
+
+**Kilsgatan 3, 123 44 Farsta lgh nr 1202**
+
+
+
+Hej Jennifer,
+
+Jag noterar att uppgiften om åtgärd i köket nu har ändrats till tapetsering.
+
+
+
+Vi har inte kommit överens om tapetsering i köket.
+
+Jag ber dig därför visa om det finns någon skriftlig överenskommelse som
+stödjer detta.
+
+Mötet den 11 november är inspelat i ljud. Där framgår att det som diskuterades
+är målning – inte tapetsering.
+
+
+
+15 dagar efter mötet, i mejl från Gaby Khalaf den 26 november 2025 kl. 17:38,
+anges följande:
+
+
+
+**_“Efter städningen sker målningen … invändigt köksstomme enligt
+överenskommelse, målning sovrum 1, målning hall och köket samt även
+golvsocklarna (vit)”_**
+
+
+
+21 dagar efter mötet skriver du själv, den 2 december 2025 kl. 09:02:
+
+
+
+**_“I övrigt sker det som vi kom överens om på vårt möte i din lägenhet.”_**
+
+
+
+Det som sades på mötet, det som Gaby skrev efteråt och det du själv skrev
+senare säger samma sak: målning.
+
+
+
+Den nuvarande uppgiften om tapetsering saknar därmed stöd i tidigare
+kommunikation.
+
+Jag förhåller mig till det som faktiskt har dokumenterats och utgår från att
+ni gör detsamma.
+
+Jag utgår från att åtgärden i köket utförs i enlighet med detta.
+
+
+
+
+
+För tydlighetens skull bifogar jag skärmdump.
+
+Vänliga hälsningar,
+
+
+
+Erica
+
+
+~~~
