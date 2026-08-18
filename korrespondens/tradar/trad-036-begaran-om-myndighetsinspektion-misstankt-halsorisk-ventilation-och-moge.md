@@ -1,0 +1,24 @@
+# Tråd 036 – Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan
+
+Detta index grupperar de faktiskt skickade eller mottagna Outlook-meddelanden som har samma svarskedja enligt ämnesprefix och kronologisk följd. Varje meddelande är sparat som ett eget bevis.
+
+| Ordning | Datum och tid | Bevis-ID | Från | Till | Ämne |
+|---|---|---|---|---|---|
+| 1 | 2025-11-30 18:05:47 CET | [B0143](../miljoforvaltningen/2025-11-30_1805_B0143_erica-a-guler_begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-och-moge.md) | Erica A. Güler <ericaguler@hotmail.com> | miljoforvaltningen@stockholm.se; radgivningen@hyresgastforeningen.se | Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 2 | 2025-12-01 09:40:36 CET | [B0145](../miljoforvaltningen/2025-12-01_0940_B0145_erica-a-guler_re-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-och-m.md) | Erica A. Güler <ericaguler@hotmail.com> | miljoforvaltningen@stockholm.se; radgivningen@hyresgastforeningen.se | Re: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 3 | 2025-12-01 14:41:53 CET | [B0146](../miljoforvaltningen/2025-12-01_1441_B0146_funktion-mhn-direktservice_sv-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-och-m.md) | Funktion MHN Direktservice <Direktservice.miljoforvaltningen@stockholm.se> | Erica A. Güler <ericaguler@hotmail.com> | Sv: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 4 | 2025-12-01 15:09:28 CET | [B0147](../miljoforvaltningen/2025-12-01_1509_B0147_erica-a-guler_sv-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-och-m.md) | Erica A. Güler <ericaguler@hotmail.com> | Funktion MHN Direktservice <Direktservice.miljoforvaltningen@stockholm.se> | Sv: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 5 | 2025-12-01 15:17:42 CET | [B0148](../miljoforvaltningen/2025-12-01_1517_B0148_funktion-mhn-direktservice_sv-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-och-m.md) | Funktion MHN Direktservice <Direktservice.miljoforvaltningen@stockholm.se> | Erica A. Güler <ericaguler@hotmail.com> | Sv: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 6 | 2025-12-01 15:22:46 CET | [B0149](../miljoforvaltningen/2025-12-01_1522_B0149_erica-a-guler_sv-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-och-m.md) | Erica A. Güler <ericaguler@hotmail.com> | Funktion MHN Direktservice <Direktservice.miljoforvaltningen@stockholm.se> | Sv: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 7 | 2025-12-03 14:00:19 CET | [B0155](../hyresgastforeningen/2025-12-03_1400_B0155_radgivningen_sv-re-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-oc.md) | Rådgivningen <radgivningen@hyresgastforeningen.se> | Erica Aylin Güler <ericaguler@hotmail.com> | SV: Re: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 8 | 2025-12-04 11:30:37 CET | [B0158](../hyresgastforeningen/2025-12-04_1130_B0158_erica-a-guler_re-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-och-m.md) | Erica A. Güler <ericaguler@hotmail.com> | Rådgivningen <radgivningen@hyresgastforeningen.se> | Re: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 9 | 2025-12-05 13:52:07 CET | [B0162](../hyresgastforeningen/2025-12-05_1352_B0162_radgivningen_sv-re-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-oc.md) | Rådgivningen <radgivningen@hyresgastforeningen.se> | Erica Aylin Güler <ericaguler@hotmail.com> | SV: Re: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 10 | 2025-12-15 15:55:09 CET | [B0177](../hyresgastforeningen/2025-12-15_1555_B0177_erica-a-guler_sv-re-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-oc.md) | Erica A. Güler <ericaguler@hotmail.com> | Rådgivningen <radgivningen@hyresgastforeningen.se> | Sv: Re: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+| 11 | 2025-12-16 15:27:07 CET | [B0187](../hyresgastforeningen/2025-12-16_1527_B0187_radgivningen_sv-re-begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-oc.md) | Rådgivningen <radgivningen@hyresgastforeningen.se> | Erica Aylin Güler <ericaguler@hotmail.com> | Sv: Re: Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan |
+
+## Kedjans struktur
+
+- Första registrerade meddelande: B0143, 2025-11-30 18:05:47.
+- Sista registrerade meddelande: B0187, 2025-12-16 15:27:07.
+- Antal faktiskt registrerade meddelanden: 11.
+- Ny ämnesrad eller vidarebefordran har behandlats som en separat tråd eller gren.

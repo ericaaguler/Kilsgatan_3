@@ -1,0 +1,150 @@
+# B0410 – Begäran om allmänna handlingar 
+
+> Källfilen är en direkt återgivning av metadata och fullständig meddelandetext som Outlook-anslutningen lämnade den 18 augusti 2026. Det är inte en rå MIME-/EML-export. Citerad äldre trådtext har bevarats; varje faktiskt meddelande i materialet har en egen bevisfil.
+
+- **Bevis-ID:** B0410
+- **Tråd:** [Tråd 136](../tradar/trad-136-begaran-om-allmanna-handlingar.md) — separat vidarebefordrad gren från tråd 135
+- **Outlook-meddelande-ID:** `AQMkADAwATE4MTAxLWE1YmUtNWRmNy0wMAItMDAKAEYAAANIvi1X3ERcT4vpZt2ALwI1BwCwChX9viOGQadejfJC0_-OAAACAQkAAACwChX9viOGQadejfJC0_-OAAlM4BGTAAAA`
+- **Outlook-tid (UTC):** 2026-08-09T15:37:01Z
+- **Svensk lokal tid:** 2026-08-09 17:37:01 CEST
+- **Mapp vid hämtning:** sent
+- **Avsändare:** Erica A. Güler <ericaguler@hotmail.com>
+- **Mottagare:** info@stadshusab.se
+- **Kopia:** —
+- **Dold kopia:** —
+- **Ämne:** Begäran om allmänna handlingar 
+- **Outlook-länk:** [Öppna originalmeddelandet i Outlook](https://outlook.live.com/owa/?ItemID=AQMkADAwATE4MTAxLWE1YmUtNWRmNy0wMAItMDAKAEYAAANIvi1X3ERcT4vpZt2ALwI1BwCwChX9viOGQadejfJC0%2B%2FOAAACAQkAAACwChX9viOGQadejfJC0%2B%2FOAAlM4BGTAAAA&exvsurl=1&viewmodel=ReadMessageItem)
+- **Kontrollerat mot Outlook:** Ja, den 18 augusti 2026
+
+## Bilagor
+
+Ingen separat sakbilaga registrerad. Generiska signaturbilder med namn som `image001.png` har utelämnats.
+
+## Vad källan direkt visar
+
+Erica A. Güler <ericaguler@hotmail.com> skickade ett e-postmeddelande till info@stadshusab.se med ämnet ”Begäran om allmänna handlingar ”.
+
+## Ordagrant ämnescitat
+
+> Ämne: Begäran om allmänna handlingar 
+
+## Outlook-anslutningens fullständiga återgivning av meddelandetexten
+
+~~~text
+**Ämne: Begäran om allmänna handlingar – brandhändelse och saneringsspår,
+Kilsgatan 3, 16 november 2017**
+
+Hej,
+
+Jag begär att få ta del av samtliga allmänna handlingar hos **Stockholms
+Stadshus AB** som rör eller kan identifiera dokumentationsspåret kring **AB
+Familjebostäders fastighet Kilsgatan 3 i Farsta** och brand-/rökhändelsen den
+**16 november 2017**.
+
+Bakgrunden är att Familjebostäder har uppgett att dokumentation eller intyg
+som visar den efterföljande saneringen och återställningen inte längre finns
+tillgängliga.
+
+Det aktualiserar en konkret fråga:
+
+**Om dokumentationen inte längre finns hos Familjebostäder, var finns då det
+dokumenterade spåret efter skadehanteringen, saneringen och återställningen av
+en brandhändelse i en kommunalt ägd fastighet?**
+
+AB Familjebostäder ingår i Stockholms stads bolagskoncern under Stockholms
+Stadshus AB.
+
+Jag begär därför handlingar som kan klarlägga om relevant dokumentation finns
+på koncernnivå eller om den kan spåras genom försäkrings-, skadehanterings-,
+entreprenad- eller arkivsystem.
+
+Jag begär särskilt, i den mån sådana handlingar finns:
+
+  * kommunikation, rapportering eller annan dokumentation hos Stockholms Stadshus AB som rör branden, rökskadan eller den efterföljande skadehanteringen på Kilsgatan 3 
+  * handlingar som visar vilket fastighetsförsäkringsbolag, försäkringsprogram eller annan försäkringslösning AB Familjebostäder omfattades av under 2017 
+  * handlingar som visar vem som hanterade skadeärenden för Familjebostäders fastigheter under den aktuella perioden 
+  * centrala riktlinjer, instruktioner eller rutiner som under 2017 gällde inom bolagskoncernen för brandskador, sanering, återställning, skadehantering och dokumentation 
+  * arkiv-, dokumenthanterings- eller gallringsregler som gällde för skadeärenden, saneringshandlingar, entreprenadhandlingar och försäkringshandlingar hos AB Familjebostäder 
+  * handlingar som visar om skade- eller försäkringsärenden för Familjebostäders fastigheter helt eller delvis hanterades centralt inom Stockholms stad, Stockholms Stadshus AB eller av upphandlad extern aktör 
+  * befintliga handlingar som identifierar vilka externa aktörer som användes för försäkring, skadereglering, restvärdeshantering, brandsanering eller återställning under den aktuella perioden. 
+
+Jag begär inte att Stockholms Stadshus AB ska göra en ny utredning av vad som
+faktiskt utfördes i lägenheten om den informationen inte finns hos er.
+
+Jag begär däremot ett tydligt besked om **vilka befintliga dokumentationsspår
+som finns och vilka aktörer som ansvarade för dem**.
+
+Familjebostäders uppgift att dokumentationen inte längre finns väcker därför
+följande frågor som jag ber er besvara utifrån de handlingar och rutiner ni
+har tillgång till:
+
+**1\. Vilket fastighetsförsäkringsbolag eller vilken försäkringslösning
+omfattade AB Familjebostäder under 2017?**
+
+**2\. Vem hanterade normalt skadeärenden efter brand i Familjebostäders
+fastigheter vid den tiden?**
+
+**3\. Fanns det centrala eller koncerngemensamma rutiner för dokumentation av
+brandskador, sanering, återställning eller försäkringsärenden?**
+
+**4\. Vilka bevarandetider gällde för skade-, sanerings-, entreprenad- och
+försäkringshandlingar?**
+
+**5\. Om handlingar av detta slag fick gallras, vilken gallringsregel eller
+vilket beslut medgav det, vilka handlingstyper omfattades och efter vilken
+tid?**
+
+**6\. Om dokumentationen inte längre finns hos Familjebostäder, vilka andra
+funktioner, bolag eller externa aktörer bör enligt den dåvarande
+organisationen kunna ha skapat, mottagit eller bevarat den?**
+
+Det är en viktig skillnad mellan att konstatera att en handling idag inte
+finns hos Familjebostäder och att kunna förklara **varför den inte finns,
+vilken regel som medgav att den försvann och om motsvarande dokumentation kan
+finnas hos någon annan aktör**.
+
+Om Stockholms Stadshus AB inte har handlingar som rör den specifika
+brandhändelsen ber jag därför att ni ändå lämnar ut de generella handlingar
+från 2017 som gör det möjligt att fastställa:
+
+**vem som försäkrade Familjebostäders fastigheter,  
+vem som hanterade skadeärenden,  
+vilka dokumentationsregler som gällde,  
+hur länge handlingarna skulle bevaras,  
+och vilken aktör som kan ha dokumentationen idag.**
+
+Om ni kan identifiera annan funktion inom Stockholms stad, annat kommunalt
+bolag, försäkringsbolag, skadereglerare, restvärdesaktör, saneringsentreprenör
+eller annan aktör som hade ansvar för någon del av skadehanteringen ber jag er
+ange vilken aktör det var och, om uppgiften finns hos er, vilken roll den
+hade.
+
+Jag önskar handlingarna elektroniskt via e-post.
+
+Om någon del av min begäran inte kan tillgodoses ber jag att ni anger **vilka
+handlingar eller uppgifter som inte lämnas ut och på vilken grund**.
+
+Vänligen bekräfta mottagandet av begäran och ange diarienummer eller annan
+referens för handläggningen.
+
+Vänliga hälsningar,
+
+**Erica Güler**
+
+**  
+**
+
+  
+
+  
+
+**Erica Güler**
+
+**Ericaguler@hotmail.com**
+
+****  
+
+  
+
+
+~~~

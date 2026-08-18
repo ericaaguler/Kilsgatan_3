@@ -18,6 +18,8 @@ Varje uppladdad fil ska:
 2. länkas från relevant rad i [tidslinjen](../../TIDSLINJE.md),
 3. beskrivas endast utifrån vad originalet faktiskt säger.
 
+- [Samlat trådindex för samtliga aktörer](../TRADINDEX.md)
+
 ## Registrerade mejltrådar
 
 - [Tråd 001 – underhåll kostnad](trad-001-underhall-kostnad.md)

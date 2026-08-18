@@ -1,0 +1,317 @@
+# B0185 – Sv:  ärende CAS-129190-X1Q2S2:
+
+> Källfilen är en direkt återgivning av metadata och fullständig meddelandetext som Outlook-anslutningen lämnade den 18 augusti 2026. Det är inte en rå MIME-/EML-export. Citerad äldre trådtext har bevarats; varje faktiskt meddelande i materialet har en egen bevisfil.
+
+- **Bevis-ID:** B0185
+- **Tråd:** [Tråd 041](../tradar/trad-041-arende-cas-129190-x1q2s2.md)
+- **Outlook-meddelande-ID:** `AQMkADAwATE4MTAxLWE1YmUtNWRmNy0wMAItMDAKAEYAAANIvi1X3ERcT4vpZt2ALwI1BwCwChX9viOGQadejfJC0_-OAAACAQkAAACwChX9viOGQadejfJC0_-OAAivCZD7AAAA`
+- **Outlook-tid (UTC):** 2025-12-16T10:56:57Z
+- **Svensk lokal tid:** 2025-12-16 11:56:57 CET
+- **Mapp vid hämtning:** sent
+- **Avsändare:** Erica A. Güler <ericaguler@hotmail.com>
+- **Mottagare:** Emma Sega <emma.sega@hyresgastforeningen.se>
+- **Kopia:** —
+- **Dold kopia:** —
+- **Ämne:** Sv:  ärende CAS-129190-X1Q2S2:
+- **Outlook-länk:** [Öppna originalmeddelandet i Outlook](https://outlook.live.com/owa/?ItemID=AQMkADAwATE4MTAxLWE1YmUtNWRmNy0wMAItMDAKAEYAAANIvi1X3ERcT4vpZt2ALwI1BwCwChX9viOGQadejfJC0%2B%2FOAAACAQkAAACwChX9viOGQadejfJC0%2B%2FOAAivCZD7AAAA&exvsurl=1&viewmodel=ReadMessageItem)
+- **Kontrollerat mot Outlook:** Ja, den 18 augusti 2026
+
+## Bilagor
+
+Ingen separat sakbilaga registrerad. Generiska signaturbilder med namn som `image001.png` har utelämnats.
+
+## Vad källan direkt visar
+
+Erica A. Güler <ericaguler@hotmail.com> skickade ett e-postmeddelande till Emma Sega <emma.sega@hyresgastforeningen.se> med ämnet ”Sv:  ärende CAS-129190-X1Q2S2:”.
+
+## Ordagrant ämnescitat
+
+> Ämne: Sv:  ärende CAS-129190-X1Q2S2:
+
+## Outlook-anslutningens fullständiga återgivning av meddelandetexten
+
+~~~text
+Toppen, hörs då.  
+erica
+
+  
+
+* * *
+
+**Från:** Emma Sega <emma.sega@hyresgastforeningen.se>  
+**Skickat:** den 16 december 2025 11:54  
+**Till:** Erica A. Güler <ericaguler@hotmail.com>  
+**Ämne:** Sv: ärende CAS-129190-X1Q2S2:
+
+
+
+Kl 13.00 blir bra.
+
+
+
+Med vänlig hälsning
+
+
+
+Emma Sega
+
+Ärendehandläggare
+
+Juridiskaenheten
+
+Box 101 17
+
+121 28 Stockholm- Globen
+
+Besök: Arenavägen 63
+
+Direkt nr: 010-459 2040
+
+Växel:0771-443443
+
+E-post:
+[emma.sega@hyresgastforeningen.se](mailto:emma.sartin@hyresgastforeningen.se)
+
+ _Hemsida:[www.hyresgastforeningen.se](http://www.hyresgastforeningen.se/)_
+
+
+
+**Från:** Erica A. Güler <ericaguler@hotmail.com>  
+**Skickat:** den 16 december 2025 11:43  
+**Till:** Emma Sega <emma.sega@hyresgastforeningen.se>  
+**Ämne:** Sv: ärende CAS-129190-X1Q2S2:
+
+
+
+jag kommer vara upptagen mellan kl 2- 3  
+men innan och efter funkar
+
+* * *
+
+**Från:** Emma Sega
+<[emma.sega@hyresgastforeningen.se](mailto:emma.sega@hyresgastforeningen.se)>  
+**Skickat:** den 16 december 2025 10:32  
+**Till:** Erica A. Güler
+<[ericaguler@hotmail.com](mailto:ericaguler@hotmail.com)>  
+**Ämne:** Sv: ärende CAS-129190-X1Q2S2:
+
+
+
+Hej Erica!
+
+Återkommer till dig i eftermiddag, vilken tid kan jag ringa upp dig?
+
+
+
+Med vänlig hälsning
+
+
+
+Emma Sega
+
+Ärendehandläggare
+
+Juridiskaenheten
+
+Box 101 17
+
+121 28 Stockholm- Globen
+
+Besök: Arenavägen 63
+
+Direkt nr: 010-459 2040
+
+Växel:0771-443443
+
+E-post:
+[emma.sega@hyresgastforeningen.se](mailto:emma.sartin@hyresgastforeningen.se)
+
+ _Hemsida:[www.hyresgastforeningen.se](http://www.hyresgastforeningen.se/)_
+
+
+
+**Från:** Erica A. Güler
+<[ericaguler@hotmail.com](mailto:ericaguler@hotmail.com)>  
+**Skickat:** den 15 december 2025 20:14  
+**Till:** Rådgivningen
+<[Radgivningen@hyresgastforeningen.se](mailto:Radgivningen@hyresgastforeningen.se)>;
+Sandra Appelgren
+<[sandra.appelgren@hyresgastforeningen.se](mailto:sandra.appelgren@hyresgastforeningen.se)>;
+Emma Sega
+<[emma.sega@hyresgastforeningen.se](mailto:emma.sega@hyresgastforeningen.se)>  
+**Ämne:** ärende CAS-129190-X1Q2S2:
+
+
+
+**Hej rådgivningen, Emma och Sandra,**
+
+Jag har mottagit svar från Miljöförvaltningen (se bifogad skärmdump och mejl
+längre ner*) i ärende 2025-23696 (Bostad – bristande ventilation, lukt, fukt
+och mikroorganismer). Av svaret framgår att tillsynsprocessen, då både
+förvaltningslagen och miljöbalken ska följas, inte sällan tar 4–6 månader och
+i vissa fall upp till eller längre än 12 månader. Miljöförvaltningen har även
+skickat en påminnelse till fastighetsägaren, som har tid på sig att inkomma
+med svar till 18 december.
+
+Mot bakgrund av detta är det tydligt att ärendet inte kommer att lösas
+skyndsamt, utan att handläggningen behöver planeras i ett längre
+tidsperspektiv.
+
+Jag vill därför vara tydlig med att **_jag inte kan flytta in i lägenheten
+innan det är fastställt att den är fri från brister och säker att bo i_** _._
+
+Vilken lösning gäller under den tid som Miljöförvaltningens handläggning
+pågår, det vill säga under de 4–6 månader – och i vissa fall längre än 12
+månader – som utredningen kan ta?
+
+* * *
+
+**Akut och ohållbar situation**
+
+Detta innebär en akut och ohållbar situation för mig och min familj:
+
+  * Jag kan inte vistas i lägenheten utan att snabbt få tydliga symtom (huvudvärk, tryck över bröstet och andningspåverkan).
+
+  * Jag bor därför tillfälligt hos min mamma, på madrass på golvet, trots att jag betalar full hyra.
+
+  * Att leva under dessa förhållanden i 4–6 månader – eller upp till 12 månader – är inte hållbart, vare sig praktiskt, medicinskt eller mänskligt.
+
+  * Det finns dokumenterade indikationer på mikrobiell tillväxt i ventilation i flera rum samt brun tillväxt i köksstommarna, trots upprepade städningar.
+
+  * Jag har ett barn med astma och medicinering, vilket gör situationen särskilt riskfylld.
+
+* * *
+
+**Bristande och motsägelsefull dokumentation**
+
+Jag har gått igenom Familjebostäders egen underhållshistorik (skärmdump
+bifogas). Där framgår att större ytskiktsåtgärder – målning, tapetsering,
+snickeri och golvläggning – är registrerade som senast utförda **2017** ,
+vilket även bekräftats muntligt av förvaltare.
+
+Det som däremot helt saknas i systemet är dokumentation om:
+
+  * sanering
+
+  * åtgärder efter brand- eller rökskada
+
+  * åtgärder efter fukt- eller ventilationsskada
+
+  * ventilationsrengöring
+
+  * andra åtgärder som normalt dokumenteras vid påverkan på inomhusmiljön
+
+* * *
+
+**Motsägelsefulla uppgifter om brand**
+
+Jag har fått motsägelsefulla uppgifter från Familjebostäders förvaltare – dels
+att brand ska ha inträffat, dels att ingen brand förekommit. Ingen version
+stöds av dokumentation.
+
+Utöver detta har **tre grannar från tre olika hushåll** , oberoende av
+varandra, vid olika tillfällen uppgett att en brand eller allvarlig
+brandrelaterad händelse ska ha inträffat i huset. Jag har även funnit extern
+indikation via polisens offentliga händelse-/brottskarta som pekar på att en
+relevant händelse kan ha inträffat i området.
+
+* * *
+
+**Visningen – dolda brister**
+
+Visningen skedde via Bostadsförmedlingen med cirka 30 personer samtidigt.
+Under sådana förhållanden är det inte möjligt att upptäcka dolda brister.
+
+De problem som nu konstaterats – förmultnat trä bakom köksluckor, blockerade
+ventilationsöppningar, ljudisoleringspapper i friskluftsventiler samt brun
+tillväxt längs socklar och köksstommar – var inte synliga vid visningen.
+Fotografering och filmning var inte tillåten.
+
+* * *
+
+**Extern oberoende utredning**
+
+Mot bakgrund av ovanstående anser jag att en **extern, oberoende utredning av
+inomhusmiljön**  behöver genomföras för att objektivt fastställa om bostaden
+är säker att bo i.
+
+Detta är inte ett frivilligt initiativ från min sida, utan en nödvändig
+åtgärd. Exempel på aktörer som arbetar med oberoende inomhusmiljöanalyser
+finns, men **ansvar för initiering och kostnad behöver klargöras**.
+
+* * *
+
+**Det jag behöver från er nu**
+
+Med hänsyn till ärendets allvar behöver jag nu:
+
+  * Ett tydligt besked om **vem som ska bekosta extern oberoende utredning**
+
+  * Redogörelse för **vilka konkreta åtgärder ni vidtar**  gentemot Familjebostäder under handläggningstiden
+
+  * Klargörande kring **tillfälligt boende eller hyresreduktion**
+
+  * Att ärendet **eskaleras till ansvarig chef eller jurist inom Hyresgästföreningen**
+
+Jag ser fram emot återkoppling med **konkreta svar, ansvarsfördelning och
+tidplan**.
+
+
+
+*Mail 
+
+**Från:**  Funktion MHN Direktservice
+<[Direktservice.miljoforvaltningen@stockholm.se](mailto:Direktservice.miljoforvaltningen@stockholm.se)>  
+**Skickat:**  den 12 december 2025 10:15  
+**Till:**  Erica A. Güler
+<[ericaguler@hotmail.com](mailto:ericaguler@hotmail.com)>  
+**Ämne:**  Sv: Ärende 2025-23696, Bostad - Bristande ventilation - Lukt, fukt
+och mikroorganismer - Kilsgatan 3
+
+
+
+Hej Erica,
+
+
+
+De inkomna uppgifterna är tillagda i ärendet och kommunicerade till
+fastighetsägaren.
+
+
+
+Angående din fråga om tidsaspekten för ärendet är det svårt att säga. Då både
+förvaltningslagen och miljöbalken skall följas är det inte ovanligt att
+tillsynsprocessen kan ta 4-6 månader, beroende på störningens art, innan
+störningen är avhjälpt och ärendet kan avslutas. Vissa störningar kan ta mer
+än ett år.
+
+
+
+Miljöförvaltningen skickade igår en påminnelse till fastighetsägaren att
+inkomma med svarsyttrande, de har fram till den 18 december på sig .
+
+När svar inkommer kommer det att kommuniceras till dig och ställning tas till
+nästa steg i utredningen.
+
+
+
+Med vänlig hälsning
+
+Elin Aldin - Lundgren, miljö- och hälsoskyddsinspektör  
+**Direktservice  
+Miljöförvaltningen, Hälsoskyddsavdelningen  
+**Box 8136, 104 20 Stockholm  
+Telefon: 08-508 28 900  
+E-post:
+_[direktservice.miljoforvaltningen@stockholm.se](mailto:direktservice.miljoforvaltningen@stockholm.se)_  
+start.stockholm.
+
+
+
+Vänliga hälsningar  
+**Erica A. Güler**
+
+
+
+
+~~~
