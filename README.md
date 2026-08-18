@@ -28,6 +28,7 @@ Repositoryt ska inte innehålla:
 ## Ingångar
 
 - [Tidslinje](TIDSLINJE.md)
+- [Juridisk huvudtidslinje – FAS 1 källinventering](juridisk-huvudtidslinje/FAS-1-KALLINVENTERING.md)
 - [Bevisregister](BEVISREGISTER.md)
 - [Samlat trådindex](korrespondens/TRADINDEX.md)
 - [Granskningslogg för Outlook](korrespondens/GRANSKNINGSLOGG.md)
