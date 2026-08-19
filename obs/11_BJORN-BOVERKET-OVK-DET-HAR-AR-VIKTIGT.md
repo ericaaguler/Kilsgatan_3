@@ -29,13 +29,26 @@ I vårt material finns senare uppgifter om:
 
 Därför blir huvudfrågan:
 
-> **Hur kan ett äldre OVK-godkännande och senare godtagbara luftflöden ensamma användas för att avföra ventilationsfrågan, när Boverkets egen vägledning kräver fortlöpande funktion, underhåll, rätt injustering och kontroll av föroreningar i systemet?**
+> **Hur kan ett äldre OVK-resultat och senare godtagbara luftflöden ensamma användas för att avföra ventilationsfrågan, när Boverkets egen vägledning kräver fortlöpande funktion, underhåll, rätt injustering och kontroll av föroreningar i systemet?**
 
 Detta bevisar inte att ventilationen orsakar hälsobesvären. Det visar att utrednings- och beviskedjan behöver vara bredare än "OVK godkänd".
 
-## System 01 / system 02
+## 🚨 NYCKELPUNKT: "GODKÄND OVK" ÄR INTE HELA BEVISNINGEN
 
-Boverket anger att OVK-protokoll bör ange vilka ventilationssystem kontrollen omfattar.
+Boverket anger uttryckligen att ett OVK-protokoll inte måste innehålla en slutsats formulerad som "godkänt" eller "underkänt" och inte heller någon gradering av anmärkningarnas allvar. Samtliga fel ska dock åtgärdas av byggnadsägaren.
+
+Det betyder att när Familjebostäder skriver "godkänd OVK" måste vi alltid gå ett steg djupare:
+
+1. vilket ventilationssystem avsåg protokollet?
+2. vilken del av byggnaden omfattades?
+3. vilka mätpunkter/lägenheter kontrollerades?
+4. vilka anmärkningar noterades?
+5. vilka begränsningar fanns?
+6. vad hände med systemet efter besiktningen?
+
+## 🚨 System 01 / system 02 blir ännu viktigare
+
+Boverket anger att OVK-protokoll bör ange vilket eller vilka ventilationssystem kontrollen omfattar och, när byggnaden har flera system, omfattningen av besiktningen och i vilket system eventuella brister finns.
 
 Detta gör fyndet 17 augusti extra viktigt:
 
@@ -44,9 +57,34 @@ Detta gör fyndet 17 augusti extra viktigt:
 
 Säker fråga:
 
-> **Vilken koppling har system 02 till Kilsgatan 3, och vilket bevisvärde kan det protokollet ha för system 01?**
+> **Vilken koppling har system 02 till Kilsgatan 3, och vilket direkt bevisvärde kan det protokollet ha för system 01?**
 
 Ingen slutsats om varför fel system åberopades får dras utan svar.
+
+## 🚨 Relationsritningar kan låsa systemet
+
+Boverket anger att relationsritningar, instruktioner och skötselanvisningar bör användas som underlag vid återkommande OVK. Om ventilationssystemet inte stämmer med relationshandlingarna bör byggnadsägaren uppmanas att ta fram korrekta handlingar.
+
+Det betyder att vi nu särskilt ska få fram:
+
+- relationsritning för system 01,
+- system-/stamindelning,
+- driftkort,
+- projekterade flöden,
+- eventuella ändringshandlingar,
+- dokument som låser `60020562 → lgh 1202 → OVK 0562`.
+
+Detta är ett av de viktigaste dokumentationsspåren till Stadsbyggnadskontoret.
+
+## 🚨 Kanalrensningen / renheten
+
+Boverket anger att systemet bör kontrolleras okulärt i sin helhet så att kanaler och tillhörande anordningar inte har föroreningar som kan försämra funktionen eller skada innemiljön. Skötselanvisningar bör bland annat omfatta filterbyte, kanalrensning och rengöring av don.
+
+Därför blir frågan om den uteblivna rensningen 2021 mycket konkret:
+
+> **Om lgh 562/0562 inte lämnade tillträde vid kanalrensningen 2021, när och hur säkerställdes därefter att den relevanta kanalsträckan blev rengjord och hur dokumenterades resultatet?**
+
+Senare godtagbart luftflöde svarar inte ensamt på den frågan.
 
 ## Boendes uppgifter
 
@@ -54,9 +92,16 @@ Boverket anger dessutom att synpunkter från driftspersonal, boende och andra br
 
 Detta är relevant för hur uppgifter om lukt, återkommande reaktioner och drifttekniska avvikelser har hanterats.
 
+## Byggnadsnämnden ska ha protokollen
+
+Boverket redovisar att funktionskontrollanten ska skicka ett exemplar av OVK-protokollet till byggnadsnämnden.
+
+Det betyder att vi ska begära hela OVK-kedjan direkt från Stadsbyggnadskontoret, inte enbart förlita oss på den PDF Familjebostäder valt att skicka.
+
 ## FÅR INTE ÖVERDRIVAS
 
 - Boverket säger inte att lgh 1202 har föroreningar i ventilationssystemet.
 - Boverket säger inte att kanalrensningen 2021 orsakade hälsobesvären.
-- Boverket gör inte ett godkänt OVK ogiltigt bara för att senare problem uppstår.
-- Frågan är om senare problem och ingrepp har utretts och följts upp tillräckligt.
+- Boverket gör inte ett OVK-resultat ogiltigt bara för att senare problem uppstår.
+- Boverket visar inte att system 02-bilagan skickades medvetet fel.
+- Frågan är om rätt system, rätt tidsperiod, underhåll, renhet och senare problem har utretts och följts upp tillräckligt.
