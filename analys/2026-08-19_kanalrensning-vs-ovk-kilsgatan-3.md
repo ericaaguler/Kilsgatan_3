@@ -3,6 +3,18 @@
 Datum: 2026-08-19
 Status: juridisk/teknisk arbetsanalys. Externa regler ska hänvisas till officiella källor i eventuell inlaga.
 
+> ## ⚠️ OBS – TEORIN SPRICKER HÄR (ARBETSMARKERING FÖR ERICA + BJÖRN)
+>
+> **Teorin som börjar spricka är inte att ventilationen bevisligen orsakar hälsobesvären.**
+>
+> Det som börjar spricka är slutsatsen att ventilationen kan avföras som relevant problem enbart därför att senare luftflödesmätningar gav godtagbara värden.
+>
+> Fastighetsägarens egen drifttekniker dokumenterar att systemet dessförinnan behövde **kanalrensning och ombalansering**, och flera luftflöden ändrades. Miljöförvaltningens senare mätningar beskriver därför i första hand systemets funktion **efter korrigerande åtgärder**.
+>
+> **Nyckelfrågan:** Hur kan godtagbara värden efter åtgärd användas för att dra slutsatsen att det inte fanns en relevant ventilationsbrist eller ett utredningsbehov, när själva behovet av rensning/justering visar att systemet dessförinnan inte lämnades orört och när orsaken till besvären fortfarande inte var klarlagd?
+>
+> **Överklagandebetydelse:** Detta är en möjlig tydlig angreppspunkt mot utredningens slutsats och räckvidd. Formulera den som en **utredningslucka**, inte som bevis för att ventilationen är den slutliga orsaken.
+
 ## 1. Vad Caroline hittills själv dokumenterat
 
 Enligt den anteckning Erica har fått från Familjebostäder/Caroline Blomberg anges bland annat:
@@ -64,6 +76,10 @@ Detta är en verifieringslucka, inte bevis för att uppgiften är felaktig.
 
 ## 6. Håller teorin att ventilationen kan avföras som problem?
 
+### ⚠️ OBS – TEORIN SPRICKER HÄR
+
+**Arbetsmarkering för Erica och Björn:** Det är här den tidigare slutsatsen får en tydlig logisk svaghet.
+
 ### Arbetsbedömning
 
 Teorin kan inte sägas vara definitivt motbevisad enbart genom de uppgifter som hittills finns, men dess bevisvärde blir tydligt begränsat.
@@ -107,6 +123,8 @@ Erica har hänvisat till bilder av ventilationen. Några fristående ventilation
 När bilderna kan knytas till originalfil, datum, plats/don och före/efter-status bör de bedömas särskilt. En bild kan exempelvis direkt visa synligt material, blockering eller skick vid ett visst don, men den visar normalt inte ensam luftflöde, hela kanalens skick eller orsak till hälsobesvär.
 
 ## 9. Möjlig överklagandepunkt
+
+### ⚠️ OBS – ÖVERKLAGANDE: HÄR BÖR BJÖRN TITTA EXTRA
 
 Detta är en stark möjlig startpunkt som konkret exempel på utredningsbristen, men bör inte formuleras som "ventilationen var bevisligen felaktig".
 
