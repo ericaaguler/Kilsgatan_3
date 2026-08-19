@@ -61,3 +61,57 @@ Jennifers uppgift om att Caroline utfört "kanalrensning i fem meter" har ännu 
 > Vilket tekniskt underlag ligger till grund för uppgiften att kanalrensningen omfattade fem meter, och vilken kanalsträcka avses?
 
 Detta är en verifieringslucka, inte bevis för att uppgiften är felaktig.
+
+## 6. Håller teorin att ventilationen kan avföras som problem?
+
+### Arbetsbedömning
+
+Teorin kan inte sägas vara definitivt motbevisad enbart genom de uppgifter som hittills finns, men dess bevisvärde blir tydligt begränsat.
+
+Det centrala är tidsordningen:
+
+1. Driftteknikern fann ett system som behövde ingrepp.
+2. Luftflöden ändrades genom balansering.
+3. En kanal rensades och forcerat flöde uppmättes därefter till 35 l/s.
+4. I ljudmaterialet finns dessutom uppgifter som behöver ljudverifieras om stängda/blockerade tilluftsöppningar och borttagning av material vid galler.
+5. Miljöförvaltningens senare mätning av luftflöden gjordes således efter åtminstone vissa korrigerande åtgärder.
+
+Ett senare godtagbart luftflöde visar därför i första hand funktionen vid mättillfället efter utförda ingrepp. Det visar inte utan ytterligare underlag:
+
+- att systemet fungerade korrekt före ingreppen,
+- att orsaken till tidigare avvikande funktion är klarlagd,
+- att hela ventilationssystemet eller kanalstammen var fri från föroreningar,
+- att andra luftvägar eller spridningsvägar genom byggnaden kan uteslutas,
+- att återkommande besvär inte kan ha annan byggnadsrelaterad orsak.
+
+Detta är en möjlig logisk lucka i utredningskedjan och bör formuleras som en fråga om slutsatsens räckvidd, inte som ett påstående om att ventilationen bevisligen orsakar hälsobesvären.
+
+### Säker formulering
+
+> De uppmätta luftflödena visar ventilationsförhållandena vid de aktuella mättillfällena. Eftersom driftteknikern dessförinnan hade rensat kanal, justerat flöden och vidtagit andra åtgärder behöver det klarläggas vilket skick systemet hade före åtgärderna, varför åtgärderna behövdes och om den begränsade kontrollen efteråt kunde utesluta andra fel eller föroreningsvägar i systemet.
+
+## 7. PBL/PBF – varför detta är relevant
+
+Plan- och bygglagen 8 kap. 4 § anger att byggnadsverk ska ha väsentliga tekniska egenskaper bland annat i fråga om skydd med hänsyn till hygien, hälsa och miljö. Enligt 8 kap. 14 § ska byggnadsverket underhållas så att dessa egenskaper i huvudsak bevaras och en anordning för bland annat detta ändamål ska hållas i sådant skick att den fyller sitt ändamål.
+
+Bestämmelserna om OVK i PBL/PBF innebär dessutom att ventilationssystemets funktion ska kontrolleras för ett tillfredsställande inomhusklimat. Vid återkommande OVK ska bland annat kontrolleras att systemet inte innehåller föroreningar som kan spridas i byggnaden och att systemet i övrigt fungerar på avsett sätt. Boverkets vägledning anger att ventilationssystemet därför bör kontrolleras okulärt i sin helhet.
+
+PBL/PBF visar alltså att bedömningen av ventilation inte enbart är en fråga om ett enstaka numeriskt luftflöde. Funktion, föroreningar, systemets avsedda funktion och underhåll är separata relevanta frågor.
+
+OBS: PBL-reglerna är inte i sig den huvudsakliga rättsliga grunden i Miljöförvaltningens miljöbalksärende. De fungerar här främst som teknisk och rättslig bakgrund. Överklagandets huvudfråga bör fortfarande vara om miljöbalkstillsynen var tillräckligt utredd innan ärendet avslutades.
+
+## 8. Bildmaterial – status
+
+Erica har hänvisat till bilder av ventilationen. Några fristående ventilationsbilder har ännu inte kunnat lokaliseras i den nuvarande GitHub-strukturen på denna gren genom filsökningen. Därför ska ingen slutsats i denna analys tills vidare tillskrivas bilderna.
+
+När bilderna kan knytas till originalfil, datum, plats/don och före/efter-status bör de bedömas särskilt. En bild kan exempelvis direkt visa synligt material, blockering eller skick vid ett visst don, men den visar normalt inte ensam luftflöde, hela kanalens skick eller orsak till hälsobesvär.
+
+## 9. Möjlig överklagandepunkt
+
+Detta är en stark möjlig startpunkt som konkret exempel på utredningsbristen, men bör inte formuleras som "ventilationen var bevisligen felaktig".
+
+Starkare formulering:
+
+> Myndigheterna har fäst avgörande vikt vid senare luftflödesmätningar. Samtidigt visar fastighetsägarens egen tekniska dokumentation att ventilationssystemet dessförinnan behövde rensas och balanseras och att flera flöden ändrades. Det har inte redovisats vilken omfattning kanalrensningen hade, varför ingreppen behövdes eller hur man därefter uteslöt andra fel och föroreningar i systemet. Frågan är därför inte om ett acceptabelt luftflöde kunde mätas efter åtgärd, utan om detta underlag var tillräckligt för att avsluta tillsynen trots kvarstående hälsobesvär och övriga konkreta omständigheter.
+
+Denna punkt bör kopplas till det övergripande bevistemat: om ärendet kunde avslutas utan ytterligare teknisk orsaksutredning.
