@@ -103,16 +103,22 @@ Maskintexten anger att Jennifer/Peter diskuterar missfärgningar och hälsobesv�
 
 ---
 
-## 🟠 SPRICKA 7 – Åtgärder erbjuds/utförs samtidigt som orsaken sägs sakna teknisk indikation
+## 🔴 SPRICKA 7 – Målning/spärrning som åtgärd utan klarlagd orsak kolliderar med FHM:s vägledning
 
 **Källkedja:**
 - Vid mötet 11 november finns enligt maskintranskriptionen ett möjligt löfte om målning/att "ta hand om lägenheten" (ljudverifiering krävs).
 - B0298 visar senare att Jennifer instruerar att väggarna i köket ska målas.
-- Samtidigt har Familjebostäder i andra delar av materialet framhållit att man inte ser teknisk grund för mögel-/orsaksutredning.
+- I annat material har husvärd enligt Erica beskrivit målning som att kunna "spärra"/"kapsla in"; exakt ljudkälla ska låsas.
+- Folkhälsomyndigheten svarade Erica den 19 augusti 2026 på hennes uttryckliga fråga om detta och skrev generellt att om brister kan konstateras ska orsaken utredas och bristerna åtgärdas med lämpliga metoder, samt att "Att måla för att stänga in eventuella problem är inte en lämplig metod." FHM betonade samtidigt att myndigheten inte bedömer Ericas enskilda ärende.
+- FHM:s hänvisade tillsynsvägledning anger bland annat att en byggnadsteknisk utredning är viktig vid fuktproblem, att äldre skador ibland kan motivera provtagning/analys, att orsaken till fuktskada ska hittas och åtgärdas och att verksamhetsutövaren ska visa att åtgärder är lämpliga och effektiva.
 
-**Var sprickan ligger:** Målning behöver inte innebära erkännande av hälsorisk. Men om målning/spärrning används som åtgärd samtidigt som orsaken inte identifierats uppstår frågan vad åtgärden egentligen var avsedd att avhjälpa och hur dess effekt skulle kontrolleras.
+**Var sprickan ligger:** Målning är inte i sig fel och kan vara en normal ytskiktsåtgärd. Men om målningen motiveras som "spärr/kapsling" av ett eventuellt inomhusmiljöproblem samtidigt som orsaken inte är klarlagd, finns en tydlig konflikt med principen att orsaken först ska identifieras och rätt åtgärdsmetod väljas.
 
-**Kontroll:** lås beställningarnas exakta syfte och om Familjebostäder beskrivit åtgärderna som kosmetiska, goodwill eller problemlösande.
+**Viktig begränsning:** FHM har inte konstaterat att det finns fukt/mögel i Kilsgatan 3 och har inte bedömt att Familjebostäder eller Miljöförvaltningen gjort fel. Svaret är generell tillsynsvägledning och får inte framställas som ett avgörande i det enskilda ärendet.
+
+**Överklagandefråga:** Om målning/spärrning erbjöds som lösning på den rapporterade inomhusmiljöproblematiken – vilken konstaterad orsak var åtgärden avsedd att behandla, och vilket underlag visar att metoden var lämplig och effektiv?
+
+**Källa i repo:** `korrespondens/myndigheter-och-stadsbolag/2026-08-19_folkhalsomyndigheten-malin-larsson_radfraga-inomhusmiljo.md` (återgiven text, originalverifiering kvar).
 
 ---
 
@@ -155,13 +161,13 @@ Maskintexten anger att Jennifer/Peter diskuterar missfärgningar och hälsobesv�
 2. 🔴 Jennifer: "lämnar över bedömningen" men Familjebostäder fastslår samtidigt brukbarhet och hänvisar till Miljöförvaltningen.
 3. 🔴 Vittneskedjan före beslutet och 23-dagars vädringstest – särskilt om det kan verifieras att MF hade materialet före 13 april.
 4. 🔴 Brand/sanering – dokumenterad brand + påstådd sanering utan redovisad verifierbar åtgärdskedja.
+5. 🔴 Målning/spärrning – efter FHM:s svar finns nu extern tillsynsvägledning som tydligt skiljer orsaksutredning från att måla in ett eventuellt problem.
 
 ## Ljudverifiera omedelbart
-5. 🟠 Miljöförvaltningens tillsyn 11 mars – preliminär bedömning / ingen brukbarhetsbedömning på plats.
-6. 🟠 Jennifer 17 december – "inga indikationer" / ingen provtagning / hälsouppgifter.
+6. 🟠 Miljöförvaltningens tillsyn 11 mars – preliminär bedömning / ingen brukbarhetsbedömning på plats.
+7. 🟠 Jennifer 17 december – "inga indikationer" / ingen provtagning / hälsouppgifter.
 
 ## Stödjande struktur
-7. 🟠 Åtgärd/målning utan klarlagd orsak.
 8. 🟠 Utförd/makulerad arbetsorder kontra kvarstående problem.
 9. 🟠 OCAB:s uppdragsbegränsning.
 10. 🟡 Stinas observationer/dokumentationskedja.
