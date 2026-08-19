@@ -133,3 +133,34 @@ Starkare formulering:
 > Myndigheterna har fäst avgörande vikt vid senare luftflödesmätningar. Samtidigt visar fastighetsägarens egen tekniska dokumentation att ventilationssystemet dessförinnan behövde rensas och balanseras och att flera flöden ändrades. Det har inte redovisats vilken omfattning kanalrensningen hade, varför ingreppen behövdes eller hur man därefter uteslöt andra fel och föroreningar i systemet. Frågan är därför inte om ett acceptabelt luftflöde kunde mätas efter åtgärd, utan om detta underlag var tillräckligt för att avsluta tillsynen trots kvarstående hälsobesvär och övriga konkreta omständigheter.
 
 Denna punkt bör kopplas till det övergripande bevistemat: om ärendet kunde avslutas utan ytterligare teknisk orsaksutredning.
+
+## 10. 🚨 NY KEDJA ATT LÅSA – 2021 UTEBLIVEN RENSNING → 2025 RENSNING
+
+Projektmaterialet innehåller uppgift om att HA Ventilation genomförde fastighetsgemensam kanalrensning 2021 och att lägenhet 562/0562 inte lämnade tillträde. Samtidigt är Familjebostäders verifierade objektnummer för Kilsgatan 3 **60020562**, och OVK-data för 0562 ligger under Kilsgatan 3 och motsvarar de 2022-värden Caroline senare hänvisar till. Kopplingen är därför stark men ska fortfarande låsas uttryckligen med original objekts-/lägenhetsförteckning.
+
+Om kopplingen verifieras uppstår följande tekniska/dokumentära tidslinje:
+
+`brand-/rökhändelse 2017 [separat spår] → utebliven kanalrensning för 0562 år 2021 → OVK system 01 år 2022 → Carolines rensning/injustering under hösten 2025 → Miljöförvaltningens senare mätning 11 mars 2026`
+
+### Viktig avgränsning
+
+Branden 2017 och kanalrensningen ska **inte** kopplas kausalt utan teknisk källa. Att båda händelserna finns i samma lägenhets historik innebär inte att branden påverkade ventilationskanalen.
+
+### Det som behöver verifieras
+
+- om 562/0562 faktiskt är samma bostad som lgh 1202 / objekt 60020562,
+- om just denna lägenhet missade 2021 års kanalrensning,
+- om någon kompletterande rensning genomfördes mellan 2021 och hösten 2025,
+- exakt datum för rensningen Caroline utförde 2025,
+- om den rensningen ersatte hela eller endast delar av den uteblivna åtgärden 2021,
+- vilken kanalsträcka och längd som faktiskt rensades,
+- vilket originalunderlag som stödjer Jennifers uppgift "5 m upp",
+- varför Jennifer den 2 december 2025 skrev att kanalrensning "kommer ske" om den senare beskrivs som redan utförd under hösten.
+
+### Säker slutsats
+
+> Om det verifieras att lgh 1202/0562 missade kanalrensningen 2021 finns en konkret underhålls- och dokumentationsfråga om när och hur den uteblivna åtgärden senare fullföljdes. Detta bevisar inte att kanalen var förorenad eller att ventilationen orsakade hälsobesvären.
+
+### Bevisvärde
+
+Denna kedja är särskilt relevant när senare godtagbara luftflöden används som stöd för att ventilationen varit utan brist. Ett godtagbart resultat efter rensning/injustering besvarar inte automatiskt vad som skedde under perioden före åtgärden eller om en tidigare utebliven underhållsåtgärd fullföljdes korrekt.
