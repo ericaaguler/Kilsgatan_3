@@ -2,6 +2,82 @@
 
 Status: arbetsanalys för Erica + Björn. **EJ BEVIS I SIG.** Varje punkt ska låsas mot originalhandling innan den används i överklagande eller annan formell skrivelse.
 
+# 🚨 BJÖRN – LÄS DESSA TRE FÖRST
+
+Det här är för närvarande de tre viktigaste punkterna i hela kunskaps- och handläggningskedjan. De ska inte behandlas som tre fristående motsägelser, utan som en sammanhängande tidskedja över **vad Miljöförvaltningen visste, vilka frågor som fortfarande var öppna och när ärendet ändå avslutades**.
+
+## 🔴 1. 9 APRIL → 13 APRIL: ÖPPNA FRÅGOR FYRA DAGAR FÖRE BESLUTET
+
+**9 april:** Heval skriver att frågor om OVK och förändringar i ventilationen ska vidarebefordras till fastighetsägaren för bemötande och att:
+
+> "När ärendet är tillräckligt utrett kommer en samlad bedömning att göras."
+
+**13 april:** Miljö- och hälsoskyddsnämnden lämnar klagomålet utan ytterligare åtgärd.
+
+### Björn ska kontrollera
+
+- Skickades frågorna faktiskt till Familjebostäder efter den 9 april?
+- Kom svar före beslutet den 13 april?
+- Om svar kom: när, vad innehöll det och hur värderades det?
+- Om svar inte kom: på vilken grund ansågs ärendet ändå tillräckligt utrett fyra dagar senare?
+
+**⚠️ HUVUDMARKERING: Detta kan vara en ren och mycket tydlig handläggnings-/utredningsfråga.**
+
+---
+
+## 🔴 2. 12 MARS: VOC, SANERING OCH KANALRENSNING VAR FORTFARANDE AKTIVA UTREDNINGSFRÅGOR
+
+Den 12 mars skrev enhetschef Miriam Adolfsson att Heval på nytt skulle fråga fastighetsägaren om:
+
+- sanering efter brand,
+- om och när kanalrensning utfördes,
+- tidigare kanalrensning,
+- **om fastighetsägaren hade för avsikt att utföra något VOC-test.**
+
+Detta betyder inte att ett VOC-test juridiskt måste ha genomförts. Men det visar att Miljöförvaltningen själv, dagen efter tillsynen, fortfarande betraktade dessa frågor som relevanta för den fortsatta utredningen.
+
+### Björn ska kontrollera
+
+- Vad svarade Familjebostäder på respektive fråga?
+- Finns svar på VOC-frågan?
+- Finns dokumentation om sanering?
+- Finns tekniskt underlag som preciserar kanalrensningens datum, omfattning och metod?
+- Hur syns svaren i beslutsmotiveringen?
+
+**⚠️ HUVUDMARKERING: Beslutet får inte läsas som om dessa frågor redan var färdigutredda vid tillsynen den 11 mars.**
+
+---
+
+## 🔴 3. BILDMATERIAL/MATERIALAVVIKELSE FANNS HOS MYNDIGHETEN FÖRE TILLSYNEN – HUR UNDERSÖKTES OMRÅDET?
+
+Före tillsynen hade Miljöförvaltningen fått daterad dokumentation av en fysisk avvikelse i ett begränsat konstruktionsområde/hålrum i köksstommen. Erica hade uttryckligen begärt att området skulle bedömas.
+
+Fotografierna kan säkert användas för att visa att **brunt/texturerat material var synligt i området**. De kan inte ensamma fastställa att materialet är mögel, mikrobiell tillväxt eller orsaken till hälsobesvären.
+
+### Björn ska kontrollera
+
+- Vilken konkret metod användes för att undersöka just detta område den 11 mars?
+- Granskades det från golvnivå/låg vinkel där avvikelsen enligt bildmaterialet var synlig?
+- Användes mobilkamera eller annat hjälpmedel för hålrummet?
+- Finns fotografi, anteckning eller annan dokumentation från Miljöförvaltningen av just området?
+- Om inte: hur kunde en okulär kontroll utesluta en bakomliggande materialavvikelse där?
+
+**⚠️ HUVUDMARKERING: Poängen är inte att bilden bevisar mögel. Poängen är att en dokumenterad fysisk avvikelse hade anmälts före tillsynen och att det måste gå att följa hur just den uppgiften undersöktes och värderades.**
+
+---
+
+# 🔗 KEDJAN SOM BJÖRN SKA SE
+
+**Före tillsynen:** fysisk avvikelse + hälsobesvär + frågor om sanering/ventilation fanns i ärendet.  
+**11 mars:** tillsyn genomförs.  
+**12 mars:** Miljöförvaltningen fortsätter fråga om sanering, kanalrensning och VOC.  
+**9 april:** ytterligare frågor ska fortfarande skickas till fastighetsägaren och samlad bedömning ska ske när ärendet är tillräckligt utrett.  
+**13 april:** klagomålet lämnas utan ytterligare åtgärd.
+
+> **Det är denna kunskaps- och handläggningskedja som ska prövas – inte bara om ett enskilt luftflödesvärde den 11 mars var godtagbart.**
+
+---
+
 ## 🔴 OBS 1 – Miljöförvaltningen bedömde själv att inspektion behövdes för att bedöma störningen
 
 Den 30 januari 2026 skrev Miljöförvaltningen:
@@ -168,30 +244,64 @@ Vi måste låsa följande mot originalhandlingarna:
 
 ---
 
-## 🔴 OBS 9 – Den 3–9 april inkom en omfattande komplettering med nya uppgifter om kvarstående besvär efter tillsynen
+## 🔴 OBS 9 – Den 3–10 april inkom omfattande kompletteringar med uppgifter om kvarstående besvär efter tillsynen
 
-Ericas komplettering före beslutet redovisar bland annat:
+Ericas kompletteringar före beslutet redovisar bland annat:
 
 - 23 dygns genomvädring efter tillsynen,
 - återkommande hälsopåverkan när bostaden åter stängdes och användes normalt,
 - flera personers likartade reaktioner,
 - invändning om att bakomliggande konstruktion inte undersökts,
 - att daterad bilddokumentation av den bruna strukturen redan fanns före tillsynen,
-- begäran om ytterligare teknisk utredning/provtagning.
+- begäran om ytterligare teknisk utredning/provtagning,
+- den 10 april ytterligare uppgifter om närboendekartläggning, lukt i gemensamma utrymmen och fortsatt hälsopåverkan.
 
 ### Viktig källgräns
 
-Detta dokument är **Ericas partsuppgift och argumentation**, inte oberoende bevis för varje sakpåstående i texten.
+Dessa dokument är **Ericas partsuppgifter och argumentation**, inte oberoende bevis för varje sakpåstående i texten.
 
-Men det har starkt processuellt värde för frågan:
+Men de har starkt processuellt värde för frågan:
 
 > **Vilka invändningar och nya uppgifter hade Miljöförvaltningen faktiskt framför sig innan beslutet den 13 april?**
 
 ---
 
-## 🟠 OBS 10 – Doftspridaren i korridoren är dokumenterad men ska inte överdrivas
+## 🔴 OBS 10 – Två dokumenterade städningar använde produkter uttryckligen avsedda för mögelborttagning
 
-Den 27 januari beskrev Erica att en doftspridare av typen Aro Gel Fresh Vanilla Orange hade placerats vid ett fönster i korridoren efter att hon tidigare upplevt lukt i gemensamma utrymmen. De nu uppladdade bilderna visar en doftprodukt placerad på en fönsterbräda och en närbild av produktens etikett.
+De daterade bilderna visar:
+
+- **20 november 2025:** Diversey TASKI **Sani MouldOut**, vars etikett anger mögel-/mildew-remover,
+- **27 november 2025:** produkt märkt **"MÖGEL BORT"** med texten "Tar bort mögel direkt".
+
+I kompletteringen den 9 april gavs båda bilderna in till Miljöförvaltningen som bilagor och Erica pekade uttryckligen på motsägelsen mellan att mikrobiell problematik hade förnekats och att sådana produkter ändå hade använts i beställda städinsatser.
+
+### Vad detta faktiskt visar
+
+- produkterna fanns och fotograferades vid de daterade städtillfällena,
+- de är marknadsförda/etiketterade för mögelborttagning,
+- Miljöförvaltningen fick bilderna före beslutet den 13 april.
+
+### Vad detta INTE ensamt visar
+
+- att mögel var laboratorieverifierat,
+- att städfirman diagnostiserade mögel,
+- att Familjebostäder uttryckligen beställde just mögelbehandling av tekniska skäl,
+- att produkterna användes på den bruna strukturen i hålrummet,
+- att mikrobiell påverkan därmed är bevisad.
+
+### Var sprickan ligger
+
+Det relevanta är **åtgärdslogiken**:
+
+> Om fastighetsägaren samtidigt avvisar mikrobiell problematik men i praktiken låter genomföra städningar med produkter uttryckligen avsedda för mögelborttagning, behöver det klarläggas vad städningen beställdes för, vilka ytor som behandlades och på vilken bedömning produktvalet grundades.
+
+**⚠️ BJÖRN: använd detta som dokumentations-/åtgärdsfråga, inte som bevis för att mögel är fastställt.**
+
+---
+
+## 🟠 OBS 11 – Doftspridaren i korridoren är dokumenterad men ska inte överdrivas
+
+Den 27 januari beskrev Erica att en doftspridare av typen Aro Gel Fresh Vanilla Orange hade placerats vid ett fönster i korridoren efter att hon tidigare upplevt lukt i gemensamma utrymmen. De uppladdade bilderna visar en doftprodukt placerad på en fönsterbräda och en närbild av produktens etikett.
 
 ### Vad detta visar
 
@@ -211,13 +321,22 @@ Den 27 januari beskrev Erica att en doftspridare av typen Aro Gel Fresh Vanilla 
 
 # Ny prioritering för Björn efter denna batch
 
+## 🚨 NIVÅ 1 – LÄS FÖRST
+
 1. **9 april → 13 april:** var ärendet verkligen färdigutrett när nya frågor fortfarande skulle skickas för bemötande?
-2. **12 mars:** Miljöförvaltningen frågar själv Familjebostäder om VOC-test – vilket svar kom och hur värderades det?
-3. **11 mars:** Miriam beskriver en bredare tillsyn med två inspektörer och eventuell fukt/mögelkontroll – vad dokumenterades faktiskt?
-4. **26 februari:** daterade bilder av fysisk avvikelse var inne före tillsynen – hur undersöktes just området?
+2. **12 mars:** Miljöförvaltningen frågar själv Familjebostäder om VOC, sanering och kanalrensning – vilka svar kom och hur värderades de?
+3. **Bild/materialavvikelse före tillsynen:** hur undersöktes just det dokumenterade området i köksstommen?
+
+## NIVÅ 2 – STÄRKER KEDJAN
+
+4. **11 mars:** Miriam beskriver en bredare tillsyn med två inspektörer och eventuell fukt/mögelkontroll – vad dokumenterades faktiskt?
 5. **30 januari/18 februari:** myndigheten bedömde själv att inspektion var nödvändig för att kunna bedöma störningen.
 6. **Före tillsynen:** sanering och kanalrensning efterfrågades upprepade gånger och var fortfarande inte klarlagda.
-7. Doftspridaren är ett sidospår tills avsändare/beställare kan verifieras.
+7. **20 och 27 november:** mögelborttagningsprodukter användes i städinsatser – klarlägg beställning, syfte och behandlade ytor.
+
+## NIVÅ 3 – SIDOSPÅR TILLS VIDARE
+
+8. Doftspridaren i korridoren – använd inte starkare än källorna medger.
 
 ## Kärnformulering att spara
 
