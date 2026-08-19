@@ -6,45 +6,37 @@ Syfte: detta är projektets operativa kontrollista. Punkter får inte försvinna
 
 ## 🔥 PRIORITET 0 – GÖR FÖRST
 
-### [ ] 1. STADSBYGGNADSKONTORET – verifiera diariet för PBL-anmälan 7 april 2026
+### [x] 1. STADSBYGGNADSKONTORET – diariet och rätt fastighet verifierade
 
-Erica har redan skickat en uttrycklig **begäran om tillsyn enligt PBL den 7 april 2026**.
+Erica skickade en uttrycklig **begäran om tillsyn enligt PBL den 7 april 2026**.
 
-Kontrollera:
-- diarienummer,
-- att handlingen registrerats på rätt fastighet,
-- vilken enhet/handläggare som fått den,
-- om något beslut, svar eller begäran om komplettering skickats,
+Den officiella bekräftelsen från Stadsbyggnadskontoret visar att tillsynsärende **2026-06369** har påbörjats för:
+
+> **Järflotta 5, Kilsgatan 3**
+
+Den tidigare oron kring formuleringen `DALARÖ 1` ska därför **inte längre stå kvar som en öppen kritisk osäkerhet**. Fortsatt kontroll ska i stället avse:
+
+- diariets fullständiga handlingar,
+- vilken enhet/handläggare som ansvarar,
+- eventuella beslut/kompletteringsbegäranden,
 - exakt vilka bilagor som registrerats.
-
-### ⚠️ KRITISK KONTROLL – FASTIGHETSBETECKNING
-
-PBL-begäran anger `DALARÖ 1`, medan Familjebostäders planritning anger:
-
-> **Fastighet: 6002 – Järflotta 5**
-
-för Kilsgatan 3, objekt 60020562.
-
-**Detta måste verifieras omedelbart.** Om DALARÖ 1 är fel ska Stadsbyggnadskontoret få en skriftlig rättelse så att tillsynsärendet är kopplat till rätt fastighet.
 
 ---
 
-### [ ] 2. STADSBYGGNADSKONTORET – skicka en saklig komplettering/rättelse
+### [ ] 2. STADSBYGGNADSKONTORET – skicka saklig komplettering med korrekt OVK-system
 
 Den 7 april skrevs, utifrån då tillgängligt material, att senaste godkända OVK var 2018 och att senare protokoll inte hade kunnat visas.
 
-Nu finns 2022-handlingar.
+Nu finns 2022-handlingarna och de måste beskrivas exakt:
 
-Kompletteringen ska därför transparent säga:
+- komplett OVK 4 april 2022 omfattade två ventilationssystem,
+- **system 01 – bostäder/uppgångar 1–5 – var godkänt 4 april 2022**,
+- **system 02 – bostäder/uppgångar 7–11 – var inte godkänt 4 april 2022**,
+- ombesiktningen 8 november 2022 gällde **endast system 02**, som därefter godkändes,
+- Kilsgatan 3 anges i grundprotokollet under **system 01**, alltså inte system 02,
+- vilket system/stam och vilken OVK-rad som avser lgh 1202 / objekt 60020562 ska låsas uttryckligen.
 
-- tidigare uppgift byggde på då tillgängligt underlag,
-- OVK 4 april 2022 har nu lokaliserats,
-- ett system var då **ej godkänt**,
-- ombesiktning 8 november 2022 ledde till godkännande,
-- Stadsbyggnadskontoret ombeds redovisa hela kontroll-/rättelsekedjan,
-- vilket system/stam som betjänar lgh 1202 måste fastställas.
-
-**Vi ska rätta – inte försöka försvara en uppgift som ny bevisning har förändrat.** Det stärker trovärdigheten.
+**Viktigt:** Jennifers bilaga den 17 augusti med ombesiktningen 8 november 2022 gäller system 02, bostäder 7–11. Den får inte användas som om den i sig verifierar Kilsgatan 3/system 01.
 
 ---
 
@@ -53,15 +45,22 @@ Kompletteringen ska därför transparent säga:
 Begär/efterfråga:
 
 - vilket OVK-system/stam lgh 1202 tillhör,
+- uttrycklig koppling `objekt 60020562 → lgh 1202 → OVK 0562 → system 01`,
 - vilka lägenheter som ligger på samma stam,
-- OVK 4 april 2022 inklusive alla bilagor,
-- rättelser efter underkännandet,
-- underlag inför ombesiktning 8 november 2022,
+- OVK 4 april 2022 inklusive alla bilagor och underlag för system 01,
+- samtliga OVK-protokoll som kontrollanten skickat in till byggnadsnämnden,
+- relationsritningar/orienteringsplaner/flödesscheman/driftkort som visar systemets verkliga omfattning,
+- uppgift om eventuella avvikelser mellan relationshandlingar och faktiskt utförande,
 - 2021 års kanalrensning: arbetsorder, omfattning, uteblivna lägenheter och efterkontroll,
-- 2025 års kanal-/donrensning: datum, utförare, metod, sträcka och resultat,
-- projekterade luftflöden/ventilationsritningar/driftkort,
+- särskilt uppgiften att **lgh 562 inte lämnade tillträde vid den fastighetsgemensamma kanalrensningen 22–30 mars 2021**,
+- 2025 års kanal-/donrensning: exakt datum, utförare, metod, kanalsträcka och resultat,
+- underlaget bakom uppgiften "5 m upp",
+- projekterade luftflöden,
 - dokumentation om hur konstaterade blockeringar/igensatta filter följdes upp,
-- hur föroreningar/beläggningar i ventilationssystemet har kontrollerats.
+- hur ventilationssystemets **renhet/föroreningar** har kontrollerats,
+- drift- och underhållsinstruktioner, inklusive kanal-/donrensning och filterunderhåll.
+
+Boverkets aktuella OVK-vägledning ska användas som stöd för **vilka handlingar och kontrollmoment som är relevanta att begära**, inte som bevis för att något fel faktiskt föreligger i Kilsgatan 3.
 
 ---
 
@@ -73,13 +72,14 @@ PBL-/OVK-materialet ska i stället stödja frågan om **bevisvärdet och räckvi
 
 Kärna:
 
-> Ett senare godtagbart luftflöde efter rensning, borttagna hinder och injustering visar inte i sig ventilationssystemets skick före dessa ingrepp. Den separata PBL-/OVK-kontrollkedjan visar dessutom att ventilationens funktion och underhåll är en fortlöpande teknisk fråga, inte något som avgörs enbart av att en äldre OVK slutligen godkänts.
+> Ett senare godtagbart luftflöde efter rensning, borttagna hinder och injustering visar inte i sig ventilationssystemets skick före dessa ingrepp. Boverkets OVK-vägledning visar dessutom att återkommande kontroll rör mer än enstaka flödesvärden: systemfunktion, renhet/föroreningar, underhållsinstruktioner och vilket konkret system kontrollen omfattar måste kunna utläsas ur underlaget.
 
 Länka detta till:
-- OVK 2022,
+- OVK system 01 kontra system 02,
 - Caroline Blombergs värden före/efter,
 - uppgift om igensatta filter,
-- olika uppgifter om kanalrensningen,
+- uppgiften att lgh 562 inte lämnade tillträde vid kanalrensningen 2021,
+- olika uppgifter om kanalrensningen 2025,
 - Miljöförvaltningens mätning 11 mars efter tidigare ingrepp.
 
 ---
@@ -138,15 +138,17 @@ Får aldrig komprimeras till bara “ventilationen var godkänd”.
 
 Lås:
 
+- 2021: fastighetsgemensam kanalrensning av HA Ventilation, där lgh 562 enligt Familjebostäders uppgift inte lämnade tillträde,
 - "rensning av frånluftsdon",
 - "kanalrensning 5 m",
 - "kanalrensning kommer ske",
 - driftteknikerns egen anteckning,
-- eventuell arbetsorder.
+- exakt datum för senare kanalrensning,
+- eventuell arbetsorder/utföranderapport.
 
 Kärnfråga:
 
-> Vad exakt rensades, när, hur långt, med vilken metod och hur kontrollerades resultatet?
+> Vad hände med den kanalsträcka i lägenhet 562 som inte rensades 2021 – och finns det en teknisk handling som visar att hela den relevanta sträckan senare faktiskt rengjordes?
 
 ### [ ] 10. Brand → efterföljande hantering/sanering
 
@@ -160,7 +162,7 @@ E. vad som faktiskt kan dokumenteras.
 
 **Brand bevisar inte kvarstående kontaminering. Avsaknad av saneringshandling bevisar inte att sanering aldrig skedde.**
 
-#### 🚨 NYTT – S:t Erik Försäkring 11 augusti 2026
+#### 🚨 S:t Erik Försäkring 11 augusti 2026
 
 S:t Erik Försäkring uppger i ärende **SEF 2026/27** att:
 
@@ -257,7 +259,7 @@ Erica uppger att hon **inte skulle ha ingått hyresavtalet om hon då hade känt
 
 ---
 
-## 🟡 PRIORITET 3 – KÄLLKVALITET OCH KORRIGERINGAR
+## 🟡 PRIORITET 3 – KÄLLKVALITET, KORRIGERINGAR OCH JÄMFÖRELSESPÅR
 
 ### [ ] 16. OCAB: ventilationstypen motsäger andra tekniska källor
 
@@ -267,13 +269,13 @@ Caroline Blomberg och Miljöförvaltningen anger **mekanisk frånluft**.
 
 Detta ska markeras som en teknisk dokumentationsavvikelse och klarläggas. Det kan vara mall-/sakfel i OCAB-rapporten men får inte gissas.
 
-### [ ] 17. Kontrollera fastighetsbeteckningar i ALLA inlagor
+### [x] 17. Fastighetsbeteckningen i PBL-ärendet är verifierad
 
 - Kilsgatan 3 / objekt 60020562
 - Familjebostäders planritning: Järflotta 5
-- PBL-inlaga 7 april: DALARÖ 1
+- Stadsbyggnadskontorets officiella bekräftelse: **Järflotta 5, Kilsgatan 3, dnr 2026-06369**
 
-Ingen ny inlaga ska skickas med obekräftad fastighetsbeteckning.
+Tidigare osäkerhet kring `DALARÖ 1` ska inte längre beskrivas som olöst.
 
 ### [ ] 18. Rätta äldre för kategoriska formuleringar
 
@@ -281,7 +283,35 @@ Exempel:
 
 - inte “ingen teknisk utredning har gjorts” → **ingen samlad teknisk orsaksutredning har redovisats**,
 - inte “vädring bevisar att X är orsaken” → **kvarstående besvär efter vädring begränsar vissa alternativa förklaringar men identifierar inte orsaken**,
-- inte “ingen kanalrensning har skett” → **omfattning/metod/tidpunkt/resultat är inte fullt verifierade**.
+- inte “ingen kanalrensning har skett” → **omfattning/metod/tidpunkt/resultat är inte fullt verifierade**,
+- inte “OVK 2022 underkändes och godkändes senare för Kilsgatan 3” → **Kilsgatan 3 tillhör system 01, som godkändes 4 april 2022; system 02 för uppgångar 7–11 underkändes och ombesiktigades 8 november**.
+
+### [ ] 19. HISTORISKT JÄMFÖRELSESPÅR – Trädgårdsföreningen 1 / 2004
+
+SvD publicerade 5 oktober 2004 en artikel om ett äldre Familjebostäder-ärende där stadens revisorer enligt artikeln hade riktat skarp kritik mot underhållet och där Miljö- och hälsoskyddsnämnden uppgavs ha krävt en **fackmannamässig undersökning av inomhusmiljön**.
+
+Gör **inte** detta till mönster- eller skuldbevis för Kilsgatan 3.
+
+Gör i stället följande:
+
+- begär originalet till revisions-/konsultrapporten,
+- begär Miljöförvaltningens föreläggande/beslut,
+- begär eventuella vitesbeslut,
+- begär den tekniska inomhusmiljöutredningen och Familjebostäders åtgärdsredovisning,
+- jämför först därefter vilka riskindikationer och vilken utredningsnivå som faktiskt förelåg då respektive i 2025-23696.
+
+Se:
+- `bakgrund/familjebostader/2004-10-05_SvD_Ny-hard-kritik-mot-Familjebostader.md`
+- `obs/13_BJORN-2004-SvD-TRADGARDSFORENINGEN-1.md`
+- `fragor/FRAGEREGISTER-TILLAGG-2004-TRADGARDSFORENINGEN.md`
+
+---
+
+# ⏰ PROCESSFRIST
+
+### [ ] MÖD – överklagandefrist 9 september 2026
+
+Mark- och miljödomstolens dom meddelades 19 augusti 2026. Arbetet inför eventuellt överklagande till Mark- och miljööverdomstolen måste därför hållas separat från bakgrundsspår och lågprioriterade dokumentinhämtningar.
 
 ---
 
