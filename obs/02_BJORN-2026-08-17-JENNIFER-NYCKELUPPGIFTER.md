@@ -11,6 +11,7 @@ Den 17 augusti 2026 finns två mejl från Jennifer Ehlin som tillsammans är mat
 1. Jennifer anger vilka undersökningar Familjebostäder menar har utrett orsaken till hälsobesvären.
 2. Jennifer formulerar slutsatsen **"Inomhusmiljön är konstaterad fullgod"**.
 3. Samma dag föreslår Jennifer samtidigt att hon själv ska vistas och arbeta i lägenheten under längre tid för att uppleva inomhusmiljön.
+4. Jennifer bifogar ett OVK-protokoll från 8 november 2022 som vid närmare kontroll gäller **system 02 / bostäder 7–11**, medan Kilsgatan 3 hör till **system 01 / bostäder 1–5**.
 
 Detta får inte reduceras till ett vanligt kundserviceutbyte. Det ska kopplas till **kunskapsläget, utredningens räckvidd, kvarstående felanmälningar och Familjebostäders egen fortsatta hantering**.
 
@@ -90,6 +91,84 @@ Det viktiga är:
 
 ---
 
+## D. 🚨 NY STARK SPRICKA – Jennifer bifogar OVK för FEL SYSTEM
+
+I mejlet den 17 augusti bifogar Jennifer enligt Outlook-utskriften filen:
+
+> `1_2022-11-08.pdf`
+
+Vid kontroll av originalprotokollen framgår:
+
+### OVK 4 april 2022
+
+- **System 01 = Bostäder 1–5**
+- **System 02 = Bostäder 7–11**
+- System 01 var **Godkänd** den 4 april 2022.
+- System 02 var **Ej godkänd** den 4 april 2022 och gick därför vidare till ombesiktning.
+
+### Ombesiktning 8 november 2022
+
+Den av Jennifer bifogade filen avser:
+
+- **System 02**
+- **Bostäder 7–11**
+- betjänar lägenheter i uppgång **7–11**
+- godkänd efter ombesiktning 8 november 2022.
+
+### Kilsgatan 3 ligger i system 01
+
+OVK-protokollet för 4 april visar uttryckligen att:
+
+- **System 01 betjänar Bostäder 1–5**, alltså bland annat Kilsgatan 3.
+
+Dessutom finns lägenhet **0562** i luftflödesprotokollet under Kilsgatan 3 med värden:
+
+- kök: **9–33 l/s**,
+- bad: **15 l/s**,
+- sovrum: **4 l/s**.
+
+Dessa värden motsvarar mycket nära exakt de värden Caroline själv hänvisar till från "protokollet (2022)":
+
+- 9 l/s i grund,
+- 33 l/s forcerat,
+- cirka 15 l/s badrum,
+- cirka 4 l/s sovrum.
+
+Det ger ett mycket starkt stöd för att **0562 är den lägenhet Caroline jämför med**, vilket också ligger nära Familjebostäders objekt-ID `60020562`.
+
+### 🔥 VAR TEORIN SPRICKER
+
+Jennifer använder i augustimejlet ett **godkänt OVK-protokoll som stöd för att ventilationen är utredd**, men den bilaga hon skickar gäller system 02, bostäder 7–11, inte system 01 där Kilsgatan 3 ligger.
+
+Det betyder inte att Kilsgatan 3 saknade godkänd OVK 2022. System 01 var godkänt redan den 4 april 2022.
+
+Men det betyder att **just den bilaga Jennifer åberopar i augusti inte är det protokoll som direkt gäller lägenhetens system**.
+
+### Högprioriterad fråga för Björn
+
+> Varför åberopade och bifogade Familjebostäder ombesiktningsprotokollet för system 02 / bostäder 7–11 som stöd i ärendet om Kilsgatan 3, när Kilsgatan 3 enligt grundprotokollet ligger i system 01 / bostäder 1–5?
+
+### Ännu viktigare
+
+Det korrekta OVK-underlaget för lägenheten visar historiska 2022-värden som Caroline sedan själv använder som jämförelse när hon 2025 justerar/rensar ventilationen.
+
+Detta gör den korrekta kedjan:
+
+`OVK system 01 / lgh 0562 år 2022 → 9/33, bad 15, sovrum 4 → Caroline 2025 finner 7,4 i grund, justerar till 10,2, rensar kanal och får 35 forcerat, bad justeras 10→15,4, sovrum 10→ca 4,2 → Miljöförvaltningen mäter senare efter dessa ingrepp.`
+
+### Överklagandebetydelse
+
+Det här ska användas för **bevisvärde och källprecision**:
+
+- vilken OVK gäller faktiskt lägenhetens system,
+- vilka värden gällde 2022,
+- vilka avvikelser fanns 2025 jämfört med dessa,
+- vilka korrigerande ingrepp krävdes före Miljöförvaltningens senare kontroll.
+
+Vi ska INTE skriva att OVK 2022 var ogiltig för Kilsgatan 3. Tvärtom: system 01 var godkänt. Sprickan gäller **att fel systemprotokoll åberopades/bifogades och att det korrekta systemets data samtidigt visar den före/efter-kedja som måste analyseras**.
+
+---
+
 # 2. MEJL 17 AUGUSTI 2026 KL. 16:46
 
 Efter Ericas nya felanmälan om hälsobesvär den 16 augusti skriver Jennifer enligt överlämnad mejltext:
@@ -154,19 +233,19 @@ Administrativ status får inte användas som synonym för att grundproblemet tek
 
 ## 2026-08-17 10:30 – Jennifer Ehlin
 
-**HÄNDE/SADES:** Jennifer svarade på Ericas frågor och åberopade luftflödesmätningar, godkänd OVK och Miljöförvaltningens ventilation-/luftflödeskontroll som svar på vilken undersökning som haft uppdrag att fastställa orsaken. Hon skrev även att "Inomhusmiljön är konstaterad fullgod" och hänvisade till kanalrensning "5 m upp".
+**HÄNDE/SADES:** Jennifer svarade på Ericas frågor och åberopade luftflödesmätningar, godkänd OVK och Miljöförvaltningens ventilation-/luftflödeskontroll som svar på vilken undersökning som haft uppdrag att fastställa orsaken. Hon skrev även att "Inomhusmiljön är konstaterad fullgod" och hänvisade till kanalrensning "5 m upp". Hon bifogade `1_2022-11-08.pdf`, vilket vid kontroll av originalprotokollen avser system 02 / bostäder 7–11 och inte system 01 / bostäder 1–5 där Kilsgatan 3 ligger.
 
-**KÄLLA:** Original-Outlookmejl ska låsas.
+**KÄLLA:** Original-Outlookmejl ska låsas + OVK-original 2022.
 
 **VAD VISSTE AKTÖREN:** Jennifer hade tillgång till Miljöförvaltningens material, driftteknikerns anteckning och OVK-underlag samt Ericas uppgifter om fortsatt hälsopåverkan och flera vittnen.
 
 **VAD GJORDES:** Familjebostäder höll fast vid att utredningarna inte visade ventilationsbrist och att bostaden varit brukbar sedan dag 1.
 
-**VAD SAKNAS:** Separat redovisad undersökning vars uttalade uppdrag varit att identifiera orsaken till hälsobesvären; tekniskt underlag för formuleringen "fullgod" i hela inomhusmiljön; underlag för "5 m".
+**VAD SAKNAS:** Separat redovisad undersökning vars uttalade uppdrag varit att identifiera orsaken till hälsobesvären; tekniskt underlag för formuleringen "fullgod" i hela inomhusmiljön; underlag för "5 m"; förklaring till varför system 02-protokollet åberopades i ett ärende om system 01.
 
-**MOTSÄGELSE/OKLARHET:** Räckvidden i de åberopade undersökningarna måste jämföras med den bredare slutsats Jennifer drar.
+**MOTSÄGELSE/OKLARHET:** Räckvidden i de åberopade undersökningarna måste jämföras med den bredare slutsats Jennifer drar. OVK-bilagan måste också knytas till rätt system.
 
-**JURIDISK BETYDELSE:** Relevant för kunskapsläge, bevisvärde/räckvidd och frågan om en bred slutsats byggts på smalare undersökningar.
+**JURIDISK BETYDELSE:** Relevant för kunskapsläge, bevisvärde/räckvidd och frågan om en bred slutsats byggts på smalare eller felkopplat tekniskt underlag.
 
 ## 2026-08-17 16:46 – Jennifer Ehlin
 
@@ -196,6 +275,7 @@ Dessa mejl ska senare kopplas till:
 - B – orsaksutredningen,
 - C – ventilation,
 - D – brandkedjan,
+- PBL/OVK-spåret,
 - felanmälansregistret.
 
 **De får inte ligga som fristående mejl utan korslänkar.**
