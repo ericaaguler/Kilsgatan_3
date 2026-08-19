@@ -160,6 +160,40 @@ E. vad som faktiskt kan dokumenteras.
 
 **Brand bevisar inte kvarstående kontaminering. Avsaknad av saneringshandling bevisar inte att sanering aldrig skedde.**
 
+#### 🚨 NYTT – S:t Erik Försäkring 11 augusti 2026
+
+S:t Erik Försäkring uppger i ärende **SEF 2026/27** att:
+
+- AB Familjebostäder var försäkrat hos S:t Erik den 16 november 2017,
+- försäkringsskyddet omfattade bland annat fastighets-/egendoms- och ansvarsförsäkring,
+- den aktuella Kilsgatan 3-händelsen **inte anmäldes till S:t Erik Försäkring**,
+- något skadeärende därför inte finns i deras skadesystem,
+- någon gallring av ett sådant skadeärende därför inte heller har skett hos S:t Erik.
+
+Detta bevisar **inte** att sanering eller återställning inte skedde. Det visar däremot att den normala försäkringsskadeakten inte kan användas för att verifiera vad som gjordes efter just denna händelse.
+
+### [ ] 10A. FAMILJEBOSTÄDER – följ det interna dokumentations-/ekonomispåret 2017
+
+Begär/lås:
+
+- intern skadeanmälan eller incidentrapport,
+- arbetsorder,
+- beställning till sanerings-/städfirma,
+- leverantörsfaktura,
+- inköpsorder,
+- huvudbok/kostnadsställe/projektnummer,
+- drift-/husvärdsjournal,
+- intern e-post,
+- dokumentation om återställning,
+- vem som tog emot räddningstjänstens överlämnande,
+- vilka interna system Familjebostäder faktiskt har sökt i när de uppger att dokumentation saknas.
+
+**Nyckelfråga:** Om åtgärder utfördes utan försäkringsärende – vilket internt dokumentations- eller ekonomispår visar då vad som beställdes, utfördes och betalades?
+
+### [ ] 10B. Jämför med andra Familjebostäder-bränder – endast dokumentationskedja
+
+Använd S:t Erik-jämförelsefallen för att förstå vilka handlingar som kan skapas när en skada anmäls och hanteras. De får **inte** användas som bevis för att samma rutin följdes på Kilsgatan 3 år 2017.
+
 ### [ ] 11. Hälsobesvär/vittnen
 
 Bygg separat kedja:
