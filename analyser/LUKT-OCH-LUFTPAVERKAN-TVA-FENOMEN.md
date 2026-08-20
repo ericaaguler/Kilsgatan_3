@@ -70,29 +70,73 @@ Den 28 maj skickades komplettering till Länsstyrelsen med bland annat Thomas ma
 
 ---
 
-## 4. Peter – två ljudtillfällen måste hållas isär
+## 4. Peter – ljudtillfällena ska hållas isär och 23-juni-filerna synkas
 
-### 19 maj 2026
-Det finns en separat ljudfil från platsbesöket med Erica, Thomas och Peter. För den filen finns redan en forensisk källram i:
+### A. 19 maj 2026 – separat platsbesök
+Det finns en separat ljudfil från platsbesöket med Erica, Thomas och Peter:
+
+- `Thomas och Peter 19 maj .m4a` / tidigare registrerad som `Thomas och Peter 19 maj (1).m4a`
+- dokumenterad längd i den forensiska källramen: cirka **36 min 30 sek**
+- händelsedatum: **19 maj 2026**
+
+För den filen finns redan en forensisk källram i:
 
 `analyser/LJUD-19-MAJ-2026-THOMAS-PETER-FORENSISK.md`
 
-Den ska användas för att låsa exakt vad Peter hör, bemöter eller själv säger om skillnaden mellan lukt, luft, kroppslig påverkan och Thomas jämförelse med sin egen lägenhet.
+**Viktig avgränsning:** 19-maj-inspelningen är ett **eget tillfälle** och får inte blandas ihop tidsmässigt med inspelningarna den 23 juni.
 
-### 23 juni 2026 – två samtidiga inspelningar av samma tillfälle
-Erica har uppgett att följande två ljudfiler är **samma samtal/tillfälle**, inspelat med två olika apparater:
+### B. 23 juni 2026 – två parallella inspelningar av samma samtal
+Erica har uppgett att följande två filer är **samma samtal/tillfälle**, inspelat med två olika apparater:
 
 - `Peter och jag i lägenheten 23 juni dator plockat upp .m4a`
-- `Peter 23 juni mobilen .m4a`
+- `Peter 23 juni mobilen .m4a` / senaste uppladdningen `Peter 23 juni mobilen (1).m4a`
 
-Filmetadata stödjer att de hör till samma sammanhängande tidsfönster:
+#### Verifierad metadata för mobilfilen
+Den senast uppladdade mobilfilen har följande inbäddade metadata:
 
-- datorfil: skapad 2026-06-23 10:39:49 UTC, längd ca 20 min 49 sek,
-- mobilfil: skapad 2026-06-23 10:41:50 UTC, längd ca 17 min 13 sek.
+- creation_time: **2026-06-23 10:41:50 UTC**
+- motsvarande svensk sommartid: **2026-06-23 12:41:50 CEST**
+- längd: **1033,109 sekunder = cirka 17 min 13 sek**
+- beräknat slut: cirka **12:59:03 CEST**
 
-Tiderna överlappar nästan helt. De ska därför **inte registreras som två skilda händelser**. De ska behandlas som två parallella upptagningar av samma platsbesök/samtal och användas för källkontroll mot varandra.
+#### Tidigare kontrollerad metadata för datorfilen
+Den tidigare kontrollerade datorfilen är registrerad med:
 
-### Uppgifter som ska källåsas mot 23-juni-ljudet
+- creation_time: **2026-06-23 10:39:49 UTC**
+- motsvarande svensk sommartid: **2026-06-23 12:39:49 CEST**
+- längd: cirka **20 min 49 sek**
+- beräknat slut: cirka **13:00:38 CEST**
+
+### C. Metadata-synkning av de två 23-juni-filerna
+Utifrån filernas creation_time börjar mobilfilen cirka **2 min 01 sek efter datorfilen**.
+
+Arbetsmässig tidsmappning:
+
+> **mobil 00:00 ≈ dator 02:01**
+
+Eftersom datorfilen fortsätter till cirka 13:00:38 och mobilfilen till cirka 12:59:03 ligger mobilinspelningen tidsmässigt **nästan helt inuti datorinspelningen**. Datorfilen innehåller ungefär:
+
+- **2 min 01 sek före** mobilfilens start,
+- samma centrala samtalsfönster som mobilen,
+- cirka **1 min 35 sek efter** mobilfilens slut.
+
+Detta är en **metadata-synkning**, inte ännu en slutlig vågforms-/ordalydelsesynkning. För exakt citatkontroll ska samma yttrande hittas i båda inspelningarna och då ges dubbla tidsstämplar enligt modellen:
+
+> dator `mm:ss` ↔ mobil `mm:ss`
+
+### D. Datumjämförelse mellan de tre ljudkällorna
+Det finns alltså **två separata händelsedatum**, inte tre:
+
+| Händelse | Datum | Inspelningar | Status |
+|---|---|---:|---|
+| Platsbesök med Erica, Thomas och Peter | **19 maj 2026** | 1 ljudfil | Separat händelse |
+| Samtal/platsbesök med Erica och Peter | **23 juni 2026** | 2 ljudfiler | Samma händelse inspelad parallellt på två apparater |
+
+Tidsmässigt ligger 23-juni-samtalet **35 dagar efter** platsbesöket den 19 maj.
+
+Det är viktigt för beviskedjan: vad Peter fick höra eller observerade den 19 maj kan jämföras med vad han säger den 23 juni, men uttalanden från de två datumen får aldrig sammanblandas som om de kom från samma samtal.
+
+### E. Uppgifter som ska källåsas mot 23-juni-ljudet
 Erica uppger att hon vid detta tillfälle frågar Peter ungefär:
 
 - om han tror att tömning av lägenheten kommer lösa problemet,
@@ -102,7 +146,7 @@ och att Peter svarar **nej** på dessa frågor.
 
 Erica bedömer också att Peter i samtalet förstår att hennes problemformulering omfattar två skilda saker: något som luktar och en annan luft-/hälsopåverkan som inte nödvändigtvis upplevs som lukt.
 
-**Källstatus just nu:** Detta är en **uppgift från Erica om ljudets innehåll / arbets­hypotes** och får inte användas som ordagrant Peter-citat förrän båda 23-juni-inspelningarna har synkroniserats och formuleringarna låsts mot ljudet.
+**Källstatus just nu:** Detta är en **uppgift från Erica om ljudets innehåll / arbetshypotes** och får inte användas som ordagrant Peter-citat förrän formuleringarna har låsts mot ljudet. De två parallella 23-juni-filerna ger särskilt god möjlighet till sådan dubbelkontroll.
 
 ---
 
@@ -147,4 +191,6 @@ Materialet innehåller återkommande uppgifter om både **lukt/odör** och en se
 
 Om myndighetens och Familjebostäders slutsats i praktiken huvudsakligen vilar på att **ingen avvikande lukt noterades** och att vissa ventilationsvärden var godtagbara, måste det kontrolleras om den andra delen av problemformuleringen över huvud taget blev föremål för en riktad undersökning.
 
-**Status:** VIKTIGT ANALYSSPÅR – 23-juni-ljudet behöver källåsas innan Peters exakta svar används som citat.
+**Ytterligare OBS – ljudkedjan:** 19 maj och 23 juni är två separata händelser. Den 23 juni finns två parallella inspelningar av samma samtal. De ska användas för dubbelkontroll av Peters ordalydelse och därefter jämföras kronologiskt med vad han fick veta/sade den 19 maj.
+
+**Status:** VIKTIGT ANALYSSPÅR – 23-juni-filerna är metadata-synkade; exakt innehålls-/citatsynkning återstår innan Peters exakta svar används som citat.
