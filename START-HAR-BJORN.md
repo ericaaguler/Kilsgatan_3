@@ -25,6 +25,11 @@ Detta är den snabbaste ingången till det material som Björn behöver se infö
 
 - [Arbetsanalys LJUDFIL 1](transkriptioner/LJUDFIL-1-2025-11-11-ARBETSANALYS.md)
 
+### Hyresgästföreningen
+
+- [Relevant för sakfrågan](analyser/HYRESGASTFORENINGEN-RELEVANT-FOR-SAKFRAGAN.md)
+- [Ej viktigt för huvudspåret – separat handläggningsspår](analyser/HYRESGASTFORENINGEN-EJ-VIKTIGT-FOR-HUVUDSPARET.md)
+
 ### Samlat frågeregister
 
 - [Huvudregister – frågor ställda men ej fullt besvarade](analyser/FRAGOR-STÄLLDA-MEN-EJ-BESVARADE-HUVUDREGISTER.md)
@@ -64,7 +69,22 @@ Detta bevisar inte att ventilationen är orsaken. Men det kräver svar på:
 
 ---
 
-## 4. De viktigaste obesvarade frågorna
+## 4. Hyresgästföreningen – det Björn behöver veta
+
+Hyresgästföreningen gjorde ingen egen teknisk undersökning av lägenheten. Emma uppger att de inte är auktoriserade fackmän och att deras möjligheter att kräva åtgärder var beroende av underlag, framför allt Miljöförvaltningens bedömning.
+
+Det betyder att deras avvaktande besked inte är tekniskt bevis för att lägenheten var fri från fel. Deras uppgifter ska i stället användas för att visa:
+
+- att de kände till uppgifterna om dålig luft, huvudvärk och sonens astma,
+- att de inte själva utredde orsaken,
+- att deras bedömning stod och föll med kvaliteten i Miljöförvaltningens underlag,
+- att möjligheten till hyresnedsättning hölls öppen genom förbehåll.
+
+Hyresgästföreningens väntetider, influensa, interna hänvisningar och frågan om deras egen service ligger separat och ska inte belasta huvudspåret.
+
+---
+
+## 5. De viktigaste obesvarade frågorna
 
 1. Vad orsakar lukten och hälsobesvären?
 2. Vilken undersökning hade uppdraget att fastställa orsaken?
@@ -82,7 +102,7 @@ Detta bevisar inte att ventilationen är orsaken. Men det kräver svar på:
 
 ---
 
-## 5. Status för möte 1
+## 6. Status för möte 1
 
 Transkriptionen för möte 1 är endast delvis tillgänglig, cirka 03:21–30:27 av ett möte på cirka 1:30:53.
 
@@ -92,7 +112,7 @@ Den får inte användas som verifierat citat förrän resterande ljud/transkript
 
 ---
 
-## 6. Grundregel vid användning
+## 7. Grundregel vid användning
 
 För varje punkt ska Björn kunna se:
 
