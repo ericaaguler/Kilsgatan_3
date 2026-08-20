@@ -2,6 +2,12 @@
 
 Detta privata repository är en källbaserad kunskapsbank.
 
+## Viktig arbetsingång
+
+- [STARTA HÄR – Björn](START-HAR-BJORN.md) – prioriterad ingång till arbetsanalyser, möten och obesvarade frågor.
+
+> Dokument under `analyser/` och filer märkta `ARBETSANALYS` är arbetsmaterial. De ersätter inte originalbevis, ljudfiler eller källregistrering i bevisregistret.
+
 ## Syfte
 
 Att samla och ordna:
@@ -17,16 +23,11 @@ Att samla och ordna:
 
 Ingen sakuppgift ska föras in i tidslinjen utan hänvisning till ett uppladdat originalbevis.
 
-Repositoryt ska inte innehålla:
-
-- egna teorier,
-- spekulationer,
-- juridiska argument,
-- analyser från samtal,
-- sammanfattningar som förstärker eller förändrar originalets innebörd.
+Repositoryt ska inte innehålla spekulation som presenteras som faktum. Egna analyser ska ligga tydligt avskilda under `analyser/` och alltid skilja mellan verifierat faktum, partsuppgift, möjlig tolkning och ej bevisat.
 
 ## Ingångar
 
+- [STARTA HÄR – Björn](START-HAR-BJORN.md)
 - [Tidslinje](TIDSLINJE.md)
 - [Bevisregister](BEVISREGISTER.md)
 - [Samlat trådindex](korrespondens/TRADINDEX.md)
