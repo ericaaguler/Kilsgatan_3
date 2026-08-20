@@ -1,255 +1,320 @@
 # Obesvarade frågor till Familjebostäder – Kilsgatan 3, lgh 1202
 
-**Arbetsdokument – version 1**  
-**Syfte:** samla frågor som Erica Güler dokumenterat till Familjebostäder och där det i det hittills verifierade materialet saknas ett tydligt, verifierbart eller fullständigt svar.
+**Arbetsdokument – version 2, fördjupad kontroll**  
+**Syfte:** identifiera frågor Erica faktiskt har ställt till Familjebostäder där det efter genomgång av mejl, kända handlingar och tidigare analyser saknas ett tydligt, fullständigt och verifierbart svar.
 
-> **Viktig metodregel:** Ett påstående från Familjebostäder räknas inte automatiskt som ett fullständigt svar om frågan gällde dokumentation, tidpunkt, omfattning, utförare eller verifiering. Frågor markeras därför som **OBESVARAD**, **DELVIS BESVARAD** eller **MOTSÄGELSE KVARSTÅR**.
+## Metod
+
+För varje fråga används denna kedja:
+
+**DATUM FRÅGA STÄLLDES → EXAKT/SAKNÄRA FRÅGA → MOTTAGARE → SVAR → BESVARAD/DELVIS/OBESVARAD → VAD SAKNAS → KÄLLA**
+
+Statusar:
+- **VERIFIERAT** – stöds av originalkälla.
+- **DELVIS VERIFIERAT** – en del är styrkt men kedjan är ofullständig.
+- **OBESVARAD** – frågan har ställts men inget faktiskt svar på sakfrågan har identifierats.
+- **DELVIS BESVARAD** – svar finns men täcker inte hela frågan.
+- **MOTSÄGELSE KVARSTÅR** – två uppgifter går inte ihop på nuvarande underlag.
+- **BEHÖVER PRECISERAS** – ytterligare primärhandling behövs innan slutsats.
+
+Ett hänvisningssvar räknas inte som fullständigt svar när frågan gällde Familjebostäders **egen** bedömning, dokumentation, tidpunkt, omfattning, utförare eller effektkontroll.
 
 ---
 
-## 1. Brand och sanering 2017
+# A. HÄLSOBESVÄREN – TYDLIGAST DOKUMENTERADE OBESVARADE FRÅGEKEDJAN
 
-### 1.1 Har lägenheten sanerats efter branden/rökutvecklingen 2017?
-**Ställd till:** Familjebostäder, bl.a. Jennifer Ehlin och Gaby Khalaf.  
-**Status:** **MOTSÄGELSE KVARSTÅR / EJ VERIFIERAT**.
+## A1. Vilket underlag ligger till grund för Familjebostäders egen bedömning?
 
-Familjebostäders uppgifter går isär. Gaby har uppgett att han inte hittar någon brand i dokumentationen och dragit slutsatsen att någon brand inte förekommit. Jennifer har därefter uppgett att lägenheten ”självklart” ska ha sanerats efter en eventuell brand men att hon inte har dokumentation.
+**24 juni 2026** frågar Erica Gaby efter att Peter dagen innan uppgett att hälsobesvären diskuterats internt:
 
-**Det som fortfarande saknas:**
-- dokument som visar att sanering faktiskt beställdes,
+> Vilket underlag, vilka utredningar eller vilka tekniska bedömningar ligger till grund för Familjebostäders nuvarande bedömning av ärendet?
+
+**Gabys svar 24 juni:** han hänvisar till Miljöförvaltningen och OCAB och säger att Erica kan ta del av de utredningarna via Hyresgästföreningen.
+
+**Bedömning:** **OBESVARAD.** Frågan gällde Familjebostäders egen bedömning och eventuella interna underlag, inte var externa rapporter kunde hämtas.
+
+## A2. Vad kom Familjebostäder fram till internt om orsaken till hälsobesvären?
+
+Erica upprepar samma dag:
+
+> Min fråga gäller Familjebostäders egen bedömning. Vad har Familjebostäder kommit fram till genom de interna diskussionerna beträffande orsaken till de återkommande hälsobesvären?
+
+**Gabys svar:**
+
+> ”Det finns inga interna diskussioner”
+
+och att inget kommer att göras med hänvisning till Miljöförvaltningens och OCAB:s utredningar.
+
+**Bedömning:** **MOTSÄGELSE KVARSTÅR / OBESVARAD SAKFRÅGA.** Peters uppgift om intern diskussion och Gabys senare uppgift att interna diskussioner inte finns behöver kontrolleras mot primärkälla/ljud. Oavsett detta besvarar Gaby inte vad Familjebostäder anser orsaka besvären.
+
+## A3. Vad anser Familjebostäder orsakar de återkommande hälsobesvären?
+
+Erica ställer frågan igen efter Gabys svar:
+
+> Vad anser Familjebostäder är orsaken till de återkommande hälsobesvär som rapporterats vid vistelse i lägenheten?
+
+Hon förtydligar uttryckligen att hon **inte** frågar om skador, missfärgningar eller vad OCAB undersökte.
+
+**8 juli 2026** ställer hon återigen exakt kärnfrågan:
+
+> Vad anser Familjebostäder är orsaken till de återkommande hälsobesvär som rapporterats vid vistelse i lägenhet 1202?
+
+**Gabys svar 9 juli:**
+
+> Familjebostäder anser inte att det finns några hälsobesvär i bostaden, med hänvisning till OCAB och Miljöförvaltningen.
+
+**Bedömning:** **OBESVARAD.** Svaret anger Familjebostäders slutsats men inte orsaken till de rapporterade besvären och inte vilken undersökning som hade uppdrag att fastställa orsaken.
+
+## A4. Tre följdfrågor som fortfarande saknar konkret svar
+
+Efter Gabys svar ställer Erica tre preciserade frågor:
+
+1. På vilka grunder gör Familjebostäder bedömningen att de rapporterade hälsobesvären saknar samband med bostaden?
+2. Vilken av Familjebostäders utredningar har haft i uppdrag att fastställa orsaken till de rapporterade hälsobesvären?
+3. Hur har Familjebostäder kunnat dra denna slutsats när besvären kvarstår efter genomförda åtgärder och cirka 27 dygns genomvädring efter Miljöförvaltningens tillsyn?
+
+**Status:** **OBESVARADE i verifierat material.**
+
+### Kärnfynd A
+Detta är en av de starkaste dokumenterade frågekedjorna eftersom Erica upprepade gånger markerar att svaren inte träffar hennes fråga och smalnar av frågan tills endast Familjebostäders egen orsaksbedömning återstår.
+
+---
+
+# B. BRAND OCH SANERING 2017
+
+## B1. Har lägenheten sanerats efter branden/rökutvecklingen 2017?
+**Status:** **MOTSÄGELSE KVARSTÅR / EJ VERIFIERAT.**
+
+Gaby uppgav i november 2025 att han inte såg någon brand dokumenterad och drog slutsatsen att någon sådan händelse inte inträffat. Jennifer uppgav kort därefter att lägenheten ”självklart” sanerats efter en eventuell brand men att hon saknade dokumentation.
+
+## B2. Var finns dokumentationen om saneringen?
+Frågor som ställts omfattar i sak:
+- arbetsorder/beställning,
 - datum,
 - utförare,
+- saneringsmetod,
 - omfattning,
+- kontroll av resultat,
+- eventuell ventilation-/konstruktionshantering.
+
+**Status:** **OBESVARAD.**
+
+## B3. Varför lämnar Gaby och Jennifer två olika besked om brand/sanering?
+**Status:** **OBESVARAD.**
+
+## B4. På vilken verifierbar grund kan Familjebostäder säga att sanering skett när dokumentationen inte kan visas?
+**Status:** **OBESVARAD.**
+
+### Viktig metodregel
+Avsaknad av dokumentation är inte automatiskt bevis för att sanering aldrig skett. Rätt formulering är att **påstådd sanering ännu inte har kunnat verifieras genom primär dokumentation**.
+
+---
+
+# C. VENTILATION OCH KANALRENSNING
+
+## C1. När beställdes kanalrensningen Jennifer skrev skulle ske den 2 december 2025?
+**Status:** **OBESVARAD / BEHÖVER PRECISERAS.**
+
+## C2. Vem beställde den, vem utförde den och vilket datum utfördes arbetet?
+**Status:** **DELVIS BESVARAD men ej låst med fullständig primär arbetsorder.**
+
+Det finns senare uppgift om att drifttekniker rensat cirka fem meter i kökskanalen. Det måste klarläggas om detta är samma åtgärd Jennifer avsåg den 2 december.
+
+## C3. Vad betyder ”cirka fem meter” konkret?
+Frågor som fortfarande saknar verifierbar redovisning:
+- vilken kanal,
+- varifrån mättes fem meter,
 - metod,
-- kontroll/återställning efter saneringen.
+- vad påträffades,
+- vad avlägsnades,
+- varför stannade arbetet där,
+- kontrollerades resten av kanalsträckan?
 
-### 1.2 Varför lämnar Gaby och Jennifer två olika besked om branden?
-**Status:** **OBESVARAD**.
+**Status:** **OBESVARAD.**
 
-Frågan gäller vilken version som är korrekt och vilket underlag respektive uppgift bygger på.
+## C4. Var finns arbetsorder, beställning och utföranderapport?
+**Status:** **OBESVARAD.**
 
-### 1.3 Om sanering utfördes – var finns saneringsrapporten, arbetsordern eller fakturan?
-**Status:** **OBESVARAD**.
+## C5. Hur kontrollerades effekten av rensningen?
+**Status:** **OBESVARAD.**
 
-### 1.4 Om ingen saneringsdokumentation finns – på vilken grund kan Familjebostäder säga att lägenheten sanerades?
-**Status:** **OBESVARAD**.
+## C6. Varför kvarstod synliga beläggningar efter den uppgivna rensningen?
+**Status:** **OBESVARAD.**
 
-### 1.5 Har ventilation, konstruktioner eller köksdelar kontrollerats med avseende på rester efter brand/rök?
-**Status:** **OBESVARAD**.
+## C7. Vilken är den senaste godkända OVK:n som faktiskt omfattar rätt system/lägenhet?
+**Status:** **DELVIS BESVARAD / RÄCKVIDD MÅSTE LÅSAS MOT ORIGINALPROTOKOLL.**
 
----
-
-## 2. Lukt och hälsobesvär
-
-### 2.1 Vad orsakar den kvarstående lukten i lägenheten?
-**Status:** **OBESVARAD**.
-
-Trots återkommande uppgifter om lukt, vädring, städningar och andra åtgärder finns inget redovisat svar från Familjebostäder som identifierar orsaken.
-
-### 2.2 Vilken undersökning har haft i uppdrag att fastställa varför personer får hälsobesvär i lägenheten?
-**Status:** **OBESVARAD**.
-
-Ventilationskontroller, OCAB:s fuktmätning och städning har åberopats, men inget hittills verifierat underlag visar ett uttryckligt uppdrag att utreda orsaken till de rapporterade hälsobesvären.
-
-### 2.3 Vilken verifierad förklaring har Familjebostäder till att flera personer har reagerat i bostaden?
-**Status:** **OBESVARAD**.
-
-### 2.4 Hur förklarar Familjebostäder att symtom återkommer efter långvarig vädring när fönster och dörrar stängs igen?
-**Status:** **OBESVARAD**.
-
-### 2.5 Hur kan lägenheten bedömas som fullt brukbar när orsaken till lukt och hälsobesvär inte identifierats?
-**Status:** **OBESVARAD**.
+## C8. Vad åtgärdades mellan den underkända OVK:n i april 2022 och ombesiktningen i november 2022?
+**Status:** **OBESVARAD / OFULLSTÄNDIGT REDOVISAT.**
 
 ---
 
-## 3. Ventilation och kanalrensning
+# D. STÄDNING OCH ED’S
 
-### 3.1 När utfördes den kanalrensning som Familjebostäder hänvisar till?
-**Status:** **DELVIS BESVARAD**.
+## D1. Varför beställdes ytterligare städning?
+**Status:** **DELVIS BESVARAD.**
 
-Det finns uppgifter om att drifttekniker ska ha rensat cirka fem meter i kökskanalen och att HA Ventilation genomförde kanalrensning i fastigheten 2021. Det är däremot fortfarande oklart exakt vilken åtgärd som avses vid olika tillfällen.
+Familjebostäder har själva skrivit att den tidigare städningen reklamerades och att extra städning av Ed’s beställdes. Det förklarar **att** ytterligare städning beställdes, men inte varför upprepad städning fortsatt betraktades som relevant lösning när lukt, beläggningar och andra problem kvarstod.
 
-### 3.2 Vem beställde kanalrensningen och vem utförde den?
-**Status:** **DELVIS BESVARAD / EJ VERIFIERAT MED ORIGINALHANDLING**.
+## D2. Vem beställde städning nummer två och nummer tre?
+**Status:** **OBESVARAD / primär beställningskedja saknas.**
 
-### 3.3 Vad omfattade kanalrensningen – endast kökskanalen eller hela lägenhetens ventilationssystem?
-**Status:** **OBESVARAD / OTYDLIGT**.
+## D3. Vilket exakt uppdrag fick Ed’s vid varje tillfälle?
+**Status:** **OBESVARAD.**
 
-### 3.4 Finns arbetsorder, beställning, protokoll eller utföranderapport för rensningen?
-**Status:** **OBESVARAD**.
+## D4. Varför godkändes starkare medel vid tredje städningen?
+**Status:** **OBESVARAD.**
 
-### 3.5 Är uppgiften om ”cirka fem meter” samma kanalrensning som Jennifer den 2 december skrev skulle ske, eller avser den en tidigare åtgärd?
-**Status:** **OBESVARAD**.
+## D5. Vad återrapporterade Ed’s/Jaime Herrera till Familjebostäder?
+**Status:** **OBESVARAD.**
 
-### 3.6 Hur långt in i kanalerna rengjordes det och med vilken metod?
-**Status:** **OBESVARAD**.
+## D6. Rapporterade Ed’s att vissa ytor/beläggningar inte gick att få rena?
+**Status:** **OBESVARAD / originalåterrapportering saknas.**
 
-### 3.7 Hur kontrollerades att rensningen faktiskt hade avhjälpt problemet?
-**Status:** **OBESVARAD**.
+## D7. Varför användes produkter märkta ”Mögel Bort” och TASKI Sani MouldOut?
+**Status:** **OBESVARAD.**
 
-### 3.8 Varför kvarstod synliga beläggningar i ventilationsöppningar efter uppgiven rensning?
-**Status:** **OBESVARAD**.
+Fotona visar att produkterna förekom vid städning. De fastställer inte i sig att mögel var konstaterat.
 
-### 3.9 Vilken är den senaste godkända OVK:n för den aktuella lägenheten/systemet?
-**Status:** **DELVIS BESVARAD**.
-
-Familjebostäder har hänvisat till OVK 2022. Frågor om senare kontroll/protokoll och exakt vilka system/lägenheter som omfattades har inte blivit fullt klarlagda.
-
-### 3.10 Vad åtgärdades mellan den underkända OVK:n i april 2022 och den godkända ombesiktningen i november 2022?
-**Status:** **OBESVARAD / EJ FULLSTÄNDIGT REDOVISAT**.
-
-### 3.11 Hur har tidigare uppgifter om matos, tejpade don, låga flöden och andra ventilationsavvikelser beaktats för Kilsgatan/Järflotta?
-**Status:** **OBESVARAD**.
+## D8. När tre städningar inte löste problemet – varför gjordes ingen separat orsaksutredning?
+**Status:** **OBESVARAD.**
 
 ---
 
-## 4. Städning och Ed’s städfirma
+# E. OCAB, FUKT OCH MATERIAL
 
-### 4.1 Varför beställde Familjebostäder ytterligare städning efter att den första professionella städningen reklamerats?
-**Status:** **DELVIS BESVARAD**.
+## E1. Vad hade OCAB exakt i uppdrag att undersöka?
+**Status:** **DELVIS BESVARAD.**
 
-Familjebostäder har själva bekräftat att den första städningen reklamerades och att extra städning beställdes. Däremot saknas en redovisad bedömning av varför upprepade städningar ansågs vara rätt åtgärd när problemen kvarstod.
+Det verifierade underlaget visar fukt-/skadekontroll kopplad till missfärgningar. Något verifierat uppdrag att utreda orsaken till återkommande hälsobesvär har inte identifierats.
 
-### 4.2 Vem beställde städning nummer två respektive nummer tre?
-**Status:** **OBESVARAD / EJ SPÅRBART I ORIGINALBESTÄLLNING**.
+## E2. Varför hänvisar Familjebostäder till OCAB som stöd för slutsatser om hälsobesvär när rapportens uppdrag inte var en orsaksutredning av hälsobesvär?
+**Status:** **OBESVARAD.**
 
-### 4.3 Vilket exakt uppdrag fick Ed’s vid respektive städtillfälle?
-**Status:** **OBESVARAD**.
+## E3. Vilken utredning har gjorts av brunt/dolt material i konstruktionen?
+**Status:** **OBESVARAD.**
 
-### 4.4 Varför godkändes starkare medel vid tredje städningen?
-**Status:** **OBESVARAD**.
+## E4. Har materialprov eller riktad mikrobiell analys utförts?
+**Status:** **INGET VERIFIERAT SVAR / inget sådant prov har redovisats i nuvarande material.**
 
-### 4.5 Varför användes produkter märkta ”Mögel Bort” och TASKI Sani MouldOut när Familjebostäder samtidigt inte redovisat någon verifierad mikrobiell utredning?
-**Status:** **OBESVARAD**.
-
-> Fotona visar produkterna, men de bevisar inte i sig att mögel var fastställt.
-
-### 4.6 Vad återrapporterade Ed’s/Jaime Herrera till Familjebostäder efter städningarna?
-**Status:** **OBESVARAD**.
-
-### 4.7 Rapporterade Ed’s att vissa beläggningar eller material inte gick att få rena?
-**Status:** **OBESVARAD / ORIGINALÅTERRAPPORTERING SAKNAS**.
-
-### 4.8 När tre städningar inte löste problemet – varför övergick Familjebostäder inte till en separat orsaksutredning?
-**Status:** **OBESVARAD**.
+## E5. Hur har Familjebostäder uteslutit fukt/mikrobiell påverkan om riktad provtagning inte redovisats?
+**Status:** **OBESVARAD.**
 
 ---
 
-## 5. OCAB, fukt och material
+# F. MÅLNING OCH ANDRA ÅTGÄRDER
 
-### 5.1 Vad hade OCAB exakt i uppdrag att undersöka?
-**Status:** **DELVIS BESVARAD**.
+## F1. Varför föreslogs målning när grundorsaken till lukt/hälsobesvär inte var identifierad?
+**Status:** **OBESVARAD.**
 
-Det verifierade underlaget visar att OCAB utförde fuktundersökning. Något verifierat uppdrag att utreda lukt, hälsobesvär, mikrobiell påverkan eller brandrelaterade ämnen har inte visats.
+## F2. Vilket problem skulle målningen avhjälpa?
+**Status:** **OBESVARAD / syfte ej verifierat.**
 
-### 5.2 Varför användes OCAB:s fuktundersökning som stöd i en bredare diskussion om inomhusmiljön när undersökningen inte hade detta uppdrag?
-**Status:** **OBESVARAD**.
+## F3. Vilket samband hade Familjebostäder identifierat mellan besvären och just de ytor som skulle målas?
+**Status:** **OBESVARAD.**
 
-### 5.3 Vilken utredning har gjorts av det bruna materialet/påväxten i konstruktionen?
-**Status:** **OBESVARAD**.
+## F4. Var målningen underhåll, estetisk åtgärd eller en åtgärd mot lukt/inomhusmiljö?
+**Status:** **OTYDLIGHET KVARSTÅR.**
 
-### 5.4 Har något materialprov tagits från de missfärgade/bruna områdena?
-**Status:** **INGET VERIFIERAT SVAR / INGET PROV HAR REDOVISATS**.
-
-### 5.5 Har bakomliggande konstruktion öppnats eller undersökts för att fastställa orsaken till materialförändringarna?
-**Status:** **OBESVARAD**.
-
-### 5.6 Hur har Familjebostäder uteslutit fukt/mikrobiell påverkan om ingen sådan riktad provtagning redovisats?
-**Status:** **OBESVARAD**.
+## F5. Om uttryck som ”spärra/kapsla in” användes – vad var det som skulle spärras in och på vilken teknisk grund?
+**Status:** **OBESVARAD / muntlig uppgift ska låsas mot ljud.**
 
 ---
 
-## 6. Målning och andra föreslagna åtgärder
+# G. FELANMÄLNINGAR, ARBETSORDER OCH INTERN DOKUMENTATION
 
-### 6.1 Varför föreslogs målning av hall, kök, köksstommar/skåp och andra ytor när orsaken till lukt/hälsobesvär inte var identifierad?
-**Status:** **OBESVARAD**.
+## G1. Var finns fullständig felanmälningshistorik för lägenheten?
+**Status:** **OFULLSTÄNDIGT REDOVISAD.**
 
-### 6.2 Vilket samband har Familjebostäder identifierat mellan de rapporterade besvären och just de ytor som skulle målas?
-**Status:** **OBESVARAD**.
+## G2. Var finns arbetsorder för ventilation, kanalrensning, städningar, målning, golv och andra åtgärder?
+**Status:** **DELAR SAKNAS.**
 
-### 6.3 Var målningen avsedd som normalt underhåll, estetisk åtgärd eller som en åtgärd mot lukt/inomhusmiljöproblem?
-**Status:** **MOTSÄGELSE/OTYDLIGHET KVARSTÅR**.
+## G3. Var finns intern återrapportering från drifttekniker, husvärdar och externa leverantörer?
+**Status:** **DELAR SAKNAS / OBESVARAD.**
 
-### 6.4 Om målning skulle ”spärra” eller kapsla in något – vad var det som skulle spärras in?
-**Status:** **OBESVARAD / MUNTLIG UPPGIFT BEHÖVER KONTROLLERAS MOT LJUD**.
+## G4. Varför markerades vissa felanmälningar som utförda eller makulerade trots kvarstående rapporterade problem?
+**Status:** **OBESVARAD.**
 
-### 6.5 Varför genomfördes kosmetiska åtgärder innan orsaken till problemet var fastställd?
-**Status:** **OBESVARAD**.
-
----
-
-## 7. Felanmälningar, arbetsorder och teknisk dokumentation
-
-### 7.1 Var finns den fullständiga felanmälningshistoriken för lägenheten före och efter inflyttningen?
-**Status:** **OBESVARAD / OFULLSTÄNDIGT UTLÄMNAD**.
-
-### 7.2 Var finns arbetsorder för ventilation, kanalrensning, städningar, målning, golv och andra åtgärder?
-**Status:** **OBESVARAD / DELAR SAKNAS**.
-
-### 7.3 Var finns intern återrapportering från drifttekniker, husvärdar och externa leverantörer?
-**Status:** **OBESVARAD / DELAR SAKNAS**.
-
-### 7.4 Varför har vissa felanmälningar senare markerats som utförda eller makulerade trots att de rapporterade problemen kvarstod?
-**Status:** **OBESVARAD**.
-
-### 7.5 Vilken dokumentation låg till grund för att respektive ärende kunde stängas/makuleras?
-**Status:** **OBESVARAD**.
+## G5. Vilken dokumentation låg till grund för respektive stängning/makulering?
+**Status:** **OBESVARAD.**
 
 ---
 
-## 8. Lägenhetens brukbarhet
+# H. BRUKBARHET OCH FAMILJEBOSTÄDERS SLUTSATSER
 
-### 8.1 Vilket tekniskt underlag låg bakom Familjebostäders besked att lägenheten kunde bebos ”som vanligt”?
-**Status:** **OBESVARAD / INGET SAMMANHÅLLET UNDERLAG REDOVISAT**.
+## H1. Vilket tekniskt underlag låg bakom beskedet att lägenheten kunde bebos/vistas i som vanligt?
+**Status:** **OBESVARAD / inget sammanhållet tekniskt underlag redovisat.**
 
-### 8.2 Hur kunde Familjebostäder bedöma bostaden som brukbar samtidigt som ytterligare städning, ventilation, kanalrensning, målning och andra åtgärder fortfarande planerades eller utfördes?
-**Status:** **OBESVARAD**.
+## H2. Hur kunde lägenheten samtidigt bedömas som brukbar när ytterligare städning, ventilation, kanalrensning, målning och andra åtgärder fortfarande planerades eller utfördes?
+**Status:** **OBESVARAD.**
 
-### 8.3 Hur beaktades rapporterade hälsobesvär vid bedömningen att lägenheten var beboelig?
-**Status:** **OBESVARAD**.
+## H3. Hur beaktades rapporterade hälsobesvär i Familjebostäders brukbarhetsbedömning?
+**Status:** **OBESVARAD.**
 
-### 8.4 Hur beaktades att flera personer uppgett reaktioner efter kort vistelse?
-**Status:** **OBESVARAD**.
+## H4. Hur beaktades uppgifter från flera andra personer som reagerat vid vistelse?
+**Status:** **OBESVARAD.**
 
----
-
-## 9. Förändrade och motstridiga uppgifter
-
-### 9.1 Varför har uppgifter om branden förändrats mellan olika företrädare för Familjebostäder?
-**Status:** **OBESVARAD**.
-
-### 9.2 Varför har uppgifter om ventilation och kanalrensning förändrats över tid?
-**Status:** **OBESVARAD / BEHÖVER MATCHAS MOT VARJE MEJL OCH LJUDINSPELNING**.
-
-### 9.3 Varför har problemformuleringen växlat mellan ”städning”, ”ytskikt”, ”ventilation”, ”lukt” och andra åtgärder utan att en dokumenterad grundorsak redovisats?
-**Status:** **OBESVARAD**.
-
-### 9.4 Vilka av Familjebostäders uppgifter till Miljöförvaltningen bygger på originalhandlingar och vilka bygger endast på muntliga/interna uppgifter?
-**Status:** **OBESVARAD**.
+## H5. När Familjebostäder hänvisar till Miljöförvaltningen – vad är direkt slutsats från myndigheten och vad är Familjebostäders egen tolkning?
+**Status:** **BEHÖVER KONTROLLERAS fråga för fråga.**
 
 ---
 
-# Kärnfrågorna som fortfarande saknar ett faktiskt svar
+# I. FÖRÄNDRADE UPPGIFTER / MÖJLIGA MOTSÄGELSER
 
-Om dokumentet ska kondenseras inför överklagande är dessa de mest centrala:
+## I1. Brand/sanering
+Gaby: ingen dokumenterad brand → slutsats att brand inte inträffat.  
+Jennifer: ”självklart” sanerat efter eventuell brand → ingen dokumentation.
 
-1. **Vad orsakar lukten och de rapporterade hälsobesvären?**
-2. **Vilken undersökning har faktiskt haft i uppdrag att fastställa orsaken?**
-3. **Har lägenheten sanerats efter branden 2017 – och var är dokumentationen?**
-4. **Varför lämnar Gaby och Jennifer motstridiga uppgifter om brand/sanering?**
-5. **Vad exakt gjordes vid kanalrensningen, när, av vem och var är utföranderapporten?**
-6. **Varför fortsatte städning efter flera misslyckade städinsatser, och vad återrapporterade Ed’s?**
-7. **Varför användes mögelprodukter utan redovisad mikrobiell utredning?**
-8. **Varför föreslogs målning och andra kosmetiska åtgärder när grundorsaken fortfarande var okänd?**
-9. **Vilket tekniskt underlag visar att lägenheten var fullt brukbar trots kvarstående problem och pågående åtgärder?**
-10. **Var finns arbetsorder, beställningar, leverantörsrapporter och fullständig felhistorik som kan verifiera Familjebostäders påståenden?**
+**Status:** **MÖJLIG MATERIELL MOTSÄGELSE – originalkällor finns, men exakt kontext/tidpunkt ska fortsatt hållas låst.**
+
+## I2. Intern diskussion om hälsobesvär
+Peter uppges ha sagt att frågan diskuterats internt. Gaby skriver dagen efter att ”det finns inga interna diskussioner”.
+
+**Status:** **MÖJLIG MOTSÄGELSE – Peters uppgift behöver primärkälla/ljud för slutklassificering.**
+
+## I3. Kanalrensning
+Jennifer säger att kanalrensning ska ske. Senare sägs att drifttekniker redan rensat cirka fem meter.
+
+**Status:** **BEHÖVER PRECISERAS.** Dessa kan avse olika tidpunkter/moment och ska inte kallas motsägelse förrän arbetsorder och datum låsts.
 
 ---
 
-## Nästa kontrollsteg
+# J. DE 15 VIKTIGASTE FRÅGORNA FÖR BJÖRN/JURIST
 
-Detta dokument ska uppdateras mot **samtliga mejl från Erica till Familjebostäder** och mot svaren från Jennifer Ehlin, Gaby Khalaf, husvärdar och övriga funktioner. För varje fråga ska slutversionen innehålla:
+1. Vad anser Familjebostäder orsakar de återkommande hälsobesvären?
+2. Vilken undersökning har faktiskt haft i uppdrag att fastställa orsaken?
+3. På vilka grunder anser Familjebostäder att besvären saknar samband med bostaden?
+4. Hur kan den slutsatsen dras när besvären rapporterats efter åtgärder och långvarig genomvädring?
+5. Har lägenheten sanerats efter brand/rökutveckling 2017 och var finns primär dokumentation?
+6. Varför lämnar Gaby och Jennifer olika besked om brand/sanering?
+7. Vad exakt gjordes vid den uppgivna kanalrensningen – datum, kanal, sträcka, metod och utförare?
+8. Var finns beställning, arbetsorder och utföranderapport för kanalrensningen?
+9. Är ”5 meter”-åtgärden samma rensning som Jennifer skrev skulle ske 2 december?
+10. Varför upprepades städning efter reklamerad städning, och vad rapporterade Ed’s tillbaka?
+11. Varför användes starkare/mögelinriktade rengöringsprodukter, och vad var uppdraget?
+12. Varför användes OCAB:s rapport som stöd för bredare slutsatser om hälsobesvär när uppdraget gällde missfärgning/fukt/skada?
+13. Varför föreslogs målning och andra åtgärder utan redovisat samband mellan åtgärd och identifierad orsak?
+14. Vilket tekniskt underlag låg bakom Familjebostäders bedömning att lägenheten var brukbar?
+15. Var finns fullständig intern/extern dokumentationskedja: felanmälan → beställning → utförande → återrapportering → effektkontroll?
 
-**DATUM FRÅGA STÄLLDES → EXAKT FRÅGA → MOTTAGARE → SVAR/INGET SVAR → DATUM PÅ SVAR → BEDÖMNING: BESVARAD / DELVIS / OBESVARAD → BEVIS-ID/KÄLLA.**
+---
 
-Det är först efter denna fråga-för-fråga-kontroll som dokumentet ska betraktas som en slutlig katalog över obesvarade frågor.
+# K. NÄSTA KONTROLL – FÖR ATT GÖRA DOKUMENTET SLUTGILTIGT
+
+Den här versionen är betydligt mer källnära än version 1, men dokumentet ska fortsätta uppdateras tills varje viktig fråga är kopplad till exakt originalmejl/ljud/handling.
+
+Fortsatt kontroll ska göras enligt:
+
+**DATUM → EXAKT FRÅGA → MOTTAGARE → EXAKT SVAR → DATUM PÅ SVAR → STATUS → VAD SAKNAS → KÄLL-ID.**
+
+Särskilt prioriterade originalkällor att låsa:
+- mejlkedjan 24 juni–9 juli 2026 om orsaken till hälsobesvären,
+- Gaby/Jennifer november–december 2025 om brand, sanering, städning och ventilation,
+- ljud 11 november 2025,
+- ljud 17 december 2025,
+- Ed’s beställningar/återrapportering,
+- arbetsorder och utföranderapporter för kanalrensning,
+- Familjebostäders senare felanmälningar och statusändringar.
+
+## Övergripande slutsats för arbetsmaterialet
+Det mest återkommande mönstret är inte bara att svar saknas helt. Ofta lämnas **hänvisningssvar** till OCAB eller Miljöförvaltningen när frågan uttryckligen gäller Familjebostäders egen bedömning, egna underlag eller verifierbar utförandedokumentation. Det ska markeras som **frågan inte faktiskt besvarad**, utan att tillskriva motiv till varför svaret uteblev.
