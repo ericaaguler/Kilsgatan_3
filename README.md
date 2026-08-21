@@ -4,7 +4,7 @@ Detta privata repository är en källbaserad kunskapsbank.
 
 ## Viktig arbetsingång
 
-- [STARTA HÄR – Björn](START-HAR-BJORN.md) – prioriterad ingång till arbetsanalyser, möten och obesvarade frågor.
+- [STARTA HÄR – prioriterad granskning](START-HAR.md) – ingång till arbetsanalyser, möten och obesvarade frågor som bör ses över.
 
 > Dokument under `analyser/` och filer märkta `ARBETSANALYS` är arbetsmaterial. De ersätter inte originalbevis, ljudfiler eller källregistrering i bevisregistret.
 
@@ -27,7 +27,7 @@ Repositoryt ska inte innehålla spekulation som presenteras som faktum. Egna ana
 
 ## Ingångar
 
-- [STARTA HÄR – Björn](START-HAR-BJORN.md)
+- [STARTA HÄR – prioriterad granskning](START-HAR.md)
 - [Tidslinje](TIDSLINJE.md)
 - [Bevisregister](BEVISREGISTER.md)
 - [Samlat trådindex](korrespondens/TRADINDEX.md)
