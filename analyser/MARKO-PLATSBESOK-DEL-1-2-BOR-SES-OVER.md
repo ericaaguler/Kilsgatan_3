@@ -67,29 +67,40 @@ utan:
 
 ---
 
-# 2. ”Kapsla/spärra” genom målning – måste låsas mot ljudet
+# 2. Markos uttalande om målning: ”spärrat i väggarna”
 
-I transkriptionssekvensen omkring 07:51 förekommer formulering om att det är målat och ”spärrat i väggarna”. Erica minns också att Marko använde resonemang om att **kapsla/spärra** genom målning.
+## TALARE IDENTIFIERAD AV ERICA
 
-### STATUS
+Erica har nu uttryckligen identifierat att det är **Marko** som säger:
 
-**BEHÖVER LJUDVERIFIERAS innan exakt ordval tillskrivs Marko.**
+> ”Det är målat, det är ju bra. Det är ju liksom spärrat i väggarna.”
+
+### Status
+
+**TALARIDENTITET BEKRÄFTAD AV ERICA.** Exakt ordalydelse bör fortfarande kontrolleras mot originaljudet före extern ordagrann användning, men uttalandet ska inte längre stå som osäker talartillskrivning.
 
 ### Varför ordet är viktigt
 
-Om Marko faktiskt beskriver målningen som att något ska **spärras eller kapslas in**, uppstår omedelbart följdfrågorna:
+Marko beskriver inte målningen enbart som estetisk. Han använder ett uttryck som innebär att något är **spärrat i väggarna**.
 
-1. Vad är det konkret som ska spärras/kapslas in?
-2. Vilken identifierad källa eller substans riktar sig åtgärden mot?
-3. Vilken teknisk undersökning ligger bakom valet av spärrmålning?
-4. Är målningen underhåll/estetik eller en inomhusmiljöåtgärd?
-5. Hur ska effekten verifieras efter målningen?
+Det väcker följdfrågorna:
+
+1. Vad är det konkret som avses vara spärrat?
+2. Är det lukt, sot/rökrelaterade rester, emissioner eller något annat?
+3. Vilken identifierad källa eller substans riktade sig målningen mot?
+4. Vilken teknisk undersökning låg bakom valet av en spärrande åtgärd?
+5. Hur skulle effekten verifieras efter målningen?
+6. Var finns arbetsorder/materialspecifikation som visar vilken färg eller spärrprodukt som användes och i vilket syfte?
 
 ### ⚠️ VIKTIGT LOGISKT GLAPP
 
-Man kan inte samtidigt beskriva målning som ren kosmetik/generositet och som en åtgärd för att **spärra/kapsla** något utan att redovisa vad som ska spärras och varför.
+Det blir svårt att beskriva samma målning som enbart kosmetik eller ”fin gest” om en annan företrädare samtidigt beskriver den som att något är **spärrat i väggarna**.
 
-Detta ska jämföras med mötet 17 december 2025 där målning beskrivs som en ”fin gest”.
+Detta ska jämföras med:
+
+- mötet 17 december 2025 där Jennifer beskriver viss målning som en ”fin gest”,
+- Peters uppgift om att målning/tomställning inte skulle lösa problemet,
+- och senare eventuella skriftliga uppgifter om syftet med målningen.
 
 ---
 
@@ -99,14 +110,14 @@ Detta ska jämföras med mötet 17 december 2025 där målning beskrivs som en �
 
 Erica uppger att husvärden Peter har sagt att problemet **inte blir löst genom målning eller genom att tomställa lägenheten**.
 
-Under Markos platsbesök förs däremot ett resonemang där målningen beskrivs positivt och där transkriptionen innehåller formuleringen att det är målat och ”spärrat i väggarna”.
+Under Markos platsbesök säger Marko däremot att målningen är bra och att det är ”spärrat i väggarna”.
 
 ### Varför detta kan vara viktigt
 
-Om båda uttalandena verifieras finns två olika linjer från Familjebostäders husvärdar:
+Om Peters uttalande verifieras finns två olika linjer från Familjebostäders husvärdar:
 
 **Peter:** målning/tomställning löser inte problemet.  
-**Marko:** målning framställs som relevant/positiv och eventuellt som spärr/kapsling.
+**Marko:** målningen framställs som relevant/positiv och beskrivs som att något är spärrat i väggarna.
 
 Det kräver svar på:
 
@@ -117,7 +128,7 @@ Det kräver svar på:
 
 ### 🚨 BÖR SES ÖVER
 
-Detta är mer intressant än frågan om någon enskild person ”tror” på målning. Kärnan är att **Familjebostäders egna företrädare förefaller beskriva samma åtgärd på olika sätt samtidigt som någon identifierad grundorsak inte redovisas.**
+Kärnan är att **Familjebostäders egna företrädare förefaller beskriva samma åtgärd på olika sätt samtidigt som någon identifierad grundorsak inte redovisas.**
 
 ---
 
@@ -186,8 +197,9 @@ Det starka i platsbesöket är inte att Marko själv skulle ha reagerat, utan at
 3. Marko får informationen direkt på plats.
 4. Marko föreslår själv att resten av samtalet fortsätter på balkongen.
 5. Marko beskriver situationen som problematisk och säger att den ska tas vidare med chef.
-6. Orsaken är fortfarande inte klarlagd.
-7. Samtidigt förekommer olika resonemang om städning, ventilation och målning/spärrning utan redovisad sammanhållen orsaksutredning.
+6. Marko säger att målningen är bra och att det är ”spärrat i väggarna”.
+7. Orsaken är fortfarande inte klarlagd.
+8. Samtidigt förekommer olika resonemang om städning, ventilation och målning/spärrning utan redovisad sammanhållen orsaksutredning.
 
 ---
 
@@ -200,10 +212,12 @@ Det starka i platsbesöket är inte att Marko själv skulle ha reagerat, utan at
 5. Gjordes någon CO2-, VOC-, partikel- eller annan luftkvalitetsmätning efter besöket?
 6. Hur dokumenterades Ericas akuta besvär och Björn Adlers egen påverkan under besöket?
 7. Hur beaktades att Marko själv föreslog att samtalet skulle fortsätta på balkongen efter att ha observerat Ericas återkommande behov av frisk luft?
-8. Vad avsågs med ”spärra/kapsla” genom målning, om ordvalet ljudverifieras?
-9. Hur förhåller sig detta till Peters uppgift att målning/tomställning inte skulle lösa problemet?
-10. Vilket tekniskt underlag stödde respektive ståndpunkt om målningen?
-11. Hur kunde ärendet senare beskrivas som avslutat om Marko vid besöket uppgav att frågan behövde redas ut med chef?
+8. Vad avsåg Marko med att det var ”spärrat i väggarna”?
+9. Vad var det som enligt Familjebostäder behövde spärras?
+10. Vilken produkt/metod användes och var finns den tekniska dokumentationen?
+11. Hur förhåller sig Markos uttalande till Jennifers ”fin gest” och Peters uppgift att målning/tomställning inte skulle lösa problemet?
+12. Vilket tekniskt underlag stödde respektive ståndpunkt om målningen?
+13. Hur kunde ärendet senare beskrivas som avslutat om Marko vid besöket uppgav att frågan behövde redas ut med chef?
 
 Se full arbetsanalys:
 
