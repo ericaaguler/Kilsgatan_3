@@ -28,6 +28,10 @@ Detta är ingången till det material som särskilt bör ses över. Originalbevi
 - [Arbetsanalys av mötet den 27 januari 2026](transkriptioner/LJUDFIL-6-2026-01-27-HYRESGASTFORENINGEN-ARBETSANALYS.md)
 - [Ej viktigt för huvudspåret](analyser/HYRESGASTFORENINGEN-EJ-VIKTIGT-FOR-HUVUDSPARET.md)
 
+## Integritet och avgränsning
+
+- [Psykiskt mående – relevans och avgränsning](analyser/PSYKISKT-MAENDE-RELEVANS-OCH-AVGRAENSNING.md)
+
 ## Grundregel
 
 För varje uppgift ska det framgå:
