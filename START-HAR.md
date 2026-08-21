@@ -7,6 +7,8 @@ Detta är ingången till det material som särskilt bör ses över. Originalbevi
 ## Bör ses över först
 
 - [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
+- [Platsbesök med Marko, del 1 och 2 – bör ses över](analyser/MARKO-PLATSBESOK-DEL-1-2-BOR-SES-OVER.md)
+- [Arbetsanalys av Markos platsbesök, del 1 och 2](transkriptioner/LJUDFIL-4-5-MARKO-PLATSBESOK-DEL-1-2-ARBETSANALYS.md)
 - [Miljöförvaltningens inspektion 11 mars 2026 – bör ses över](analyser/MILJOFORVALTNINGEN-11-MARS-BOR-SES-OVER.md)
 - [Arbetsanalys av ljudfil 3 – Miljöförvaltningen 11 mars 2026](transkriptioner/LJUDFIL-3-2026-03-11-MILJOFORVALTNINGEN-ARBETSANALYS.md)
 - [Möte 2 den 17 december 2025 – bör ses över](analyser/MOTE-2-2025-12-17-BOR-SES-OVER.md)
