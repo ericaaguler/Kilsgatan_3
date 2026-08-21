@@ -7,6 +7,7 @@ Detta är ingången till det material som särskilt bör ses över. Originalbevi
 ## Bör ses över först
 
 - [Samlad fråge- och svarsmatris – myndigheter och Familjebostäder](analyser/SAMLAD-FRAGE-SVARSMATRIS-MYNDIGHETER-OCH-FAMILJEBOSTADER.md)
+- [Varför fokus på ventilation inte räcker](analyser/VARFOR-FOKUS-PA-VENTILATION-INTE-RACKER.md)
 - [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
 - [Marko – hela inspelningen, sekvensen kring 15:16 och jämförelse med Jennifer](analyser/MARKO-HELA-INSPELNINGEN-SEKVENS-15-16-OCH-JAMFORELSE-JENNIFER.md)
 - [Carolina 4 november – anteckningar, femmetersuppgift och felkällor](analyser/CAROLINA-VENTILATION-4-NOV-ANTECKNINGAR-FEM-METER-OCH-FELKALLOR.md)
