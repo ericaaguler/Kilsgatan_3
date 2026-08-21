@@ -156,23 +156,23 @@ Materialet innehåller både uppgift om en utförd femmetersrensning och uppgift
 
 ---
 
-## 2.10 Marko uppger egen upplevelse efter längre vistelse
+## 2.10 Björn Adler beskriver egen påverkan – inte Marko
 
-Mot slutet av del 1 säger Marko enligt transkriptionen ungefär:
+Vid cirka 26 minuter i del 1 kommer sekvensen:
 
-> ”Nej, men jag känner att det är någonting.”
+> ”Nu kanske man är färgad.”
 
-och:
+Erica har nu identifierat talaren som **Björn Adler**, vittnet som var med vid platsbesöket. Detta stämmer också med Björns senare skriftliga vittnesmål daterat 28 juli 2026, där han uppger att han vid sitt första besök i lägenheten efter en stund började må sämre och behövde lämna lägenheten, och att han senare berättade detta för Marko.
 
-> ”Jag känner ju också när man är här en längre tid. Det är därför vi väntar utanför.”
+I samma sekvens förekommer formuleringar om att efter längre vistelse känna av något och bli ”seg”. Dessa uttalanden ska därför inte tillskrivas Marko utan behandlas som Björns upplevelse, med fortsatt kontroll mot originaljudet för exakt ordalydelse.
 
-Han beskriver även en känsla av att bli ”seg”.
+### 🚨 RÄTTELSE
 
-### 🚨 VIKTIGT ERKÄNNANDE – MÅSTE LJUDVERIFIERAS
+Tidigare arbetsversion tillskrev felaktigt denna sekvens Marko. Det är korrigerat. Markos relevanta egna uttalanden i besöket är i stället bland annat att situationen är problematisk, att han ska notera uppgifterna och att frågan behöver tas med chefen och redas ut.
 
-Om ordalydelsen och talaren bekräftas innebär detta en förstahandsobservation från Familjebostäders egen representant om att något upplevs efter längre vistelse.
+### Betydelse
 
-Det bevisar inte orsaken eller att en viss miljöfaktor är hälsofarlig. Men det är relevant eftersom det inte längre enbart är Ericas upplevelse som diskuteras.
+Björn är ett separat vittne som uppger egen reaktion i lägenheten. Hans senare skriftliga vittnesmål stärker att detta inte bara är något Erica återberättar i efterhand.
 
 ---
 
@@ -216,16 +216,16 @@ Den automatiska transkriptionsfilen för del 2 förefaller delvis duplicera del 
 ## FAKTISKT SAGT/UPPGIVET
 
 - Erica beskriver akuta besvär under besöket.
+- Björn Adler är ett separat närvarande vittne och uppger egen påverkan efter vistelse i lägenheten.
 - Tre städningar och 27 dygns vädring har inte löst situationen enligt Erica.
 - Marko beskriver uppgifterna som problematiska.
 - Marko säger att saken ska noteras och tas med chefen.
 - Samtalet visar att orsaken fortfarande är okänd.
-- Marko beskriver enligt transkriptionen en egen upplevelse efter längre tid i lägenheten.
 - Frågan om kanalrensning framstår som oklar och motsägelsefull.
 
 ## VAD DET VISAR
 
-Vid detta platsbesök behandlas ärendet inte som tekniskt färdigutrett. Familjebostäders representant beskriver behov av fortsatt hantering och diskussion med chef.
+Vid detta platsbesök behandlas ärendet inte som tekniskt färdigutrett. Familjebostäders representant beskriver behov av fortsatt hantering och diskussion med chef. Dessutom finns ett närvarande separat vittne som beskriver egen påverkan i lägenheten.
 
 ## MÖJLIG TOLKNING
 
@@ -244,7 +244,7 @@ Platsbesöket kan stödja att Familjebostäder hade kännedom om kvarstående be
 1. Markos formulering: ”det där är problematiska grejer”.
 2. Formuleringen efter tre städningar och 27 dygns vädring: ”det är tydligt det”.
 3. Markos löfte att ta frågan med chefen och reda ut den.
-4. Markos eventuella egenreaktion efter längre vistelse.
+4. Björn Adlers egen upplevelse efter vistelse och hans senare skriftliga vittnesmål.
 5. Motsägelsen mellan utförd femmetersrensning och utebliven kanalrensning.
 6. Varför ytterligare städning föreslås utan redovisad orsak.
 7. Om målning uttryckligen bedöms sakna effekt.
