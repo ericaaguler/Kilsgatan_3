@@ -12,6 +12,7 @@ Detta är ingången till det material som särskilt bör ses över. Originalbevi
 - [Marko – hela inspelningen, sekvensen kring 15:16 och jämförelse med Jennifer](analyser/MARKO-HELA-INSPELNINGEN-SEKVENS-15-16-OCH-JAMFORELSE-JENNIFER.md)
 - [Carolina 4 november – anteckningar, femmetersuppgift och felkällor](analyser/CAROLINA-VENTILATION-4-NOV-ANTECKNINGAR-FEM-METER-OCH-FELKALLOR.md)
 - [Carolina 4 november 2025 – ljudfil mottagen och kontrollfrågor](transkriptioner/LJUDFIL-8-2025-11-04-CAROLINA-VENTILATION-INVENTERING.md)
+- [Städfirma 6 oktober 2025 – ljudfil mottagen och kontrollfrågor](transkriptioner/LJUDFIL-9-2025-10-06-STADFIRMA-INVENTERING.md)
 - [Frågor till Jennifer före möte 2 och svarstatus](analyser/FRAGOR-TILL-JENNIFER-FORE-MOTE-2-OCH-SVARSSTATUS.md)
 - [Platsbesök med Marko, del 1 och del 2 – bör ses över](analyser/MARKO-PLATSBESOK-DEL-1-2-BOR-SES-OVER.md)
 - [Arbetsanalys av Markos platsbesök, del 1 och del 2](transkriptioner/LJUDFIL-4-5-MARKO-PLATSBESOK-DEL-1-2-ARBETSANALYS.md)
