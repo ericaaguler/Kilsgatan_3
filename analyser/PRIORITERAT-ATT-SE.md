@@ -63,19 +63,42 @@ Se:
 Följande bör ses över särskilt:
 
 - Erica beskriver yrsel, huvudvärk och kognitiv påverkan under själva besöket.
+- Björn Adler är närvarande som separat vittne och uppger egen påverkan efter vistelse i lägenheten.
 - Marko kallar omständigheterna ”problematiska grejer” och säger att han ska notera dem.
 - Efter tre städningar och 27 dygns vädring säger Marko enligt transkriptionen att det är tydligt att något fortfarande inte stämmer.
 - Marko säger att han ska ta frågan med chefen och försöka reda ut vad som kan göras.
-- Marko uppger enligt transkriptionen att han själv känner något efter längre vistelse och att man därför väntar utanför. Detta måste ljudverifieras ordagrant.
+- Björns skriftliga vittnesmål uppger att Marko, efter att ha sett Erica återkommande gå ut för frisk luft, själv föreslog att resten av samtalet skulle fortsätta på balkongen.
 - Fungerande frånluft visas, men ingen samlad förklaring lämnas till luftens kvalitet eller de återkommande besvären.
 - Ytterligare rengöring föreslås trots tre tidigare städningar och omfattande vädring.
 - Uppgiften om utebliven kanalrensning måste jämföras med uppgiften från decembermötet om en utförd femmetersrensning.
+- I transkriptionssekvensen förekommer formulering om att det är målat och ”spärrat i väggarna”. Ericas minnesbild är att Marko talade om att kapsla/spärra. Exakt ordval och talare måste ljudverifieras.
 
-### 🚨 Bör ses över särskilt
+### 🚨 Viktig rättelse
 
-Om Markos egen upplevelse efter längre vistelse bekräftas mot ljudet är detta en förstahandsobservation från Familjebostäders egen representant. Det fastställer inte orsaken, men det försvagar möjligheten att behandla samtliga rapporterade reaktioner som enbart Ericas subjektiva upplevelse.
+Formuleringen ”Nu kanske man är färgad” är enligt Ericas talaridentifiering **Björn**, inte Marko. Den får inte användas som Markos egen reaktion.
 
-### ⚠️ Möjlig motsägelse
+### 🚨 Bör ses över särskilt – balkongen
+
+Det går inte att fastställa Markos motiv till att flytta samtalet till balkongen. Men händelsekedjan är relevant:
+
+**Erica uppvisar besvär och söker frisk luft → Björn uppger egen påverkan → Marko observerar situationen → Marko föreslår själv att samtalet fortsätter på balkongen → Marko säger att ärendet behöver tas med chef och redas ut.**
+
+Frågan är vilken betydelse dessa direkta observationer fick i Familjebostäders fortsatta handläggning.
+
+### ⚠️ Möjlig motsägelse – målning/tomställning
+
+Erica uppger att husvärden Peter sagt att problemet inte skulle lösas genom målning eller tomställning. Under Markos platsbesök förs samtidigt ett resonemang där målning framställs positivt och det förekommer formulering om att väggarna är ”spärrade”.
+
+Om uttalandena verifieras måste Familjebostäder förklara:
+
+- vad målningen skulle avhjälpa,
+- vad som skulle spärras/kapslas,
+- vilken teknisk bedömning som låg bakom,
+- och varför egna företrädare beskriver åtgärdens betydelse olika.
+
+Detta ska också jämföras med decembermötet där målning beskrivs som en ”fin gest”.
+
+### ⚠️ Möjlig motsägelse – kanalrensning
 
 Materialet innehåller både:
 
@@ -84,7 +107,15 @@ Materialet innehåller både:
 
 Det måste klarläggas om detta avser olika tidpunkter, olika kanaler eller motstridiga besked om samma åtgärd.
 
-## 5. Kärnfrågor
+## 5. Markos historiska kunskapsläge – separat verifieringsspår
+
+Erica uppger att Marko var husvärd på Kilsgatan när brand-/rökhändelsen inträffade 2017. Om detta dokumenteras kan det vara relevant för vad han redan kunde känna till vid platsbesöket 2026.
+
+Det måste dock verifieras genom tjänste-/områdesuppgift eller annan källa innan det används som faktum.
+
+Erica återger även en uppgift från grannen Thomas om tidigare konflikter med Marko och områdesbyte. Detta är andrahandsuppgift och ska inte användas i huvudspåret utan självständig relevans och dokumentation.
+
+## 6. Kärnfrågor
 
 1. Vad orsakar lukten och hälsobesvären?
 2. Vilken undersökning hade uttryckligt uppdrag att fastställa orsaken?
@@ -93,11 +124,14 @@ Det måste klarläggas om detta avser olika tidpunkter, olika kanaler eller mots
 5. Vilken kanalrensning var senare fortfarande utebliven?
 6. Var finns arbetsorder och utföranderapporter?
 7. Vad skulle målningen avhjälpa?
-8. Hur beaktades att flera personer uppgett besvär?
-9. Vad undersöktes efter brand-/rökhändelsen 2017?
-10. Hur kunde bostaden bedömas som brukbar när orsaken inte var identifierad?
-11. Vilken konkret uppföljning skedde efter att Marko skulle ta frågan med chefen?
+8. Vad avsågs med att spärra/kapsla, om detta ljudverifieras?
+9. Hur förhåller sig Peters och Markos uppgifter om målning/tomställning till varandra?
+10. Hur beaktades att flera personer uppgett besvär?
+11. Vad undersöktes efter brand-/rökhändelsen 2017?
+12. Hur kunde bostaden bedömas som brukbar när orsaken inte var identifierad?
+13. Vilken konkret uppföljning skedde efter att Marko skulle ta frågan med chefen?
+14. Vilken betydelse fick att Marko själv föreslog att samtalet skulle fortsätta på balkongen efter att ha observerat Ericas behov av frisk luft?
 
-## 6. Juridiskt användbar kärna
+## 7. Juridiskt användbar kärna
 
-**Rapporterade hälsobesvär → ingen redovisad sammanhållen orsaksutredning → flera olika åtgärder → kvarstående besvär → Familjebostäders egen representant beskriver fortsatt problem och behov av chefsförankring → ändå senare påståenden om att ärendet är avslutat eller att inget avvikande finns.**
+**Rapporterade hälsobesvär → ingen redovisad sammanhållen orsaksutredning → flera olika åtgärder → kvarstående besvär → Familjebostäders egen representant observerar situationen, flyttar samtalet till balkongen och beskriver behov av chefsförankring → olika besked om målning/spärrning och kanalrensning → ändå senare påståenden om att ärendet är avslutat eller att inget avvikande finns.**
