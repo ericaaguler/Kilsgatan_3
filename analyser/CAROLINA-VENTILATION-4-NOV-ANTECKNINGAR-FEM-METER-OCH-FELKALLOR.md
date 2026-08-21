@@ -2,6 +2,19 @@
 
 **Status:** teknisk arbetsanalys. Bygger på Carolinas skriftliga sammanställning som Erica lämnat samt tidigare registrerat material. Exakta muntliga formuleringar ska fortfarande låsas mot ljudet innan citat används externt.
 
+## 0. Verifierad lägenhetsstorlek
+
+Familjebostäders planritning för hyresobjekt **60020562**, Kilsgatan 3, anger:
+
+- 3 rum och kök,
+- bostadsarea cirka **75 m²**,
+- fastighet 6002 – Järflotta 5,
+- 1 trappa.
+
+Detta innebär att Folkhälsomyndighetens riktvärde om minst **0,35 l/s per m² uteluft** motsvarar cirka **26,25 l/s** för hela bostaden.
+
+Viktigt: 26,25 l/s är ett riktvärde för **totalt uteluftsflöde till bostaden**. Det får inte utan vidare jämställas med summan av två uppmätta frånluftsflöden i kök och badrum. För att avgöra om riktvärdet faktiskt uppfylldes behövs en spårbar redovisning av hela luftbalansen och/eller totalt uteluftsflöde under relevanta bruksvillkor.
+
 ## 1. Carolinas skriftliga uppgifter
 
 - Ventilationstyp: mekanisk frånluft (F-system).
@@ -56,6 +69,8 @@ Det betyder att flödet före åtgärden låg:
 - cirka 18 procent lägre än 9 l/s,
 - och cirka 27 procent lägre än det senare värdet 10,2 l/s.
 
+Ökningen från 7,4 till 10,2 l/s är cirka 38 procent räknat från utgångsvärdet.
+
 Detta är inte automatiskt bevis för en allvarlig olägenhet, men det visar att systemet **inte stod i samma läge före och efter Carolinas insats**.
 
 ## 5. Forcerat flöde 35 l/s bevisar inte att grundventilationen var tillräcklig
@@ -103,17 +118,39 @@ Det framgår inte om 10 och 4,2 l/s avser:
 
 Detta är en dokumentationsbrist. Om det avser tilluft behöver man förklara varför tilluften minskades och hur det totala uteluftsflödet därefter säkerställdes. Om det avser frånluft i sovrum behöver man förklara varför ett frånluftsdon finns där i ett system som annars beskrivs som normalt F-system.
 
-## 8. Totalflödet är inte redovisat på ett spårbart sätt
+## 8. Vad 75 m² gör med bedömningen av totalflödet
 
-För en bostad om cirka 75 m² motsvarar Folkhälsomyndighetens riktvärde 0,35 l/s per m² ett totalt uteluftsflöde om cirka 26,25 l/s.
+För 75 m² är 0,35 l/s per m² lika med **26,25 l/s totalt uteluftsflöde**.
 
-De redovisade grundflödena för kök och badrum efter justering blir tillsammans 25,6 l/s (10,2 + 15,4). Det ligger mycket nära 26,25 l/s, men anteckningen räcker ändå inte för att fastställa att riktvärdet uppfylldes, eftersom:
+### Efter Carolinas justering
 
-- kök och badrum är frånluft, inte direkt mätt total uteluft,
-- luft kan tas in genom läckage och inte bara genom avsedda ventiler,
-- sovrumsuppgiften är oklar,
-- samtliga tre uteluftsventiler redovisas inte med egna före/efter-värden,
-- mätförhållanden, dörrlägen, fönsterläge och tryckskillnad saknas.
+De två tydligt redovisade grundflödena på frånluftssidan är:
+
+- kök: 10,2 l/s,
+- badrum: 15,4 l/s,
+- summa: **25,6 l/s**.
+
+25,6 l/s motsvarar cirka **0,341 l/s per m²** om man, enbart som räkneexempel, delar summan med 75 m². Det är **0,65 l/s (cirka 2,5 procent) under 26,25 l/s**.
+
+Detta ska **inte** beskrivas som bevis för att riktvärdet underskreds, eftersom:
+
+1. 26,25 l/s avser totalt **uteluftsflöde**, inte summan av två frånluftsdon,
+2. mätosäkerhet och projekteringsförutsättningar är inte redovisade,
+3. sovrumsuppgiften 4,2 l/s är oklar,
+4. det är inte redovisat om ytterligare frånluftspunkter finns,
+5. de tre uteluftsventilernas verkliga tilluftsflöden saknas.
+
+Men siffrorna gör en kontrollfråga berättigad: **vilken mätning visar att lägenheten faktiskt fick minst cirka 26,25 l/s uteluft under normalt bruk?**
+
+### Före Carolinas justering
+
+Om man enbart summerar de tydligt angivna grundflödena i kök och badrum före justeringen får man:
+
+- 7,4 + 10 = **17,4 l/s**.
+
+Detta ligger långt under 26,25 l/s, men även här går det **inte** att dra slutsatsen att hela bostadens totala luftflöde var 17,4 l/s, eftersom sovrumsuppgiften är oklar och andra flödesvägar/uttag kan ha funnits.
+
+Just därför är den ofullständiga dokumentationen central. Om 10 l/s i sovrummet faktiskt var en separat frånluft skulle totalen se helt annorlunda ut; om det var tilluft ska det inte adderas till frånluften. Anteckningen måste förklaras innan totalsiffror kan användas säkert.
 
 ## 9. Vad som är normalt
 
@@ -124,7 +161,7 @@ Följande är i sig normalt i ett mekaniskt frånluftssystem:
 - högre flöde i köket vid forcering,
 - att don kan behöva rengöras och injusteras.
 
-Det är också möjligt att 10,2 l/s i köksgrundläge, 15,4 l/s i badrum och 35 l/s forcerat kan vara rimliga enskilda värden beroende på projektering.
+Storleksordningen omkring 10 l/s i kök och 15 l/s i badrum förekommer sedan länge som typiska dimensioneringsvärden/praxis i bostäder. För en bostad på 75 m² blir dock areakravet/riktvärdet 26,25 l/s, vilket är något högre än 10 + 15 = 25 l/s. Därför behöver en projekterad 75 m²-bostad normalt hanteras som ett helt system där det dimensionerande totalflödet verifieras – inte bara genom att två enskilda don ser rimliga ut.
 
 ## 10. Vad som är onormalt eller åtminstone kräver förklaring
 
@@ -137,6 +174,7 @@ Det är också möjligt att 10,2 l/s i köksgrundläge, 15,4 l/s i badrum och 35
 7. Det framgår inte om blockerande material i uteluftsventilerna dokumenterades, avlägsnades och följdes upp i alla tre rum.
 8. Det framgår inte hur luftväxlingen fungerade i normalt stängt bruksläge.
 9. Mätningen säger inget om luftens innehåll eller orsaken till lukt och symtom.
+10. För en verifierad area om 75 m² saknas en tydlig mätning/redovisning som direkt visar totalt uteluftsflöde om cirka 26,25 l/s eller mer.
 
 ## 11. Varför Miljöförvaltningen borde ha reagerat eller åtminstone följt upp
 
@@ -147,6 +185,7 @@ Det går inte att slå fast varför Miljöförvaltningen inte reagerade utan att
 - Var alla tre uteluftsventiler fullt öppna och korrekt dimensionerade efter åtgärd?
 - Vad betyder sovrumsuppgiften 10 → 4,2 l/s?
 - Vilket totalflöde och vilken tryckbalans hade lägenheten med stängda fönster och normala innerdörrslägen?
+- Vilken mätning visar det totala uteluftsflödet för den verifierade arean 75 m²?
 - Vad exakt rensades i kanalen?
 - Varifrån kommer uppgiften om fem meter?
 - Var finns arbetsorder och efterkontroll?
@@ -168,13 +207,16 @@ En möjlig förklaring är att Miljöförvaltningen betraktade avvikelsen som å
 8. Vilket projekteringsunderlag anger 4,2 l/s?
 9. Vilka värden uppmättes vid samtliga tre uteluftsventiler före och efter?
 10. Vilket var lägenhetens totala grundflöde och tryckförhållande efter injusteringen?
+11. Vilken mätning visar att totalt uteluftsflöde för cirka 75 m² uppgick till minst cirka 26,25 l/s under normalt bruk?
 
 ### Till Miljöförvaltningen/domstolen
 
 > Hur värderades Carolinas uppgifter om avvikande flöden, blockeringar och omfattande injusteringar, och vilken handling visar att hela bostadens luftbalans i normalt bruksläge verifierades efter åtgärden?
 
+> För en bostadsarea om cirka 75 m² motsvarar Folkhälsomyndighetens riktvärde 0,35 l/s per m² cirka 26,25 l/s totalt uteluftsflöde. Vilken mätning i akten visar att detta uteluftsflöde uppnåddes efter åtgärderna?
+
 > Vilket underlag finns för uppgiften att cirka fem meter kanal rensades, när detta inte framgår av Carolinas skriftliga anteckning?
 
 ## 13. Kärnslutsats
 
-Carolinas anteckning visar att konkreta ventilationsavvikelser fanns och att flera värden ändrades den 4 november 2025. Den visar däremot inte en fullständig, spårbar kanalrensning eller en komplett kontroll av hela bostadens luftbalans. Uppgiften om “fem meter” är för närvarande en separat och obestyrkt precisering från Jennifer. Den största tekniska oklarheten är sovrumsuppgiften 10 → 4,2 l/s och avsaknaden av en sammanhållen före/efter-redovisning för alla till- och frånluftspunkter.
+Carolinas anteckning visar att konkreta ventilationsavvikelser fanns och att flera värden ändrades den 4 november 2025. Familjebostäders egen planritning verifierar en bostadsarea om cirka 75 m², vilket innebär ett riktvärde om cirka 26,25 l/s totalt uteluftsflöde. De två tydligt redovisade frånluftsflödena efter justering summerar till 25,6 l/s, men detta är inte samma mätstorhet som totalt uteluftsflöde och kan därför varken användas för att säkert godkänna eller underkänna ventilationen. Den avgörande dokumentationsluckan är att en sammanhållen mätning av hela bostadens luftbalans/totala uteluftsflöde inte framgår av Carolinas anteckning. Uppgiften om “fem meter” är dessutom för närvarande en separat och obestyrkt precisering från Jennifer. Den största tekniska oklarheten är sovrumsuppgiften 10 → 4,2 l/s och avsaknaden av en komplett före/efter-redovisning för alla till- och frånluftspunkter.
