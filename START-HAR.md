@@ -8,6 +8,7 @@ Detta är ingången till det material som särskilt bör ses över. Originalbevi
 
 - [Samlad fråge- och svarsmatris – myndigheter och Familjebostäder](analyser/SAMLAD-FRAGE-SVARSMATRIS-MYNDIGHETER-OCH-FAMILJEBOSTADER.md)
 - [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
+- [Marko – hela inspelningen, sekvensen kring 15:16 och jämförelse med Jennifer](analyser/MARKO-HELA-INSPELNINGEN-SEKVENS-15-16-OCH-JAMFORELSE-JENNIFER.md)
 - [Frågor till Jennifer före möte 2 och svarstatus](analyser/FRAGOR-TILL-JENNIFER-FORE-MOTE-2-OCH-SVARSSTATUS.md)
 - [Platsbesök med Marko, del 1 och 2 – bör ses över](analyser/MARKO-PLATSBESOK-DEL-1-2-BOR-SES-OVER.md)
 - [Arbetsanalys av Markos platsbesök, del 1 och 2](transkriptioner/LJUDFIL-4-5-MARKO-PLATSBESOK-DEL-1-2-ARBETSANALYS.md)
