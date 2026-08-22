@@ -1,9 +1,11 @@
 # LJUDFIL 1 – möte 11 november 2025 – arbetsanalys
 
-**Deltagare enligt användarens uppgift:** Erica, Jennifer, Gaby, Mike/Micke, Thomas  
+**Deltagare enligt användarens uppgift:** Erica, Jennifer, Gaby, Mike/Micke samt **Thomas från Torsbygatan 11**  
 **Ljudfilens längd:** cirka 1:30:53  
 **Tillgänglig transkription i nuläget:** cirka 03:21–30:27  
 **Status:** **PÅGÅENDE – INTE FÄRDIGANALYSERAD**
+
+> Viktigt: Thomas är med Erica på mötet som stöd/vittne. Han ska inte blandas ihop med Peter. Peter hör till det separata platsbesöket den 29 oktober 2025.
 
 > Denna fil är ett arbetsdokument. Endast den del som finns i uppladdad transkription får beskrivas som transkriberad. Minnesbilder om senare delar av mötet markeras separat som partsuppgift tills de kan kontrolleras mot ljud/transkription.
 
@@ -88,7 +90,7 @@ Transkriptionen innehåller bland annat formuleringar i stil med:
 3. Vem svarar?
 4. Är svaret direkt, delvis, undvikande eller ämnesbyte?
 5. Säger Erica att hon mår sämre i lägenheten?
-6. Säger Thomas att han mår sämre/reagerar?
+6. Säger **Thomas från Torsbygatan 11** att han själv mår sämre/reagerar i lägenheten?
 7. Bekräftar någon från Familjebostäder att flera personer reagerar?
 8. Vad sägs om kanalrensning?
 9. Vad säger Mike/Micke om konsekvensen för andra/alla lägenheter?
@@ -105,7 +107,7 @@ Transkriptionen innehåller bland annat formuleringar i stil med:
 
 Erica minns att:
 
-- både Erica och Thomas uttrycker att de mår sämre/reagerar i lägenheten,
+- både Erica och **Thomas från Torsbygatan 11** uttrycker att de mår sämre/reagerar i lägenheten,
 - Jennifer undviker eller skjuter undan frågan om luften,
 - Jennifer säger att en kanalrensning bör göras,
 - Mike/Micke svarar att då måste man göra det i alla lägenheter,
@@ -117,27 +119,40 @@ Erica minns att:
 
 ---
 
-# 6. Potentiell nyckelsekvens – endast om resterande ljud bekräftar den
+# 6. ⚠️ PRIORITERAD NYCKELSEKVENS SOM MÅSTE LÅSAS MOT LJUDET
 
-## ⚠️ TEORIN SPRICKER HÄR – MÖJLIG SEK VENS
+Detta är den sekvens i 11-november-inspelningen som har högst prioritet att lyssna fram och tidsstämpla:
 
-**Möjlig sekvens:**
+**hälsobesvär från Erica/Thomas → luft/ventilation → kanalrensning som möjlig åtgärd → Mike/Mickes invändning att detta då måste göras i alla lägenheter → eventuell intern överläggning → Jennifers efterföljande ståndpunkt.**
 
-hälsobesvär → luft/ventilation → kanalrensning som möjlig åtgärd → invändning om att detta då gäller alla lägenheter → intern överläggning → ändrat spår/ny ståndpunkt.
+### Varför den kan vara viktig
 
-**Varför detta kan vara viktigt:**
+Om ljudet faktiskt bekräftar denna ordningsföljd kan den visa att:
 
-Om detta bekräftas kan det visa att Familjebostäder själva behandlar ventilation som något som fortfarande kan behöva åtgärdas eller undersökas, samtidigt som den senare linjen kan bli en annan.
+1. Familjebostäder på mötet behandlade ventilation/kanalrensning som ett fortfarande öppet åtgärdsspår,
+2. omfattningen till andra lägenheter aktualiserades,
+3. och den efterföljande ståndpunkten behöver jämföras med vad Jennifer senare skrev och sade.
 
-**Vad det inte bevisar:**
+### Vad den inte får användas till utan stöd
 
-- att ventilationen faktiskt orsakar hälsobesvären,
-- varför Jennifer eventuellt ändrar linje,
-- att kostnad eller omfattning medvetet styr beslutet.
+Den bevisar inte i sig:
+
+- att ventilationen orsakar hälsobesvären,
+- att ekonomiska skäl styrde beslutet,
+- varför någon eventuellt ändrade ståndpunkt,
+- eller att en full kanalrensning faktiskt var tekniskt nödvändig.
 
 ---
 
-# 7. Korskontroller som ska byggas mot övrigt material
+# 7. Peter – separat fil
+
+Peter hör **inte** till denna identifierade deltagarlista för mötet den 11 november. Hans separata besök den **29 oktober 2025** finns i `LJUDFIL-10-2025-10-29-PETER-BESOK-LAMPA-BADRUM-ARBETSANALYS.md`.
+
+I nuläget finns där **inget låst Peter-citat av sådan betydelse att just en särskild nyckelsekvens redan kan pekas ut**. Den filen ska fortfarande lyssnas igenom, men den är lägre prioriterad än 11-november-mötets möjliga sekvens om hälsobesvär → ventilation → kanalrensning → alla lägenheter → efterföljande ståndpunkt.
+
+---
+
+# 8. Korskontroller som ska byggas mot övrigt material
 
 **KORSKONTROLL 01 – Vad säger Jennifer om orsaken?**  
 **KORSKONTROLL 02 – När säger Familjebostäder första gången att de ska felsöka?**  
@@ -149,6 +164,6 @@ Om detta bekräftas kan det visa att Familjebostäder själva behandlar ventilat
 
 ---
 
-# 8. Status
+# 9. Status
 
 Denna ljudfil är **inte färdiganalyserad**. Resterande cirka en timme måste transkriberas/kontrolleras innan slutlig motsägelse- och erkännandekatalog kan göras.
