@@ -28,6 +28,12 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 
 **Status:** unik fil i nuvarande lokala material. Prioriterad för fyndgenomgång.
 
+### 9 oktober 2025 – samtal med Gaby
+- `9 okt - gaby samtal .m4a` – **25:06,091**
+- metadata: creation_time 2025-10-09T13:47:00Z.
+
+**Status:** unik fil i nuvarande lokala material. Viktigt tidigt källspår endast drygt en vecka efter tillträdet. Ska användas för att låsa vad Gaby själv bekräftar om lägenhetens skick, kvarstående brister, åtgärder, ansvar och eventuella öppna frågor. Se `LJUDFIL-13-2025-10-09-GABY-SAMTAL-INVENTERING.md`.
+
 ### 29 oktober 2025 – Peter, lampan/badrummet
 - `29 okt 2025 Peter lampan badrummet.m4a` – 7:12,384
 - `29 okt 2025 Peter lampan badrummet(1).m4a` – 7:12,384
@@ -94,13 +100,14 @@ Två filer med samma innehåll ska aldrig räknas som två oberoende bekräftels
 1. 19 maj 2026 – Peter + Thomas
 2. 11 november 2025 – möte 1
 3. 3 oktober 2025 – första Peter-besöket, tidigt skick/tillträde/vädring
-4. 4 november 2025 – Carolina
-5. 17 december 2025 – möte 2
-6. 6 oktober 2025 – ED städfirma
-7. 11 mars 2026 – Miljöförvaltningen
-8. 10 juli 2026 – Marko, för kontroll mot redan identifierade fynd
-9. 29 oktober 2025 – Peter
-10. HGF-spåren och övriga ljud
+4. 9 oktober 2025 – Gaby, tidiga brister/åtgärder/ansvar
+5. 4 november 2025 – Carolina
+6. 17 december 2025 – möte 2
+7. 6 oktober 2025 – ED städfirma
+8. 11 mars 2026 – Miljöförvaltningen
+9. 10 juli 2026 – Marko, för kontroll mot redan identifierade fynd
+10. 29 oktober 2025 – Peter
+11. HGF-spåren och övriga ljud
 
 ## Sekretess/avgränsning
 
