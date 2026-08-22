@@ -17,6 +17,17 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 
 ## Inventering
 
+### 3 oktober 2025 – första mötet med Peter/husvärden
+- `3 okt 2025 träff med peter husvärden .m4a` – **17:11,424**
+- metadata: creation_time 2025-10-03T09:23:50Z, Apple Voice Memos/iPhone.
+
+**Status:** unik fil i nuvarande lokala material. Viktigt tidigt källspår direkt efter tillträdet. Erica minns att Peter säger att han hade vädrat lägenheten samma dag som hon fick nycklarna och att flera brister diskuteras. Detta ska tidskodslås mot ljudet innan det används som citat eller fastslagen uppgift. Se `LJUDFIL-12-2025-10-03-PETER-FORSTA-BESOKET-INVENTERING.md`.
+
+### 6 oktober 2025 – ED städfirma
+- `ed städfirima 6 okt 2025.m4a` – 12:12,032
+
+**Status:** unik fil i nuvarande lokala material. Prioriterad för fyndgenomgång.
+
 ### 29 oktober 2025 – Peter, lampan/badrummet
 - `29 okt 2025 Peter lampan badrummet.m4a` – 7:12,384
 - `29 okt 2025 Peter lampan badrummet(1).m4a` – 7:12,384
@@ -34,15 +45,15 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 
 **Teknisk slutsats:** exakt samma avkodade ljuddata trots olika filnamn. Detta är kopior av samma inspelning, inte två oberoende apparater.
 
-### 17 december 2025 – möte 2
-- `2:A möte 17.12 2025.m4a` – 40:37,973
-
-**Status:** unik fil i nuvarande lokala material. Prioriterad för fyndgenomgång.
-
 ### 16 december 2025 – Emma/Hyresgästföreningen
 - `Emma hyresgästföreningen.m4a` – 27:26,123
 
 **Status:** eget tillfälle enligt metadata/filnamn. Ska inte blandas ihop med 27 januari.
+
+### 17 december 2025 – möte 2
+- `2:A möte 17.12 2025.m4a` – 40:37,973
+
+**Status:** unik fil i nuvarande lokala material. Prioriterad för fyndgenomgång.
 
 ### 6 januari 2026 – `Kilsgatan 2: möte`
 - `Kilsgatan 2: möte .m4a` – 41:06,411
@@ -74,11 +85,6 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 - `Marco del 2` motsvarar en senare del och börjar ungefär vid **32:21** i helfilen.
 - Delarna är därför inte oberoende vittneskällor; de är alternativa/utskurna inspelningar av samma tillfälle. De kan ändå vara användbara om ljudkvaliteten är bättre i en del än i helfilen.
 
-### 6 oktober 2025 – ED städfirma
-- `ed städfirima 6 okt 2025.m4a` – 12:12,032
-
-**Status:** unik fil i nuvarande lokala material. Prioriterad för fyndgenomgång.
-
 ## Viktig bevisregel
 
 Två filer med samma innehåll ska aldrig räknas som två oberoende bekräftelser. Däremot kan en alternativ inspelning från annan apparat användas för att kontrollera svårhörda ord, talaridentitet och tidsföljd.
@@ -87,13 +93,14 @@ Två filer med samma innehåll ska aldrig räknas som två oberoende bekräftels
 
 1. 19 maj 2026 – Peter + Thomas
 2. 11 november 2025 – möte 1
-3. 4 november 2025 – Carolina
-4. 17 december 2025 – möte 2
-5. 6 oktober 2025 – ED städfirma
-6. 11 mars 2026 – Miljöförvaltningen
-7. 10 juli 2026 – Marko, för kontroll mot redan identifierade fynd
-8. 29 oktober 2025 – Peter
-9. HGF-spåren och övriga ljud
+3. 3 oktober 2025 – första Peter-besöket, tidigt skick/tillträde/vädring
+4. 4 november 2025 – Carolina
+5. 17 december 2025 – möte 2
+6. 6 oktober 2025 – ED städfirma
+7. 11 mars 2026 – Miljöförvaltningen
+8. 10 juli 2026 – Marko, för kontroll mot redan identifierade fynd
+9. 29 oktober 2025 – Peter
+10. HGF-spåren och övriga ljud
 
 ## Sekretess/avgränsning
 
