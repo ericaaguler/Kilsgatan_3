@@ -15,6 +15,9 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 - olika inspelningar från olika apparater,
 - eller delsegment av en längre inspelning.
 
+Se även den samlade kontrollistan:
+`analyser/ALLA-LJUDFILER-FYNDLISTA-ATT-KONTROLLERA.md`
+
 ## Inventering
 
 ### 3 oktober 2025 – första mötet med Peter/husvärden
@@ -32,7 +35,7 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 - `9 okt - gaby samtal .m4a` – **25:06,091**
 - metadata: creation_time 2025-10-09T13:47:00Z.
 
-**Status:** unik fil i nuvarande lokala material. Viktigt tidigt källspår endast drygt en vecka efter tillträdet. Ska användas för att låsa vad Gaby själv bekräftar om lägenhetens skick, kvarstående brister, åtgärder, ansvar och eventuella öppna frågor. Se `LJUDFIL-13-2025-10-09-GABY-SAMTAL-INVENTERING.md`.
+**Status:** unik fil i nuvarande lokala material. Viktigt tidigt källspår endast drygt en vecka efter tillträdet. Gaby är man. Ska användas för att låsa vad han själv bekräftar om lägenhetens skick, kvarstående brister, åtgärder, ansvar och eventuella öppna frågor. Se `LJUDFIL-13-2025-10-09-GABY-SAMTAL-INVENTERING.md`.
 
 ### 10 oktober 2025 – Gaby i lägenheten
 - `10 okt 2025 gaby i lägenheten .m4a` – **30:01,963**
@@ -57,6 +60,12 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 
 **Teknisk slutsats:** exakt samma avkodade ljuddata trots olika filnamn. Detta är kopior av samma inspelning, inte två oberoende apparater.
 
+### 18 november 2025 – samtal med Gaby
+- `18 nov 2018 samtal med gaby .m4a` – **4:55,403**
+- metadata: creation_time **2025-11-18T11:03:04Z**.
+
+**Status:** filnamnet innehåller fel årtal `2018`; metadata placerar inspelningen den 18 november **2025**. Separat kort uppföljningssamtal med Gaby efter möte 1. Se `LJUDFIL-16-2025-11-18-GABY-SAMTAL-INVENTERING.md`.
+
 ### 16 december 2025 – Emma/Hyresgästföreningen
 - `Emma hyresgästföreningen.m4a` – 27:26,123
 
@@ -64,13 +73,26 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 
 ### 17 december 2025 – möte 2
 - `2:A möte 17.12 2025.m4a` – 40:37,973
+- `17 dec 2025 - 2 möte viktor är med .m4a` – 40:37,973
 
-**Status:** unik fil i nuvarande lokala material. Prioriterad för fyndgenomgång.
+**Teknisk slutsats:** de två lokala filerna har samma längd, metadata och exakt samma avkodade ljuddata. De ska behandlas som kopior/exporter av **en inspelning**, inte som två oberoende devices.
 
 ### 6 januari 2026 – `Kilsgatan 2: möte`
 - `Kilsgatan 2: möte .m4a` – 41:06,411
 
 **Status:** identitet/deltagare behöver låsas innan analys.
+
+### 13 januari 2026 – samtal om/med "golvet"
+- `13 jan 2026 samtal med golvet .m4a` – **5:48,437**
+- metadata: creation_time **2026-01-13T08:14:47Z**.
+
+**Status:** unik ny fil. Innehåll och talaridentitet behöver låsas. Filnamnet får inte i sig användas som bevis för vad samtalet gäller.
+
+### 13 januari 2026 – samtal med Peter
+- `13 jan 2026 samtal med peter .m4a` – **8:15,851**
+- metadata: creation_time **2026-01-13T14:36:06Z**.
+
+**Status:** unik ny fil. Innehållet behöver fyndgranskas och jämföras med övriga Peter-spår.
 
 ### 27 januari 2026 – Hyresgästföreningen i lägenheten
 - `Hyresgäst möte i lägehet 27 jan.m4a` – 5:15,584
@@ -83,8 +105,8 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 **Status:** unik fil i nuvarande lokala material. Ska jämföras mot tidigare transkriptions-/PDF-spår från samma tillsyn.
 
 ### 4 april 2026 – paret Duvsjö efter 23 dygns vädring
-- `4 april 2026 paret duvsjö .m4a` – cirka **43:25**
-- `4 april 2026 paret duvsjö del 2.m4a` – cirka **4:12**
+- `4 april 2026 paret duvsjö .m4a` – **43:24,736**
+- `4 april 2026 paret duvsjö del 2.m4a` – **4:11,947**
 
 **Status:** två separata ljudsegment från samma tillfälle, inte kopior. Viktigt vittnesspår efter cirka 23 dygns vädring, särskilt för eventuella egna reaktioner, jämförelse med 1201 och hänvisningar till paret Bast. Se `LJUDFIL-14-2026-04-04-PARET-DUVSJO-EFTER-23-DYGNS-VADRING-INVENTERING.md`.
 
@@ -105,7 +127,7 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 
 ## Viktig bevisregel
 
-Två filer med samma innehåll ska aldrig räknas som två oberoende bekräftelser. Däremot kan en alternativ inspelning från annan apparat användas för att kontrollera svårhörda ord, talaridentitet och tidsföljd.
+Två filer med samma innehåll ska aldrig räknas som två oberoende bekräftelser. Däremot kan en verkligt separat inspelning från annan apparat användas för att kontrollera svårhörda ord, talaridentitet och tidsföljd.
 
 ## Prioriteringsordning för innehållsgenomgång
 
@@ -119,8 +141,10 @@ Två filer med samma innehåll ska aldrig räknas som två oberoende bekräftels
 8. 6 oktober 2025 – ED städfirma
 9. 11 mars 2026 – Miljöförvaltningen
 10. 10 juli 2026 – Marko, för kontroll mot redan identifierade fynd
-11. 29 oktober 2025 – Peter
-12. HGF-spåren och övriga ljud
+11. 18 november 2025 – Gaby, kort uppföljning
+12. 13 januari 2026 – golv/Peter-spåren
+13. 29 oktober 2025 – Peter
+14. HGF-spåren och övriga ljud
 
 ## Sekretess/avgränsning
 
