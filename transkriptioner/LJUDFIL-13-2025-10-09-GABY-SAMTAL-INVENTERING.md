@@ -10,6 +10,10 @@ Teknisk längd: **25 min 06,091 sek**.
 
 Metadata visar `creation_time` **2025-10-09T13:47:00Z**.
 
+## Personuppgift / talaridentifiering
+
+**Gaby är man.** Detta ska användas vid talaridentifiering och pronomen i kommande transkriptioner och analyser så att han inte felaktigt beskrivs som kvinna.
+
 ## Kontext
 
 Detta är ett tidigt samtal i ärendet, endast drygt en vecka efter tillträdet den 1 oktober 2025. Därför kan det vara särskilt värdefullt för att fastställa vad Familjebostäder genom Gaby kände till om lägenhetens skick, vilka brister som redan var identifierade och vilka åtgärder/utredningar som diskuterades innan den senare konflikten om inomhusmiljön hunnit utvecklas.
@@ -18,22 +22,22 @@ Detta är ett tidigt samtal i ärendet, endast drygt en vecka efter tillträdet 
 
 1. **Lägenhetens skick direkt efter tillträdet**
    - Vilka konkreta brister säger Gaby själv finns eller behöver åtgärdas?
-   - Bekräftar hon att något inte varit färdigställt, kontrollerat, städat eller åtgärdat?
+   - Bekräftar han att något inte varit färdigställt, kontrollerat, städat eller åtgärdat?
    - Finns hänvisningar till kök, badrum, el, ventilation, lukt, ytskikt, städning eller andra installationer?
 
 2. **Vad Familjebostäder redan kände till**
    - Vad säger Gaby om tidigare iakttagelser från husvärd, entreprenör eller annan personal?
-   - Hänvisar hon till Peter, städfirma eller tidigare kontroll?
+   - Hänvisar han till Peter, städfirma eller tidigare kontroll?
    - Finns formuleringar som visar att frågor fortfarande var öppna eller under utredning?
 
 3. **Ansvar och fortsatta åtgärder**
    - Vad lovar Gaby att beställa, kontrollera eller föra vidare?
-   - Säger hon vem som ska felsöka eller undersöka något?
+   - Säger han vem som ska felsöka eller undersöka något?
    - Finns tidsplan eller erkännande av att lägenheten kräver ytterligare arbete efter tillträdet?
 
 4. **Inomhusmiljö / lukt / ventilation**
    - Om lukt, luft eller ventilation nämns: vad säger Gaby själv?
-   - Avfärdar hon, bekräftar hon eller lämnar hon frågan öppen?
+   - Avfärdar han, bekräftar han eller lämnar han frågan öppen?
    - Finns någon tidig hänvisning till att problemet är specifikt för lägenheten?
 
 5. **Brukbarhet / uthyrningsklart skick**
