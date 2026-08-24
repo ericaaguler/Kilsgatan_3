@@ -34,6 +34,12 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 
 **Status:** unik fil i nuvarande lokala material. Viktigt tidigt källspår endast drygt en vecka efter tillträdet. Ska användas för att låsa vad Gaby själv bekräftar om lägenhetens skick, kvarstående brister, åtgärder, ansvar och eventuella öppna frågor. Se `LJUDFIL-13-2025-10-09-GABY-SAMTAL-INVENTERING.md`.
 
+### 10 oktober 2025 – Gaby i lägenheten
+- `10 okt 2025 gaby i lägenheten .m4a` – **30:01,963**
+- metadata: creation_time 2025-10-10T08:55:35Z.
+
+**Status:** unik fil i nuvarande lokala material. Separat från telefonsamtalet den 9 oktober. Viktigt platsbesök endast nio dagar efter tillträdet; särskilt relevant för vilka brister Gaby själv får visat, bekräftar eller säger behöver åtgärdas. Se `LJUDFIL-15-2025-10-10-GABY-I-LAGENHETEN-INVENTERING.md`.
+
 ### 29 oktober 2025 – Peter, lampan/badrummet
 - `29 okt 2025 Peter lampan badrummet.m4a` – 7:12,384
 - `29 okt 2025 Peter lampan badrummet(1).m4a` – 7:12,384
@@ -76,6 +82,12 @@ Om två filer kommer från samma tillfälle jämförs de för att avgöra om de 
 
 **Status:** unik fil i nuvarande lokala material. Ska jämföras mot tidigare transkriptions-/PDF-spår från samma tillsyn.
 
+### 4 april 2026 – paret Duvsjö efter 23 dygns vädring
+- `4 april 2026 paret duvsjö .m4a` – cirka **43:25**
+- `4 april 2026 paret duvsjö del 2.m4a` – cirka **4:12**
+
+**Status:** två separata ljudsegment från samma tillfälle, inte kopior. Viktigt vittnesspår efter cirka 23 dygns vädring, särskilt för eventuella egna reaktioner, jämförelse med 1201 och hänvisningar till paret Bast. Se `LJUDFIL-14-2026-04-04-PARET-DUVSJO-EFTER-23-DYGNS-VADRING-INVENTERING.md`.
+
 ### 19 maj 2026 – Peter i lägenheten, Thomas ansluter
 - `19 maj 2026 möte med peter i lägenheten .m4a` – 37:03,808
 
@@ -100,14 +112,15 @@ Två filer med samma innehåll ska aldrig räknas som två oberoende bekräftels
 1. 19 maj 2026 – Peter + Thomas
 2. 11 november 2025 – möte 1
 3. 3 oktober 2025 – första Peter-besöket, tidigt skick/tillträde/vädring
-4. 9 oktober 2025 – Gaby, tidiga brister/åtgärder/ansvar
+4. 9–10 oktober 2025 – Gaby, tidiga brister/åtgärder/ansvar
 5. 4 november 2025 – Carolina
 6. 17 december 2025 – möte 2
-7. 6 oktober 2025 – ED städfirma
-8. 11 mars 2026 – Miljöförvaltningen
-9. 10 juli 2026 – Marko, för kontroll mot redan identifierade fynd
-10. 29 oktober 2025 – Peter
-11. HGF-spåren och övriga ljud
+7. 4 april 2026 – paret Duvsjö efter 23 dygns vädring
+8. 6 oktober 2025 – ED städfirma
+9. 11 mars 2026 – Miljöförvaltningen
+10. 10 juli 2026 – Marko, för kontroll mot redan identifierade fynd
+11. 29 oktober 2025 – Peter
+12. HGF-spåren och övriga ljud
 
 ## Sekretess/avgränsning
 
