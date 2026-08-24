@@ -10,34 +10,38 @@ Teknisk längd: **30 min 01,963 sek**.
 
 Metadata visar `creation_time` **2025-10-10T08:55:35Z**.
 
+## Personuppgift / talaridentifiering
+
+**Gaby är man.** Detta ska användas vid talaridentifiering och pronomen i kommande transkriptioner och analyser så att han inte felaktigt beskrivs som kvinna.
+
 ## Kontext
 
 - Detta är ett separat tillfälle från telefonsamtalet med Gaby den 9 oktober 2025.
 - Samtalet sker i lägenheten den 10 oktober 2025, alltså mycket tidigt efter tillträdet den 1 oktober 2025.
-- Eftersom Gaby befinner sig på plats är ljudet särskilt relevant för vad hon själv får visat, observerar, bekräftar eller säger behöver åtgärdas.
+- Eftersom Gaby befinner sig på plats är ljudet särskilt relevant för vad han själv får visat, observerar, bekräftar eller säger behöver åtgärdas.
 
 ## Prioriterade fynd att låsa
 
 1. **Lägenhetens skick vid tidig inflyttning**
    - Vilka konkreta brister visas för Gaby?
-   - Vilka av dem bekräftar hon själv?
-   - Säger hon att något borde ha varit åtgärdat före uthyrning/tillträde?
-   - Säger hon att något behöver göras om, beställas eller eskaleras?
+   - Vilka av dem bekräftar han själv?
+   - Säger han att något borde ha varit åtgärdat före uthyrning/tillträde?
+   - Säger han att något behöver göras om, beställas eller eskaleras?
 
 2. **Städning och ytskikt**
    - Vad säger Gaby om städnivån?
-   - Bekräftar hon smuts, missfärgningar, fett, rester eller annat som inte är normalt avslutat inför ny hyresgäst?
-   - Vad säger hon om vad städfirma eller Familjebostäder ska göra vidare?
+   - Bekräftar han smuts, missfärgningar, fett, rester eller annat som inte är normalt avslutat inför ny hyresgäst?
+   - Vad säger han om vad städfirma eller Familjebostäder ska göra vidare?
 
 3. **Lukt / luft / ventilation**
    - Kommenterar Gaby lukt, instängd luft eller ventilation?
-   - Säger hon att något behöver vädras, kontrolleras eller felsökas?
+   - Säger han att något behöver vädras, kontrolleras eller felsökas?
    - Finns tidiga uttalanden som senare kan jämföras med att lägenheten skulle ha varit fullt brukbar från dag 1?
 
 4. **Ansvar och åtgärdslöften**
    - Vilka åtgärder lovar eller accepterar Gaby?
-   - Säger hon att Peter, städfirma, drifttekniker eller annan ska komma?
-   - Säger hon att frågor ska tas vidare till förvaltare/chef?
+   - Säger han att Peter, städfirma, drifttekniker eller annan ska komma?
+   - Säger han att frågor ska tas vidare till förvaltare/chef?
 
 5. **Kännedom hos Familjebostäder**
    - Vad framgår att Familjebostäder redan kände till senast den 10 oktober 2025?
