@@ -20,6 +20,25 @@ Metadata visar `creation_time` **2025-10-10T08:55:35Z**.
 - Samtalet sker i lägenheten den 10 oktober 2025, alltså mycket tidigt efter tillträdet den 1 oktober 2025.
 - Eftersom Gaby befinner sig på plats är ljudet särskilt relevant för vad han själv får visat, observerar, bekräftar eller säger behöver åtgärdas.
 
+## 🚨 PRIORITERAD KONTROLLPUNKT – brukbar sedan dag 1
+
+**Lägenheten hade redan hyrts ut, men Familjebostäders biträdande förvaltare gick nio dagar senare runt i bostaden, fick ett antal brister visade för sig och behövde fortfarande besluta om eller initiera åtgärder.**
+
+Detta kan bli en betydligt starkare invändning mot Jennifers senare kategoriska påstående att lägenheten varit **”brukbar sedan dag 1”** än att fokusera för hårt på en enskild städbrist.
+
+Det som ska prövas mot ljudet är därför inte bara *vilka* brister som fanns, utan om helheten visar att bostaden fortfarande var föremål för faktisk genomgång, bedömning och åtgärdsplanering efter att hyrestiden redan hade börjat.
+
+### Särskilt viktigt att kontrollera
+
+**Gör Gaby själv skillnad mellan normalt slitage och sådant som faktiskt inte borde ha lämnats så till en ny hyresgäst?**
+
+Om han uttryckligen gör den distinktionen är det särskilt värdefullt, eftersom det då inte bara är Ericas uppfattning om skicket utan Familjebostäders egen representant som skiljer mellan:
+
+- sådant en ny hyresgäst rimligen får acceptera i en äldre bostad, och
+- sådant som borde ha varit åtgärdat, städat eller färdigställt före tillträdet.
+
+Detta ska tidskodas och ordalydelsen låsas separat om det förekommer.
+
 ## Prioriterade fynd att låsa
 
 1. **Lägenhetens skick vid tidig inflyttning**
@@ -32,6 +51,7 @@ Metadata visar `creation_time` **2025-10-10T08:55:35Z**.
    - Vad säger Gaby om städnivån?
    - Bekräftar han smuts, missfärgningar, fett, rester eller annat som inte är normalt avslutat inför ny hyresgäst?
    - Vad säger han om vad städfirma eller Familjebostäder ska göra vidare?
+   - Gör han skillnad mellan normalt slitage och sådant som inte borde ha lämnats så till en ny hyresgäst?
 
 3. **Lukt / luft / ventilation**
    - Kommenterar Gaby lukt, instängd luft eller ventilation?
