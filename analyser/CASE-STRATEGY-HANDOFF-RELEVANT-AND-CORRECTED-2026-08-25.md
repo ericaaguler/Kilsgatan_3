@@ -1,12 +1,13 @@
-# Case strategy handoff – relevant and corrected
+# Case strategy handoff – korrigerad efter full trådgenomgång
 
 **Datum:** 25 augusti 2026  
 **Ärende:** Kilsgatan 3, lägenhet 1202, Farsta  
-**Status:** Strategiskt arbetsdokument. Ska alltid kontrolleras mot primärbevis före extern användning.
+**Status:** Strategiskt arbetsdokument. Ska alltid kontrolleras mot primärbevis före extern användning.  
+**Styrning:** Läs tillsammans med `CHAT-SYNC-2026-08-25-FULL-THREAD.md` och `PERSONDISTINKTION-THOMAS-11-NOVEMBER-OCH-THOMAS-DUVSJO-2026-08-25.md`.
 
 ## Grunduppdrag
 
-Det fortsatta arbetet ska inte nöja sig med sammanfattningar. Det ska:
+Det fortsatta arbetet ska:
 
 1. fortsätta söka grundorsaken,
 2. identifiera motsägelser,
@@ -15,256 +16,252 @@ Det fortsatta arbetet ska inte nöja sig med sammanfattningar. Det ska:
 5. pröva och utmana antaganden,
 6. identifiera saknad dokumentation,
 7. skilja fakta från hypoteser,
-8. förbereda material för berörda myndigheter, domstolar, Hyresnämnden, media och politiska mottagare.
+8. förbereda material för myndigheter, domstolar, Hyresnämnden, media och politiska mottagare.
 
-### Metodregel
+## Metodregel
 
-Utgå inte från att mögel, brandrester eller ventilation är orsaken. Varje orsakshypotes ska kräva verifierbart stöd.
+Utgå inte från att mögel, brandrester, ventilation, VOC eller annan särskild faktor är orsaken. Varje orsakshypotes kräver verifierbart stöd.
 
 Den centrala frågan är:
 
-> **Varför blir lägenheten svår att vistas i trots omfattande åtgärder, och varför beskriver flera personer återkommande besvär vid vistelse i lägenheten?**
+> **Varför uppstår återkommande besvär vid vistelse i lägenhet 1202 trots flera åtgärder, och vilken undersökning har faktiskt haft i uppdrag att förklara detta återkommande mönster?**
+
+Vittnesuppgifter kan stödja att ett återkommande fenomen finns, men fastställer inte teknisk orsak.
 
 ---
 
-# 1. Strategisk kärna
+# 1. Kritisk personkorrigering – två olika Thomas
+
+Det finns **två olika personer som heter Thomas** i materialet och de får aldrig sammanblandas.
+
+### Thomas – 11 november / Torsbygatan
+
+- Är **inte Thomas Duvsjö**.
+- Bor i porten bredvid Ericas mamma på Torsbygatan 12.
+- Är kopplad till mötet den **11 november 2025**.
+- Ska tills full identitet källsäkras benämnas **Thomas (11 november/Torsbygatan)**.
+
+### Thomas Duvsjö – Kilsgatan 3
+
+- Är grannen/vittnet vid Kilsgatan 3.
+- Förekommer i vittnesspåret den **4 april 2026** och **19 maj 2026**.
+- Ska alltid skrivas med efternamn när sammanblandningsrisk finns.
+
+**Tidigare formulering i denna fil om att Thomas inte skulle placeras på mötet den 11 november var fel och är nu borttagen.**
+
+---
+
+# 2. Strategisk kärna
 
 Det starkaste spåret är inte en bestämd teknisk teori utan det återkommande mönstret:
 
 - besvär uppges uppkomma inne i lägenheten,
-- flera personer har beskrivit liknande negativa reaktioner,
-- besvär uppges minska efter att lägenheten lämnas,
+- flera personer har beskrivit negativa reaktioner vid olika tillfällen,
+- besvär uppges minska efter att bostaden lämnas,
 - återkommande städning, vädring och ventilationsåtgärder har inte redovisats som en fullständig orsaksförklaring,
 - flera undersökningar har varit avgränsade till en viss fråga, exempelvis fuktindikering eller luftflöden.
 
-Vittnesuppgifter visar inte teknisk orsak. De är relevanta därför att de visar att det finns ett återkommande fenomen som fortfarande behöver förklaras.
+Kärnformulering:
+
+> **Vittnesuppgifterna fastställer inte orsaken. Det är just därför orsaken behöver utredas.**
 
 ---
 
-# 2. Viktig rättelse om brandhistoriken
+# 3. Brandhistoriken – rätt användning
 
-Ett centralt metodiskt påstående ska bevaras:
+Brandhistoriken ska inte beskrivas som något Familjebostäder självmant upplyste om. Spåret började genom att Erica själv började efterforska tidigare händelser efter uppgifter utifrån och därefter efterfrågade dokumentation.
 
-> **Brandhistoriken ska inte beskrivas som något Familjebostäder självmant upplyste om. Spåret började genom att Erica själv började efterforska tidigare händelser efter uppgifter utifrån och därefter efterfrågade dokumentation.**
+Brand-/rökhändelsen 2017 är en historisk utredningsfaktor, inte en fastställd förklaring till dagens problem.
 
-Detta ska dock alltid knytas till exakt primärbevis för när den första uppgiften kom, vilka externa källor som hittades och när Familjebostäders motstridiga svar började.
+Fortsatt dokumentationsbehov:
 
-Brand-/rökhändelsen är ett utredningsspår, inte en fastställd förklaring till dagens problem.
+- skadebedömning,
+- sanerings-/återställningsbeställning,
+- entreprenör,
+- arbetsorder,
+- faktura,
+- metod,
+- materialbyten,
+- eventuell slutkontroll,
+- eventuell försäkrings-/skadeanmälan.
 
----
-
-# 3. Faktabaserad kärntidslinje – verifierade eller redan stödda huvudpunkter
-
-## 1 oktober 2025 – tillträde
-
-Lägenheten tas över. Avvikande lukt dokumenteras tidigt. Tidslinjen ska undvika att påstå att hela den senare symtombilden redan var fullt identifierad första dagen om primärbevis saknas.
-
-## 2 oktober 2025 – tidig platsobservation
-
-Luktfrågan tas upp mycket tidigt efter tillträdet. Detta stödjer att problemet inte uppstod först långt senare.
-
-## 15 oktober 2025 – OCAB
-
-OCAB:s uppdrag gäller fukt/missfärgningar. Rapporten redovisar bland annat förhöjd fuktindikation och svälld skiva under kyl/frys. Rapporten visar inte någon bred orsaksutredning av återkommande lukt eller hälsobesvär.
-
-## 27 oktober 2025 – första professionella städningen
-
-Första tydligt dokumenterade symtomepisoden utan aktiv vädring inträffar före att städningen startar. Städningen löser inte det uppgivna problemet.
-
-## 4 november 2025 – driftteknisk ventilationsåtgärd
-
-Blockerande material i tilluftsöppningar tas bort och luftflöden mäts/justeras. Dokumentationen innehåller även uppgift om kanalrensning. Detta visar ventilationsrelaterade avvikelser men fastställer inte orsaken till alla rapporterade besvär.
-
-## 6–10 november 2025 – Familjebostäder beskriver behov av felsökning
-
-Samtida korrespondens innehåller formuleringar om att problemet behöver förstås och felsökas. Detta är viktigt när senare ställningstaganden jämförs med den tidigare osäkerheten.
-
-## 11 november 2025 – första större platsmötet
-
-Verifierad deltagarbild enligt befintligt material: **Erica, Jennifer, Gaby och Micke**. Tidigare utkast som placerar Thomas på detta möte ska inte användas utan nytt primärbevis.
-
-Mötet gäller flera brister, material, ytskikt och praktiska åtgärder. Någon dokumenterad samlad orsaksutredning av återkommande hälsobesvär har inte identifierats i materialet från mötet.
-
-## 20 november 2025 – andra professionella städningen
-
-Diversey Taski Sani MouldOut uppges ha använts. Detta visar rengöringsmetod, inte att mögel var tekniskt fastställt.
-
-## 27 november 2025 – tredje professionella städningen
-
-Produkt benämnd ”Mögel bort” uppges ha använts. Problemen uppges kvarstå.
-
-## 30 november–1 december 2025 – Miljöförvaltningens spår inleds
-
-Klagomålet om inomhusmiljön förs in i tillsynsspåret.
-
-## 2 december 2025 – Jennifer om kanalrensning och brand/sanering
-
-Jennifer skriver att kanalrensning ska ske och att lägenheten självklart ska ha sanerats efter en eventuell brand, men att dokumentation saknas. Detta ska jämföras med andra uppgifter om redan utförd rensning och tidigare/andra uppgifter om brandhistoriken.
-
-## 17 december 2025 – andra större platsmötet
-
-Verifierad deltagarbild i mastertidslinjen: **Erica, Jennifer, Peter och Viktor**. Under mötet avvisas bland annat mögelprovtagning och luktproblemet ifrågasätts, samtidigt som åtgärdsdiskussionen fortsätter. Detta är relevant som motsägelsespår men ska citeras exakt från inspelning/transkription vid extern användning.
-
-## 5 januari 2026 – materialavvikelse bakom köksinredning
-
-Brun, porös/volymbildande materialförändring dokumenteras. Utan laboratorieanalys ska den inte benämnas som fastställd mikrobiell tillväxt.
-
-## 11 mars 2026 – Miljöförvaltningens tillsyn
-
-Okulär tillsyn och ventilationsrelaterad kontroll genomförs. Detta är inte i sig samma sak som en bred teknisk orsaksutredning av återkommande hälsobesvär.
-
-## 11 mars–3 april 2026 – 23 dygns genomvädring
-
-Ett omfattande vädringsförsök genomförs. Det är en praktisk observation, inte ett vetenskapligt kontrollerat orsakstest.
-
-## 3–4 april 2026 – nya förstahandsuppgifter före beslut
-
-Karolin Bast, Jimmy Bast, Thomas Duvsjö, Caroline och Carolines bror förekommer i materialet med uppgifter om negativa reaktioner efter den långa vädringsperioden. Dessa uppgifter visar ett mönster men inte teknisk orsak.
-
-## 13 april 2026 – Miljöförvaltningen avslutar tillsynen
-
-Kärnfråga:
-
-> Vad hade faktiskt undersökts, mätts och klarlagts när ytterligare utredning bedömdes obehövlig trots de nya förstahandsuppgifterna?
-
-## 19–23 april 2026 – ytterligare vädring
-
-Ytterligare cirka fyra dygn. Totalt omkring 27 dagar redovisad vädring.
-
-## 19 maj 2026 – Thomas återkommer
-
-Thomas beskriver åter en negativ reaktion vid ett separat besök. Händelsen inträffar efter Miljöförvaltningens beslut och är därför en senare faktisk omständighet.
-
-## 10 juli 2026 – Björn Adler, första besöket
-
-Björn beskriver negativ reaktion vid första vistelsen och lämnar senare skriftlig redogörelse. Händelsen är en senare datapunkt och kan inte ha ingått i beslutet 13 april.
-
-## 23 juli och 16 augusti 2026
-
-Senare uppgifter om fortsatt försämring vid vistelse ska läggas in endast när de kan knytas till exakt samtida bevis/felanmälan/anteckning.
+Avsaknad av försäkringsakt bevisar varken att sanering skedde eller inte skedde.
 
 ---
 
-# 4. Vittnesspåret – rätt användning
+# 4. Strategiskt viktig tidskedja
 
-Relevant vittnesstruktur omfattar bland annat Erica, Viktor, Karolin Bast, Jimmy Bast, Thomas Duvsjö, Caroline, Carolines bror och Björn Adler, beroende på vilket tillfälle som åberopas.
+- **1 oktober 2025:** tillträde. Avvikande lukt dokumenteras tidigt.
+- **15 oktober 2025:** OCAB undersöker fukt/missfärgningar; förhöjd fuktindikation och svälld skiva under kyl/frys redovisas. Ingen bred orsaksutredning av återkommande hälsobesvär identifieras.
+- **27 oktober 2025:** första professionella städningen. Symtom uppges ha uppstått före städstart. Problemet uppges kvarstå.
+- **4 november 2025:** driftteknisk ventilationskontroll/justering; blockerande material i tilluftsöppningar uppmärksammas och luftflöden justeras.
+- **6–10 november 2025:** Familjebostäder beskriver själva att problemet behöver förstås/felsökas.
+- **11 november 2025:** första större platsmötet. Thomas (11 november/Torsbygatan) ska hållas isär från Thomas Duvsjö.
+- **20 november 2025:** andra professionella städningen; Diversey Taski Sani MouldOut uppges ha använts.
+- **27 november 2025:** tredje professionella städningen; produkt benämnd ”Mögel Bort” uppges ha använts. Problemen uppges kvarstå.
+- **30 november–1 december 2025:** Miljöförvaltningens tillsynsspår inleds.
+- **2 december 2025:** Jennifer skriver att kanalrensning ska ske och att lägenheten självklart ska ha sanerats efter eventuell brand, men dokumentation saknas.
+- **17 december 2025:** andra större platsmötet; lukt/huvudvärk diskuteras och mögelprovtagning avvisas enligt det samlade materialet.
+- **5 januari 2026:** brun/materialmässigt avvikande förekomst bakom fast köksinredning dokumenteras. Identiteten är inte fastställd.
+- **11 mars 2026:** Miljöförvaltningens tillsyn med okulär bedömning och ventilations-/luftflödeskontroll.
+- **11 mars–3 april 2026:** 23 dygns omfattande genomvädring.
+- **3 april 2026:** Karolin Bast och Jimmy Bast förekommer med uppgifter om reaktioner.
+- **4 april 2026:** Thomas Duvsjö, Caroline och Carolines bror förekommer med uppgifter om negativa reaktioner.
+- **13 april 2026:** Miljöförvaltningen avslutar tillsynen.
+- **19–23 april 2026:** ytterligare cirka fyra dygns vädring; totalt omkring 27 dygn.
+- **19 maj 2026:** Thomas Duvsjö återkommer vid ett separat besök och beskriver åter negativ reaktion.
+- **10 juli 2026:** Björn Adler besöker lägenheten för första gången och beskriver försämrat mående.
+- **23 juli och 16 augusti 2026:** senare uppgifter om fortsatt försämring ska bindas till exakt primärbevis före extern användning.
 
-Använd vittnena för att visa:
+Strategisk kedja:
 
-- återkommande negativa reaktioner,
-- tidsmässigt samband med vistelse,
-- återkomst efter åtgärder/vädring,
-- flera separata personer och tidpunkter.
-
-Använd dem **inte** för att slå fast:
-
-- mögel,
-- VOC,
-- brandskada,
-- ventilationskontaminering,
-- annan specifik teknisk orsak.
-
----
-
-# 5. Centrala motsägelser att fortsätta kartlägga
-
-## Brand-/saneringsspåret
-
-Olika representanter har lämnat motstridiga uppgifter om brandhistorik och eventuell sanering. Frågan är vilken primär dokumentation som faktiskt finns.
-
-## Problem förnekas samtidigt som åtgärder vidtas
-
-Flera åtgärder och möten har genomförts samtidigt som breda formuleringar om att problem inte finns eller att lägenheten är brukbar har förekommit. Varje åtgärd ska därför kopplas till frågan:
-
-> Vilket konkret problem var åtgärden avsedd att lösa?
-
-## Mikroorganismer
-
-Mögel/mikrobiell problematik har inte fastställts genom provtagning, samtidigt som mögelinriktade rengöringsprodukter uppges ha använts. Detta är en dokumentations-/syftesfråga, inte ett bevis på mögel.
-
-## Ventilation
-
-Det finns uppgifter om både blockerad tilluft, luftflödesjustering och kanalrensning, samtidigt som dokumentkedjan kring exakt system, kanalsträcka, metod och arbetsorder är ofullständig i det material som hittills identifierats.
-
-## Felsökning → avslut
-
-Familjebostäder beskrev i november 2025 att problemet behövde förstås/felsökas, men avslutade senare ärendet med hänvisning till bland annat OCAB och Miljöförvaltningen. Kärnfrågan är vilken undersökning däremellan som faktiskt identifierade eller tillräckligt uteslöt orsaken.
+> **städning → ventilationsåtgärd → möten → ytterligare städning → kanalrensningsuppgift → tillsyn → lång vädring → fortsatta reaktioner.**
 
 ---
 
-# 6. Viktig korrigering av för stark strategisk formulering
+# 5. Utredningsglappet
 
-Formuleringen:
+Familjebostäder har hänvisat till bland annat driftteknikerns luftflödesmätningar, OVK och Miljöförvaltningens ventilations-/luftflödeskontroll.
 
-> ”Ingen myndighet har visat att lägenheten är säker.”
+Det måste hållas isär från frågan:
 
-ska **inte** användas som en fristående juridisk slutsats utan analys av rätt regel och bevisbörda.
+> **Vilken undersökning har haft i uppdrag att fastställa eller systematiskt söka orsaken till de återkommande hälsobesvären?**
 
-Säkrare formulering:
+För varje åberopad kontroll ska redovisas:
 
-> **Det har hittills inte identifierats någon samlad teknisk utredning som förklarar det återkommande reaktionsmönstret eller systematiskt redovisar vilka bostadsrelaterade orsaksområden som har undersökts och uteslutits.**
+- datum,
+- beställare,
+- utförare,
+- uppdrag/frågeställning,
+- metod,
+- vad som faktiskt undersöktes,
+- resultat,
+- vilka orsaker/hypoteser som faktiskt kunde uteslutas,
+- vilka frågor som lämnades obesvarade.
 
-På samma sätt bör målet inte formuleras som att myndigheter måste ”bevisa att lägenheten är fri från alla hälsorelaterade fel”. Juridiken ska i stället knytas till respektive aktörs faktiska skyldigheter enligt jordabalken, miljöbalken, PBL/PBF och förvaltningsrättsliga utredningsregler.
-
----
-
-# 7. Viktigaste obesvarade frågor
-
-1. Vilken undersökning har uttryckligen haft i uppdrag att klarlägga eller systematiskt söka orsaken till de återkommande besvären?
-2. Vilka möjliga bostadsrelaterade orsaksområden har faktiskt undersökts, med vilken metod och vilket resultat?
-3. Vilka orsaker har uteslutits genom faktisk undersökning, och vilka har endast antagits vara osannolika?
-4. Vilket exakt ventilationssystem/stam betjänar lägenhet 1202?
-5. Vilken primär teknisk handling visar projekterade luftflöden för den aktuella lägenheten?
-6. Vad innebar den uppgivna kanalrensningen: datum, utförare, kanalsträcka, metod och kontrollresultat?
-7. Varför var tilluftsöppningar blockerade och hur länge hade de varit det?
-8. Vilken dokumentation visar vad som faktiskt gjordes efter brand-/rökhändelsen 2017?
-9. Finns arbetsorder, entreprenörsrapporter, fakturor, skadebedömning eller slutkontroll efter händelsen?
-10. Vad var syftet med respektive städning, golvbyte, håltagning, ventilationsåtgärd och målning och hur kontrollerades effekten?
-11. Hur värderades de nya förstahandsuppgifterna som fanns före beslutet 13 april?
-12. Hur har senare uppgifter efter 13 april registrerats och rättsligt bedömts?
-13. Är problemet lägenhetsspecifikt, systemrelaterat eller del av ett större byggnadssamband?
-14. Varför återkommer fenomenet efter längre vädringsperioder?
+Luftflödesmätning är inte automatiskt en bred luftkvalitets-/orsaksutredning. OVK är inte automatiskt en generell orsaksutredning av hälsobesvär.
 
 ---
 
-# 8. Juridiska huvudspår
+# 6. ”Inomhusmiljön är konstaterad fullgod”
+
+Om Familjebostäder använder denna formulering ska den breda slutsatsen knytas till en verifierbar utredningskedja.
+
+Kontrollfråga:
+
+> **Vilka delar av inomhusmiljön undersöktes, med vilka metoder, av vem och när, och vilka bostadsrelaterade orsaker kunde faktiskt uteslutas?**
+
+Om underlaget främst visar avgränsade kontroller finns ett potentiellt slutledningsglapp mellan vad som undersöktes och den breda slutsatsen.
+
+---
+
+# 7. Kanalrensningsspåret
+
+Fortsatt prioriterat dokumentationsspår:
+
+- 4 november: ventilationskontroll/justering och borttagning av blockerande material är dokumenterade.
+- 2 december: Jennifer skriver att kanalrensning **ska ske**.
+- 17 december: uppgift förekommer om att cirka fem meter kanal redan ska ha rensats.
+- senare uppgift till Miljöförvaltningen beskriver cirka fem meters kanalrensning i köket.
+
+Kvarstående frågor:
+
+- exakt datum,
+- arbetsorder,
+- utförare,
+- kanalsträcka,
+- metod,
+- åtkomstpunkt,
+- före-/efterkontroll,
+- relationen mellan primäranteckningar och senare beskrivningar.
+
+Påståendet att en sådan rensning tekniskt måste ha krävt tillträde till andra lägenheter ska inte användas som faktum utan ventilationsritning/systemskiss och teknisk verifiering.
+
+---
+
+# 8. OVK-spåret
+
+Fortsätt begära klart besked om det bland Stadsbyggnadskontorets registrerade handlingar finns någon handling där **objekt 0562/system 01** förekommer.
+
+Huvudargumentet ska däremot inte vara att varje lägenhet måste anges individuellt i OVK-protokollet.
+
+Starkare fråga:
+
+> **Vilken dokumentation visar att de konkreta ventilationsproblem som rapporterades i 1202 under 2025–2026 faktiskt kontrollerades, följdes upp och uteslöts efter att nya misstankesignaler uppstod?**
+
+---
+
+# 9. Motsägelser att bygga vidare på
+
+Prioriterade spår:
+
+1. brand inträffade / uppgift om ingen brand,
+2. sanering uppges självklar / saneringsdokumentation saknas,
+3. problem förnekas / flera åtgärder beställs,
+4. mögel inte fastställt / mögelinriktade rengöringsmedel används,
+5. ventilation rensad / senare uppgift att rensning ska ske,
+6. problemet ska felsökas / ärendet avslutas utan identifierad samlad orsaksutredning,
+7. ”fullgod inomhusmiljö” / dokumenterat underlag verkar främst avgränsat till vissa parametrar,
+8. byggnads-/systemnivå OVK / kvarstående fråga om 0562/system 01 och senare lägenhetsspecifika problem.
+
+Varje motsägelse ska byggas som:
+
+> **påstående A → datum/källa → påstående B → datum/källa → exakt konflikt → möjlig alternativ förklaring → vilken handling som kan lösa konflikten.**
+
+---
+
+# 10. Juridiska huvudspår
 
 ## Hyresrätt
 
-12 kap. jordabalken: brukbarhet, hinder/brist, avhjälpande och rättsföljder.
+12 kap. jordabalken: brukbarhet, skick under hyrestiden, hinder/brist, avhjälpande och rättsföljder.
 
 ## Miljörätt
 
-Miljöbalkens regler om olägenhet för människors hälsa och fastighetsägarens ansvar.
+Miljöbalken: olägenhet för människors hälsa, fastighetsägarens ansvar, kunskaps-/försiktighetsfrågor och egenkontroll.
 
 ## Förvaltningsrätt
 
-Utredningsansvar, kommunikation, partsinsyn och beslutets motivering ska bedömas mot exakt aktmaterial.
+Förvaltningslagen: utredningsansvar, kommunikation när tillämpligt, partsinsyn och motivering ska bedömas mot exakt aktmaterial.
+
+Säkrare formulering:
+
+> **Det finns anledning att ifrågasätta om utredningsansvaret har fullgjorts i den omfattning ärendets beskaffenhet krävde.**
 
 ## PBL/PBF
 
-Ventilation, OVK, tekniska egenskapskrav, underhåll och skyldighet att agera vid anledning att misstänka ventilationsbrist.
+Ventilation, OVK, tekniska egenskapskrav, underhåll och agerande vid anledning att misstänka ventilationsbrist.
 
-## Domstolsprocess
+## Mark- och miljödomstolen
 
-Rätt processlag för Mark- och miljödomstolen ska användas. För överklagade miljö-/PBL-ärenden ska lagen om mark- och miljödomstolar och lagen om domstolsärenden beaktas; 8 § FPL ska inte användas slentrianmässigt som direkt huvudregel.
+Rätt processregler ska användas. För överklagade miljö-/PBL-ärenden ska lagen om mark- och miljödomstolar och lagen om domstolsärenden analyseras; 8 § FPL ska inte användas slentrianmässigt som direkt huvudregel.
 
 ---
 
-# 9. Mottagaranpassning
+# 11. Fastighetsägarnas branschmaterial
 
-Samma bevisbas ska kunna användas olika beroende på mottagare:
+Fastighetsägarnas material ska endast användas som sekundärt branschstöd och märkas:
 
-- **Miljöförvaltningen:** olägenhet, utredningsbehov, nya faktiska omständigheter.
+> **KÄLLTYP: BRANSCHVÄGLEDNING – INTE BINDANDE RÄTTSKÄLLA.**
+
+Det är relevant för professionell bristhantering, brukbarhet, inomhusmiljö, ventilation/OVK, fuktfrågor, egenkontroll och skadehantering, men bevisar inte i sig att Familjebostäder brutit mot lag.
+
+---
+
+# 12. Mottagaranpassning
+
+Samma bevisbas ska användas olika beroende på mottagare:
+
+- **Miljöförvaltningen:** olägenhet, utredningsbehov och nya faktiska omständigheter.
 - **Stadsbyggnadskontoret:** ventilation, OVK, teknisk dokumentation, objekt/system.
 - **Hyresnämnden:** brukbarhet, kvarstående brist/hinder, åtgärdsföreläggande.
-- **Länsstyrelsen/MMD:** utredningskedja, bevisvärdering, processuell hantering.
-- **Tingsrätt:** endast efter analys av rätt forum och aktuell civilrättslig talan.
+- **Länsstyrelsen/MMD:** utredningskedja, bevisvärdering och processuell hantering.
+- **Tingsrätt:** först efter analys av rätt forum och aktuell civilrättslig talan.
 - **Media/politiker:** verifierade tidslinjer, dokumenterade motsägelser och systemfrågor; inga spekulativa tekniska slutsatser.
 
 ---
 
-# 10. Slutlig arbetsregel
+# 13. Slutlig arbetsregel
 
 Arbetet ska konsekvent skilja mellan:
 
@@ -275,4 +272,8 @@ Arbetet ska konsekvent skilja mellan:
 **E. Hypoteserna** – möjliga orsaker som ännu inte är verifierade.  
 **F. Utredningsglappet** – vilka frågor som fortfarande saknar tekniskt verifierat svar.
 
-Det är denna struktur som ska styra fortsatt juridisk analys och bevisarbete.
+Korrekt strategisk slutposition:
+
+> **Det har hittills inte identifierats någon samlad teknisk utredning som förklarar det återkommande reaktionsmönstret eller systematiskt redovisar vilka bostadsrelaterade orsaksområden som har undersökts och uteslutits.**
+
+Denna struktur ska styra fortsatt juridisk analys och bevisarbete.
