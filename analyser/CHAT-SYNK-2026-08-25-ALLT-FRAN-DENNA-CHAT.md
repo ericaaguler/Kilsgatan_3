@@ -2,7 +2,7 @@
 
 **Syfte:** säkerställa att alla relevanta fynd, rättelser, hypoteser, ljudspår, motsägelser och dokumentationsluckor som identifierats i denna ChatGPT-konversation finns representerade i GitHub-systemet och kan spåras till rätt kanoniskt dokument.
 
-**Status:** sammanställande revisionsindex. Detta dokument ersätter inte primärkällor eller de kanoniska analysfilerna utan visar var varje chat-fynd hör hemma.
+**Status:** sammanställande revisionsindex. **Hela den aktuella chat-tråden har nu gåtts igenom mot GitHub-systemet.** Detta dokument ersätter inte primärkällor eller de kanoniska analysfilerna utan visar var varje chat-fynd hör hemma.
 
 ---
 
@@ -34,6 +34,12 @@ Se:
 - `transkriptioner/LJUDFIL-17-2025-10-20-GABY-OCAB-SAMTAL-INVENTERING.md`
 - `transkriptioner/LJUDFIL-20-2025-10-20-GABY-HLU-MELLANSKILLNAD-ARBETSANALYS.md`
 
+### Beviskedja för HLU-ljudets datum och funktion
+
+Den korta HLU-inspelningen får inte dateras enbart från filnamnet. Datumet stöds även av att Erica i bristanmälan den 5 november 2025 uttryckligen listar **`ljudfil Erica & Gaby fullständigt HLU 20 oktober 2025`** som bilaga. Den 7 november åberopas Gabys besked om mellanskillnaden skriftligen, och i mötet 11 november framgår i transkriptionsspåret att Jennifer har lyssnat på ljudinspelningen och diskuterar att beskedet om mellanskillnad hör till HLU.
+
+**Betydelse:** detta är ett separat tidigt bevis om HLU-/kostnadsbesked och senare källkontroll, inte OCAB-bevis.
+
 ## 2.2 19 maj vs 23 juni
 
 De tydligaste tidskodade uttalandena om:
@@ -54,6 +60,8 @@ Leonard-ljudet är främst ett **HLU-/målning-/betalningsspår**, inte ett huvu
 
 Samtidigt är Leonard relevant för huvudärendet eftersom hans senare skriftliga korrespondens visar att dålig lukt fortfarande behandlades som möjlig brist och att ventilation/vidare platsbesök kunde behövas.
 
+**Källregel:** Leonard-fallet visar inte att alla senare FB-besked är fel. Det visar att ett senare besked i just denna fråga behövde kontrolleras mot ett tidigare inspelat Gaby-besked innan HLU-delen kunde låsas.
+
 ## 2.4 Möte 1 den 11 november
 
 Den nuvarande arbetsanalysen täcker inte hela ~90-minutersljudet. Delar om:
@@ -65,6 +73,8 @@ Den nuvarande arbetsanalysen täcker inte hela ~90-minutersljudet. Delar om:
 - kanalrensning och eventuell diskussion om flera lägenheter,
 
 måste fortfarande ljudlåsas i originalet innan de används som direkta citat.
+
+**Särskild spärr:** uppgiften att Jennifer föreslår kanalrensning och att Micke säger att detta då måste göras i alla lägenheter är fortsatt **prioriterat ljudbevis att lokalisera**, inte verifierat direktcitat.
 
 ## 2.5 Möte 2 den 17 december
 
@@ -415,3 +425,60 @@ Särskilt:
 # 21. HUVUDTES EFTER CHAT-SYNKEN
 
 > **Materialet visar inte att en viss teknisk orsak redan är bevisad. Det visar däremot en lång kedja där HLU-/underhållsfrågor, OCAB:s begränsade fukt-/materialkontroll, städningar, ventilation, materialåtgärder, målning, håltagning och senare myndighetskontroller avlöser varandra utan att en sammanhållen grundorsak redovisas. Minst två konkreta beskedsfrågor har dessutom behövt låsas mot tidigare ljud/mejl när senare besked avvikit. Den starkaste sena kronologiska frågan är vilket konkret tekniskt underlag som överbryggar glappet från fortsatt okänd orsak den 23 juni till ärendet avslutat den 9 juli och ”konstaterad fullgod” den 17 augusti.**
+
+---
+
+# 22. HELTRÅDSREVISION – SLUTKONTROLL 25 AUGUSTI 2026
+
+Hela den aktuella ChatGPT-tråden har efter den sista användarbegäran gåtts igenom mot GitHub-systemet. Följande kategorier är nu uttryckligen representerade i kanonisk struktur eller i länkat delspår:
+
+- HLU från tillträdesperioden och skillnaden mellan underhåll/kostnad och teknisk brist,
+- två separata Gaby-ljud den 20 oktober,
+- Leonard och betydelsen av tidigare ljudbevis vid senare besked,
+- första mötet 11 november inklusive ofullständig transkriptionsstatus,
+- andra mötet 17 december inklusive kvarvarande ljudlåsning,
+- målningens skiftande funktion,
+- hallmålningens oklara syfte,
+- köksskåp kontra hallgarderober,
+- klädkammaren/förrådet och OCAB:s missfärgningsfynd,
+- köksbänk/golv/materialbyte och saknad full beslutsgrund,
+- brunt/svart material vid golv/spis,
+- kanalrensning/fem meter och datum-/källdiskrepansen,
+- ventilation/trasa som ljudbevis att lokalisera,
+- Miljöförvaltningens begränsade metod/räckvidd,
+- lång vädring och senare nya förstahandsreaktioner,
+- Peter/Thomas 19 maj respektive 23 juni och rätt datum för nyckelcitaten,
+- 23 juni → 9 juli → 10 juli → 17 augusti som huvudövergång,
+- Marko/Björn och korrekt talarbevisdisciplin,
+- brand-/saneringsdokumentationen,
+- OVK 0562/system 01,
+- grannuppgifter, ventilgaller och brun förekomst,
+- badrummets begränsade nyttjande som ännu obekräftat delspår,
+- återkommande beskeds-/handläggningsmönster utan påstående om avsikt,
+- bevisregler för originalmejl, originaljud, maskintranskription och hypoteser.
+
+## Punkter som fortfarande INTE får uppgraderas till verifierat faktum
+
+1. Exakta ord i 11-novembersekvensen om kanalrensning och att alla lägenheter i så fall måste omfattas.
+2. Exakta ord i 17-decembersekvensen om ”ligger på golvet”, ”sånt gör inte vi”, garderober och trasa/Peter.
+3. Att hallgarderoberna faktiskt är tekniskt angripna eller avger VOC/sot/mögel.
+4. Att branden 2017 är orsaken till dagens besvär.
+5. Att brun/svart förekomst är sot, mögel, toxin eller annan viss substans.
+6. Att Marko själv reagerade eller kände lukt.
+7. Att godkänd OVK är ogiltig.
+8. Att avsaknad av saneringshandlingar bevisar att sanering aldrig skedde.
+9. Att grannarnas uppgifter om brun förekomst är verifierade innan SMS/foto/egen redogörelse säkrats.
+10. Att någon viss teknisk orsak redan är fastställd.
+
+## Högst prioriterade kvarvarande bevislåsningar efter heltrådsrevisionen
+
+1. Fullt 11-novemberljud: köksbänk, list/brunt material, luft, kanalrensning, flera lägenheter.
+2. 17-decemberljud: golv/visning/garderober/fem meter/trasa.
+3. Originalaudio 23 juni: slutlig talaridentifiering av P0-citaten.
+4. Arbetsorder: köksbänk, golv, målning, klädkammarhål, kanalrensning.
+5. Intern FB-akt 23 juni–17 augusti, särskilt 23 juni→9 juli och Marko 10 juli→Jennifer 17 augusti.
+6. OCAB:s kompletta beställning/arbetsorder och eventuell rådata.
+7. OVK-underlag som faktiskt kopplar 0562 till rätt system.
+8. FB:s interna brand-/saneringshistorik 2017.
+
+**Slutsats efter heltrådsrevision:** inga nya chat-uppgifter ska användas externt enbart därför att de förekommit i samtalet. De ska gå genom respektive bevisstatus och källspår ovan. Den samlade huvudtesen är fortsatt att den dokumenterade grundorsaken saknas samtidigt som åtgärderna och de senare kategoriska slutsatserna kan följas kronologiskt.
