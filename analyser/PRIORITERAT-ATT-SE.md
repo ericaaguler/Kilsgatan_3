@@ -4,6 +4,30 @@
 
 > Skilj alltid mellan **VERIFIERAT**, **PARTSUPPGIFT**, **MÖJLIG TOLKNING** och **EJ BEVISAT**.
 
+## 0. OCAB och Gaby 20 oktober 2025 – tidig nyckel till hela räckviddsproblemet
+
+Se:
+
+- `analyser/TIDSLINJE-KOMPLETTERING-OCAB-GABY-20-OKT-2025.md`
+- `transkriptioner/LJUDFIL-17-2025-10-20-GABY-OCAB-SAMTAL-INVENTERING.md`
+- B0038, B0043 och B0044.
+
+Den 20 oktober 2025 frågar Erica redan i realtid vad OCAB faktiskt hade undersökt. I B0043, skickat direkt efter samtalet med Gaby, frågar hon om undersökningen enbart var en fuktmätning eller om någon mikrobiologisk analys/mögelprovtagning hade gjorts. Hon dokumenterar samtidigt sin uppfattning från samtalet att **ingen mögelprovtagning gjorts** och att teknikerna inte hade något för att mäta mögelsporer. Dagen efter skickar Familjebostäders kundservice frågan tillbaka till Gaby.
+
+### 🚨 Varför detta är viktigt
+
+Det visar att frågan om **undersökningens faktiska räckvidd** fanns mycket tidigt och inte konstruerades först i efterhand under myndighetsprocessen.
+
+Det ska därför kontrolleras varje gång OCAB senare används som stöd för en bredare slutsats om inomhusmiljön, brukbarheten eller orsaken till hälsobesvär.
+
+**Kärnregel:**
+
+> **En rapport kan bara bära slutsatser inom det som faktiskt undersöktes.**
+
+Om OCAB:s uppdrag var avgränsat till exempelvis fukt, missfärgning eller ett köksrelaterat materialspår kan det inte utan ytterligare underlag användas som bevis för att hela inomhusmiljön, luftens innehåll, mikrobiell påverkan, brand-/rökrelaterad påverkan eller orsaken till återkommande symtom har utretts och uteslutits.
+
+Detta bevisar inte mögel. Det visar ett möjligt **räckviddsfel mellan undersökning och senare slutsats**.
+
 ## 1. Mötet 11 november 2025
 
 Före mötet hade Erica skriftligen lyft huvudvärk, astma, lukt, ventilation och brukbarhet. Den tillgängliga deltranskriptionen omfattar bara cirka 03:21–30:27 och domineras av ytskikt, målning, lister, tapeter och andra underhållsfrågor.
@@ -166,28 +190,123 @@ Det måste dock verifieras genom tjänste-/områdesuppgift eller annan källa in
 
 Erica återger även en uppgift från grannen Thomas om tidigare konflikter med Marko och områdesbyte. Detta är andrahandsuppgift och ska inte användas i huvudspåret utan självständig relevans och dokumentation.
 
+## 7A. Vad hela tidslinjen nu visar – samlad analys som inte får tappas
+
+### A. Problemet börjar inte som en färdig mögelteori
+
+Redan den 20 oktober 2025 försöker Erica få svar på **vad som faktiskt har undersökts**. Det är därför viktigt att inte i efterhand reducera den breda sakfrågan till enbart ”finns det mögel eller inte?”.
+
+Den breda frågan är:
+
+> **Vad orsakar den avvikande inomhusmiljön och de återkommande besvären, och vilken undersökning har faktiskt haft i uppdrag att fastställa orsaken?**
+
+### B. Återkommande mönster: bred fråga → smal kontroll → bredare slutsats
+
+Tidslinjen ser återkommande ut så här:
+
+> **Bred fråga → smal undersökning → ingen identifierad grundorsak → åtgärd → problemet kvarstår → ny smal undersökning → allt bredare slutsats.**
+
+Exempel:
+
+- OCAB: avgränsat fukt/missfärgnings-/köksrelaterat spår,
+- flera städningar,
+- ventilationsmätningar och injustering,
+- någon form av kanalrensning,
+- målning/ytskikt,
+- Miljöförvaltningens okulära och ventilationsrelaterade kontroll,
+- därefter sena platsbesök där orsaken fortfarande framstår som oförklarad.
+
+Ändå kommer senare breda besked om att bostaden varit brukbar från dag 1 och att inomhusmiljön är ”konstaterad fullgod”.
+
+### C. Slutsatsernas räckvidd måste jämföras med undersökningarnas räckvidd
+
+- OCAB kan bara bära slutsatser inom sitt faktiska uppdrag.
+- Luftflödesmätning är inte automatiskt analys av luftens innehåll.
+- Okulär kontroll är inte automatiskt undersökning av dolda material.
+- Om toxiner/rökpartiklar inte ingick kan de inte sägas ha uteslutits genom den kontrollen.
+
+**Samlad princip:**
+
+> **Undersökningens räckvidd sätter gränsen för vilken slutsats underlaget kan bära.**
+
+### D. Många åtgärder visar fortsatt hantering men inte nödvändigtvis identifierad orsak
+
+Följden av åtgärder är relevant:
+
+**städning → ny städning → ytterligare städning → ventilationsjustering → kanalrensning → blockeringar/håltagning → golv/material → målning → lång vädring → ytterligare platsbesök.**
+
+Det bevisar inte en viss teknisk orsak. Men det väcker frågan:
+
+> **Vad var varje åtgärd tänkt att avhjälpa, och hur verifierades att den faktiskt löste den bakomliggande orsaken?**
+
+### E. Kunskapskedjan är inte spårbart avslutad
+
+En normalt spårbar teknisk kedja skulle vara:
+
+**problem → hypotes → riktad undersökning → resultat → identifierad orsak → riktad åtgärd → verifiering.**
+
+Den dokumenterade kedjan ser snarare ut som:
+
+**problem → flera hypoteser → flera separata kontroller → flera åtgärder → fortsatt problem → fortfarande okänd orsak → kategorisk slutsats.**
+
+Därför ska följande formulering ligga kvar som huvudtes:
+
+> **Bedömningarna blir successivt mer kategoriska, men den redovisade sammanhållna orsaksutredningen blir inte motsvarande bredare.**
+
+### F. Peter och Marko är avgörande eftersom de kommer sent
+
+OCAB-spåret visar osäkerhet redan i oktober 2025. Om en senare teknisk utredning tydligt hade fyllt kunskapsluckan hade detta kunnat få mindre betydelse.
+
+Men:
+
+- den **19 maj 2026** behandlar Peter enligt det prioriterade ljudspåret fortfarande frågan om vad problemet kan vara som öppen; Thomas beskriver samtidigt avvikande luft/lukt och avsaknad av tydlig fullständig grundorsaksutredning,
+- den **10 juli 2026** tillkommer Björns förstahandsreaktion och Marko behandlar enligt ljudspåret situationen som något som måste noteras, tas med chef och redas ut,
+- den **17 augusti 2026** skriver Jennifer därefter att bostaden varit brukbar sedan dag 1 och att inomhusmiljön är ”konstaterad fullgod”.
+
+Den centrala kronologiska frågan blir därför:
+
+> **När, mellan det fortsatt öppna kunskapsläget och den slutliga kategoriska slutsatsen, genomfördes den undersökning som faktiskt fyllde kunskapsluckan?**
+
+Och mer precist:
+
+> **Vilken konkret teknisk undersökning mellan de sena platsbesöken och Jennifers besked den 17 augusti förändrade kunskapsläget från fortsatt oförklarad grundorsak till ”konstaterad fullgod” inomhusmiljö?**
+
+Om ingen sådan undersökning kan redovisas är det ett tydligt argument om ett glapp mellan utredning och slutsats.
+
+### G. Sammanhängande huvudtes
+
+> **Materialet visar inte att en viss teknisk orsak redan är bevisad. Det visar däremot en lång kedja där olika begränsade undersökningar och åtgärder genomförts utan att en sammanhållen grundorsak har redovisats. Trots detta har slutsatserna successivt blivit mer kategoriska. Den centrala frågan är därför vilket konkret underlag som överbryggar glappet mellan den fortfarande öppna orsaksfrågan och det senare påståendet att inomhusmiljön är ”konstaterad fullgod”.**
+
 ## 8. Kärnfrågor
 
 1. Vad orsakar lukten och hälsobesvären?
 2. Vilken undersökning hade uttryckligt uppdrag att fastställa orsaken?
 3. Vad har kunnat uteslutas genom riktad och dokumenterad undersökning?
-4. Varför gjordes femmeters kanalrensningen?
-5. Vilken kanalrensning var senare fortfarande utebliven?
-6. Var finns arbetsorder och utföranderapporter?
-7. Vad skulle målningen avhjälpa?
-8. Vad avsågs med att spärra/kapsla, om detta ljudverifieras?
-9. Hur förhåller sig Peters och Markos uppgifter om målning/tomställning till varandra?
-10. Hur beaktades att flera personer uppgett besvär?
-11. Vad undersöktes efter brand-/rökhändelsen 2017?
-12. Hur kunde bostaden bedömas som brukbar när orsaken inte var identifierad?
-13. Vilken konkret uppföljning skedde efter att Marko skulle ta frågan med chefen?
-14. Vilken betydelse fick att Marko själv föreslog att samtalet skulle fortsätta på balkongen efter att ha observerat Ericas behov av frisk luft?
-15. Vilken betydelse fick Peters fortsatta osäkerhet/efterfrågan om vad problemet kunde vara den 19 maj?
-16. Var är Thomas 19-maj- och Björn 10-juli-redogörelserna registrerade i respektive instans, och vilka instanser har faktiskt värderat dem?
-17. Hur kan Jennifer den 17 augusti beskriva inomhusmiljön som ”konstaterad fullgod” när egna platsbesök efter MF:s beslut fortfarande visar en oförklarad grundorsak och nya förstahandsreaktioner?
+4. Vad omfattade OCAB:s uppdrag faktiskt och vilka slutsatser kan rapporten bära?
+5. Varför gjordes femmeters kanalrensningen?
+6. Vilken kanalrensning var senare fortfarande utebliven?
+7. Var finns arbetsorder och utföranderapporter?
+8. Vad skulle målningen avhjälpa?
+9. Vad avsågs med att spärra/kapsla, om detta ljudverifieras?
+10. Hur förhåller sig Peters och Markos uppgifter om målning/tomställning till varandra?
+11. Hur beaktades att flera personer uppgett besvär?
+12. Vad undersöktes efter brand-/rökhändelsen 2017?
+13. Hur kunde bostaden bedömas som brukbar när orsaken inte var identifierad?
+14. Vilken konkret uppföljning skedde efter att Marko skulle ta frågan med chefen?
+15. Vilken betydelse fick att Marko själv föreslog att samtalet skulle fortsätta på balkongen efter att ha observerat Ericas behov av frisk luft?
+16. Vilken betydelse fick Peters fortsatta osäkerhet/efterfrågan om vad problemet kunde vara den 19 maj?
+17. Var är Thomas 19-maj- och Björn 10-juli-redogörelserna registrerade i respektive instans, och vilka instanser har faktiskt värderat dem?
+18. Hur kan Jennifer den 17 augusti beskriva inomhusmiljön som ”konstaterad fullgod” när egna platsbesök efter MF:s beslut fortfarande visar en oförklarad grundorsak och nya förstahandsreaktioner?
+19. Vilket konkret nytt tekniskt underlag fyllde kunskapsluckan innan slutsatsen blev ”konstaterad fullgod”?
 
 ## 9. Juridiskt användbar kärna
 
-**Rapporterade hälsobesvär → ingen redovisad sammanhållen orsaksutredning → flera olika åtgärder → kvarstående besvär → Peter behandlar den 19 maj enligt ljudspåret fortfarande orsaken som öppen → Thomas lämnar separat redogörelse om avvikande luft/lukt och avsaknad av tydlig grundorsaksutredning → nya förstahandsuppgifter uppkommer även 10 juli genom Björn och observeras av Marko → materialet tillkommer efter MF:s beslut och förs vidare till överinstanser → Jennifer skriver 17 augusti att ingen personal upplever lukt och att inomhusmiljön är ”konstaterad fullgod”.**
+**Tidiga frågor om vad OCAB faktiskt undersökt → ingen dokumenterad bred orsaksutredning → flera separata kontroller och åtgärder → kvarstående besvär → Peter behandlar den 19 maj enligt ljudspåret fortfarande orsaken som öppen → Thomas lämnar separat redogörelse om avvikande luft/lukt och avsaknad av tydlig grundorsaksutredning → nya förstahandsuppgifter uppkommer även 10 juli genom Björn och observeras av Marko → materialet tillkommer efter MF:s beslut och förs vidare till överinstanser → Jennifer skriver 17 augusti att ingen personal upplever lukt och att inomhusmiljön är ”konstaterad fullgod”.**
 
-Det centrala argumentet är därför inte att en enskild persons luktupplevelse avgör saken. Det centrala är **glappet mellan ett fortsatt oförklarat och återkommande problem, nya dokumenterade observationer och senare kategoriska slutsatser om fullgod inomhusmiljö utan redovisad sammanhållen orsaksutredning.**
+Det centrala argumentet är därför inte att en enskild persons luktupplevelse avgör saken. Det centrala är **glappet mellan undersökningarnas faktiska räckvidd, ett fortsatt oförklarat och återkommande problem, nya dokumenterade observationer och senare kategoriska slutsatser om fullgod inomhusmiljö utan redovisad sammanhållen orsaksutredning.**
+
+### Bevisdisciplin
+
+Detta får inte användas för att slå fast mögel, brandrester, VOC eller annan viss teknisk orsak utan separat stöd. Huvudspåret är i stället:
+
+**FRÅGA → UNDERSÖKNING → UNDERLAG → BEDÖMNING → ÅTGÄRD → VERIFIERING → SLUTSATS.**
