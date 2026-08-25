@@ -280,7 +280,10 @@ Hela ~1,5 h-inspelningen är inte komplett transkriberad i projektet.
 - Jennifers svar i stil med ”sånt gör inte vi”
 - garderober måste vara kvar,
 - målningens syfte,
-- exakt femmeterssekvens.
+- exakt femmeterssekvens,
+- exakt ordalydelse om löpande rengöring/avtorkning av synlig ventilation,
+- om Peter uttryckligen nämns som den som kan/får torka/rengöra,
+- om ordet `trasa` faktiskt används.
 
 ---
 
@@ -342,6 +345,33 @@ Erica uppger att badrummet i princip inte nyttjats under perioden.
 **Saknas/behöver slutlåsas:** exakt vilka bilagor/vittnesuppgifter som finns registrerade i respektive akt och datum.
 
 **Begär:** aktuellt dagboksblad och full bilageförteckning.
+
+---
+
+## P2-9. 20 oktober HLU-ljudet – full ordagrann ljudlåsning
+
+Det separata cirka 3:04 långa Gaby/HLU-ljudet är nu identifierat och kronologiskt säkrat genom samtida handlingar.
+
+**Saknas:** full ordagrann transkription med tidskod av Gabys besked om HLU/mellanskillnad och eventuell avgränsning mot extra kostnad för målning/standardutförande.
+
+**Varför relevant:** ljudet används som historisk originalkälla i ett senare beskedsspår. Exakt ordalydelse behövs om själva löftets omfattning blir tvistig.
+
+---
+
+## P2-10. Peter – avtorkning av ventilation löser sannolikt inte grundproblemet
+
+Erica uppger att ett separat Peter-samtal innehåller resonemang om att avtorkning av den synliga ventilationen sannolikt inte löser själva problemet.
+
+**Saknas:** exakt ljudfil, tidskod, talare och ordalydelse.
+
+**Prioriterade filer att kontrollera:**
+
+- `13 jan 2026 samtal med peter .m4a`,
+- `19 maj 2026 möte med peter i lägenheten .m4a`,
+- `Peter 23 juni.m4a`,
+- andra Peter-ljud om sekvensen inte finns där.
+
+**Om verifierat:** jämför med 17-decembersekvensen om löpande rengöring/avtorkning av synlig ventilationsdel. Detta blir då en intern spänning mellan ytlig rengöring och ett kvarstående bakomliggande problem – inte bevis för vad grundorsaken är.
 
 ---
 
