@@ -6,19 +6,21 @@ Detta är ingången till materialet. **Revisionen 25 augusti 2026 är nu kanonis
 
 ## 1. KANONISK REVISION – LÄS FÖRST
 
+- [**Chat-synk – allt relevant från denna chat**](analyser/CHAT-SYNK-2026-08-25-ALLT-FRAN-DENNA-CHAT.md)
 - [Reviderad samlad huvudtidslinje – 25 augusti 2026](analyser/REVISION-2026-08-25-SAMLAD-HUVUDTIDSLINJE.md)
 - [Reviderad matris – motsägelser, källkonflikter och logiska spänningar](analyser/REVISION-2026-08-25-MOTSAGELSER-OCH-LOGISKA-SPANNINGAR.md)
 - [Reviderad analys – beteende, handläggning och återkommande FB-mönster](analyser/REVISION-2026-08-25-BETEENDE-OCH-MONSTER-FB.md)
 - [Reviderat luckregister – saknat underlag och obesvarade övergångar](analyser/REVISION-2026-08-25-LUCKOR-OCH-SAKNAT-UNDERLAG.md)
 - [Källkontroll och rättelser – 25 augusti 2026](analyser/REVISION-2026-08-25-KALLKONTROLL-OCH-RATTELSER.md)
 - [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
-- [**Chat-integrering – allt nytt från aktuell genomgång**](analyser/REVISION-2026-08-25-CHAT-INTEGRERING-ALLT-NYTT.md)
+- [Chat-integrering – tidigare samlingsfil](analyser/REVISION-2026-08-25-CHAT-INTEGRERING-ALLT-NYTT.md)
 
 ### Viktiga rättelser
 
 - De tydligaste tidskodade uttalandena om **målningens oklara relevans, fortsatt okänd orsak och tomställning** hör till **23 juni 2026**, inte 19 maj. 19 maj är fortsatt ett viktigt tidigare led genom Thomas nya observation och det öppna orsaksproblemet.
 - Den **20 oktober 2025 finns två separata Gaby-ljud**: ett längre OCAB-/räckviddssamtal och ett separat cirka 3:04 långt **HLU-/mellanskillnadssamtal**. De får inte blandas ihop.
-- Ventilationsspåret **löpande avtorkning/rengöring av synlig del vs Peters uppgift att sådan avtorkning sannolikt inte löser grundproblemet** är nu registrerat som ljudbevis att lokalisera. Exakt ordalydelse/tidskod ska låsas innan direkt citat används.
+- Möte 1 den **11 november 2025** är cirka 90 minuter medan den nuvarande arbetsanalysen endast täcker delar. Köksbänk/list/brunt material/klädkammare samt den exakta ventilationssekvensen ska fortsatt ljudlåsas.
+- Ventilationsspåret **löpande avtorkning/rengöring av synlig del vs Peters uppgift att sådan avtorkning sannolikt inte löser grundproblemet** är registrerat som ljudbevis att lokalisera. Exakt ordalydelse/tidskod ska låsas innan direkt citat används.
 
 ## 2. NYCKELLJUD – LÄS MOT ORIGINAL
 
@@ -27,6 +29,7 @@ Detta är ingången till materialet. **Revisionen 25 augusti 2026 är nu kanonis
 - [23 juni 2026 – Peter, Thomas och Erica – arbetsanalys](transkriptioner/LJUDFIL-19-2026-06-23-PETER-THOMAS-PLATSBESOK-ARBETSANALYS.md)
 - [19 maj 2026 – Peter/Thomas – inventering](transkriptioner/LJUDFIL-11-2026-05-19-PETER-THOMAS-LAGENHETEN-INVENTERING.md)
 - [11 november 2025 – möte 1 – arbetsanalys](transkriptioner/LJUDFIL-1-2025-11-11-ARBETSANALYS.md)
+- [11 november 2025 – källkontroll/att lokalisera](transkriptioner/LJUDFIL-1-2025-11-11-KALLKONTROLL-OCH-ATT-LOKALISERA.md)
 - [17 december 2025 – möte 2 – arbetsanalys](transkriptioner/LJUDFIL-2-2025-12-17-ARBETSANALYS.md)
 - [11 mars 2026 – Miljöförvaltningen – arbetsanalys](transkriptioner/LJUDFIL-3-2026-03-11-MILJOFORVALTNINGEN-ARBETSANALYS.md)
 - [Marko/Björn – platsbesök del 1–2 – arbetsanalys](transkriptioner/LJUDFIL-4-5-MARKO-PLATSBESOK-DEL-1-2-ARBETSANALYS.md)
