@@ -5,6 +5,8 @@
 ## Prioritet 1 – ska byggas först
 
 ### 1. Kanalrensningen – 4 nov 2025 → 15 jan 2026
+**Fil:** `analyser/MIKROTIDSLINJE-KANALRENSNING-2025-11-04--2026-01-15.md`
+
 Fokus:
 - 4 nov Caroline i lägenheten: mätning/justering/tilluft, ingen källåst femmetersrensning i anteckningarna.
 - 2 dec Jennifer: kanalrensning **kommer att ske**.
@@ -13,6 +15,8 @@ Fokus:
 - fråga: vilket exakt datum, vem, arbetsorder, metod, tillträde, utföranderapport, effektkontroll?
 
 ### 2. Brukbarhet – ”sedan dag 1” kontra vad som faktiskt pågår
+**Fil:** `analyser/MIKROTIDSLINJE-BRUKBARHET-LUKT-SYMTOM-2025-11--2026-08.md`
+
 Fokus:
 - när Familjebostäder första gången säger att lägenheten är fullt beboelig/brukbar,
 - vilka åtgärder som samtidigt fortfarande planeras eller utförs,
@@ -33,22 +37,31 @@ Fokus:
 - augusti 2026: ”samma sakfråga”, registrering men ingen ny sakprövning,
 - 11 aug Tora Joby: nya handlingar registrerade men inte vidarebefordrade till MMD.
 
-### 4. Brand 2017 → saneringskedja → senare verifiering
-Fokus:
-- brandhändelsen 16 nov 2017,
-- vilka uppgifter Familjebostäder lämnar 2025 om huruvida brand funnits,
-- Gaby: ingen dokumenterad brand,
-- Jennifer: ”självklart” sanerad efter eventuell brand men saknar dokumentation,
-- Miljöförvaltningen januari 2026 avstår från att utreda sanering,
-- SSBF:s senare händelserapport,
-- fortfarande saknad dokumentkedja: försäkring, sanering, arbetsorder, slutkontroll, provtagning.
+### 4. Brand 2017 → nekande → ändrad berättelse → sanerings-/försäkringsspår
+**Fil:** `analyser/MIKROTIDSLINJE-BRAND-SANERING-DOKUMENTSPAR-2017--2026.md`
 
-### 5. OVK / system 01 / objekt 0562
+Fokus:
+- verifierad brandhändelse 16 nov 2017,
+- Gaby 2025: ingen dokumenterad brand → slutsats att den inte inträffat,
+- Jennifer kort därefter: ”självklart” sanerad efter eventuell brand men dokumentation saknas,
+- Miljöförvaltningen jan 2026 avstår från att utreda saneringen,
+- augusti 2026: SSBF lämnar officiell händelserapport,
+- Restvärderäddning: ingen identifierad rapport,
+- Stockholms Stadshus AB: inga operativa handlingar och hänvisning vidare,
+- S:t Erik Försäkring: Familjebostäder var försäkrat 2017 men **skadan anmäldes inte dit**,
+- Malin Larsson/Folkhälsomyndigheten 19 aug: generell vägledning att orsaken ska utredas och att målning för att stänga in eventuella problem inte är lämplig metod.
+
+### 5. OVK / system 01 / objekt 60020562 / 0562 + tillträde
+**Fil:** `analyser/MIKROTIDSLINJE-OVK-0562-TILLTRADE-2018--2026.md`
+
 Fokus:
 - 2018: 0562 med i OVK och mätvärden,
-- april 2022: 0562 med i system 01; 9–33 kök, 15 bad, 4 sovrum,
+- 2021: uppgift om fastighetsrensning men 0562 lämnade inte tillträde,
+- april 2022: 0562 med i system 01; ca 9–33 kök, 15 bad, 4 sovrum,
 - april 2022: ojämna flöden + otät sugkammarlucka + läckage vid renslucka,
 - november 2022: ombesiktning bara system 02, 0562 inte med,
+- 1 okt 2025: tillträde till objekt 60020562,
+- 4 nov 2025: Caroline mäter/justerar,
 - mars 2026: 36 kök, 4 bad, 3 sovrum,
 - augusti 2026: SBK-frågor om komplett dokumentkedja.
 
