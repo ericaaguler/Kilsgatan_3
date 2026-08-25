@@ -67,24 +67,35 @@ Fokus:
 - mars 2026: 36 kök, 4 bad, 3 sovrum,
 - augusti 2026: SBK-frågor om komplett dokumentkedja.
 
+### 6. Felanmälningar – ”Utförd” / ”Makulerad” trots återkommande reklamation
+**Fil:** `analyser/MIKROTIDSLINJE-FELANMALNINGAR-FAMILJEBOSTADER-2026.md`
+
+Fokus:
+- 839920 och 846050: redan i maj invänder Erica skriftligen mot att problemen behandlas som avslutade,
+- 857001 och 864574: status **Utförd**,
+- 867756, 870651 och 874860: status **Makulerad** senast 17 augusti,
+- 870651: **Accepterad** 13 juli → senare **Makulerad**,
+- 874860: **Beställd/bokad** 13 juli → senare **Makulerad**,
+- öppen kontrollfråga: exakt åtgärd/verifiering bakom ”Utförd” och dokumenterad grund bakom ”Makulerad”.
+
 ## Prioritet 2
 
-### 6. Städspåret
+### 7. Städspåret
 Tre professionella städningar → reklamation → starkare medel → kvarstående beläggningar/lukt → vilken orsaksutredning beställdes?
 
-### 7. Vittnen / reaktioner efter myndighetsbeslutet
+### 8. Vittnen / reaktioner efter myndighetsbeslutet
 19 maj 2026 → 10 juli 2026 → 16 augusti 2026. Syftet är att visa att det finns senare förstahandsuppgifter som inte låg till grund för beslutet 13 april.
 
-### 8. Åtgärder kontra ”inget fel”
+### 9. Åtgärder kontra ”inget fel”
 El, ventilation, golv, målning, köksdelar, håltagning/lufttillförsel. Fråga: om allt varit fullgott sedan dag 1, varför beställdes och utfördes dessa åtgärder, och vilket problem skulle varje åtgärd lösa?
 
-### 9. Obesvarade frågor till Familjebostäder
+### 10. Obesvarade frågor till Familjebostäder
 Datum fråga → exakt fråga → svar → besvarad/delvis/obesvarad → vad saknas.
 
-### 10. Överinstansernas prövning
+### 11. Överinstansernas prövning
 Miljöförvaltningen → Länsstyrelsen → MMD. Fokus på vilka konkreta invändningar som återges men inte synligt analyseras i beslut/domskäl, exempelvis kanalrensningskedjan och orsaksfrågan.
 
-### 11. Elspåret i köket
+### 12. Elspåret i köket
 Fokus:
 - fotodokumentation från tillträdesperioden,
 - Familjebostäders egen formulering 20 nov om **feldragna kablar** som ska demonteras och nymonteras fackmannamässigt,
@@ -95,7 +106,7 @@ Fokus:
 
 **Varning:** ordet ”olaglig” från Peter och koppling till brandåterställningen ska källåsas innan de används som verifierade fakta.
 
-### 12. Originalkök / dolda material / visuella avvikelser
+### 13. Originalkök / dolda material / visuella avvikelser
 Fokus:
 - bilder från tillträdesperioden,
 - kakel med olika färgtoner,
