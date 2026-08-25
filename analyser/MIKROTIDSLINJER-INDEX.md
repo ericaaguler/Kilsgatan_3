@@ -4,6 +4,8 @@
 
 **Samlad systemuppdatering:** `analyser/SYSTEMUPPDATERING-CHAT-2026-08-25.md`
 
+**Ny SMS-systemuppdatering:** `analyser/SYSTEMUPPDATERING-SMS-VITTNEN-HUSVARD-2026-08-25.md`
+
 ## Prioritet 1 – ska byggas först
 
 ### 1. Kanalrensningen – 4 nov 2025 → 15 jan 2026
@@ -25,6 +27,7 @@ Fokus:
 - när Familjebostäder säger att deras personal inte känner lukt,
 - 15 jan 2026: Familjebostäder säger samtidigt att orsaken till hallukten fortfarande är oklar,
 - senare rapporterade reaktioner,
+- SMS till husvärd Peter 18 maj, 23 juni och 9 juli där Erica uttryckligen uppger hälsobesvär/risk vid vistelse,
 - 17 aug 2026: Jennifer vidhåller att lägenheten varit brukbar sedan dag 1.
 
 **Detta är en central mikrotidslinje eftersom den ställer själva slutsatsen mot den samtidiga faktiska utrednings- och åtgärdskedjan.**
@@ -84,10 +87,22 @@ Fokus:
 Tre professionella städningar → reklamation → starkare medel → kvarstående beläggningar/lukt → vilken orsaksutredning beställdes?
 
 ### 8. Vittnen / reaktioner efter myndighetsbeslutet
-19 maj 2026 → 10 juli 2026 → 16 augusti 2026. Syftet är att visa att det finns senare förstahandsuppgifter som inte låg till grund för beslutet 13 april.
+**Nya källor:**
+- `bevis/2026-04-04--2026-08-06-sms-thomas-duvsjo-granne-kilsgatan.md`
+- `bevis/2025-11-07--2025-11-11-sms-thomas-infor-mote.md`
+
+Fokus:
+- 4 april 2026: Thomas Duvsjö/Caroline beskriver snabb reaktion i 1202 och jämförelse med sin egen bostad i samma fastighet; Thomas godkänner skriftligt vittnesutkastet.
+- 19 maj 2026: Thomas Duvsjö kopplas genom SMS direkt till Familjebostäders besök och lämnar efterföljande synpunkt om att det som sägs bör rapporteras vidare.
+- 10 juli 2026: nytt platsbesök; separat SMS-spår med Peter visar att Erica före besöket återigen meddelat att hon får symtom.
+- 16 augusti 2026: senare reaktioner enligt övrigt material.
+
+Syftet är att visa vilka senare förstahandsuppgifter som inte låg till grund för Miljöförvaltningens beslut 13 april och att hålla isär förstahandsupplevelse från teknisk orsak.
 
 ### 9. Åtgärder kontra ”inget fel”
-El, ventilation, golv, målning, köksdelar, håltagning/lufttillförsel. Fråga: om allt varit fullgott sedan dag 1, varför beställdes och utfördes dessa åtgärder, och vilket problem skulle varje åtgärd lösa?
+**Ny källa:** `bevis/2025-11-21--2026-07-10-sms-peter-husvard.md`
+
+El, ventilation, golv, målning, köksdelar, håltagning/lufttillförsel. Peter skriver 21 nov 2025 att all el är bortriven och 21 maj 2026 att han ska fixa köksluckan och kontrollera fönstret. Fråga: om allt varit fullgott sedan dag 1, varför beställdes och utfördes dessa åtgärder, vilket problem skulle varje åtgärd lösa och hur verifierades effekten?
 
 ### 10. Obesvarade frågor till Familjebostäder
 Datum fråga → exakt fråga → svar → besvarad/delvis/obesvarad → vad saknas.
@@ -96,15 +111,18 @@ Datum fråga → exakt fråga → svar → besvarad/delvis/obesvarad → vad sak
 Miljöförvaltningen → Länsstyrelsen → MMD. Fokus på vilka konkreta invändningar som återges men inte synligt analyseras i beslut/domskäl, exempelvis kanalrensningskedjan och orsaksfrågan.
 
 ### 12. Elspåret i köket
+**Ny källa:** `bevis/2025-11-21--2026-07-10-sms-peter-husvard.md`
+
 Fokus:
 - fotodokumentation från tillträdesperioden,
 - Familjebostäders egen formulering 20 nov om **feldragna kablar** som ska demonteras och nymonteras fackmannamässigt,
+- 21 nov 2025: Peter, husvärd hos Familjebostäder, skriver i SMS: **”Nu är all el bortriven.”**
 - när arbetet faktiskt utfördes,
 - vem som utförde det,
 - om det finns arbetsorder/egenkontroll,
 - om någon kan datera den äldre installationen.
 
-**Varning:** ordet ”olaglig” från Peter och koppling till brandåterställningen ska källåsas innan de används som verifierade fakta.
+**Varning:** ordet ”olaglig” och koppling till brandåterställningen ska källåsas innan de används som verifierade fakta.
 
 ### 13. Originalkök / dolda material / visuella avvikelser
 Fokus:
@@ -117,6 +135,25 @@ Fokus:
 - vilken teknisk undersökning som faktiskt gjorts av materialet.
 
 **Varning:** visuell avvikelse är inte bevis för brand-, fukt- eller mikrobiell orsak. Fråga efter arbetsorder, materiallista, provtagning och teknisk bedömning.
+
+### 14. Familjebostäders samtidiga kännedom om hälsobesvär
+**Källa:** `bevis/2025-11-21--2026-07-10-sms-peter-husvard.md`
+
+Fokus:
+- 18 maj 2026: Erica skriver till Peter att hon får symtom i lägenheten och vill undvika hälsorisk.
+- 23 juni: Erica skriver att hon mår dåligt inne, har svårt att andas och är hjärntrött; Peter svarar att han kan komma inom fem minuter.
+- 9 juli: samma information om symtom lämnas inför 10 juli-besöket.
+- kontrollfråga: hur registrerades och fördes dessa uppgifter vidare internt hos Familjebostäder, och vilka tekniska/medicinska slutsatser drogs eller utreddes?
+
+### 15. Mötesvittnet 11 november 2025
+**Källa:** `bevis/2025-11-07--2025-11-11-sms-thomas-infor-mote.md`
+
+Fokus:
+- 7 nov: Erica frågar Thomas om han kan vara med som stöd/vittne när Familjebostäders förvaltning kommer.
+- Thomas accepterar.
+- 8–10 nov: förberedelser inför mötet.
+- 11 nov kl. 13: SMS precis före mötet.
+- använd detta för närvarokedjan, men source-locka exakta mötesuttalanden mot ljudfilen.
 
 ---
 
