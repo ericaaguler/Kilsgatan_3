@@ -6,6 +6,7 @@ Detta är ingången till materialet. **Revisionen 25 augusti 2026 är nu kanonis
 
 ## 1. KANONISK REVISION – LÄS FÖRST
 
+- [**Heltrådsrevision – checklista och bevisstatus**](analyser/REVISION-2026-08-25-HELTRADSREVISION-CHECKLISTA.md)
 - [**Senaste kanoniska tillägg – tidslinje, motsägelser och beteende/mönster**](analyser/REVISION-2026-08-25-KANONISKT-TILLAGG-TIDSLINJE-MOTSAGELSER-MONSTER.md)
 - [**Chat-synk – allt relevant från denna chat**](analyser/CHAT-SYNK-2026-08-25-ALLT-FRAN-DENNA-CHAT.md)
 - [Reviderad samlad huvudtidslinje – 25 augusti 2026](analyser/REVISION-2026-08-25-SAMLAD-HUVUDTIDSLINJE.md)
