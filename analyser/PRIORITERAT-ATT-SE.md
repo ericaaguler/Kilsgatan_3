@@ -51,7 +51,38 @@ Centrala punkter:
 
 **Ingen brist konstaterades inom den genomförda kontrollen** är inte samma sak som att **orsaken till hälsobesvären identifierades eller att toxiner, brand-/rökpartiklar och andra möjliga orsaker undersöktes och uteslöts**.
 
-## 4. Platsbesöket med Marko – del 1 och del 2
+## 4. Peter 19 maj 2026 – mycket viktigt mellanled
+
+Se:
+
+- `transkriptioner/LJUDFIL-11-2026-05-19-PETER-THOMAS-LAGENHETEN-INVENTERING.md`
+- `analyser/TIDSLINJE-KOMPLETTERING-PETER-19-MAJ-JENNIFER-17-AUG-2026.md`
+
+Erica har identifierat i ljudet att Peter säger/ger uttryck för att målning eller tomställning inte löser grundproblemet, frågar Thomas vad han tror att problemet kan vara och behandlar orsaken som fortsatt öppen. **Exakt ordalydelse och tidskod ska låsas före extern ordagrann citering.**
+
+### Thomas Duvsjös kompletterande redogörelse
+
+Thomas egna skriftliga uppgifter från besöket den 19 maj är ett separat stöd för mötets kontext. Han beskriver:
+
+- avvikande luft och lukt,
+- tung/tryckande luft och svårighet att vistas längre tid,
+- problem trots cirka 27 dygns vädring,
+- att det inte framstod tydligt hur observationer skulle dokumenteras/följas upp,
+- och att någon planerad fullständig teknisk utredning av grundorsaken inte redovisades.
+
+**Viktig precision:** Thomas redogörelse bekräftar inte i sig Peters exakta ord. Den stärker däremot att mötet den 19 maj rörde en fortsatt olöst inomhusmiljöfråga och att någon sammanhållen teknisk grundorsaksutredning inte redovisades på plats.
+
+### 🚨 Argumentet mot senare kategoriska besked
+
+Detta ska ställas mot Jennifers skriftliga besked den 17 augusti 2026 att:
+
+- ingen av Familjebostäders personal upplever lukt,
+- bostaden kunnat bebos sedan dag 1,
+- och inomhusmiljön är ”konstaterad fullgod”.
+
+Det säkra argumentet är inte ännu att Peter själv luktade något. Det starka är att **frånvaro av egen luktupplevelse inte är samma sak som frånvaro av ett observerat, diskuterat eller fortsatt oförklarat problem**.
+
+## 5. Platsbesöket med Marko – del 1 och del 2
 
 De två inspelningarna hör enligt Erica till samma platsbesök och ska läsas som en sammanhängande händelse.
 
@@ -107,7 +138,27 @@ Materialet innehåller både:
 
 Det måste klarläggas om detta avser olika tidpunkter, olika kanaler eller motstridiga besked om samma åtgärd.
 
-## 5. Markos historiska kunskapsläge – separat verifieringsspår
+## 6. PROCESSOBS – nya vittnesuppgifter efter beslutet 13 april
+
+Detta ska inte tappas i juridisk genomgång.
+
+- Thomas Duvsjös nya observationer den **19 maj 2026** uppkom efter Miljöförvaltningens beslut den 13 april.
+- Thomasrelaterad komplettering gavs in till **Länsstyrelsen den 28 maj** (B0349).
+- Björn Adlers förstahandsobservationer uppkom den **10 juli 2026**.
+- Björns redogörelse skickades direkt till **Mark- och miljödomstolen den 28 juli** med begäran att läggas till handlingarna i mål M 5167-26.
+- I augusti frågade Erica uttryckligen Miljöförvaltningen hur nya uppgifter efter beslutet registreras och görs tillgängliga för domstolen när MF samtidigt hänvisar till att överinstansen prövar ”samma sakfråga”.
+
+### 🚨 Processuell asymmetri som måste markeras
+
+Om Thomas 19-maj-redogörelsen och Björn 10-juli-redogörelsen **inte registrerats i Miljöförvaltningens avslutade akt**, samtidigt som de getts in till Länsstyrelsen respektive domstolen, måste detta stå uttryckligen i processöversikten.
+
+Det betyder inte att överinstanserna automatiskt måste dra en viss slutsats av vittnesuppgifterna. Det betyder att man måste hålla isär:
+
+**vad Miljöförvaltningen faktiskt hade framför sig när beslutet fattades** från **nya fakta som senare kom till och skickades vidare i överklagandekedjan**.
+
+Det vore fel att i efterhand beskriva de nya uppgifterna som om de redan hade värderats inom beslutet den 13 april.
+
+## 7. Markos historiska kunskapsläge – separat verifieringsspår
 
 Erica uppger att Marko var husvärd på Kilsgatan när brand-/rökhändelsen inträffade 2017. Om detta dokumenteras kan det vara relevant för vad han redan kunde känna till vid platsbesöket 2026.
 
@@ -115,7 +166,7 @@ Det måste dock verifieras genom tjänste-/områdesuppgift eller annan källa in
 
 Erica återger även en uppgift från grannen Thomas om tidigare konflikter med Marko och områdesbyte. Detta är andrahandsuppgift och ska inte användas i huvudspåret utan självständig relevans och dokumentation.
 
-## 6. Kärnfrågor
+## 8. Kärnfrågor
 
 1. Vad orsakar lukten och hälsobesvären?
 2. Vilken undersökning hade uttryckligt uppdrag att fastställa orsaken?
@@ -131,7 +182,12 @@ Erica återger även en uppgift från grannen Thomas om tidigare konflikter med 
 12. Hur kunde bostaden bedömas som brukbar när orsaken inte var identifierad?
 13. Vilken konkret uppföljning skedde efter att Marko skulle ta frågan med chefen?
 14. Vilken betydelse fick att Marko själv föreslog att samtalet skulle fortsätta på balkongen efter att ha observerat Ericas behov av frisk luft?
+15. Vilken betydelse fick Peters fortsatta osäkerhet/efterfrågan om vad problemet kunde vara den 19 maj?
+16. Var är Thomas 19-maj- och Björn 10-juli-redogörelserna registrerade i respektive instans, och vilka instanser har faktiskt värderat dem?
+17. Hur kan Jennifer den 17 augusti beskriva inomhusmiljön som ”konstaterad fullgod” när egna platsbesök efter MF:s beslut fortfarande visar en oförklarad grundorsak och nya förstahandsreaktioner?
 
-## 7. Juridiskt användbar kärna
+## 9. Juridiskt användbar kärna
 
-**Rapporterade hälsobesvär → ingen redovisad sammanhållen orsaksutredning → flera olika åtgärder → kvarstående besvär → Familjebostäders egen representant observerar situationen, flyttar samtalet till balkongen och beskriver behov av chefsförankring → olika besked om målning/spärrning och kanalrensning → ändå senare påståenden om att ärendet är avslutat eller att inget avvikande finns.**
+**Rapporterade hälsobesvär → ingen redovisad sammanhållen orsaksutredning → flera olika åtgärder → kvarstående besvär → Peter behandlar den 19 maj enligt ljudspåret fortfarande orsaken som öppen → Thomas lämnar separat redogörelse om avvikande luft/lukt och avsaknad av tydlig grundorsaksutredning → nya förstahandsuppgifter uppkommer även 10 juli genom Björn och observeras av Marko → materialet tillkommer efter MF:s beslut och förs vidare till överinstanser → Jennifer skriver 17 augusti att ingen personal upplever lukt och att inomhusmiljön är ”konstaterad fullgod”.**
+
+Det centrala argumentet är därför inte att en enskild persons luktupplevelse avgör saken. Det centrala är **glappet mellan ett fortsatt oförklarat och återkommande problem, nya dokumenterade observationer och senare kategoriska slutsatser om fullgod inomhusmiljö utan redovisad sammanhållen orsaksutredning.**
