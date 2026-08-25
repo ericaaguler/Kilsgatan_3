@@ -384,6 +384,100 @@ Följande matris ska byggas vidare i repo:t:
 
 ---
 
+# 12. Kronologisk kedja – städningar, möten, åtgärder och fortsatta reaktioner
+
+Den här kronologin ska användas som arbetsöversikt när åtgärdsansvar, brukbarhet och orsaksutredning analyseras. Varje punkt ska vid formell användning bindas till motsvarande originalbevis i repo:t.
+
+## 27 oktober 2025 – första professionella städningen
+
+Första professionella städningen utförs av Ed Städ. Huvudvärk hade enligt den dokumenterade händelsekedjan redan uppstått innan städningen började, vilket är relevant eftersom besvären därmed inte utan vidare kan förklaras av själva städningen. Fotodokumentation finns efter städningen.
+
+## 4 november 2025 – drifttekniker kontrollerar/justerar ventilationen
+
+Drifttekniker Caroline kontrollerar/justerar ventilationen. Blockerande material i tilluftsöppningar uppmärksammas.
+
+## 11 november 2025 – första större mötet i lägenheten med Familjebostäder
+
+Jennifer, Gaby, Micke och Erica går igenom lägenheten. Fokus ligger bland annat på ytskikt, målning och praktiska åtgärder. Vid mötet uppges också att Caroline ska ha gjort en kanalrensning cirka fem meter.
+
+Den uppgiften ska jämföras med senare skriftlig information den 2 december 2025 om att kanalrensning ska ske.
+
+## 20 november 2025 – andra professionella städningen
+
+Ny professionell städning genomförs, bland annat med Diversey Sani MouldOut. Den rapporterade problematiken upphör inte.
+
+## 27 november 2025 – tredje professionella städningen
+
+Ytterligare städning genomförs och ”Mögel Bort” används. Problemet uppges kvarstå. Dokumentation finns även från samma dag efter städningen.
+
+## 30 november 2025 – anmälan till Miljöförvaltningen
+
+Anmälan omfattar bland annat lukt, ventilation, fukt-/mögelfrågor, möjlig brandhistorik och hälsobesvär.
+
+## 2 december 2025 – Jennifer skriver att kanalrensning ska ske
+
+Jennifer skriver att kanalrensning ska ske. Detta är en viktig dokumentationspunkt eftersom det kan stå i spänning med uppgiften vid mötet 11 november om att Caroline redan skulle ha gjort en kanalrensning cirka fem meter.
+
+Det ska därför klarläggas exakt:
+
+- vad Caroline faktiskt gjorde den 4 november,
+- om detta tekniskt och dokumentationsmässigt utgjorde en kanalrensning,
+- vilken kanal och vilken sträcka som berördes,
+- om något protokoll, arbetsorder eller annan dokumentation finns,
+- vad Jennifer avsåg med kanalrensningen som skulle ske enligt mejlet den 2 december.
+
+## 17 december 2025 – andra mötet i lägenheten med Familjebostäder
+
+Jennifer, Peter, Viktor och Erica deltar. Lukt och huvudvärk tas upp. Enligt det samlade materialet uppger Jennifer bland annat att Familjebostäder inte kommer att ta mögelprover och att hon inte kommer att beställa någon sådan åtgärd.
+
+Den exakta ordalydelsen och sammanhanget ska alltid kontrolleras mot inspelning/transkription innan citat används externt.
+
+## 5 januari 2026 – avvikande material bakom fast köksinredning dokumenteras
+
+Brun/materialmässigt avvikande förekomst bakom fast köksinredning dokumenteras. Detta är relevant som fortsatt observations- och utredningsspår, men observationen ska inte i sig etiketteras som mögel eller annan specifik skada utan tekniskt underlag.
+
+## 11 mars 2026 – Miljöförvaltningens tillsyn
+
+Miljöförvaltningen genomför tillsyn i lägenheten. Ventilation och luftflöden kontrolleras.
+
+## 11 mars–3 april 2026 – 23 dygns genomvädring
+
+Lägenheten genomvädras under cirka 23 dygn.
+
+## 19–23 april 2026 – ytterligare fyra dygns vädring
+
+Ytterligare cirka fyra dygns vädring genomförs. Sammanlagt blir detta cirka 27 dygns dokumenterad vädring i dessa två perioder.
+
+## 19 maj 2026 – Thomas reagerar på nytt i lägenheten
+
+Thomas är åter i lägenheten och reagerar enligt det dokumenterade materialet igen. Denna händelse ligger efter Miljöförvaltningens beslut den 13 april 2026 och är därför särskilt relevant som en senare förstahandsuppgift.
+
+## 10 juli 2026 – platsbesök med Marko; Björn reagerar
+
+Vid platsbesöket med Marko reagerar Björn och behöver lämna lägenheten. Även detta är en senare förstahandsuppgift efter Miljöförvaltningens beslut.
+
+---
+
+## 12.1 Strategiskt viktig delkedja
+
+Vid kommunikation med Jennifer/Familjebostäder behöver hela kronologin inte alltid återges. Följande datum är särskilt användbara:
+
+**27 oktober 2025 → 11 november → 20 november → 27 november → 2 december → 17 december → 11 mars 2026 → 3 april → 19 maj → 10 juli.**
+
+De visar i koncentrerad form följande kedja:
+
+> **städning → möte → städning → städning → kanalrensningsuppgift → nytt möte → tillsyn → långvarig vädring → fortsatta reaktioner.**
+
+Den juridiska betydelsen ligger inte i att denna kedja ensam bevisar den tekniska orsaken, utan i att den kan användas för att pröva:
+
+- om problemet faktiskt avhjälptes,
+- om tidigare åtgärder gav varaktig effekt,
+- om en bakomliggande orsak blev tillräckligt utredd,
+- när Familjebostäder fick anledning att gå vidare från städning/ytskikt till bredare orsaksutredning,
+- hur senare förstahandsuppgifter hanterades av Familjebostäder och Miljöförvaltningen.
+
+---
+
 ## Arbetsmarkering
 
 **OBS:** Detta dokument är en juridisk arbetsanalys. Det ska användas för att formulera precisa grunder, kontrollfrågor och överklagandepunkter. Påståenden om faktiskt lagbrott ska först bindas till exakt rättsregel, exakt händelse och exakt bevisning.
