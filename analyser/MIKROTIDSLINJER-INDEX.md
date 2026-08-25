@@ -2,6 +2,8 @@
 
 **Syfte:** huvudtidslinjen visar hela ärendet. Mikrotidslinjerna ska däremot visa exakt **var ett problem, en motsägelse eller en dokumentationslucka uppstår mellan två eller flera datum**.
 
+**Samlad systemuppdatering:** `analyser/SYSTEMUPPDATERING-CHAT-2026-08-25.md`
+
 ## Prioritet 1 – ska byggas först
 
 ### 1. Kanalrensningen – 4 nov 2025 → 15 jan 2026
@@ -81,6 +83,29 @@ Datum fråga → exakt fråga → svar → besvarad/delvis/obesvarad → vad sak
 
 ### 10. Överinstansernas prövning
 Miljöförvaltningen → Länsstyrelsen → MMD. Fokus på vilka konkreta invändningar som återges men inte synligt analyseras i beslut/domskäl, exempelvis kanalrensningskedjan och orsaksfrågan.
+
+### 11. Elspåret i köket
+Fokus:
+- fotodokumentation från tillträdesperioden,
+- Familjebostäders egen formulering 20 nov om **feldragna kablar** som ska demonteras och nymonteras fackmannamässigt,
+- när arbetet faktiskt utfördes,
+- vem som utförde det,
+- om det finns arbetsorder/egenkontroll,
+- om någon kan datera den äldre installationen.
+
+**Varning:** ordet ”olaglig” från Peter och koppling till brandåterställningen ska källåsas innan de används som verifierade fakta.
+
+### 12. Originalkök / dolda material / visuella avvikelser
+Fokus:
+- bilder från tillträdesperioden,
+- kakel med olika färgtoner,
+- brun/mörk missfärgning,
+- äldre metallgaller/ställ i skåp,
+- köksstomme/dolda ytor,
+- vad som senare togs bort/byttes/målades,
+- vilken teknisk undersökning som faktiskt gjorts av materialet.
+
+**Varning:** visuell avvikelse är inte bevis för brand-, fukt- eller mikrobiell orsak. Fråga efter arbetsorder, materiallista, provtagning och teknisk bedömning.
 
 ---
 
