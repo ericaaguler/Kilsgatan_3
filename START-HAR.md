@@ -9,6 +9,7 @@ Detta är ingången till det material som särskilt bör ses över. Originalbevi
 - [Samlad fråge- och svarsmatris – myndigheter och Familjebostäder](analyser/SAMLAD-FRAGE-SVARSMATRIS-MYNDIGHETER-OCH-FAMILJEBOSTADER.md)
 - [Varför fokus på ventilation inte räcker](analyser/VARFOR-FOKUS-PA-VENTILATION-INTE-RACKER.md)
 - [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
+- [Tidslinjemarkör – HLU → OCAB → materialåtgärder → målning → ventilation → brandspår → fortsatt okänd orsak](analyser/TIDSLINJE-MARKOR-HLU-OCAB-MATERIAL-MALNING-BRAND-OCH-OKAND-ORSAK.md)
 - [HLU → materialåtgärder – köksbänk, golv och målning: saknade orsaksled](analyser/HLU-TILL-FELAVHJALPANDE-ATGARD-KOKSBANK-GOLV-OCH-MALNING.md)
 - [Hall, garderober, klädkammare och grannventilation – selektiva åtgärder och obesvarad teknisk princip](analyser/HALL-GARDEROBER-KLADKAMMARE-OCH-GRANNVENTILATION.md)
 - [OCAB/Gaby 20 oktober 2025 – tidslinje, räckviddsfel och argument](analyser/TIDSLINJE-KOMPLETTERING-OCAB-GABY-20-OKT-2025.md)
