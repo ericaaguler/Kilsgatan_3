@@ -54,7 +54,85 @@ Om den endast var kosmetisk/”fin gest”, varför talas senare om spärrning? 
 
 ---
 
-# 3. Processmotsägelsen: nytt material efter beslutet kontra hänvisning till ”samma sakfråga”
+# 3. Ny skriftligt låst inkonsekvens – köket: målning → tapetsering → tillbaka till målning
+
+Det finns en separat och fullt skriftlig kedja som visar att Familjebostäders besked om **vilken åtgärd som avtalats i köket** ändrades och därefter återställdes först när Erica hänvisade till den tidigare dokumentationen.
+
+## Dokumenterad kedja
+
+### 11 november 2025 – mötet i lägenheten
+
+Enligt Ericas ljudhänvisning diskuterades **målning**, inte tapetsering. Ljudet finns bevarat och ska användas som primärkälla om exakt ordalydelse behövs.
+
+### 26 november 2025 – Gaby skriftligen
+
+Erica hänvisar senare till Gabys skriftliga besked:
+
+> ”Efter städningen sker målningen … invändigt köksstomme enligt överenskommelse, målning sovrum 1, målning hall och köket samt även golvsocklarna (vit)”
+
+Detta är en nära samtida skriftlig bekräftelse på att åtgärden i köket beskrevs som målning.
+
+### 2 december 2025 – Jennifer skriftligen
+
+Erica hänvisar till Jennifers egen formulering:
+
+> ”I övrigt sker det som vi kom överens om på vårt möte i din lägenhet.”
+
+Tillsammans med Gaby-beskedet och mötesljudet stödjer detta att den dokumenterade överenskommelsen vid den tidpunkten var målning.
+
+### 8 april 2026 – Erica reagerar på ändrat besked
+
+Erica skriver till Jennifer att uppgiften om åtgärd i köket nu har ändrats till **tapetsering** och invänder uttryckligen:
+
+- ingen överenskommelse om tapetsering hade träffats,
+- mötet den 11 november var inspelat,
+- Gaby hade skriftligen bekräftat målning den 26 november,
+- Jennifer hade själv den 2 december hänvisat till att det som avtalats på mötet skulle ske.
+
+Erica begär därför att Jennifer visar skriftligt stöd för den nya uppgiften om tapetsering och skriver i sak att Familjebostäder ska hålla sig till det som faktiskt dokumenterats.
+
+### 9 april 2026 – Emma Sega går in i frågan
+
+Emma Sega på Hyresgästföreningen skriver att hon mejlat Jennifer ”för att höra om målningen åter igen”. Erica reagerar och anger att hon inte hade bett Emma att öppna frågan på nytt eftersom den redan var styrkt genom dokumentation. Erica skriver bland annat att:
+
+- frågan redan var hanterad,
+- överenskommelsen avsåg målning, inte tapetsering,
+- hyresvärden skulle hålla sig till det som faktiskt avtalats.
+
+Detta ska inte beskrivas som att Emma ”orsakade” ändringen utan underlag. Det dokumenterade är att hon gick in i en fråga som Erica redan hade drivit direkt mot Jennifer och som Erica själv ansåg vara bevismässigt stängd.
+
+### 14 april 2026 – Jennifer återgår till målning
+
+Jennifer svarar skriftligen:
+
+> **”Jag meddelar målarna att de målar väggarna i köket.”**
+
+Detta är den viktiga slutpunkten i kedjan: efter Ericas hänvisning till den tidigare dokumentationen återgår Familjebostäder till den åtgärd som tidigare dokumenterats – målning.
+
+## Vad detta visar
+
+Detta är ett **rent dokumenterat exempel på inkonsekventa besked inom Familjebostäder**:
+
+> **Dokumenterad överenskommelse om målning → senare uppgift om tapetsering → Erica kräver stöd och hänvisar till tidigare bevis → Jennifer återgår skriftligen till målning.**
+
+Det är inte i sig bevis för fel i inomhusmiljöfrågan. Dess betydelse är i stället:
+
+1. muntliga/skriftliga besked inom FB har inte alltid varit stabila,
+2. Erica har behövt säkra och återföra tidigare dokumentation för att få det tidigare beskedet respekterat,
+3. det stärker värdet av ljudinspelningar, mejl och samtidiga noteringar när senare besked avviker,
+4. det gör det legitimt att kontrollera andra senare kategoriska påståenden mot vad FB faktiskt sagt och gjort tidigare.
+
+## Viktig försiktighet
+
+Detta ska **inte** användas som argumentet ”FB har haft fel en gång, därför har de fel om allt”.
+
+Det relevanta argumentet är:
+
+> **När Familjebostäders senare uppgift avviker från tidigare dokumenterade besked måste den senare uppgiften kunna förklaras och stödjas av underlag. Köksmålningsspåret visar konkret varför denna källkontroll behövs.**
+
+---
+
+# 4. Processmotsägelsen: nytt material efter beslutet kontra hänvisning till ”samma sakfråga”
 
 Miljöförvaltningen avslutade ärendet den 13 april 2026.
 
@@ -88,7 +166,7 @@ Det är därför avgörande att inte blanda samman:
 
 ---
 
-# 4. Thomas redogörelse – vad den bevisar och inte bevisar
+# 5. Thomas redogörelse – vad den bevisar och inte bevisar
 
 Thomas redogörelse från 19 maj är viktig eftersom den är en separat förstahandskälla från en person som varit närvarande.
 
@@ -105,7 +183,7 @@ Detta gör dock Thomas viktig som **oberoende kontextstöd** för att mötet den
 
 ---
 
-# 5. Björn redogörelse – varför den är särskilt viktig
+# 6. Björn redogörelse – varför den är särskilt viktig
 
 Björn beskriver ett första besök, vilket minskar risken att hans beskrivning bygger på långvarig egen exponering i bostaden.
 
@@ -121,9 +199,15 @@ Det bevisar inte en viss teknisk orsak. Men det är en ny förstahandsobservatio
 
 ---
 
-# 6. Samlad argumentkedja
+# 7. Samlad argumentkedja
 
 > **Miljöförvaltningen avslutar 13 april → nya reaktioner och observationer fortsätter 19 maj → Peter behandlar enligt ljudspåret orsaken som öppen och Thomas beskriver avvikande luft/lukt samt avsaknad av tydlig grundorsaksutredning → Thomasmaterial går vidare till Länsstyrelsen → 10 juli uppkommer ytterligare förstahandsreaktion genom Björn och Marko får informationen direkt → Björns redogörelse ges in till MMD → 17 augusti skriver Jennifer att ingen personal upplever lukt och att inomhusmiljön är ”konstaterad fullgod”.**
+
+Parallellt finns ett separat dokumenterat mönster i förvaltningskommunikationen:
+
+> **Gaby-besked om HLU måste styrkas med ljud när Leonard gör annan tolkning; köksmålning ändras senare till tapetsering men återställs efter att Erica lägger fram tidigare dokumentation.**
+
+Detta ska användas som stöd för **källkritisk kontroll av senare besked**, inte som substitut för sakbevis i inomhusmiljöfrågan.
 
 ## Kärnargument
 
