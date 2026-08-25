@@ -9,6 +9,7 @@ Detta är ingången till det material som särskilt bör ses över. Originalbevi
 - [Samlad fråge- och svarsmatris – myndigheter och Familjebostäder](analyser/SAMLAD-FRAGE-SVARSMATRIS-MYNDIGHETER-OCH-FAMILJEBOSTADER.md)
 - [Varför fokus på ventilation inte räcker](analyser/VARFOR-FOKUS-PA-VENTILATION-INTE-RACKER.md)
 - [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
+- [OCAB/Gaby 20 oktober 2025 – tidslinje, räckviddsfel och argument](analyser/TIDSLINJE-KOMPLETTERING-OCAB-GABY-20-OKT-2025.md)
 - [Motsägelser och argument – Peter, Thomas, Björn, Jennifer och processkedjan](analyser/MOTSAGELSER-OCH-ARGUMENT-PETER-THOMAS-BJORN-JENNIFER-PROCESS.md)
 - [Specifik tidslinje – Peter 19 maj, Thomas/Björn och Jennifer 17 augusti](analyser/TIDSLINJE-KOMPLETTERING-PETER-19-MAJ-JENNIFER-17-AUG-2026.md)
 - [Peter 19 maj – ljudfil och prioriterade låspunkter](transkriptioner/LJUDFIL-11-2026-05-19-PETER-THOMAS-LAGENHETEN-INVENTERING.md)
