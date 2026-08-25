@@ -150,7 +150,35 @@ Erica bedömer också att Peter i samtalet förstår att hennes problemformuleri
 
 ---
 
-## 5. Varför Peters eventuella ”nej” kan vara viktigt
+## 5. Peter – kunskap, nyfikenhet och egen bedömning
+
+Erica uppger att Peter vid samtal med både henne och Thomas uttrycker att han är **nyfiken på vad det kan vara / undrar vad som orsakar det som upplevs i lägenheten**. Erica uppger vidare att Peter den 23 juni, på frågor om tömning respektive målning skulle lösa problemet, svarar **nej**.
+
+Dessa uppgifter är viktiga därför att de – **om de verifieras ordagrant i ljudet** – kan visa tre separata saker:
+
+1. **Peter har förstått att det finns ett kvarstående fenomen att förklara.** Ett uttryckt ”vad kan det vara?” eller motsvarande är inte samma sak som ett konstaterande att inget problem finns.
+2. **Peter har tagit ställning till föreslagna åtgärder.** Om han faktiskt svarar nej på att tömning eller målning löser problemet, är det en egen bedömning från Familjebostäders representant om att dessa åtgärder inte i sig förklarar eller avhjälper det rapporterade problemet.
+3. **Det kan stödja att Peter förstått problemformuleringen som bredare än lukt.** Detta blir särskilt relevant om hans frågor/kommentarer om vad det kan vara uppkommer i direkt anslutning till att Erica och/eller Thomas beskriver både lukt och annan tung/tryckande/onormal luft eller fysisk påverkan.
+
+### Viktig bevismässig gräns
+Det ska tills vidare **inte** formuleras som att Peter ”håller med Erica och Thomas om orsaken” eller ”bekräftar att lägenheten är skadlig”. Det skulle gå längre än vad som hittills är källåst.
+
+Den starkaste försiktiga formuleringen är i stället:
+
+> **Om ljudet verifierar att Peter uttrycker nyfikenhet kring vad fenomenet kan vara och samtidigt bedömer att varken tömning eller målning kommer lösa det, visar det att han själv förhåller sig till ett kvarstående problem som kräver en annan förklaring än dessa åtgärder. Det är förenligt med – men bevisar inte ensamt – att han förstått att problemformuleringen är bredare än enbart en luktobservation.**
+
+### Jämförelsefråga mot senare Familjebostäder-kommunikation
+Detta ska jämföras med senare formuleringar där Familjebostäder hänvisar till att personal inte upplevt lukt eller till att Miljöförvaltningen inte noterade avvikande lukt/odör.
+
+Om Peter själv i ljudet uttrycker att han undrar **vad det kan vara** och bedömer att vissa föreslagna åtgärder **inte** löser problemet, blir den centrala kontrollfrågan:
+
+> **Hur kan Peters egen samtida förståelse och bedömning förenas med en senare framställning där frånvaro av upplevd lukt används som stöd för att problemet inte föreligger eller inte kräver ytterligare orsaksutredning?**
+
+Status för denna del: **MYCKET VIKTIG – behöver ordagrann dubbellåsning mot 19-maj-ljudet och båda 23-juni-inspelningarna.**
+
+---
+
+## 6. Varför Peters eventuella ”nej” kan vara viktigt
 
 Om ljudet verifierar att Peter svarar nej på frågorna om tömning respektive målning, ska detta inte överdrivas till att Peter därmed bekräftar en viss teknisk orsak.
 
@@ -162,7 +190,7 @@ Det ska också jämföras med senare hänvisningar till målning, spärrning/kap
 
 ---
 
-## 6. Myndighets-/Familjebostäder-svaret som måste jämföras med detta spår
+## 7. Myndighets-/Familjebostäder-svaret som måste jämföras med detta spår
 
 Miljöförvaltningen har senare åberopats för formuleringen att **inga avvikande lukter eller odörer noterades vid tillsynstillfället** och att ventilationen då bedömdes tillfredsställande.
 
@@ -183,13 +211,15 @@ Den centrala kontrollfrågan är därför:
 
 ---
 
-## 7. OBS till Björn
+## 8. OBS till Björn
 
 **🔴 OBS – RISK FÖR SAMMANBLANDNING AV TVÅ FENOMEN**
 
 Materialet innehåller återkommande uppgifter om både **lukt/odör** och en separat **luft-/hälsopåverkan** där personer beskriver tung eller onormal luft, andningssvårigheter, huvudvärk och behov av frisk luft. Jimmys redogörelse är särskilt tydlig eftersom han i samma besök först beskriver lukt i korridoren, sedan frisk luft efter vädring och därefter fysisk påverkan och känslan att något är fel i luften när lägenheten stängs.
 
 Om myndighetens och Familjebostäders slutsats i praktiken huvudsakligen vilar på att **ingen avvikande lukt noterades** och att vissa ventilationsvärden var godtagbara, måste det kontrolleras om den andra delen av problemformuleringen över huvud taget blev föremål för en riktad undersökning.
+
+**Ytterligare OBS – Peter:** Erica uppger att Peter både uttryckt nyfikenhet kring vad fenomenet kan vara och att han den 23 juni svarat nej på att tömning respektive målning skulle lösa problemet. Om detta låses mot ljudet är det starkt stöd för att Peter själv förhöll sig till ett kvarstående problem som inte kunde reduceras till frågan om han själv kände en lukt. Det ska däremot inte formuleras som att han därmed bekräftat en viss teknisk orsak.
 
 **Ytterligare OBS – ljudkedjan:** 19 maj och 23 juni är två separata händelser. Den 23 juni finns två parallella inspelningar av samma samtal. De ska användas för dubbelkontroll av Peters ordalydelse och därefter jämföras kronologiskt med vad han fick veta/sade den 19 maj.
 
