@@ -1,220 +1,44 @@
 # Motsägelser och argument – Peter, Thomas, Björn, Jennifer och processkedjan
 
-**Status:** arbetsanalys. Varje ordagrant ljudcitat ska tidskodas och låsas mot originalinspelning före extern användning.
+> **STATUS 25 AUGUSTI 2026: ERSATT SOM HUVUDVERSION.**
+>
+> Använd den reviderade matrisen:
+> `REVISION-2026-08-25-MOTSAGELSER-OCH-LOGISKA-SPANNINGAR.md`
+>
+> Använd också:
+> `REVISION-2026-08-25-KALLKONTROLL-OCH-RATTELSER.md`
 
-## 1. Huvudmotsägelsen: fortsatt okänd orsak kontra ”konstaterad fullgod”
+## Viktig rättelse
 
-### 19 maj 2026
+Den äldre arbetsversionen lade de tydligaste uppgifterna om **målning/tomställning** på mötet den 19 maj. Efter återfunnen tidskodad Good Tape-transkription ska de tydligaste uttalandena i första hand hänföras till **23 juni 2026**.
 
-Peter från Familjebostäder deltar i platsbesök. Enligt Ericas identifiering i ljudfilen behandlar Peter orsaken som fortsatt öppen, frågar Thomas vad han tror problemet kan vara och uttrycker i sak att målning/tomställning inte löser grundproblemet. Exakt ordalydelse och tidskod återstår att låsa.
+19 maj är fortsatt viktigt för:
 
-Thomas Duvsjös separata skriftliga redogörelse från samma besök anger att han upplevde avvikande luft/lukt och att det inte framkom någon tydlig planerad fullständig teknisk utredning av bakomliggande grundorsak.
+- Thomas nya observation efter Miljöförvaltningens beslut,
+- avvikande/tung luft och lukt enligt hans egen redogörelse,
+- fortsatt avsaknad av redovisad fullständig grundorsaksutredning,
+- och som tidigare led eftersom 23-juni-samtalet hänvisar tillbaka till att Peter frågat Thomas vad problemet kan vara.
 
-### 10 juli 2026
+## Den korrigerade processkedjan
 
-Björn Adler uppger i egen redogörelse att både Erica och han behövde lämna lägenheten efter en tids vistelse. När Marko anlände berättade Björn detta. Marko observerade därefter att Erica återkommande sökte frisk luft och föreslog själv att resten av samtalet skulle fortsätta på balkongen.
+> **19 maj:** ny förstahandsobservation och fortsatt olöst problem.  
+> **23 juni:** inspelat samtal visar fortsatt okänd orsak och oklar koppling mellan målning och hälsobesvär.  
+> **9 juli:** Gaby skriver att ärendet är avslutat och inga fler åtgärder ska göras.  
+> **10 juli:** Björn lämnar ny förstahandsobservation och Marko behandlar frågan enligt ljudspåret som något att notera/föra vidare/redas ut.  
+> **17 augusti:** Jennifer skriver att inomhusmiljön är ”konstaterad fullgod”.  
+> **17 augusti senare samma dag:** Jennifer föreslår egen cirka 2,5-timmars vistelse för att uppleva miljön och ”komma vidare”.
 
-### 17 augusti 2026
+## Huvudfrågor
 
-Jennifer Ehlin skriver i B0442:
+> **Vad hände tekniskt mellan 23 juni och 9 juli som fyllde den uttalade kunskapsluckan?**
 
-> ”Ingen av Familjebostäders personal upplever någon lukt i lägenheten (2 st husvärdar, 1 reparatör, 1 förvaltare, 1 bitr. förvaltare och 1 drifttekniker).”
+> **Vad hände tekniskt efter Markos/Björns 10-julibesök som bar den kategoriska slutsatsen den 17 augusti?**
 
-Hon skriver samtidigt:
+> **Vilken fråga återstod att besvara genom Jennifers personliga vistelse om inomhusmiljön redan var ”konstaterad fullgod”?**
 
-> ”Inomhusmiljön är konstaterad fullgod.”
+## Bevisdisciplin
 
-och att bostaden enligt Familjebostäders bedömning kunnat bebos sedan dag 1.
-
-## Argument
-
-Det starka argumentet är **inte** att Peters egen luktupplevelse redan motbevisar Jennifer. Peters egen luktupplevelse är inte låst.
-
-Det starka argumentet är:
-
-> **Frånvaro av egen luktupplevelse hos personal är inte samma sak som frånvaro av ett kvarstående, observerat eller diskuterat problem och är inte en teknisk orsaksutredning.**
-
-Familjebostäders egna platsbesök efter Miljöförvaltningens beslut visar att frågan fortfarande behandlas praktiskt och internt samtidigt som orsaken inte är identifierad. Det skapar ett tydligt glapp mot det senare kategoriska beskedet att inomhusmiljön är ”konstaterad fullgod”.
-
----
-
-# 2. Motsägelse/inkonsekvens: målningens funktion
-
-Materialet innehåller minst tre olika beskrivningar:
-
-1. Jennifer 17 december 2025: målning beskrivs som en **”fin gest”**.
-2. Peter 19 maj 2026: enligt Ericas identifiering i ljudet säger/ger han uttryck för att målning/tomställning **inte löser grundproblemet**. Ordalydelse/tidskod ska låsas.
-3. Marko juli 2026: i ljudspåret förekommer formuleringen att det är målat och att det är **”spärrat i väggarna”**.
-
-## Argument
-
-> **Vilket tekniskt problem var målningen avsedd att lösa?**
-
-Om den endast var kosmetisk/”fin gest”, varför talas senare om spärrning? Om den hade tekniskt syfte, vilket material eller vilken påverkan avsågs spärras? Om Peter samtidigt bedömde att målning inte löser grundproblemet, varför används målning senare som del av berättelsen om utförda åtgärder?
-
----
-
-# 3. Ny skriftligt låst inkonsekvens – köket: målning → tapetsering → tillbaka till målning
-
-Det finns en separat och fullt skriftlig kedja som visar att Familjebostäders besked om **vilken åtgärd som avtalats i köket** ändrades och därefter återställdes först när Erica hänvisade till den tidigare dokumentationen.
-
-## Dokumenterad kedja
-
-### 11 november 2025 – mötet i lägenheten
-
-Enligt Ericas ljudhänvisning diskuterades **målning**, inte tapetsering. Ljudet finns bevarat och ska användas som primärkälla om exakt ordalydelse behövs.
-
-### 26 november 2025 – Gaby skriftligen
-
-Erica hänvisar senare till Gabys skriftliga besked:
-
-> ”Efter städningen sker målningen … invändigt köksstomme enligt överenskommelse, målning sovrum 1, målning hall och köket samt även golvsocklarna (vit)”
-
-Detta är en nära samtida skriftlig bekräftelse på att åtgärden i köket beskrevs som målning.
-
-### 2 december 2025 – Jennifer skriftligen
-
-Erica hänvisar till Jennifers egen formulering:
-
-> ”I övrigt sker det som vi kom överens om på vårt möte i din lägenhet.”
-
-Tillsammans med Gaby-beskedet och mötesljudet stödjer detta att den dokumenterade överenskommelsen vid den tidpunkten var målning.
-
-### 8 april 2026 – Erica reagerar på ändrat besked
-
-Erica skriver till Jennifer att uppgiften om åtgärd i köket nu har ändrats till **tapetsering** och invänder uttryckligen:
-
-- ingen överenskommelse om tapetsering hade träffats,
-- mötet den 11 november var inspelat,
-- Gaby hade skriftligen bekräftat målning den 26 november,
-- Jennifer hade själv den 2 december hänvisat till att det som avtalats på mötet skulle ske.
-
-Erica begär därför att Jennifer visar skriftligt stöd för den nya uppgiften om tapetsering och skriver i sak att Familjebostäder ska hålla sig till det som faktiskt dokumenterats.
-
-### 9 april 2026 – Emma Sega går in i frågan
-
-Emma Sega på Hyresgästföreningen skriver att hon mejlat Jennifer ”för att höra om målningen åter igen”. Erica reagerar och anger att hon inte hade bett Emma att öppna frågan på nytt eftersom den redan var styrkt genom dokumentation. Erica skriver bland annat att:
-
-- frågan redan var hanterad,
-- överenskommelsen avsåg målning, inte tapetsering,
-- hyresvärden skulle hålla sig till det som faktiskt avtalats.
-
-Detta ska inte beskrivas som att Emma ”orsakade” ändringen utan underlag. Det dokumenterade är att hon gick in i en fråga som Erica redan hade drivit direkt mot Jennifer och som Erica själv ansåg vara bevismässigt stängd.
-
-### 14 april 2026 – Jennifer återgår till målning
-
-Jennifer svarar skriftligen:
-
-> **”Jag meddelar målarna att de målar väggarna i köket.”**
-
-Detta är den viktiga slutpunkten i kedjan: efter Ericas hänvisning till den tidigare dokumentationen återgår Familjebostäder till den åtgärd som tidigare dokumenterats – målning.
-
-## Vad detta visar
-
-Detta är ett **rent dokumenterat exempel på inkonsekventa besked inom Familjebostäder**:
-
-> **Dokumenterad överenskommelse om målning → senare uppgift om tapetsering → Erica kräver stöd och hänvisar till tidigare bevis → Jennifer återgår skriftligen till målning.**
-
-Det är inte i sig bevis för fel i inomhusmiljöfrågan. Dess betydelse är i stället:
-
-1. muntliga/skriftliga besked inom FB har inte alltid varit stabila,
-2. Erica har behövt säkra och återföra tidigare dokumentation för att få det tidigare beskedet respekterat,
-3. det stärker värdet av ljudinspelningar, mejl och samtidiga noteringar när senare besked avviker,
-4. det gör det legitimt att kontrollera andra senare kategoriska påståenden mot vad FB faktiskt sagt och gjort tidigare.
-
-## Viktig försiktighet
-
-Detta ska **inte** användas som argumentet ”FB har haft fel en gång, därför har de fel om allt”.
-
-Det relevanta argumentet är:
-
-> **När Familjebostäders senare uppgift avviker från tidigare dokumenterade besked måste den senare uppgiften kunna förklaras och stödjas av underlag. Köksmålningsspåret visar konkret varför denna källkontroll behövs.**
-
----
-
-# 4. Processmotsägelsen: nytt material efter beslutet kontra hänvisning till ”samma sakfråga”
-
-Miljöförvaltningen avslutade ärendet den 13 april 2026.
-
-Därefter inträffar nya faktiska omständigheter:
-
-- **19 maj:** Thomas besöker 1202 igen och lämnar nya observationer.
-- **28 maj:** Thomasrelaterad komplettering skickas till Länsstyrelsen (B0349).
-- **10 juli:** Björn besöker lägenheten första gången och lämnar ny förstahandsuppgift; Marko är på plats efter reaktionen.
-- **28 juli:** Björns redogörelse skickas direkt till Mark- och miljödomstolen med begäran att läggas till handlingarna i mål M 5167-26.
-- **augusti:** Miljöförvaltningen hänvisar till att överinstansen prövar ”samma sakfråga”, medan Erica frågar hur nya omständigheter efter beslutet ska registreras och hanteras.
-
-## Viktig processanmärkning
-
-Om Thomas 19-maj-redogörelsen och Björn 10-juli-redogörelsen inte registrerats i Miljöförvaltningens avslutade akt, samtidigt som materialet har getts in till överinstanserna, uppstår en viktig **processuell asymmetri**:
-
-> **Överinstanserna kan ha nya handlingar som den beslutande underinstansen aldrig hade framför sig och aldrig värderade i beslutet den 13 april.**
-
-Det är därför avgörande att inte blanda samman:
-
-- vad MF faktiskt prövade före 13 april,
-- vad som hände efter beslutet,
-- och vad som senare getts in till Länsstyrelsen/domstolen.
-
-### Argument till domstolen
-
-> **Vilka av de nya förstahandsuppgifterna efter den 13 april ingår nu i domstolens akt, och hur värderas de i förhållande till frågan om Miljöförvaltningens ursprungliga utredning var tillräcklig?**
-
-### Argument till Miljöförvaltningen
-
-> **Om nya faktiska omständigheter efter ett avslutat beslut inte registreras eller inte föranleder ny tillsyn med hänvisning till pågående överprövning, vilken rättslig och praktisk väg finns då för att få just de nya omständigheterna tillsynsmässigt bedömda?**
-
----
-
-# 5. Thomas redogörelse – vad den bevisar och inte bevisar
-
-Thomas redogörelse från 19 maj är viktig eftersom den är en separat förstahandskälla från en person som varit närvarande.
-
-Den stöder:
-
-- att inomhusmiljö/lukt var en konkret fråga under mötet,
-- att Thomas själv upplevde avvikande luft/lukt och påverkan,
-- att problemen enligt uppgift kvarstod efter omfattande vädring,
-- att någon tydlig planerad fullständig grundorsaksutredning inte redovisades.
-
-Den stöder **inte direkt** Peters exakta ord om målning/tomställning eller hans fråga till Thomas. Där är ljudfilen primärkällan.
-
-Detta gör dock Thomas viktig som **oberoende kontextstöd** för att mötet den 19 maj inte handlade om en redan klarlagd och avslutad teknisk fråga.
-
----
-
-# 6. Björn redogörelse – varför den är särskilt viktig
-
-Björn beskriver ett första besök, vilket minskar risken att hans beskrivning bygger på långvarig egen exponering i bostaden.
-
-Han beskriver:
-
-- egen försämring efter vistelse,
-- behov att lämna lägenheten,
-- att Marko informerades direkt,
-- att Erica återkommande sökte frisk luft,
-- och att Marko själv föreslog att samtalet fortsatte på balkongen.
-
-Det bevisar inte en viss teknisk orsak. Men det är en ny förstahandsobservation efter MF:s beslut och visar att frågan om återkommande reaktioner fortsatte efter avslutad tillsyn.
-
----
-
-# 7. Samlad argumentkedja
-
-> **Miljöförvaltningen avslutar 13 april → nya reaktioner och observationer fortsätter 19 maj → Peter behandlar enligt ljudspåret orsaken som öppen och Thomas beskriver avvikande luft/lukt samt avsaknad av tydlig grundorsaksutredning → Thomasmaterial går vidare till Länsstyrelsen → 10 juli uppkommer ytterligare förstahandsreaktion genom Björn och Marko får informationen direkt → Björns redogörelse ges in till MMD → 17 augusti skriver Jennifer att ingen personal upplever lukt och att inomhusmiljön är ”konstaterad fullgod”.**
-
-Parallellt finns ett separat dokumenterat mönster i förvaltningskommunikationen:
-
-> **Gaby-besked om HLU måste styrkas med ljud när Leonard gör annan tolkning; köksmålning ändras senare till tapetsering men återställs efter att Erica lägger fram tidigare dokumentation.**
-
-Detta ska användas som stöd för **källkritisk kontroll av senare besked**, inte som substitut för sakbevis i inomhusmiljöfrågan.
-
-## Kärnargument
-
-> **Det finns ett glapp mellan de frågor och observationer som faktiskt kvarstod efter beslutet, den utredning som redovisats och den säkerhet med vilken Familjebostäder senare beskriver inomhusmiljön som fullgod.**
-
-## Kärnfråga
-
-> **Vilken konkret teknisk undersökning mellan den 19 maj och den 17 augusti förändrade kunskapsläget från en fortsatt oförklarad grundorsak till att inomhusmiljön kunde beskrivas som ”konstaterad fullgod”?**
-
-Om ingen sådan undersökning finns är detta inte bara en fråga om olika personers upplevelser. Det är en fråga om **vilket verifierbart underlag som bär den senare kategoriska slutsatsen**.
+- Påstå inte att Peter eller Marko själva kände lukt om det inte ljudlåsts.
+- Påstå inte att Marko själv fick symtom.
+- ”Ingen FB-personal upplever lukt” är en smal uppgift om egen luktupplevelse och är inte samma sak som att ingen FB-personal observerat eller diskuterat ett kvarstående problem.
+- Nya uppgifter efter 13 april kan inte ha ingått i Miljöförvaltningens beslut den 13 april.
