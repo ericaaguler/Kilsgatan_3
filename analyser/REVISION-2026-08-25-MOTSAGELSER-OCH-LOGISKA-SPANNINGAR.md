@@ -13,18 +13,34 @@
 
 ---
 
-## 1. HLU/mellanskillnad – Gaby vs Leonard
+## 1. HLU/mellanskillnad – separat Gaby-ljud 20 oktober → Leonard → senare Jennifer-bekräftelse
 
-**Typ:** KÄLLDISKREPANS / intern beskedskonflikt.
+**Typ:** KÄLLDISKREPANS / intern beskedskonflikt / dokumenterat källkontrollmönster.
 
-- Gaby lämnar enligt inspelad sekvens besked att Erica inte ska betala mellanskillnaden för tidigareläggningen.
-- Leonard gör senare en annan avgränsning/tolkning.
-- Erica skickar själva ljudsekvensen.
-- Leonard bekräftar därefter skriftligen att Erica inte ska betala 3 768 kr för HLU-tidigareläggningen, men skiljer detta från en separat möjlig kostnad för målning i stället för tapet.
+Det finns nu **två separata ljudspår den 20 oktober 2025**:
 
-**Vad det visar:** muntliga besked inom FB har behövt kontrolleras mot originalinspelning.
+1. ett längre Gaby/OCAB-samtal,
+2. ett separat cirka **3:04 långt HLU-/mellanskillnadssamtal** med Gaby.
 
-**Vad det inte visar:** att Leonard medvetet lämnat felaktigt besked eller att alla FB:s senare uppgifter är fel.
+Det korta HLU-ljudet stöds kronologiskt av samtida dokumentation:
+
+- **5 november 2025:** Erica listar uttryckligen bilagan `ljudfil Erica & Gaby fullständigt HLU 20 oktober 2025` i bristanmälan,
+- **7 november:** Erica skriver till Jennifer att enligt Gaby ska hon inte betala mellanskillnaden eftersom full HLU-debitering gäller tidigare hyresgäst,
+- **11 november:** Jennifer säger i mötestranskriptionen att hon **har lyssnat på ljudinspelningen** och förklarar att beskedet om ingen mellanskillnad är kopplat till HLU,
+- senare uppstår diskussion med Leonard; Erica skickar ljudsekvensen,
+- Leonard bekräftar därefter skriftligen att Erica inte ska betala **3 768 kr för HLU-tidigareläggningen**, men skiljer detta från separat möjlig kostnad för målning i stället för standardtapet.
+
+**Vad detta visar:**
+
+- muntliga besked inom FB har i detta fall behövt kontrolleras mot originalinspelning,
+- ljudet har faktisk bevisfunktion i den senare hanteringen,
+- det finns en viktig begreppsgräns mellan **HLU-mellanskillnad** och **extra kostnad för målning som inte är standardutförande**.
+
+**Vad det inte visar:** att Leonard eller annan person medvetet lämnat felaktigt besked, eller att alla FB:s senare uppgifter är fel.
+
+**Mönsterrelevans:** detta är första tydliga exemplet på strukturen:
+
+> **tidigare besked → senare annan avgränsning → originalbevis tas fram → tidigare besked får genomslag i avgränsad form.**
 
 ---
 
@@ -40,6 +56,8 @@
 **Låsande fråga:** Vad var grunden för att den dokumenterade åtgärden över huvud taget ändrades till tapetsering?
 
 **Bevismässig betydelse:** ytterligare exempel på att tidigare dokumentation/inspelning behövt tas fram för att återställa vad som tidigare överenskommits.
+
+**Mönsterrelevans:** tillsammans med 20-oktober-HLU-spåret finns nu minst två separata exempel där senare besked behöver kontrolleras mot tidigare originalkälla innan den historiska överenskommelsen kan fastställas.
 
 ---
 
@@ -57,18 +75,22 @@
 
 ---
 
-## 4. Målning som ”fin gest” vs målning som del av FB:s svar på hälsobesvär
+## 4. Målning som HLU/standardfråga → ”generös”/”fin gest” → senare del av FB:s svar på hälsobesvär
 
-**Typ:** LOGISK SPÄNNING / syftesoklarhet.
+**Typ:** LOGISK SPÄNNING / syftesoklarhet / förändrad funktion i kommunikationen.
 
-- 17 december: Jennifer beskriver målning av bland annat skåpinsidor som en **”fin gest”**.
-- 23 juni: målningens tekniska koppling till hälsobesvären är fortfarande oklar och ifrågasätts uttryckligen.
-- 17 augusti: Jennifer hänvisar till extra tjänster såsom målning när hon argumenterar för att FB tagit hälsobesvären på allvar.
+- **20 oktober HLU-spåret:** målning/mellanskillnad diskuteras inom HLU/standardutförande och kostnad.
+- **23 juni:** samtalet återger att Erica först skulle betala eftersom det var HLU och att Jennifer sedan var ”generös” och gav målningen.
+- **17 december:** Jennifer beskriver målning av bland annat skåpinsidor som en **”fin gest”**.
+- **23 juni:** målningens tekniska koppling till hälsobesvären är fortfarande oklar och ifrågasätts uttryckligen.
+- **17 augusti:** Jennifer hänvisar till extra tjänster såsom målning när hon argumenterar för att FB tagit hälsobesvären på allvar.
 
 **Två möjliga kategorier måste hållas isär:**
 
-1. Om målningen var **kosmetisk/trivsel** kan den inte ges starkt tekniskt bevisvärde för att orsaken till besvären utretts eller avhjälpts.
+1. Om målningen var **kosmetisk/trivsel/HLU** kan den inte ges starkt tekniskt bevisvärde för att orsaken till besvären utretts eller avhjälpts.
 2. Om målningen var **teknisk/spärrande** behöver FB redovisa vad som skulle spärras, produkt/metod, valda ytor och verifiering.
+
+**Kärnfråga:** när och på vilket tekniskt underlag gick målningen från ett HLU-/underhållsspår till att få relevans i hanteringen av lukt/hälsobesvär?
 
 ---
 
@@ -355,6 +377,37 @@ Om exakt sekvens verifieras uppstår frågan:
 
 ---
 
+# Återkommande dokumenterat kommunikations-/handläggningsmönster
+
+Följande mönster kan nu beskrivas med tydligare stöd:
+
+### A. Besked behöver ibland låsas mot originalkälla
+
+- Gaby/HLU 20 oktober → senare Leonard-avgränsning → ljud åberopas → HLU-delen bekräftas.
+- Köksmålning → senare tapetsering → tidigare mejl/ljud åberopas → målning återställs.
+
+**Säker formulering:**
+
+> **När senare besked avviker från tidigare besked i detta ärende bör den historiska uppgiften kontrolleras mot originalinspelning och samtida mejl.**
+
+Det är en källmetod, inte ett påstående att FB generellt ljuger.
+
+### B. Bred fråga blir smalare delspår
+
+Lukt/hälsobesvär/brukbarhet behandlas genom HLU, städning, fukt, ventilation, kanalrensning, målning, materialbyte och vädring. Delkontrollerna kan vara relevanta men svarar inte automatiskt på hela orsaksfrågan.
+
+### C. Åtgärdssyften är återkommande oklara
+
+Målning, hallmålning, skåpmålning, klädkammarhål, kanalrensning och materialbyten behöver var för sig bindas till dokumenterad teknisk hypotes och verifierat resultat.
+
+### D. Kunskapsläget förblir öppet men slutsatsen blir senare mer kategorisk
+
+Det tydligaste exemplet är **23 juni → 9 juli → 10 juli → 17 augusti**.
+
+Se även `REVISION-2026-08-25-BETEENDE-OCH-MONSTER-FB.md`.
+
+---
+
 # Samlad rangordning
 
 ## P0 – starkast och redan centralt användbara
@@ -363,26 +416,27 @@ Om exakt sekvens verifieras uppstår frågan:
 2. **10 juli nya observationer → 17 augusti ”konstaterad fullgod”.**
 3. **17 augusti ”konstaterad fullgod” → samma dag ny 2,5-timmars personlig observation för att ”komma vidare”.**
 4. **OCAB:s begränsade scope → bred senare användning som avslutsstöd.**
-5. **Målningens skiftande funktion: HLU/extra gest/tekniskt relevansargument.**
+5. **Målningens skiftande funktion: HLU/standardfråga → extra/generös/fin gest → senare del av hälsobesvärshanteringen.**
+6. **Dokumenterat källkontrollmönster: HLU-besked och köksmålning behöver tidigare ljud/mejl för att låsas när senare besked avviker.**
 
 ## P1 – starka när dokument/tidskod låses
 
-6. Kanalrensning: 5 m / Carolinas anteckning / ”kommer ske”.
-7. Gaby ”inte fukt” vs OCAB:s faktiska förhöjda fuktindikering.
-8. Målning ↔ spärrning.
-9. Visningsargument ↔ ”ligger på golvet/sånt gör inte vi”.
-10. Fasta hallgarderober och selektiv behandling.
+7. Kanalrensning: 5 m / Carolinas anteckning / ”kommer ske”.
+8. Gaby ”inte fukt” vs OCAB:s faktiska förhöjda fuktindikering.
+9. Målning ↔ spärrning.
+10. Visningsargument ↔ ”ligger på golvet/sånt gör inte vi”.
+11. Fasta hallgarderober och selektiv behandling.
 
 ## P2 – viktiga spårbarhetsfrågor
 
-11. Materialbyte: varför/arbetsorder/vad hittades bakom.
-12. Klädkammaren i OCAB-uppdraget.
-13. OVK system 01/0562.
-14. Brand/saneringskedjan.
-15. Felanmälningar markerade Utförd/Makulerad utan tydligt sakresultat.
+12. Materialbyte: varför/arbetsorder/vad hittades bakom.
+13. Klädkammaren i OCAB-uppdraget.
+14. OVK system 01/0562.
+15. Brand/saneringskedjan.
+16. Felanmälningar markerade Utförd/Makulerad utan tydligt sakresultat.
 
 ---
 
 # Huvudformulering
 
-> **Materialet visar inte en enda enkel ”motsägelse” som ensam avgör ärendet. Det visar däremot ett återkommande mönster av skiftande besked, oklara åtgärdssyften, undersökningar med begränsad räckvidd och senare bredare slutsatser. De starkaste punkterna är de kronologiska övergångar där kunskapsläget går från fortsatt okänd grundorsak till avslutat/fullgott utan att den tekniska bryggan däremellan är redovisad.**
+> **Materialet visar inte en enda enkel ”motsägelse” som ensam avgör ärendet. Det visar däremot ett återkommande mönster av skiftande besked, behov av källkontroll mot originalinspelningar/mejl, oklara åtgärdssyften, undersökningar med begränsad räckvidd och senare bredare slutsatser. De starkaste punkterna är de kronologiska övergångar där kunskapsläget går från fortsatt okänd grundorsak till avslutat/fullgott utan att den tekniska bryggan däremellan är redovisad.**
