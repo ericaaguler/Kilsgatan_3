@@ -50,13 +50,27 @@ Se `LJUDFIL-13-2025-10-09-GABY-SAMTAL-INVENTERING.md`.
 Se `LJUDFIL-15-2025-10-10-GABY-I-LAGENHETEN-INVENTERING.md`.
 
 ### 20 oktober 2025 – Gaby/OCAB-samtal
-- ljudkälla registrerad som separat OCAB-/Gaby-spår.
+- ljudkälla registrerad som separat OCAB-/Gaby-spår, cirka **28:06**.
 
 **Status:** unik källa i sakspåret. Samtida mejl B0043 samma dag är särskilt viktigt eftersom det dokumenterar Ericas omedelbara förståelse av vad Gaby sagt om OCAB:s begränsning.
 
 **Bevisregel:** exakta Gaby-citat ska låsas mot originaljudet; B0043 kan användas som samtida skriftlig redogörelse för vad Erica uppfattade.
 
 Se `LJUDFIL-17-2025-10-20-GABY-OCAB-SAMTAL-INVENTERING.md`.
+
+### 20 oktober 2025 – Gaby/HLU och mellanskillnad – SEPARAT LJUDKÄLLA
+- `4. Erica & Gaby fullständigt HLU 20 oktober 2025 (1).m4a` – cirka **3:04,107**.
+- den nu uppladdade filens tekniska `creation_time` är 2025-10-27T23:45:51Z; detta behandlas som senare export-/sparmetadata eftersom en samtida handling från 5 november uttryckligen listar bilagan `ljudfil Erica & Gaby fullständigt HLU 20 oktober 2025`.
+
+**Status:** unik/separat HLU-källa, inte samma fil som 28-minuters OCAB-samtalet.
+
+**Samtida kontroll:** 7 november skriver Erica till Jennifer: `Sovrum 1: enligt Gaby ska jag inte betala mellanskillnaden (fullständig HLU-debitering gäller tidigare hyresgäst).`
+
+**Senare oberoende kontroll inom FB:** på mötet 11 november säger Jennifer enligt maskintranskriptionen att hon har lyssnat på ljudinspelningen och att formuleringen om att inte betala mellanskillnad är kopplad till HLU. Hon skiljer därefter HLU från eventuell separat kostnad för målning i stället för standardtapetsering.
+
+**Betydelse:** konkret exempel på att originalinspelning behövt användas för att kontrollera senare olika/oklara besked. Även viktigt för huvudtidslinjen eftersom målning tidigt ligger i ett HLU-/standardutförandespår, inte som dokumenterad teknisk orsaksåtgärd mot hälsobesvär.
+
+Se `LJUDFIL-20-2025-10-20-GABY-HLU-MELLANSKILLNAD-ARBETSANALYS.md`.
 
 ### 22 oktober 2025 – Leonard, målning/HLU
 - cirka **30:13** enligt tidigare teknisk kontroll.
@@ -185,7 +199,7 @@ Se `LJUDFIL-19-2026-06-23-PETER-THOMAS-PLATSBESOK-ARBETSANALYS.md`.
 4. **19 maj 2026** – lås Peters tidigare fråga till Thomas och exakt kunskapsläge.
 5. **3 oktober 2025** – tidig lukt/vädring/skick.
 6. **9–10 oktober 2025** – Gaby tidigt kunskapsläge.
-7. **20 oktober 2025** – Gaby/OCAB exakta ord.
+7. **20 oktober 2025 – båda separata ljuden:** OCAB-samtalet och HLU/mellanskillnadssamtalet.
 8. **4 november 2025** – Carolina och kanalrensningens verkliga omfattning.
 9. **10 juli 2026** – Marko/Björn, slutlig talar- och sekvenskontroll.
 10. **4 april 2026** – Duvsjö efter vädring.
