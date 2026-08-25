@@ -1,9 +1,11 @@
 # Bild skickad till städfirma – kök, golv/vägg
 
+## Status
+**Uppdaterat 25 augusti 2026 med verifierad SMS-kedja mellan Erica och Eds städfirma.**
+
 ## Källa
 - Bild tillhandahållen av Erica i ChatGPT 25 augusti 2026.
-- Erica uppger att bilden skickades till städfirman.
-- Exakt datum för när bilden skickades till städfirman ska verifieras mot originalmeddelande/mejl innan det anges som säkert.
+- SMS-skärmbilder från konversationen med kontakten **”Städ Firman” / Eds städfirma**, daterade 21 oktober, 23 oktober, 27 oktober och 6 november 2025.
 
 ## Vad bilden direkt visar
 Närbild av övergången mellan golv och vägg/sockel i köket. Bilden visar bland annat:
@@ -16,28 +18,61 @@ Närbild av övergången mellan golv och vägg/sockel i köket. Bilden visar bla
 ## Vad bilden inte fastställer
 Bilden ensam fastställer inte vad det mörka/bruna materialet består av eller orsaken till det. Det ska därför inte utan teknisk undersökning benämnas som exempelvis mögel, mikrobiell påväxt, brandsot eller fuktskada.
 
-## Bevisvärde
-Om det verifieras genom meddelande/mejl att just denna bild skickades till städfirman före eller i samband med ett städuppdrag, visar kommunikationen att städfirman hade konkret visuell information om ett tydligt avvikande område i köket.
+## SMS-kedja – verifierade uppgifter
 
-Det blir då relevant att klarlägga:
+### 21 oktober 2025 kl. 08:11
+Erica kontaktar städfirman om städning av lägenheten på Kilsgatan 3 och skriver uttryckligen att **Familjebostäder är beställaren**.
 
-1. När fick städfirman bilden?
-2. Vilket städuppdrag avsåg den?
-3. Fick städfirman instruktion att rengöra just detta område?
-4. Bedömde städfirman området som åtkomligt/städbart eller som något som krävde annan åtgärd?
-5. Dokumenterades området efter städningen?
-6. Kvarstod samma eller liknande visuella avvikelse efter städningen?
+Hon ber om en tid för städning och önskar att den sker under vecka 43 eftersom flyttfirman ska flytta möbler veckan därpå.
+
+### 23 oktober 2025 kl. 13:41
+Erica följer upp efter ett missat samtal. Städfirman svarar att de hade ringt fel.
+
+### 27 oktober 2025 kl. 07:45
+Erica skriver och kontrollerar att städfirman ska komma till Kilsgatan 3 **kl. 07:30 den 27 oktober**.
+
+Detta verifierar datumet för den första dokumenterade professionella städningen i denna SMS-kedja.
+
+### 6 november 2025 kl. 09:13–10:57
+Eds städfirma skriver att de fått en beställning och behöver boka en tid samt få tillträde till lägenheten.
+
+Erica svarar att hon vill veta **vad Familjebostäder beställt** och frågar uttryckligen om städningen den 27 oktober omfattade **hela köket eller inte**.
+
+Erica skriver vidare att anledningen till frågan är att hon uppfattar att det finns **”mögel”** och att hon **inte märker någon skillnad efter städningen**.
+
+### Bevisdisciplin kring ordet ”mögel”
+Erica använder själv ordet ”mögel” i SMS:et den 6 november 2025. Detta bevisar att hon vid den tidpunkten framförde den uppfattningen till städfirman. SMS:et bevisar däremot inte att det mörka materialet tekniskt var mögel.
+
+## Vad SMS-kedjan stärker
+Kommunikationen visar att:
+
+1. **Familjebostäder var beställare** av städningen.
+2. Städningen var bokad till **27 oktober 2025 kl. 07:30**.
+3. Erica följde kort därefter upp omfattningen av städuppdraget.
+4. Erica frågade specifikt om **hela köket** hade städats.
+5. Erica uppgav att hon inte kunde se någon skillnad efter städningen.
+6. Frågan om vad Familjebostäder faktiskt beställde av städfirman var fortfarande oklar för Erica den 6 november.
+
+## Bilden + SMS-kedjan
+Erica uppger att den aktuella bilden med det mörka området vid golv/vägg skickades till städfirman. Den nu verifierade SMS-kedjan låser kontakten, beställaren och städtidpunkten, men exakt meddelande där just bilden skickades ska fortfarande lokaliseras innan man skriver som fullt verifierat att städfirman fick denna specifika bild ett visst datum.
+
+## Relevanta sakfrågor
+- Vad beställde Familjebostäder exakt den 27 oktober?
+- Ingick hela köket, inklusive socklar, skarvar, bakom/under fast inredning och andra svårtillgängliga ytor?
+- Fanns några uttryckliga instruktioner om det visuellt avvikande området?
+- Dokumenterade städfirman vad som faktiskt rengjordes?
+- Varför uppfattade Erica ingen skillnad efter städningen?
+- Vilka ytterligare åtgärder beställdes därefter?
 
 ## Koppling till övrig beviskedja
-Bilden ska jämföras mot:
+Detta ska jämföras mot:
 
-- videon från första besöket 1 oktober 2025,
-- professionella städningar i oktober–november 2025,
-- videon av kökets golv/sockel 27 november 2025,
-- videon från 5 januari 2026 inne i/under den fasta köksinredningen,
+- video från första besöket 1 oktober 2025,
+- städning 27 oktober 2025,
+- senare professionella städningar i november 2025,
+- video av kökets golv/sockel 27 november 2025,
+- video från 5 januari 2026 inne i/under den fasta köksinredningen,
 - senare dokumentation av köksstommen 26 maj 2026.
 
-## Bevisdisciplin
-Tills originalkommunikationen till städfirman är lokaliserad ska formuleringen vara:
-
-> Erica uppger att denna bild skickades till städfirman. Bilden visar ett tydligt avvikande mörkt/brunt område vid golv/vägg i köket. Exakt datum, mottagare och sammanhang ska verifieras mot originalkommunikationen innan uppgiften används som fullt källbelagd del av tidslinjen.
+## Försiktig slutsats
+SMS-kedjan stärker att städfrågan inte bara handlade om ett allmänt önskemål om bättre städning. Redan kort efter den första städningen efterfrågade Erica klarhet i **vad Familjebostäder faktiskt beställt och om hela köket omfattats**, samtidigt som hon uppgav att hon inte såg någon skillnad efter städningen.
