@@ -47,9 +47,42 @@ Det kan då visa att **Familjebostäders egen husvärd den 19 maj 2026 fortfaran
 
 Detta är inte bevis för någon viss teknisk orsak. Det är däremot potentiellt starkt bevis för **kunskapsläget och den kvarstående osäkerheten inom Familjebostäder**.
 
-## Särskild jämförelse mot Jennifer
+## Särskild jämförelse mot Jennifer – 17 augusti 2026
 
-Om ovanstående låses ska följande fråga ställas:
+Jennifer Ehlin skrev den **17 augusti 2026 kl. 10:30** i B0442 bland annat:
+
+> **”Ingen av Familjebostäders personal upplever någon lukt i lägenheten (2 st husvärdar, 1 reparatör, 1 förvaltare, 1 bitr. förvaltare och 1 drifttekniker).”**
+
+I samma mejl skrev hon också i sak att:
+
+- Familjebostäder bedömer att Erica kunnat bo i bostaden sedan dag 1,
+- luftflödesmätningar, OVK och Miljöförvaltningens kontroll anges som svar på vilken undersökning som haft i uppdrag att fastställa orsaken till hälsobesvären,
+- och att **”Inomhusmiljön är konstaterad fullgod.”**
+
+### Viktig bevisdisciplin
+
+Jennifers mening om att ingen personal **upplever lukt** är en snäv sensorisk uppgift. Peter-spåret från den 19 maj ska därför **inte** användas som bevis för att just denna mening är bokstavligen fel, om inte Peter i ljudet själv säger att han känner lukt.
+
+Det Peter-spåret däremot kan visa, om de prioriterade sekvenserna låses, är något annat och processuellt viktigt:
+
+> **Att Familjebostäders egen personal fortfarande observerade, diskuterade eller behandlade ett kvarstående och oförklarat problem trots att de själva eventuellt inte upplevde lukt.**
+
+Skillnaden måste bevaras:
+
+- `ingen personal upplever lukt` = personlig sensorisk uppgift,
+- `ingen personal har observerat eller diskuterat ett relevant kvarstående problem` = en betydligt bredare sakuppgift.
+
+Om Peter den 19 maj säger att målning/tomställning inte löser problemet, frågar Thomas vad det kan bero på och uttrycker att han själv vill förstå orsaken, försvagar detta **inte nödvändigtvis den bokstavliga luktmeningen**, men det försvagar starkt varje argument där frånvaron av personalens luktupplevelse används som stöd för att inget relevant problem återstår eller att orsaken redan är utredd.
+
+### Jämförelsefråga som ska sparas
+
+> **Hur kan frånvaron av egen luktupplevelse hos Familjebostäders personal användas som stöd för att inomhusmiljön är ”konstaterad fullgod”, om Familjebostäders egen husvärd den 19 maj fortfarande behandlar orsaken som okänd och efterfrågar vad problemet kan vara?**
+
+Detta är den precisa jämförelsen. Den överdriver inte vad Peter har sagt, men skiljer tydligt mellan **egen luktupplevelse** och **kunskap om ett kvarstående oförklarat problem**.
+
+## Särskild jämförelse mot Jennifer – generell
+
+Om ovanstående låses ska följande fråga också ställas:
 
 > Hur kan Familjebostäder senare lämna kategoriska besked om att inomhusmiljön är konstaterad fullgod, om den egna husvärden den 19 maj fortfarande frågar vad problemet kan vara och behandlar orsaken som okänd?
 
