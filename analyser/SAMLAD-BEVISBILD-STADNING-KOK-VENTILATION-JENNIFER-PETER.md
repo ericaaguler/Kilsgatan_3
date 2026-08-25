@@ -2,6 +2,8 @@
 
 **Status:** Arbetsanalys med strikt bevisdisciplin. Verifierade uppgifter, visuellt dokumenterade förhållanden och ljudspår som ännu ska låsas hålls isär.
 
+> **Master för alla öppna frågor och dokumentationsluckor:** `analyser/MASTER-OPPNA-FRAGOR-DOKUMENTATIONSLUCKOR-OCH-KONTROLLPUNKTER.md`
+
 ## 1. Tre professionella städningar före januari 2026
 
 Enligt den samlade ärendehistoriken genomfördes professionella städningar den **27 oktober, 20 november och 27 november 2025**.
@@ -83,7 +85,19 @@ Prioriterade ljudfiler att kontrollera:
 
 Sök särskilt efter: `torka`, `torka av`, `trasa`, `ventilation`, `ventilen`, `donet`, `smuts`, `det hjälper inte`, `det löser inte problemet`, `bara på ytan`, `kanalen`, samt referenser tillbaka till Jennifer.
 
-## 6. Samlad analytisk betydelse
+## 6. Fönsterbräda – process- och felhanteringsspår
+
+Fyra bilder visar visuellt avvikande mörka/bruna fläckar, punktformiga missfärgningar, mörkare stråk längs kanten och lokalt påverkat ytmaterial på/vid fönsterbrädan.
+
+Erica uppger att fönsterbrädan felanmäldes men att felanmälan senare inte längre gick att återfinna/framstod som borttagen. Detta är ännu **inte systemtekniskt verifierat** och får därför inte beskrivas som att Familjebostäder bevisligen har raderat en felanmälan.
+
+Det relevanta processpåret är:
+
+> **konkret felanmälan → oklar teknisk kontroll/åtgärd → uppgiven försvunnen eller ändrad ärendestatus → behov av full audit trail och återrapportering.**
+
+Se: `analyser/FONSTERBRADA-FELANMALAN-HANTERINGSSPAR.md`.
+
+## 7. Samlad analytisk betydelse
 
 Om ljudspåren senare låses kan en relevant kedja prövas:
 
@@ -95,27 +109,37 @@ Samma mönster kan jämföras med köksspåret:
 
 **tre professionella städningar → 5 januari 2026 fortfarande omfattande visuellt avvikande förhållanden bakom/under fast köksinredning → senare fortsatt dokumentation i köksstomme 26 maj 2026.**
 
+Och med felhanteringsspåret:
+
+**konkret dokumenterad avvikelse/felanmälan → begränsad eller oklar återrapportering → administrativ status blir viktig att granska separat från om sakfrågan faktiskt blev löst.**
+
 Det ger en konkret utredningsfråga:
 
 > **Vilka ytor och konstruktioner undersöktes, rengjordes och tekniskt bedömdes faktiskt – och vilka lämnades utanför?**
 
-## 7. Bevisdisciplin
+## 8. Bevisdisciplin
 
 Använd följande statusmarkeringar konsekvent:
 
 - **Verifierat:** dokument, originalinspelning eller annan källa har låsts.
-- **Visuellt dokumenterat:** videon visar skicket, men inte materialets identitet eller orsak.
-- **Att lokalisera/verifiera:** minnesbild eller arbetsanalys finns, men exakt originalsekvens/citat är ännu inte låst.
+- **Visuellt dokumenterat:** videon/bilden visar skicket, men inte materialets identitet eller orsak.
+- **Att lokalisera/verifiera:** minnesbild, partsuppgift eller arbetsanalys finns, men exakt originalsekvens/systemhistorik är ännu inte låst.
 
 ### Tillåten formulering tills ljudet är låst
 
 > **Ljudbevis att lokalisera:** Jennifer uppges ha sagt att Peter kan/får rengöra den synliga ventilationen genom att torka med trasa. Separat samtal med Peter uppges innehålla diskussion om att sådan avtorkning sannolikt inte löser problemet. Exakt inspelning, tidskod och ordalydelse måste verifieras innan uppgiften används som direkt citat.
 
-## 8. Nästa kontrollpunkter
+### Tillåten formulering om fönsterbrädan tills systemloggen är låst
+
+> Fönsterbrädan dokumenterades visuellt och felanmäldes enligt Erica. Erica uppger att felanmälan senare inte längre gick att återfinna. Det ska klarläggas genom Familjebostäders fullständiga felanmälans- och statuslogg vad som hände med ärendet och på vilken grund.
+
+## 9. Nästa kontrollpunkter
 
 - Lås originalsekvensen 17 december 2025 cirka 16:31–18:12.
 - Lås Peter-samtalet där otillräckligheten i avtorkning diskuteras.
 - Koppla 20 januari-videon till exakt ventilationsdel/don/system om möjligt.
 - Jämför köksvideon 5 januari med vad städfirmornas uppdrag faktiskt omfattade.
 - Jämför köksvideon 5 januari med video/bild av köksstomme 26 maj 2026.
+- Hämta fullständig status-/ändringslogg för fönsterbrädans felanmälan och andra makulerade/avslutade felanmälningar.
 - Håll isär rengöring av synliga ytor från dokumenterad kanalrensning och teknisk orsaksutredning.
+- Använd masterfilen för den fullständiga listan över öppna frågor och dokumentationsluckor.
