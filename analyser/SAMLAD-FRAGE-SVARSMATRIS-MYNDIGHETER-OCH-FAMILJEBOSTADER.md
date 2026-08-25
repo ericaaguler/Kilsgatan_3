@@ -1,223 +1,252 @@
-# Samlad fråge- och svarsmatris – Familjebostäder, Miljöförvaltningen, Länsstyrelsen och domstolen
+# Samlad fråge- och svarsmatris – Familjebostäder, Miljöförvaltningen, Länsstyrelsen, SBK och domstolen
 
-**Arbetsdokument.** Bygger på genomgång av Outlook-korrespondens och tidigare registrerat material. Status ska alltid låsas mot originalmejl/handling innan extern användning.
+**Reviderad:** 25 augusti 2026  
+**Arbetsdokument.** Läs tillsammans med `REVISION-2026-08-25-KALLKONTROLL-OCH-RATTELSER.md`.
 
 ## Statuskoder
 
-- **BESVARAD** – frågan har fått ett konkret svar.
-- **DELVIS BESVARAD** – viss information finns, men centrala delar saknas.
-- **OBESVARAD** – inget tydligt svar har identifierats.
-- **BESVARAD MED STÅNDPUNKT, INTE UNDERLAG** – aktören har uttryckt en slutsats men inte redovisat verifierbart stöd.
-- **MINDRE RELEVANT FÖR HUVUDSAKEN** – kan vara viktigt praktiskt men bör inte belasta kärnargumentet.
+- **BESVARAD** – konkret sakligt svar finns.
+- **DELVIS BESVARAD** – viss information finns men centrala led saknas.
+- **OBESVARAD** – inget tydligt svar identifierat.
+- **STÅNDPUNKT, INTE REDOVISAT UNDERLAG** – slutsats finns men den tekniska/dokumentära bryggan är inte visad.
+- **RÄCKVIDDSPROBLEM** – åberopat underlag besvarar en smalare fråga än slutsatsen.
+- **BEHÖVER KÄLLLÅSAS** – viktigt men original/talare/ordalydelse måste säkras.
 
 ---
 
-# 1. Familjebostäder
+# 1. Familjebostäder – P0
 
-## Högst relevanta frågor
-
-### Vad orsakar lukten och de återkommande hälsobesvären?
+## Vilken undersökning hade uttryckligt uppdrag att fastställa orsaken till de återkommande lukt-/hälsobesvären?
 **Status: OBESVARAD.**
 
-Det finns städning, målning, ventilation, kanalrensning och andra åtgärder, men ingen redovisad sammanhållen orsaksutredning.
+OCAB, städning, ventilation, kanalrensning, målning och MF:s tillsyn behandlar olika delspår. Ingen identifierad rapport har hittills redovisats med ett sammanhållet uppdrag att fastställa grundorsaken.
 
-### Vilken teknisk undersökning hade uttryckligt uppdrag att identifiera orsaken?
-**Status: OBESVARAD.**
+## Vad förändrade kunskapsläget mellan 23 juni och 9 juli?
+**Status: OBESVARAD – P0.**
 
-### Har lägenheten sanerats efter brand-/rökhändelsen 2017?
-**Status: BESVARAD MED STÅNDPUNKT, INTE UNDERLAG.**
+23-juni-ljudet visar ett kunskapsläge där orsaken fortfarande diskuteras som okänd och målningens relevans är oklar. 9 juli skriver Gaby att ärendet är avslutat och att fler åtgärder inte ska göras.
 
-Jennifer uppgav att lägenheten självklart måste ha sanerats men att dokumentation saknades. Gaby lämnade enligt Ericas mejl en annan version. Någon saneringsrapport, arbetsorder, faktura eller skadeakt har inte redovisats.
+> **Fråga:** Vilken ny teknisk undersökning, rapport eller faktisk omständighet fyllde kunskapsluckan under dessa drygt två veckor?
 
-### Var finns dokumentationen efter branden och saneringen?
-**Status: OBESVARAD.**
+## Vad förändrade kunskapsläget efter Markos/Björns besök 10 juli och före Jennifers ”konstaterad fullgod” 17 augusti?
+**Status: OBESVARAD – P0.**
 
-### Vilken kanalrensning har utförts, när, av vem, i vilken kanal och med vilket resultat?
-**Status: DELVIS BESVARAD / MÖJLIG MOTSÄGELSE.**
+Ny förstahandsuppgift uppkommer 10 juli och Marko behandlar enligt ljudspåret frågan som något att notera/föra vidare/redas ut.
 
-Materialet innehåller både uppgift om en femmeters kanalrensning och senare uppgift om att kanalrensning ska ske eller varit utebliven. Arbetsorder och utföranderapport saknas.
+> **Fråga:** Vilken intern återrapportering och teknisk uppföljning skedde efter besöket?
 
-### Vad är det bruna/svarta materialet?
-**Status: OBESVARAD.**
+## Varför föreslog Jennifer samma dag som ”konstaterad fullgod” en egen 2,5-timmars vistelse för att ”komma vidare”?
+**Status: OBESVARAD / LOGISK SPÄNNING – P0.**
 
-Provtagning avvisades, men materialets identitet fastställdes inte.
+En personlig observation kan ha varit avsedd att bemöta fortsatta klagomål, men den är inte en teknisk orsaksutredning.
 
-### Hur kunde påväxt uteslutas utan riktad provtagning?
-**Status: BESVARAD MED STÅNDPUNKT, INTE UNDERLAG.**
-
-Familjebostäder uppgav att inget indikerade påväxt men redovisade ingen materialanalys.
-
-### Vad skulle målningen tekniskt avhjälpa?
-**Status: OBESVARAD / MOTSTRIDIGA BESKRIVNINGAR.**
-
-Målning har beskrivits som en "fin gest", som något som inte löser problemet och som något som "spärrar" i väggarna. Något enhetligt tekniskt syfte har inte redovisats.
-
-### Hur beaktades att flera personer reagerat och att sonen har astma?
-**Status: DELVIS BESVARAD / INGEN REDOVISAD RISKBEDÖMNING.**
-
-Uppgifterna var kända, men någon särskild medicinsk eller teknisk riskbedömning har inte identifierats.
-
-### Hur kunde bostaden bedömas som beboelig/brukbar när orsaken var okänd?
-**Status: BESVARAD MED STÅNDPUNKT, INTE UNDERLAG.**
-
-Familjebostäder har sagt att lägenheten varit beboelig, men utan att redovisa hur kvarstående lukt, återkommande besvär och oidentifierad orsak vägts in.
-
-## Mindre relevanta frågor för huvudspåret
-
-- exakt färg/tapetval,
-- gulnade handtag,
-- mindre estetiska skador,
-- internetlistlock,
-- enskilda HLU-mellanskillnader,
-- detaljer som inte har koppling till hälsa, ventilation, brand, brukbarhet eller utredningsbrist.
-
-Dessa bör endast tas med när de visar ett mönster av att sakfrågan flyttats från inomhusmiljö till kosmetik.
+> **Fråga:** Vilken konkret fortfarande öppen fråga var hennes observation avsedd att besvara?
 
 ---
 
-# 2. Miljöförvaltningen
+# 2. Familjebostäder – tekniska huvudfrågor
 
-## Högst relevanta frågor
+## Vad orsakar lukten och de återkommande besvären?
+**Status: OBESVARAD.**
 
-### Vad omfattade tillsynen faktiskt?
+## Vad omfattade OCAB:s uppdrag exakt?
+**Status: DELVIS BESVARAD / RÄCKVIDDSPROBLEM.**
+
+Rapporten visar fukt-/materialfynd och missfärgningar, men hela beställnings-/metodkedjan bör tas fram. Erica ifrågasatte redan 20 oktober om någon mikrobiologisk provtagning gjorts.
+
+## Varför undersöktes klädkammaren i OCAB-uppdraget och hur följdes dess missfärgningar upp?
+**Status: OBESVARAD.**
+
+## Vad byttes i köket och varför?
 **Status: DELVIS BESVARAD.**
 
-Ventilationsflöden, vissa fuktförhållanden och okulära iakttagelser kontrollerades. Toxiner, rökpartiklar och full luftkvalitetsanalys uppgavs inte ingå.
+OCAB rekommenderar byte av specifik svullen/fuktpåverkad skiva under kyl/frys. För större bänk-/golvåtgärder saknas ännu full teknisk beslutsgrund och dokumentation av vad som upptäcktes under/bakom.
 
-### Vilken undersökning utredde orsaken till hälsobesvären?
+## Vad är det bruna/svarta materialet bakom/vid köksinredningen?
 **Status: OBESVARAD.**
 
-### Hur värderades uppgifterna om flera personers reaktioner?
+Det får inte benämnas som mögel, sot eller toxin utan analys.
+
+## Vad var målningens tekniska syfte?
+**Status: OBESVARAD / MOTSTRIDIGA BESKRIVNINGAR.**
+
+Målning förekommer som:
+
+- HLU/underhåll,
+- extra/generös åtgärd,
+- ”fin gest”,
+- skåpmålning ”för din skull”,
+- senare något FB hänvisar till när man försvarar hanteringen av hälsobesvär,
+- och i Marko-spåret finns formulering om att det är målat/”spärrat i väggarna” som behöver slutlåsas.
+
+> **Fråga:** kosmetisk eller teknisk/spärrande? Om teknisk: vad, produkt, metod, ytor och verifiering?
+
+## Varför målades hallen?
+**Status: OBESVARAD.**
+
+11 november beslutas hallmålning. 23 juni anges att hallen inte ens fanns med i besiktningsprotokollet och gavs extra/generöst.
+
+## Varför målades köksskåpens insidor men inte hallgarderober som enligt Erica också luktar?
+**Status: OBESVARAD / selektivitetsfråga.**
+
+Jennifers exakta besked att fasta garderober måste stå kvar behöver fortfarande källlåsas.
+
+## Vilken teknisk grund hade håltagningen i klädkammaren?
+**Status: DELVIS BESVARAD / UNDERLAG SAKNAS.**
+
+23-juni-samtalet bekräftar i sak att Johnny gjort hål så luft kan cirkulera. Arbetsorder, dimensionering, hypotes och efterkontroll saknas.
+
+## Vilken kanalrensning utfördes?
+**Status: DELVIS BESVARAD / KÄLLDISKREPANS.**
+
+- Carolina 4 nov: rensnings-/ventilationsanteckning men ingen skriftlig femmetersuppgift.
+- Jennifer 2 dec: kanalrensning ”kommer” ske.
+- Jennifer 17 dec: Carolina har gjort fem meter; något FB normalt inte gör i lägenheter.
+
+> **Fråga:** samma kanal/åtgärd eller olika? Var finns arbetsorder och utföranderapport?
+
+## Hur kunde bostaden bedömas brukbar sedan dag 1?
+**Status: STÅNDPUNKT, INTE REDOVISAT UNDERLAG.**
+
+17 augusti är det FB:s kategoriska position. Den retrospektiva formuleringen är inte i sig bevis för att samma bedömning dokumenterades 1 oktober 2025.
+
+---
+
+# 3. Brand-/saneringsspåret
+
+## Har en sanering/återställning efter 16 november 2017 verifierats?
+**Status: NEJ – dokumentkedjan är inte verifierad.**
+
+Det är inte samma sak som att sanering bevisligen aldrig skedde.
+
+Verifierat 2026:
+
+- SSBF har händelserapport och anger att efterföljande ansvar ligger på fastighetsägaren,
+- S:t Erik bekräftar försäkring men ingen skadeanmälan/skadeakt,
+- RVR har ingen identifierad rapport,
+- SBK uppger att de inte har registrerade post-brandkontroller och normalt inte kräver sådana.
+
+## Vilken riktad undersökning har bedömt brand-/rök-/sot-/materialemissionsspåret?
+**Status: OBESVARAD.**
+
+Ingen identifierad riktad analys av sot/rökrest, PAH, relevanta VOC/emissioner eller motsvarande har hittills redovisats.
+
+**Bevisdisciplin:** brandspåret är en öppen hypotes, inte fastställd orsak.
+
+---
+
+# 4. Miljöförvaltningen
+
+## Vad omfattade tillsynen 11 mars faktiskt?
+**Status: DELVIS BESVARAD.**
+
+Ventilation/luftflöden, vissa visuella/fuktmässiga förhållanden och praktiska luftvägsfrågor kontrollerades. Toxiner och rökpartiklar uppgavs inte ingå på det sätt Erica frågade om.
+
+## Vad visar luftflödesmätningarna?
+**Status: BESVARAD inom sin räckvidd.**
+
+De är relevant stöd för tillfredsställande frånluft vid mättillfället.
+
+**Men:** de analyserar inte automatiskt luftens kemiska innehåll, dolda material eller hela orsaken till hälsobesvären.
+
+## Vilken undersökning utredde orsaken till hälsobesvären?
+**Status: OBESVARAD.**
+
+## Hur värderades vittnesuppgifter före beslutet 13 april?
 **Status: OBESVARAD / INTE SPÅRBART REDOVISAT.**
 
-### Hur värderades materialet som inkom före beslutet, inklusive vädring, vittnen, foton och brand-/ventilationsfrågor?
-**Status: OBESVARAD / INTE TYDLIGT MOTIVERAT.**
-
-### Vilka möjliga orsaker kunde uteslutas och på vilket underlag?
+## Vilka möjliga orsaker kunde uteslutas och genom vilken metod?
 **Status: OBESVARAD.**
 
-### Hur kunde ärendet avslutas när toxiner, brand-/rökpartiklar, material och grundorsak inte var utredda?
-**Status: BESVARAD GENOM BESLUTETS SLUTSATS, MEN INTE GENOM FULL SPÅRBAR MOTIVERING.**
+## Hur kunde ärendet avslutas när grundorsaken inte redovisades?
+**Status: BESVARAD GENOM BESLUTETS SLUTSATS, MEN INTE FULLT SPÅRBART I ORSAKSKEDJAN.**
 
-### Vad menas med "samma sakfråga" och vad hindrar den pågående domstolsprocessen myndigheten från att göra?
-**Status: DELVIS/OBESVARAD.**
+## Vad menas med ”samma sakfråga” efter beslutet?
+**Status: DELVIS BESVARAD.**
 
-Miljöförvaltningen har hänvisat till att samma sakfråga prövas i överinstans, men den exakta avgränsningen och om detta även skulle hindra svar om hur det tidigare beslutet togs fram har inte tydligt besvarats.
+MF har hänvisat till pågående överinstansprövning. Oklart är hur nya faktiska omständigheter efter 13 april ska registreras, bedömas och göras tillgängliga för överinstans.
 
-### Varför fick Erica inget tydligt svar på hur beslutet den 13 april togs fram?
-**Status: OBESVARAD.**
+## Hur har Thomas 19 maj, 23-juni-materialet och Björn 10 juli hanterats?
+**Status: PROCESSKARTA SAKNAS.**
 
----
-
-# 3. Länsstyrelsen
-
-## Högst relevanta frågor
-
-### Prövade Länsstyrelsen om Miljöförvaltningens utredning var tillräcklig?
-**Status: BESVARAD GENOM AVSLAG, MEN DET BEHÖVER KONTROLLERAS HUR VARJE UTREDNINGSINVÄNDNING HANTERADES.**
-
-### Hur hanterades invändningen att orsaken till besvären inte hade identifierats?
-**Status: INTE TYDLIGT BESVARAD I DEN HITTILLS GENOMGÅNGNA KORRESPONDENSEN.**
-
-### Hur hanterades uppgifter om flera vittnen, 27 dygns vädring, brandhistorik, saknad saneringsdokumentation och oklara kanalrensningsuppgifter?
-**Status: BEHÖVER LÅSAS MOT LÄNSSTYRELSENS BESLUT OCH AKT.**
-
-### Vilka omständigheter var avgörande för att anse att nämnden hade fog att avsluta ärendet?
-**Status: BEHÖVER KORSKONTROLLERAS MOT BESLUTETS MOTIVERING.**
+Dessa kan kronologiskt inte ha ingått i beslutet 13 april.
 
 ---
 
-# 4. Mark- och miljödomstolen
+# 5. Stadsbyggnadskontoret / OVK
 
-Domstolen behöver normalt inte besvara varje fråga i korrespondens löpande. Det centrala är vad som har registrerats, kommunicerats och slutligen prövats i avgörandet.
+## Måste varje lägenhet vara individuellt redovisad i OVK-protokollet?
+**Status: BESVARAD.**
 
-## Högst relevanta frågor att rikta till domstolen
+SBK uppger att de inte har lagstöd att kräva att samtliga lägenheter kontrolleras och skrivs ut individuellt i protokollet.
 
-1. Vilken konkret teknisk undersökning i akten visar att orsaken till de återkommande besvären har utretts?
-2. Vilka möjliga orsaker omfattades av den undersökningen?
-3. Vilka orsaker har kunnat uteslutas och med vilket underlag?
-4. Hur har domstolen beaktat att toxiner, brand-/rökpartiklar och materialets identitet inte utreddes?
-5. Hur har uppgifterna om flera personers reaktioner och återkommande besvär efter omfattande vädring värderats?
-6. Hur har motsägelsen mellan utförd femmeters kanalrensning och senare uppgift om utebliven/kommande kanalrensning hanterats?
-7. Hur har det säkerställts att den OVK-handling som åberopats faktiskt gäller rätt ventilationssystem och rätt lägenhet?
-8. Om domstolen anser att utredningen är tillräcklig: vilka handlingar och omständigheter är avgörande för den slutsatsen?
+## Finns någon registrerad handling där objekt 0562/system 01 förekommer?
+**Status: FORTFARANDE INTE TYDLIGT BESVARAD.**
 
-## Frågor som inte bör dominera domstolsspåret
+Det är en annan fråga än den juridiska skyldigheten att lista varje lägenhet.
 
-- om varje enskilt mejl besvarats artigt eller snabbt,
-- interna konflikter mellan personer,
-- spekulation om motiv,
-- estetiska detaljer utan koppling till hälsa eller utredning,
-- önskemål om att domstolen själv ska välja teknisk teori.
+Det identifierade ombesiktningsmaterialet 8 november 2022 gäller system 02 / bostäder 7–11 och samtliga system ingår inte.
+
+> **Fråga:** Hur kopplas den ”godkända OVK” som FB åberopar till just Kilsgatan 3/lgh 1202/0562 och aktuellt system?
+
+## Har SBK registrerade kontrollhandlingar efter branden?
+**Status: BESVARAD.**
+
+Sheida uppger att sådana dokument inte är registrerade där och att SBK normalt inte kräver dem efter brand.
 
 ---
 
-# 5. Processjuristens bedömning
+# 6. Länsstyrelsen
 
-En processjurist reagerar främst på följande:
+## Prövade Länsstyrelsen om MF:s utredning var tillräcklig?
+**Status: BESVARAD genom avslag, men detaljvärdering ska låsas mot beslut/akt.**
 
-1. **Bristande kausal utredning:** många kontroller och åtgärder men ingen identifierad orsak.
-2. **Bristande spårbarhet:** det går inte att följa FRÅGA → UNDERSÖKNING → UNDERLAG → BEDÖMNING → BESLUT.
-3. **Ståndpunkter utan verifierbart underlag:** "beboelig", "ingen indikation", "sanerad", men utan handlingar som bär slutsatsen.
-4. **Möjliga materiella motsägelser:** kanalrensning utförd/utebliven, målning som gest/lösning/spärrning, olika brandbesked.
-5. **Räckviddsfel i underlag:** om OVK för fel system eller fel lägenhetsgrupp använts.
-6. **Bevisvärdering:** flera vittnen, återkommande reaktioner och vädring måste värderas, även om de inte ensamma bevisar orsaken.
+## Hur hanterades Thomasmaterialet från 19 maj som gavs in 28 maj?
+**Status: BEHÖVER LÅSAS mot Länsstyrelsens akt/beslut.**
 
-Det processuellt starkaste yrkandet är därför inte att domstolen ska slå fast exakt vad som orsakar besvären, utan att beslutet ska undanröjas/ärendet återförvisas därför att utredningen inte var tillräcklig för att avsluta tillsynen.
+## Hur hanterades invändningarna om okänd orsak, lång vädring, branddokumentation och kanalrensning?
+**Status: BEHÖVER KORSKONTROLLERAS mot full akt.**
 
 ---
 
-# 6. JO-perspektivet
+# 7. Mark- och miljödomstolen – relevanta prövningsfrågor
 
-JO prövar främst myndigheters handläggning, service, saklighet, dokumentation, kommunikation och motivering – inte om Familjebostäder som bolag tekniskt hade rätt i varje sakfråga.
+Domstolen behöver inte löpande besvara varje brevfråga. Det viktiga är vad som är registrerat, kommunicerat och slutligen värderat.
 
-JO-relevanta frågor:
-
-- Besvarades tydliga frågor från en enskild utan onödigt dröjsmål?
-- Fick Erica hjälp att förstå vad myndigheten menade med "samma sakfråga"?
-- Dokumenterades muntliga uppgifter och viktiga iakttagelser?
-- Kommunicerades material av betydelse före beslut?
-- Innehöll beslutet en klargörande motivering med de omständigheter som var avgörande?
-- Hanterades inkomna kompletteringar och handlingar korrekt och i tid?
-- Gav myndigheten entydiga besked eller hänvisade den runt utan att kärnfrågan besvarades?
-
-Mindre JO-relevant:
-
-- teknisk tvist om exakt orsak,
-- hyresvärdens civilrättsliga ansvar i sig,
-- om en viss målning var effektiv,
-- missnöje med domslutets materiella utgång utan konkret handläggningsfel.
+1. Vilken konkret teknisk undersökning i akten utreder grundorsaken?
+2. Vilka möjliga orsaker omfattades och vilka kunde faktiskt uteslutas?
+3. Hur har begränsningen i OCAB:s scope värderats?
+4. Hur har MF:s normala/acceptabla luftflöden vägts mot att toxiner/rökpartiklar/materialorsak inte undersöktes?
+5. Hur har lång vädring och efterföljande förstahandsreaktioner värderats?
+6. Hur har kanalrensningsdiskrepansen hanterats?
+7. Hur har det verifierats att åberopad OVK faktiskt har relevant koppling till 1202/0562?
+8. Vilka nya omständigheter efter 13 april finns i akten: Thomas 19 maj, 23 juni, Björn 10 juli?
+9. Om utredningen ändå anses tillräcklig: vilka konkreta handlingar är avgörande?
 
 ---
 
-# 7. Frågor som bör ställas nu
+# 8. Fem frågor som nu låser hela ärendet
 
-## Till domstolen
+> **1. Vilken undersökning hade uttryckligt uppdrag att fastställa grundorsaken?**
 
-> Jag gör inte gällande att orsaken redan är bevisad. Min invändning är att ärendet avslutades utan att orsaken utretts. Jag ber därför domstolen ange vilken konkret handling i akten som visar att en teknisk orsaksutredning genomförts, vilka möjliga orsaker den omfattade och vilka slutsatser som kunde dras.
+> **2. Vad hände tekniskt mellan 23 juni och 9 juli?**
 
-> Om domstolen anser att Miljöförvaltningens utredning var tillräcklig, ber jag att det anges hur uppgifterna om flera personers reaktioner, 27 dygns vädring, brandhistorik, saknad saneringsdokumentation, oklara kanalrensningsuppgifter och utebliven analys av toxiner/rökpartiklar har värderats.
+> **3. Vad hände tekniskt mellan 10 juli och 17 augusti?**
 
-> Jag begär att domstolen särskilt kontrollerar att den OVK-handling som använts som stöd avser rätt ventilationssystem och den lägenhetsgrupp där lägenhet 1202 ingår.
+> **4. Varför behövde Jennifer samma dag som ”konstaterad fullgod” en ny personlig 2,5-timmars observation för att ”komma vidare”?**
 
-## Till Miljöförvaltningen
-
-> Vilka exakta undersökningar hade i uppdrag att identifiera orsaken till besvären, och var finns resultatet?
-
-> Vilka omständigheter var avgörande för beslutet att avsluta ärendet, och hur värderades det material som inkom före beslutet?
-
-> Vad menar ni exakt med "samma sakfråga", och hindrar domstolsprocessen er även från att redovisa hur det redan fattade beslutet togs fram?
-
-## Till Familjebostäder
-
-> Vilken kanalrensning har utförts, vilken uppges vara utebliven och var finns arbetsorder/utföranderapporter?
-
-> Vad skulle målningen tekniskt avhjälpa, och vad avsåg uppgiften att väggarna var "spärrade"?
-
-> Var finns verifierbar dokumentation om åtgärder efter brand-/rökhändelsen 2017?
+> **5. Var finns den dokumenterade beslutskedjan som kopplar varje större åtgärd – materialbyte, målning, håltagning, kanalrensning – till en teknisk hypotes och verifierat resultat?**
 
 ---
 
-# 8. Kärnformulering
+# 9. Processuellt stark huvudlinje
 
-> Det avgörande är inte att varje tänkbar teknisk teori måste utredas. Det avgörande är att myndigheten måste kunna visa varför det underlag som faktiskt fanns var tillräckligt för att avsluta tillsynen trots kvarstående, återkommande och av flera personer uppgivna besvär samt flera identifierade men ofullständigt utredda frågespår.
+Det starkaste argumentet är inte att domstolen eller myndigheten ska fastställa Ericas tekniska teori.
+
+Det är:
+
+> **att flera begränsade undersökningar och åtgärder genomförts utan redovisad sammanhållen grundorsak, att nya faktiska omständigheter fortsatt uppkomma efter beslutet, och att det måste gå att visa vilket underlag som gjorde ytterligare utredning obehövlig och bar de senare kategoriska slutsatserna.**
+
+## Kontrollmodell
+
+**FRÅGA → UNDERSÖKNING → UNDERLAG → BEDÖMNING → ÅTGÄRD → VERIFIERING → SLUTSATS.**
