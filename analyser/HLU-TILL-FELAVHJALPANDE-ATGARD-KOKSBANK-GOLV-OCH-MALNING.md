@@ -177,6 +177,163 @@ Detta spår kan vara en av förklaringarna till varför orsaksfrågan kom sent i
 
 Det ska inte beskrivas som bevisat att HLU-spåret *orsakade* hela fördröjningen. Men tidslinjen motiverar att man granskar om **administrativ uppdelning i separata åtgärdsspår bidrog till att den sammanhållna tekniska orsaksfrågan aldrig fick ett tydligt eget utredningsuppdrag**.
 
+---
+
+# 11. Möte 1 den 11 november – åtgärder bestäms samtidigt som orsaken fortfarande är öppen
+
+**Ny prioriterad kontrollpunkt från Ericas genomgång av inspelningen.** Följande är ännu **PARTSUPPGIFT/LJUDLÅSNING KRÄVS** tills exakt tidskod och ordalydelse är kontrollerad i originalet:
+
+- under mötet sägs att **köksbänkar/bänkskivor ska bytas ut**,
+- det diskuteras att **lister ska läggas ovanför/framför området längst golvet där det finns hål och brunt fastsittande material**,
+- Erica uppger att materialet bakom/vid spisen fortfarande finns kvar i dag,
+- det ska kontrolleras om ett **hål/avvikelse i förråds-/klädkammarutrymmet** också diskuteras.
+
+### Varför detta kan bli viktigt
+
+Om dessa punkter låses i ljudet får vi en mycket konkret sekvens:
+
+> **FB ser/visas fysisk avvikelse → beslutar om byte/täckande/list → men materialets identitet och bakomliggande orsak redovisas inte.**
+
+Då måste vi skilja mellan två helt olika typer av åtgärd:
+
+1. **ta bort/byta det avvikande materialet**, och
+2. **täcka eller avsluta ovanpå/framför det med list/ytskikt**.
+
+En list över ett hål eller missfärgat område kan vara en normal byggteknisk avslutning, men den **identifierar inte i sig vad det bruna materialet är eller varför det finns där**.
+
+### Frågor att låsa mot ljudet
+
+> Vem säger att köksbänken ska bytas och vilken anledning anges?
+
+> Beskrivs listen som kosmetisk avslutning, tätning, täckning eller något annat?
+
+> Frågar Erica vad det bruna materialet är, och får hon ett faktiskt svar?
+
+> Kontrolleras området bakom spisen/köksinredningen innan det täcks eller lämnas kvar?
+
+> Vad sägs om hål/avvikelse i förråd/klädkammare?
+
+---
+
+# 12. Möte 2 den 17 december – ”jag är den enda som ligger på golvet” och visningsargumentet
+
+I den befintliga arbetsanalysen är redan verifierat från maskintranskriptionen att Jennifer vid cirka 14:31–15:39 flyttar delar av ansvaret mot Erica genom att säga att den som har ett barn med svår astma eller själv är känslig kanske borde ha säkerställt sådant före kontraktet och att huvudvärk/lukt borde ha kunnat upptäckas vid visningen.
+
+Erica har nu pekat ut en **snävare sekvens som måste ljudlåsas ordagrant**:
+
+- Erica säger i sak att **hon är den enda som ligger på golvet och tittar där andra inte tittar**,
+- Jennifer svarar enligt Ericas minnesbild ungefär **”sånt gör inte vi”**,
+- och kopplar därefter tillbaka till att sådant borde ha kontrollerats vid **visningen**.
+
+**Status:** PARTSUPPGIFT tills exakt tidskod och ordalydelse låsts. Den bredare visningssekvensen är däremot redan dokumenterad i arbetsanalysen.
+
+### Om sekvensen bekräftas blir den viktig av ett särskilt skäl
+
+Då möts två helt olika kontrollnivåer:
+
+> **Ericas närkontroll av dolda/lågt placerade material och håligheter**
+
+mot
+
+> **FB:s hänvisning till vad som borde ha upptäckts vid en vanlig visning.**
+
+Den sakliga frågan blir då:
+
+> **Hur skulle en hyresgäst vid en normal visning kunna upptäcka förhållanden som enligt själva samtalet kräver att man lägger sig på golvet, tittar bakom/under fast inredning eller granskar sådant som Familjebostäder uppger att de själva normalt inte gör?**
+
+Detta ska inte överdrivas till att FB erkänt en dold skada. Men om ordalydelsen låses är det ett starkt svar på efterhandsargumentet att bristerna borde ha upptäckts före kontraktet.
+
+---
+
+# 13. Luktzonerna – varför behandlas liknande lukt olika?
+
+Erica har återkommande beskrivit lukt i flera separata delar av lägenheten:
+
+- **insidorna i köksskåp/köksluckor**, där FB erbjuder målning,
+- **hallgarderoberna**, där Erica uppger att det också luktar men där motsvarande invändig målning inte erbjuds,
+- **förråd/klädkammare**, där Erica beskriver tydlig lukt och där målning planeras/utförs,
+- köket i stort.
+
+Detta skapar en viktig **urvalsfråga**, inte ett bevis för en viss källa:
+
+> **Vilken teknisk bedömning förklarar varför lukt i vissa skåp/utrymmen leder till målning medan lukt i andra skåp/utrymmen inte gör det?**
+
+Om åtgärderna är rent estetiska behöver det sägas. Om de är avsedda att påverka lukt behöver FB redovisa:
+
+- varför just de valda ytorna behandlas,
+- vilken känd eller misstänkt källa målningen riktas mot,
+- varför liknande lukt på andra ytor inte behandlas på samma sätt,
+- och hur man verifierar att åtgärden påverkar problemet.
+
+Detta stärker kärnfrågan om **målningens funktion**: samma åtgärd kan inte växla mellan ”fin gest”, normal HLU och implicit luktåtgärd utan att det tekniska syftet klargörs.
+
+---
+
+# 14. NYTT VERIFIERAT – OCAB:s rapport omfattar både kök och klädkammare
+
+Den faktiska OCAB-rapporten, arbetsorder **716247**, rapportdatum 18 oktober 2025 och besiktningsdatum 15 oktober 2025, har nu kontrollerats direkt.
+
+## Vad uppdragets ingång säger
+
+Under **”Beskrivning av skadan”** står:
+
+> **”Ocab tillkallas till plats efter att hyresgäst inför inflytt noterar missfärgningar i kök.”**
+
+Rapporten anger samtidigt skadeorsak:
+
+> **”Utströmning från installation”**
+
+> **”Läckage från kyl/frys”**
+
+## Men rapportens utrymmen är inte bara köket
+
+Under **”Utrymmen”** anges uttryckligen:
+
+- **Kök**
+- **Klädkammare**
+
+OCAB skriver bland annat:
+
+- förhöjda fuktindikationer i köksskåp undertill kyl/frys,
+- att skivan var svälld,
+- godkända fuktindikationer på samtliga ytor av golv och väggar i kök,
+- missfärgningar på delar av ytskikt på golv och golvsocklar,
+- **missfärgningar från eventuella gamla rinningar i klädkammare enligt bilddokumentation**, men godkända fuktindikationer där.
+
+Åtgärdsförslaget är avgränsat:
+
+> **”Rekommenderar att byta ut underliggare/skiva undertill kyl/frys.”**
+
+Rapportens bilddel har dessutom en egen rubrik **”Bilder i Klädkammare”** och markerar flera missfärgningar där.
+
+### Detta svarar delvis på frågan ”varför gjorde OCAB förrådet?”
+
+Rapporten visar att OCAB **faktiskt undersökte och dokumenterade klädkammaren**, trots att uppdragets inledande skadebeskrivning uttryckligen utgår från **missfärgningar i kök**.
+
+**Rapporten förklarar däremot inte uttryckligen varför klädkammaren lades till i undersökningen.**
+
+Det får därför inte fyllas i med en gissning. Men det skapar en viktig fråga:
+
+> **Vad gjorde att OCAB, i ett uppdrag beskrivet som missfärgningar i kök och med angiven skadeorsak läckage från kyl/frys, även undersökte och fotograferade missfärgningar i klädkammaren?**
+
+Om det utrymme Erica kallar **förråd** är samma utrymme som OCAB benämner **klädkammare**, ska beteckningen låsas mot planritning/rapport innan extern användning.
+
+### Varför detta är särskilt intressant tillsammans med lukten
+
+OCAB:s dokumentation visar alltså att **klädkammaren hade synliga missfärgningar/äldre rinnspår**, samtidigt som Erica senare beskriver hela detta utrymme som luktande.
+
+Det betyder inte att missfärgningen orsakar lukten. Men det gör följande fråga legitim:
+
+> **När ett utrymme både har dokumenterade missfärgningar och återkommande rapporterad lukt – vilken teknisk bedömning gjordes av sambandet eller av behovet av vidare utredning innan målning valdes som åtgärd?**
+
+Det här är starkare än att spekulera om mögel, eftersom det bygger direkt på **OCAB:s egna dokumenterade observationer**.
+
+Se separat arbetsfil:
+
+`analyser/OCAB-716247-KOK-OCH-KLADKAMMARE-MISSFARGNINGAR-OCH-RACKVIDD.md`
+
+---
+
 ## Kärnfrågor som inte får tappas
 
 > **Varför byttes köksbänk/bänkskiva?**
@@ -189,10 +346,16 @@ Det ska inte beskrivas som bevisat att HLU-spåret *orsakade* hela fördröjning
 
 > **Vad skulle målningen tekniskt avhjälpa i förhållande till lukt och återkommande hälsobesvär?**
 
+> **Varför målades vissa luktande skåp/utrymmen men inte andra?**
+
+> **Varför omfattade OCAB:s besiktning klädkammaren när skadebeskrivningen anger missfärgningar i kök och skadeorsaken anges som läckage från kyl/frys?**
+
+> **Vad gjordes med de dokumenterade missfärgningarna/rinnspåren i klädkammaren innan den senare målades?**
+
 > **Om målningen bara var en extra trivselåtgärd, varför åberopas den senare som del av FB:s svar på kritiken att hälsobesvären inte utretts?**
 
 ---
 
 # Samlad formulering
 
-> **Materialbytena bevisar inte orsaken. Men när fastighetsägaren går från HLU-/ytskiktsdiskussioner till att faktiskt byta fysiska material uppstår en spårbarhetsfråga: vilket fel motiverade bytet, vad konstaterades när konstruktionen öppnades, hur kontrollerades angränsande material och vilket underlag visar att den bakomliggande orsaken var avhjälpt eller irrelevant?**
+> **Materialbytena bevisar inte orsaken. Men när fastighetsägaren går från HLU-/ytskiktsdiskussioner till att faktiskt byta fysiska material, täcka vissa avvikelser och måla utvalda luktande ytor uppstår en spårbarhetsfråga: vilket fel motiverade respektive åtgärd, vad konstaterades när konstruktionen öppnades, varför behandlades vissa ytor men inte andra och vilket underlag visar att den bakomliggande orsaken var avhjälpt eller irrelevant? OCAB-spåret förstärker frågan eftersom rapporten uttryckligen utgår från missfärgningar i kök men ändå dokumenterar även missfärgningar/äldre rinnspår i klädkammaren.**
