@@ -185,4 +185,43 @@ och markera exakt:
 - Peters exakta svar om målning,
 - eventuella motsägelser eller kontinuitet mellan 19 maj och 23 juni.
 
-**Status 25 augusti 2026:** chatten är konsoliderad i GitHub. Primärkällor och ljud måste fortsatt hållas skilda från analys och minnesuppgifter tills ordalydelsen är låst.
+## 12. Relevanta systemuppdateringar från hela tråden
+
+Följande punkter ska föras vidare i GitHub-systemets fortsatta analys och juridiska arbetsmaterial:
+
+### A. Ny separat obesvarad utredningsfråga
+Den redan dokumenterade orsaksfrågan ska kompletteras med en mer precis fråga:
+
+> **Vilken undersökning har haft i uttryckligt uppdrag att skilja mellan (1) rapporterad lukt/odör och (2) rapporterad luft-/hälsopåverkan som inte är identisk med lukt, och vad blev resultatet för respektive del?**
+
+Det räcker inte att hänvisa till att ingen avvikande lukt noterades om den andra rapporterade delen inte samtidigt undersöktes.
+
+### B. Peter ska behandlas som ett eget kunskapsspår
+Peter förekommer vid två separata datum:
+
+- **19 maj:** tillsammans med Erica och Thomas,
+- **23 juni:** tillsammans med Erica, inspelat parallellt på två apparater.
+
+Dessa datum ska jämföras kronologiskt för att fastställa vilken kunskap Peter hade om lukt, luft-/hälsopåverkan och kvarstående problem vid respektive tidpunkt.
+
+### C. Peters uppgivna nej om tömning/målning kopplas till åtgärdsspåret
+Om ljudet verifierar Peters nej ska följande fråga läggas till i åtgärdsanalysen:
+
+> **Om Familjebostäders egen husvärd bedömde att tömning respektive målning inte skulle lösa det diskuterade problemet, på vilken teknisk grund fortsatte dessa eller liknande ytskiktsåtgärder att anges som relevanta åtgärder?**
+
+Detta är en fråga om intern logik och utredningskedja, inte ett påstående om teknisk orsak.
+
+### D. Rättelse av Jennifer-spåret
+Det ska i all fortsatt argumentation hållas fast att formuleringen om att ingen av Familjebostäders personal upplever lukt i B0442 kommer från **Ericas mejl den 5 augusti**, inte från ett eget fristående Jennifer-påstående den 17 augusti. Peter namnges inte där.
+
+### E. Källstatus ska vara tydlig
+- B0275/B0277, B0276 och B0294 är skriftliga förstahands-/korrespondenskällor.
+- B0349/B0350 visar att Thomas-material och komplettering gavs in vidare i processen.
+- B0442 ska läsas med tydlig skillnad mellan Jennifers egna kommentarer och den citerade äldre trådtexten.
+- 19-maj- och 23-juni-ljuden är viktiga primärkällor men Peters exakta ordalydelse är fortfarande **inte källåst** i GitHub-analysen.
+- Ingen teknisk orsak till fenomen B ska anges utan separat tekniskt stöd.
+
+### F. Juridiskt/utredningsmässigt kärnfynd att bevaka
+Det centrala möjliga glappet är inte enbart att en lukt inte noterades vid ett visst tillsynstillfälle. Det är om **hela den faktiskt rapporterade problemformuleringen** blev undersökt. Om källorna visar att flera personer beskrev både lukt och en separat luft-/hälsopåverkan, måste det kunna redovisas vilken utredning som behandlade respektive del.
+
+**Status 25 augusti 2026:** hela denna chattgenomgång är nu konsoliderad i GitHub-spåret. Nästa avgörande steg är ordagrann källåsning av ljuden innan Peter-citat eller slutsatser om hans exakta ställningstagande används externt.
