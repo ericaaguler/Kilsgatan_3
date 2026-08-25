@@ -102,15 +102,31 @@ Rapportdatum 18 oktober. Rapporten anger bland annat:
 
 **Nyckelfråga:** varför ingår klädkammaren i ett uppdrag vars angivna ingång är missfärgningar i kök och vars skadeorsak anges som kyl/frys-läckage?
 
-## 20 oktober kl. 12:51 – före Gaby-samtal [VF]
+## 20 oktober kl. 12:51 – före Gaby/OCAB-samtalet [VF]
 
 Erica frågar vad OCAB faktiskt kommit fram till om fukt, mögel/svamp och material.
 
-## 20 oktober – samtal med Gaby om OCAB [LJ]
+## 20 oktober – Gaby/OCAB, separat längre samtal [LJ]
 
-Separat ljudspår finns. Exakta formuleringar ska låsas mot ljudet.
+Ett längre separat ljudspår finns om OCAB och rapportens räckvidd. Exakta formuleringar ska låsas mot originaljudet.
 
-## 20 oktober kl. 17:12 – samtida skriftlig uppföljning [VF]
+## 20 oktober – Gaby/HLU/mellanskillnad, separat cirka 3:04 ljud [LJ + stark samtida datering]
+
+En **annan** uppladdad ljudfil från samma datum har nu identifierats som ett separat HLU-/mellanskillnadsspår: `Erica & Gaby fullständigt HLU 20 oktober 2025`.
+
+Detta får inte blandas ihop med OCAB-samtalet.
+
+Samtida dokumentation stöder dateringen och funktionen:
+
+- **5 november 2025** listar Erica uttryckligen bilagan `ljudfil Erica & Gaby fullständigt HLU 20 oktober 2025`,
+- **7 november** skriver Erica till Jennifer att enligt Gaby ska hon inte betala mellanskillnaden eftersom full HLU-debitering gäller tidigare hyresgäst,
+- **11 november** säger Jennifer i mötestranskriptionen att hon **har lyssnat på ljudinspelningen** och förklarar att beskedet om ingen mellanskillnad är kopplat till HLU.
+
+**Betydelse:** redan här behöver HLU-mellanskillnad skiljas från separat kostnad för målning som avviker från FB:s standardutförande.
+
+**Mönsterrelevans:** ljudfilen blir senare ett konkret exempel på varför originalinspelning behövs när senare besked/avgränsningar skiljer sig.
+
+## 20 oktober kl. 17:12 – samtida skriftlig uppföljning av OCAB-spåret [VF]
 
 Erica frågar uttryckligen:
 
@@ -123,25 +139,27 @@ Hon dokumenterar samtidigt sin uppfattning från Gaby-samtalet att ingen mögelp
 
 **Betydelse:** undersökningens begränsning ifrågasätts i realtid.
 
-## 21 oktober – FB skickar frågan tillbaka till Gaby [VF]
+## 21 oktober – FB skickar OCAB-frågan tillbaka till Gaby [VF]
 
 Kundservice meddelar att frågan vidarebefordrats till Gaby.
 
 ## 22 oktober – Leonard, inspelat samtal [LJ]
 
-Samtalet rör framför allt målning/HLU och betalningsansvar. Det ska inte användas som OCAB-huvudbevis utan som ett separat exempel på motstridiga muntliga besked och betydelsen av inspelningarna.
+Samtalet rör framför allt målning/HLU och betalningsansvar. Det ska inte användas som OCAB-huvudbevis utan som ett separat exempel på beskeds-/avgränsningsfrågan och betydelsen av inspelningarna.
 
 ## 27 oktober – första professionella städningen [VF/FU]
 
 Ed Städ genomför städning. Erica har dokumenterat att huvudvärk/tung luft uppstod redan innan städningen började och att visuella/materialrelaterade problem kvarstod efteråt.
 
-## 29 oktober – Leonard skriftligen [VF]
+## 29 oktober – Leonard skriftligen efter ljudbevis [VF]
 
-Efter att Erica skickat ljudsekvens med Gabys tidigare besked bekräftas att hon inte ska betala 3 768 kr för tidigareläggningen av HLU. Leonard skiljer detta från eventuell separat merkostnad för målning i stället för tapet.
+Efter att Erica skickat ljudsekvens med Gabys tidigare besked bekräftas att hon inte ska betala **3 768 kr för HLU-tidigareläggningen**. Leonard skiljer detta från eventuell separat merkostnad för målning i stället för tapet.
+
+**Viktig precision:** detta bekräftar HLU-delen men innebär inte automatiskt att all målning är kostnadsfri; FB gör en separat standardutförande-/målningsavgränsning.
 
 I samma korrespondens behandlar Leonard **dålig lukt som möjlig brist**, anger att drifttekniker beställts för kontroll av ventilation och rensning av frånluftsdon och öppnar för platsbesök/vidare utredning om observationerna går utöver OCAB.
 
-**Betydelse:** luktfrågan är fortfarande ett öppet utredningsspår efter OCAB.
+**Betydelse för huvudärendet:** luktfrågan är fortfarande ett öppet utredningsspår efter OCAB.
 
 ## 31 oktober – Erica skiljer OCAB/fukt från bredare problem [VF]
 
@@ -157,15 +175,23 @@ Ventilation kontrolleras/justeras. Blockerande material i tilluftsöppningar upp
 
 **Viktig princip:** luftflöde/luftens rörelse är inte samma sak som analys av luftens innehåll eller källan till besvär.
 
-## 5 november – Hyresgästföreningen, formell bristanmälan [VF]
+## 5 november – formell bristanmälan och HLU-ljudet lämnas som bilaga [VF]
 
-CAS-133640-Q5D1C8 dokumenteras med kök, ventilation, foton och OCAB-spår.
+CAS-133640-Q5D1C8 dokumenteras med kök, ventilation, foton och OCAB-spår. I bilageförteckningen anges uttryckligen **`ljudfil Erica & Gaby fullständigt HLU 20 oktober 2025`**.
+
+**Betydelse:** datumet och bevisfunktionen för det separata HLU-ljudet dokumenteras av Erica redan nära i tid, inte först i efterhand 2026.
 
 ## 6–10 november – Gaby: ”felsöka vad problemet är” [VF enligt mejlspåret]
 
 Gaby beskriver problemet som något som behöver felsökas och som tar tid att förstå.
 
 **Betydelse:** FB:s egen representant behandlar orsaken som ännu inte förstådd.
+
+## 7 november – Erica åberopar Gabys HLU-besked skriftligen till Jennifer [VF]
+
+Erica skriver att enligt Gaby ska hon inte betala mellanskillnaden och att fullständig HLU-debitering gäller tidigare hyresgäst.
+
+**Betydelse:** ytterligare samtida kontrollpunkt för vad Erica uppfattade att Gaby faktiskt hade meddelat.
 
 ## 10 november – Gaby föreslår att samtliga avvikelser/tidsplan gås igenom på plats [VF]
 
@@ -179,7 +205,11 @@ Verifierat/identifierat:
 
 - Jennifer går igenom bostaden rum för rum,
 - formuleringen **”Vi målar om hallen. Så kör vi vidare.”** finns i transkriptionsspåret,
-- ytskikt, målning, lister och praktiska åtgärder får stor plats.
+- ytskikt, målning, lister och praktiska åtgärder får stor plats,
+- Jennifer säger i HLU-diskussionen att hon **har lyssnat på ljudinspelningen** och förklarar i sak att beskedet om ingen mellanskillnad är kopplat till HLU,
+- i samma sekvens skiljs HLU-mellanskillnaden från möjlig extra kostnad för att måla på ett sätt som inte är FB:s standardutförande.
+
+**Mönsterbetydelse:** den muntliga uppgiften från Gaby blir inte bara Ericas minnesbild; Jennifer bekräftar att hon själv har lyssnat på beviset och gör därefter en avgränsning av vad beskedet avser.
 
 Prioriterade punkter som ännu ska ljudlåsas exakt:
 
@@ -316,6 +346,8 @@ Tillsynsärendet avslutas utan ytterligare krav. Bedömningen bygger bland annat
 Jennifer skriver: **”Jag meddelar målarna att de målar väggarna i köket.”**
 
 **Betydelse:** den tidigare målning/tapetsering-frågan går tillbaka till den ursprungliga dokumenterade linjen efter att Erica åberopat tidigare underlag.
+
+**Mönsterkoppling:** detta är det andra tydliga fallet, efter HLU/mellanskillnaden, där en senare version behöver kontrolleras mot tidigare dokumentation innan den äldre överenskommelsen får genomslag igen.
 
 ## 19–23 april – ytterligare cirka fyra dygns vädring [VF/FU]
 
@@ -501,20 +533,49 @@ Sheida förklarar att hennes tidigare svar rörde OVK-ärendet och ber om förty
 
 ---
 
-# G. DEN SAMLade KRONOLOGISKA KÄRNAN
+# G. DEN SAMLADE KRONOLOGISKA KÄRNAN
 
 Det dokumenterade förloppet kan sammanfattas:
 
-> **Tillträde → HLU/ytskikt → tidig teknisk utredningsbegäran → OCAB/fukt och material → omedelbar invändning om OCAB:s räckvidd → städning → ventilation/injustering → fler städningar → material-/målningsåtgärder → Miljöförvaltningens ventilationsinriktade kontroll → lång vädring → nya förstahandsreaktioner → Peter/Thomas 23 juni: orsaken fortfarande okänd → Gaby 9 juli: ärendet avslutat → Marko/Björn 10 juli: nya reaktioner och fortsatt intern hantering → Jennifer 17 augusti: ”konstaterad fullgod” → samma dag föreslås ny personlig observation → OVK-/branddokumentationen granskas fortfarande i augusti.**
+> **Tillträde → HLU/ytskikt → tidig teknisk utredningsbegäran → OCAB/fukt och material → 20 oktober två separata ljudspår: OCAB-räckvidd respektive HLU/mellanskillnad → HLU-besked behöver senare låsas mot ljud → städning → ventilation/injustering → fler städningar → material-/målningsåtgärder → dokumenterad målning/tapetsering-konflikt och återgång till tidigare linje → Miljöförvaltningens ventilationsinriktade kontroll → lång vädring → nya förstahandsreaktioner → Peter/Thomas 23 juni: orsaken fortfarande okänd → Gaby 9 juli: ärendet avslutat → Marko/Björn 10 juli: nya reaktioner och fortsatt intern hantering → Jennifer 17 augusti: ”konstaterad fullgod” → samma dag föreslås ny personlig observation → OVK-/branddokumentationen granskas fortfarande i augusti.**
 
 Detta visar **inte** en bevisad specifik teknisk orsak.
 
-Det visar däremot ett återkommande glapp:
+Det visar däremot tre återkommande strukturer:
+
+### 1. Räckviddsmönstret
 
 > **Bred fråga → smal kontroll/åtgärd → ingen redovisad grundorsak → ytterligare åtgärd → fortsatt problem → senare allt mer kategorisk slutsats.**
+
+### 2. Besked-/källkontrollmönstret
+
+> **Tidigare besked/överenskommelse → senare annan version/avgränsning → originalinspelning eller samtida mejl tas fram → den äldre uppgiften åter får genomslag i avgränsad form.**
+
+Dokumenterade exempel:
+
+- Gaby HLU 20 oktober → Leonard-frågan → ljudbevis → HLU-delen bekräftas,
+- köksmålning → tapetsering → tidigare dokumentation → målning återställs 14 april.
+
+Detta är **inte** ett påstående att FB generellt lämnar osanna uppgifter. Det är ett argument för att senare sammanfattningar i just detta ärende måste kontrolleras mot originalkällorna när de avviker.
+
+### 3. Åtgärdssyftesmönstret
+
+Flera åtgärder kan följas, men för flera av dem saknas fortfarande den fulla kedjan:
+
+> **observation → teknisk hypotes → beslut → åtgärd → verifiering.**
+
+Det gäller särskilt målning, hallmålning, köksskåpens insidor, större material-/golvbyten, klädkammarhål och kanalrensningsspåret.
 
 ## Huvudfrågan som hela tidslinjen låser
 
 > **Vilken konkret teknisk undersökning förändrade kunskapsläget från den 23 juni 2026 – då orsaken fortfarande behandlas som okänd – till den 9 juli då ärendet stängs och den 17 augusti då inomhusmiljön beskrivs som ”konstaterad fullgod”?**
 
 Om ingen sådan undersökning kan redovisas finns ett tydligt dokumenterat **glapp mellan utredningens räckvidd och slutsatsens räckvidd**.
+
+## Källmetod som nu är särskilt motiverad
+
+När ett senare FB-besked avviker från tidigare uppgift i detta ärende ska kontrollordningen vara:
+
+> **originalinspelning → samtida mejl → arbetsorder/primärhandling → senare sammanfattning.**
+
+Detta följer av de konkreta HLU- och målningsexemplen och är en metodregel för bevisvärdering, inte ett generellt omdöme om personers trovärdighet.
