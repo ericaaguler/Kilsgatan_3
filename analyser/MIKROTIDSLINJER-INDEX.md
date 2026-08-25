@@ -1,0 +1,80 @@
+# Mikrotidslinjer – Kilsgatan 3
+
+**Syfte:** huvudtidslinjen visar hela ärendet. Mikrotidslinjerna ska däremot visa exakt **var ett problem, en motsägelse eller en dokumentationslucka uppstår mellan två eller flera datum**.
+
+## Prioritet 1 – ska byggas först
+
+### 1. Kanalrensningen – 4 nov 2025 → 15 jan 2026
+Fokus:
+- 4 nov Caroline i lägenheten: mätning/justering/tilluft, ingen källåst femmetersrensning i anteckningarna.
+- 2 dec Jennifer: kanalrensning **kommer att ske**.
+- 17 dec: uppgift att drifttekniker redan gjort ca 5 m kanalrensning.
+- 15 jan: Jennifer uppger till Miljöförvaltningen att drifttekniker gjort 5 m rensning i köket.
+- fråga: vilket exakt datum, vem, arbetsorder, metod, tillträde, utföranderapport, effektkontroll?
+
+### 2. Brukbarhet – ”sedan dag 1” kontra vad som faktiskt pågår
+Fokus:
+- när Familjebostäder första gången säger att lägenheten är fullt beboelig/brukbar,
+- vilka åtgärder som samtidigt fortfarande planeras eller utförs,
+- när Familjebostäder säger att deras personal inte känner lukt,
+- 15 jan 2026: Familjebostäder säger samtidigt att orsaken till hallukten fortfarande är oklar,
+- senare rapporterade reaktioner,
+- 17 aug 2026: Jennifer vidhåller att lägenheten varit brukbar sedan dag 1.
+
+**Detta är en central mikrotidslinje eftersom den ställer själva slutsatsen mot den samtidiga faktiska utrednings- och åtgärdskedjan.**
+
+### 3. Miljöförvaltningen – kunskapsläget före och efter beslutet 13 april 2026
+Fokus:
+- vad myndigheten hade fått före beslutet,
+- vilka frågor den ställde till Familjebostäder,
+- vilka frågor som fortfarande saknade verifierbart svar,
+- beslut 13 april,
+- nya händelser efter beslutet,
+- augusti 2026: ”samma sakfråga”, registrering men ingen ny sakprövning,
+- 11 aug Tora Joby: nya handlingar registrerade men inte vidarebefordrade till MMD.
+
+### 4. Brand 2017 → saneringskedja → senare verifiering
+Fokus:
+- brandhändelsen 16 nov 2017,
+- vilka uppgifter Familjebostäder lämnar 2025 om huruvida brand funnits,
+- Gaby: ingen dokumenterad brand,
+- Jennifer: ”självklart” sanerad efter eventuell brand men saknar dokumentation,
+- Miljöförvaltningen januari 2026 avstår från att utreda sanering,
+- SSBF:s senare händelserapport,
+- fortfarande saknad dokumentkedja: försäkring, sanering, arbetsorder, slutkontroll, provtagning.
+
+### 5. OVK / system 01 / objekt 0562
+Fokus:
+- 2018: 0562 med i OVK och mätvärden,
+- april 2022: 0562 med i system 01; 9–33 kök, 15 bad, 4 sovrum,
+- april 2022: ojämna flöden + otät sugkammarlucka + läckage vid renslucka,
+- november 2022: ombesiktning bara system 02, 0562 inte med,
+- mars 2026: 36 kök, 4 bad, 3 sovrum,
+- augusti 2026: SBK-frågor om komplett dokumentkedja.
+
+## Prioritet 2
+
+### 6. Städspåret
+Tre professionella städningar → reklamation → starkare medel → kvarstående beläggningar/lukt → vilken orsaksutredning beställdes?
+
+### 7. Vittnen / reaktioner efter myndighetsbeslutet
+19 maj 2026 → 10 juli 2026 → 16 augusti 2026. Syftet är att visa att det finns senare förstahandsuppgifter som inte låg till grund för beslutet 13 april.
+
+### 8. Åtgärder kontra ”inget fel”
+El, ventilation, golv, målning, köksdelar, håltagning/lufttillförsel. Fråga: om allt varit fullgott sedan dag 1, varför beställdes och utfördes dessa åtgärder, och vilket problem skulle varje åtgärd lösa?
+
+### 9. Obesvarade frågor till Familjebostäder
+Datum fråga → exakt fråga → svar → besvarad/delvis/obesvarad → vad saknas.
+
+### 10. Överinstansernas prövning
+Miljöförvaltningen → Länsstyrelsen → MMD. Fokus på vilka konkreta invändningar som återges men inte synligt analyseras i beslut/domskäl, exempelvis kanalrensningskedjan och orsaksfrågan.
+
+---
+
+# Metodregel
+
+Varje mikrotidslinje ska helst rymmas på **1–2 sidor** och ha fyra kolumner:
+
+**DATUM → VAD SÄGS/GÖRS → KÄLLA → VARFÖR DET SKAVER/ÖPPEN FRÅGA**
+
+Ingen mikrotidslinje ska försöka bevisa mer än källorna tillåter. Skillnaden mellan **verifierat faktum, partsuppgift, motsägelse och öppen teknisk fråga** ska alltid framgå.
