@@ -76,6 +76,35 @@ Vid cirka 14:31–15:39 säger Jennifer i sak att Erica ligger på en annan krav
 
 **Viktig invändning:** Erica svarar att sådant inte rimligen kan upptäckas vid en visning med många andra personer och den tidigare hyresgästens vardagsdofter.
 
+### 🚨 NY PRIORITERAD LJUDLÅSNING – ”JAG ÄR DEN ENDA SOM LIGGER PÅ GOLVET”
+
+Erica har nu identifierat en mer specifik del av denna diskussion som måste tidskodas och ordagrant ljudverifieras.
+
+Enligt Ericas minnesbild säger hon i sak:
+
+> **att hon är den enda som ligger på golvet och tittar på/under sådant som andra inte granskar**
+
+och Jennifer svarar i sak:
+
+> **”sånt gör inte vi”**
+
+innan diskussionen åter kopplas till vad Erica borde ha kontrollerat vid visningen.
+
+**Status:** PARTSUPPGIFT tills ordalydelse och tidskod är låst mot originalet. Den bredare visningssekvensen är däremot redan dokumenterad i maskintranskriptionen.
+
+### Om sekvensen bekräftas
+
+Den blir mycket viktig eftersom den ställer två påståenden mot varandra:
+
+1. det aktuella förhållandet är så placerat/dolt att Erica beskriver att hon måste ligga på golvet och detaljgranska för att se det,
+2. samtidigt hänvisar Jennifer till att sådant borde ha upptäckts vid en normal visning.
+
+Den sakliga kontrollfrågan blir:
+
+> **Hur skulle en hyresgäst vid en normal visning kunna upptäcka ett förhållande som enligt diskussionen kräver närgranskning under/bakom fast inredning eller på golvnivå och som Familjebostäder själva uppges säga att de normalt inte granskar på det sättet?**
+
+Detta är inte bevis för vad materialet är. Det är ett möjligt **logiskt glapp i visningsargumentet**.
+
 ## 1.6 Jennifer säger att Familjebostäder inte kommer utreda/provta
 
 Vid cirka 15:53–16:31 säger Jennifer:
@@ -126,6 +155,26 @@ Vid cirka 18:43–19:29 säger Jennifer att Familjebostäder gjort mer i lägenh
 
 Det måste jämföras med senare uttalanden om spärrmålning, kapsling eller målning som problemlösning.
 
+### 🚨 NY KONTROLLPUNKT – VARFÖR JUST KÖKSSKÅPEN?
+
+Erica har återkommande uppgett lukt i flera ytor/utrymmen:
+
+- invändigt i köksskåp/köksluckor,
+- hallgarderober,
+- klädkammare/förråd.
+
+Mötesmaterialet visar att FB erbjuder målning invändigt i köksskåp och senare finns målning i klädkammare/förråd, medan motsvarande invändig målning av hallgarderoberna inte är redovisad.
+
+Detta är **inte bevis för att målningen var luktsanering**.
+
+Men om lukt var en del av diskussionen uppstår en viktig urvalsfråga:
+
+> **Varför skulle målning hjälpa i de köksskåp som luktar, men inte behövas i hallgarderober som enligt Erica också luktar?**
+
+Och:
+
+> **Vilken teknisk funktion hade målningen egentligen – estetik, HLU, spärrning eller luktåtgärd?**
+
 ---
 
 # 2. Frågor Erica ställer men inte får fullständigt svar på
@@ -138,6 +187,19 @@ Det måste jämföras med senare uttalanden om spärrmålning, kapsling eller m�
 
 **Bedömning:** **OBESVARAD**. Den egna avsaknaden av luktupplevelse identifierar inte orsaken till andras upplevelser eller besvär.
 
+### Fördjupad kontroll – olika luktzoner
+
+Det ska nu kontrolleras i hela ljudet om Erica specifikt skiljer mellan:
+
+- lukt i köksskåp,
+- lukt i hallgarderober,
+- lukt i förråd/klädkammare,
+- lukt i köket i stort.
+
+Om hon gör det och FB föreslår olika åtgärder för olika luktzoner utan förklaring blir frågan inte bara ”var luktar det?” utan:
+
+> **Vilken källa eller mekanism antog FB för respektive område och varför valdes olika åtgärder?**
+
 ## 2.2 Behöver materialet provtas?
 
 **Fråga:** Erica säger att provtagning behövs för att avgöra vad det bruna materialet är.
@@ -145,6 +207,16 @@ Det måste jämföras med senare uttalanden om spärrmålning, kapsling eller m�
 **Svar:** Jennifer avvisar provtagning eftersom inget enligt henne indikerar påväxt.
 
 **Bedömning:** **FRÅGAN OM VAD MATERIALET ÄR ÄR OBESVARAD**. Beslutet att inte provta ersätter inte en identifiering.
+
+### Särskild koppling till möte 1
+
+Erica uppger att samma/brunrelaterade materialspår vid golv/spis redan diskuterats vid möte 1 den 11 november och att list/täckning då diskuterades.
+
+Om detta ljudlåses blir sekvensen viktig:
+
+> **fysisk avvikelse visas 11 nov → täckande/list eller annan åtgärd diskuteras → 17 dec frågar Erica fortfarande vad materialet är → Jennifer avvisar provtagning.**
+
+Det skulle visa att materialfrågan kvarstår **efter** att en fysisk åtgärd redan diskuterats.
 
 ## 2.3 Vad förklarar Ericas och Victors huvudvärk?
 
@@ -170,6 +242,17 @@ Det måste jämföras med senare uttalanden om spärrmålning, kapsling eller m�
 
 **Bedömning:** **OBESVARAD** i förhållande till lukt/hälsobesvär.
 
+### Ny precisering
+
+Det är nu särskilt viktigt att hålla isär:
+
+- målning av väggar,
+- målning invändigt i köksskåp,
+- målning i förråd/klädkammare,
+- ingen motsvarande redovisad målning invändigt i hallgarderober.
+
+Om samtliga dessa ytor uppges lukta, behöver FB:s **urvalsgrund** för åtgärden redovisas.
+
 ## 2.7 Vad visar objektivt att det inte finns dålig luft?
 
 **Svar:** Jennifer hänvisar till att hon inte känner lukt och inte ser indikationer.
@@ -193,6 +276,14 @@ Erica frågar efter orsak och provtagning. Jennifer svarar med vad hon själv se
 Genom att hänvisa till visningen, Ericas känslighet och vad hon borde ha upptäckt före kontraktet flyttas fokus delvis från hyresvärdens fortsatta utredning.
 
 **Säkerhet:** Hög vad gäller effekten.
+
+### Om golvsekvensen ljudlåses
+
+Då blir denna ansvarsförskjutning ännu mer konkret:
+
+> **FB hänvisar till visningen samtidigt som den ifrågasatta avvikelsen enligt Erica kräver att hon lägger sig på golvet och tittar under/bakom sådant som inte normalt granskas.**
+
+Det är då inte en fråga om ”högre standard”, utan om **vilken inspektionsnivå som rimligen kan krävas av en bostadssökande vid en visning**.
 
 ## 3.3 Använder kostnad/allmännytta som argument mot utredning
 
@@ -220,6 +311,7 @@ Hänvisningen till skattebetalarnas pengar används för att motivera att mögel
 4. **Familjebostäder avser inte beställa mögel-/materialprov.**
 5. **Erica framför direkt att hon och Victor får huvudvärk.**
 6. **Målning av skåpens insidor beskrivs som en fin gest, inte som redovisad orsaksåtgärd.**
+7. **Den bredare visningssekvensen visar att Jennifer hänvisar till vad Erica borde ha upptäckt innan kontraktet; den specifika ”ligger på golvet / sånt gör inte vi”-sekvensen ska ljudlåsas.**
 
 ---
 
@@ -257,6 +349,14 @@ Hänvisningen till skattebetalarnas pengar används för att motivera att mögel
 
 **Varför teorin försvagas:** Det saknas fortfarande redovisat samband mellan målning och orsaken till hälsobesvär/lukt.
 
+## 5.5 Visningen som svar – men möjlig avvikelse som kräver golvnära/dold kontroll
+
+**Teori/argument:** Erica borde ha upptäckt problemet vid visningen.
+
+**Prioriterad partsuppgift att ljudlåsa:** Erica säger att hon är den enda som ligger på golvet och ser sådant; Jennifer svarar enligt minnesbild ”sånt gör inte vi”.
+
+**Om verifierat:** argumentet att detta borde ha upptäckts vid normal visning försvagas kraftigt om den relevanta avvikelsen kräver en kontrollnivå som FB själva inte normalt utför.
+
 ---
 
 # 6. ⭐ Nyckelcitat att ljudverifiera
@@ -269,6 +369,10 @@ Hänvisningen till skattebetalarnas pengar används för att motivera att mögel
 - ”Vilket vi inte brukar göra i lägenheter.”
 - ”När rengjordes den där ...? Ingen aning.”
 - ”Det har jag gjort som en fin gest.”
+- **Ericas formulering om att hon är den enda som ligger på golvet och ser det hon ser.**
+- **Jennifers svar som Erica minns som ”sånt gör inte vi”.**
+- **Exakt övergång från denna sekvens till argumentet om vad som borde ha kontrollerats vid visningen.**
+- **All diskussion om lukt i köksskåp, hallgarderober och förråd/klädkammare och varför vissa ytor skulle målas.**
 
 ---
 
@@ -282,5 +386,8 @@ Hänvisningen till skattebetalarnas pengar används för att motivera att mögel
 6. Kostnads-/skattebetalarargument används mot vidare provtagning.
 7. Ingen vet när ventilationen rengjordes före femmetersåtgärden.
 8. Målningen beskrivs som en fin gest utan tekniskt redovisad koppling till besvären.
+9. **Den specifika golv/visningssekvensen kan, om den verifieras, vara ett av de starkaste interna svaren på argumentet att bristerna borde ha upptäckts före kontraktet.**
+10. **Lukt i flera skåp/utrymmen men olika val av målning skapar en ny konkret fråga om vilken teknisk urvalsgrund FB använde.**
+11. **Det ska jämföras med OCAB:s verifierade dokumentation av missfärgningar/äldre rinnspår i klädkammaren.**
 
 **Status:** Arbetsanalys. Viktiga citat måste ljudverifieras innan ordagrann extern användning.
