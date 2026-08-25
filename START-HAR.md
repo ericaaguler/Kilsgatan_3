@@ -2,25 +2,28 @@
 
 **Kilsgatan 3, lägenhet 1202**
 
-Detta är ingången till materialet. **Revisionen 25 augusti 2026 är nu kanonisk arbetsversion** för tidslinje, motsägelser, luckor och källrättelser. Äldre analyser finns kvar som delanalyser men ska läsas mot rättelsedokumentet innan de används externt.
+Detta är ingången till materialet. **Revisionen 25 augusti 2026 är nu kanonisk arbetsversion** för tidslinje, motsägelser, luckor, beteende-/mönsteranalys och källrättelser. Äldre analyser finns kvar som delanalyser men ska läsas mot rättelsedokumentet innan de används externt.
 
 ## 1. KANONISK REVISION – LÄS FÖRST
 
 - [Reviderad samlad huvudtidslinje – 25 augusti 2026](analyser/REVISION-2026-08-25-SAMLAD-HUVUDTIDSLINJE.md)
 - [Reviderad matris – motsägelser, källkonflikter och logiska spänningar](analyser/REVISION-2026-08-25-MOTSAGELSER-OCH-LOGISKA-SPANNINGAR.md)
+- [Reviderad analys – beteende, handläggning och återkommande FB-mönster](analyser/REVISION-2026-08-25-BETEENDE-OCH-MONSTER-FB.md)
 - [Reviderat luckregister – saknat underlag och obesvarade övergångar](analyser/REVISION-2026-08-25-LUCKOR-OCH-SAKNAT-UNDERLAG.md)
 - [Källkontroll och rättelser – 25 augusti 2026](analyser/REVISION-2026-08-25-KALLKONTROLL-OCH-RATTELSER.md)
 - [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
 
-### Viktig rättelse
+### Viktiga rättelser
 
-De tydligaste tidskodade uttalandena om **målningens oklara relevans, fortsatt okänd orsak och tomställning** hör till **23 juni 2026**, inte 19 maj. 19 maj är fortsatt ett viktigt tidigare led genom Thomas nya observation och det öppna orsaksproblemet.
+- De tydligaste tidskodade uttalandena om **målningens oklara relevans, fortsatt okänd orsak och tomställning** hör till **23 juni 2026**, inte 19 maj. 19 maj är fortsatt ett viktigt tidigare led genom Thomas nya observation och det öppna orsaksproblemet.
+- Den **20 oktober 2025 finns två separata Gaby-ljud**: ett längre OCAB-/räckviddssamtal och ett separat cirka 3:04 långt **HLU-/mellanskillnadssamtal**. De får inte blandas ihop.
 
 ## 2. NYCKELLJUD – LÄS MOT ORIGINAL
 
+- [20 oktober 2025 – Gaby/HLU/mellanskillnad – arbetsanalys](transkriptioner/LJUDFIL-20-2025-10-20-GABY-HLU-MELLANSKILLNAD-ARBETSANALYS.md)
+- [20 oktober 2025 – Gaby/OCAB – inventering](transkriptioner/LJUDFIL-17-2025-10-20-GABY-OCAB-SAMTAL-INVENTERING.md)
 - [23 juni 2026 – Peter, Thomas och Erica – arbetsanalys](transkriptioner/LJUDFIL-19-2026-06-23-PETER-THOMAS-PLATSBESOK-ARBETSANALYS.md)
 - [19 maj 2026 – Peter/Thomas – inventering](transkriptioner/LJUDFIL-11-2026-05-19-PETER-THOMAS-LAGENHETEN-INVENTERING.md)
-- [20 oktober 2025 – Gaby/OCAB – inventering](transkriptioner/LJUDFIL-17-2025-10-20-GABY-OCAB-SAMTAL-INVENTERING.md)
 - [11 november 2025 – möte 1 – arbetsanalys](transkriptioner/LJUDFIL-1-2025-11-11-ARBETSANALYS.md)
 - [17 december 2025 – möte 2 – arbetsanalys](transkriptioner/LJUDFIL-2-2025-12-17-ARBETSANALYS.md)
 - [11 mars 2026 – Miljöförvaltningen – arbetsanalys](transkriptioner/LJUDFIL-3-2026-03-11-MILJOFORVALTNINGEN-ARBETSANALYS.md)
@@ -68,4 +71,4 @@ För varje uppgift ska det framgå:
 
 ### Huvudtes
 
-> **Materialet visar inte att en viss teknisk orsak redan är bevisad. Det visar däremot en lång kedja av begränsade kontroller och åtgärder utan redovisad sammanhållen grundorsak, samtidigt som slutsatserna successivt blir mer kategoriska. Den centrala frågan är vilket konkret tekniskt underlag som överbryggar glappet från fortsatt okänd orsak den 23 juni till ärendet avslutat den 9 juli och ”konstaterad fullgod” den 17 augusti.**
+> **Materialet visar inte att en viss teknisk orsak redan är bevisad. Det visar däremot en lång kedja av begränsade kontroller och åtgärder utan redovisad sammanhållen grundorsak, samtidigt som slutsatserna successivt blir mer kategoriska. Därtill finns minst två konkreta fall där senare besked om HLU/målning behövt kontrolleras mot tidigare ljud/mejl för att den historiska överenskommelsen ska kunna fastställas. Den centrala tekniska frågan är fortfarande vilket konkret underlag som överbryggar glappet från fortsatt okänd orsak den 23 juni till ärendet avslutat den 9 juli och ”konstaterad fullgod” den 17 augusti.**
