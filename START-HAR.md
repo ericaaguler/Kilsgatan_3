@@ -2,46 +2,61 @@
 
 **Kilsgatan 3, lägenhet 1202**
 
-Detta är ingången till det material som särskilt bör ses över. Originalbevisen finns i bevisregistret, korrespondensen och ljudfilerna. Dokument under `analyser/` och filer märkta `ARBETSANALYS` är arbetsmaterial.
+Detta är ingången till materialet. **Revisionen 25 augusti 2026 är nu kanonisk arbetsversion** för tidslinje, motsägelser, luckor och källrättelser. Äldre analyser finns kvar som delanalyser men ska läsas mot rättelsedokumentet innan de används externt.
 
-## Bör ses över först
+## 1. KANONISK REVISION – LÄS FÖRST
+
+- [Reviderad samlad huvudtidslinje – 25 augusti 2026](analyser/REVISION-2026-08-25-SAMLAD-HUVUDTIDSLINJE.md)
+- [Reviderad matris – motsägelser, källkonflikter och logiska spänningar](analyser/REVISION-2026-08-25-MOTSAGELSER-OCH-LOGISKA-SPANNINGAR.md)
+- [Reviderat luckregister – saknat underlag och obesvarade övergångar](analyser/REVISION-2026-08-25-LUCKOR-OCH-SAKNAT-UNDERLAG.md)
+- [Källkontroll och rättelser – 25 augusti 2026](analyser/REVISION-2026-08-25-KALLKONTROLL-OCH-RATTELSER.md)
+- [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
+
+### Viktig rättelse
+
+De tydligaste tidskodade uttalandena om **målningens oklara relevans, fortsatt okänd orsak och tomställning** hör till **23 juni 2026**, inte 19 maj. 19 maj är fortsatt ett viktigt tidigare led genom Thomas nya observation och det öppna orsaksproblemet.
+
+## 2. NYCKELLJUD – LÄS MOT ORIGINAL
+
+- [23 juni 2026 – Peter, Thomas och Erica – arbetsanalys](transkriptioner/LJUDFIL-19-2026-06-23-PETER-THOMAS-PLATSBESOK-ARBETSANALYS.md)
+- [19 maj 2026 – Peter/Thomas – inventering](transkriptioner/LJUDFIL-11-2026-05-19-PETER-THOMAS-LAGENHETEN-INVENTERING.md)
+- [20 oktober 2025 – Gaby/OCAB – inventering](transkriptioner/LJUDFIL-17-2025-10-20-GABY-OCAB-SAMTAL-INVENTERING.md)
+- [11 november 2025 – möte 1 – arbetsanalys](transkriptioner/LJUDFIL-1-2025-11-11-ARBETSANALYS.md)
+- [17 december 2025 – möte 2 – arbetsanalys](transkriptioner/LJUDFIL-2-2025-12-17-ARBETSANALYS.md)
+- [11 mars 2026 – Miljöförvaltningen – arbetsanalys](transkriptioner/LJUDFIL-3-2026-03-11-MILJOFORVALTNINGEN-ARBETSANALYS.md)
+- [Marko/Björn – platsbesök del 1–2 – arbetsanalys](transkriptioner/LJUDFIL-4-5-MARKO-PLATSBESOK-DEL-1-2-ARBETSANALYS.md)
+
+## 3. TEKNISKA DELSPÅR
+
+- [OCAB/Gaby 20 oktober – tidslinje och räckviddsproblem](analyser/TIDSLINJE-KOMPLETTERING-OCAB-GABY-20-OKT-2025.md)
+- [OCAB – kök och klädkammare, missfärgningar och räckvidd](analyser/OCAB-716247-KOK-OCH-KLADKAMMARE-MISSFARGNINGAR-OCH-RACKVIDD.md)
+- [HLU → materialåtgärder – köksbänk, golv och målning](analyser/HLU-TILL-FELAVHJALPANDE-ATGARD-KOKSBANK-GOLV-OCH-MALNING.md)
+- [Hall, garderober, klädkammare och grannventilation](analyser/HALL-GARDEROBER-KLADKAMMARE-OCH-GRANNVENTILATION.md)
+- [Varför fokus på ventilation inte räcker](analyser/VARFOR-FOKUS-PA-VENTILATION-INTE-RACKER.md)
+- [Carolina 4 november – femmetersuppgift och felkällor](analyser/CAROLINA-VENTILATION-4-NOV-ANTECKNINGAR-FEM-METER-OCH-FELKALLOR.md)
+- [Miljöförvaltningen 11 mars – bör ses över](analyser/MILJOFORVALTNINGEN-11-MARS-BOR-SES-OVER.md)
+
+## 4. SENA PLATSBESÖK OCH PROCESS
+
+- [Tidslinje – Peter 19 maj, 23 juni och Jennifer 17 augusti](analyser/TIDSLINJE-KOMPLETTERING-PETER-19-MAJ-JENNIFER-17-AUG-2026.md)
+- [Marko – hela inspelningen och jämförelse med Jennifer](analyser/MARKO-HELA-INSPELNINGEN-SEKVENS-15-16-OCH-JAMFORELSE-JENNIFER.md)
+- [Marko – platsbesök del 1–2, bör ses över](analyser/MARKO-PLATSBESOK-DEL-1-2-BOR-SES-OVER.md)
+- [Motsägelser/process – äldre delanalys](analyser/MOTSAGELSER-OCH-ARGUMENT-PETER-THOMAS-BJORN-JENNIFER-PROCESS.md)
+
+## 5. FRÅGOR OCH SVARSSTATUS
 
 - [Samlad fråge- och svarsmatris – myndigheter och Familjebostäder](analyser/SAMLAD-FRAGE-SVARSMATRIS-MYNDIGHETER-OCH-FAMILJEBOSTADER.md)
-- [Varför fokus på ventilation inte räcker](analyser/VARFOR-FOKUS-PA-VENTILATION-INTE-RACKER.md)
-- [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
-- [Tidslinjemarkör – HLU → OCAB → materialåtgärder → målning → ventilation → brandspår → fortsatt okänd orsak](analyser/TIDSLINJE-MARKOR-HLU-OCAB-MATERIAL-MALNING-BRAND-OCH-OKAND-ORSAK.md)
-- [HLU → materialåtgärder – köksbänk, golv och målning: saknade orsaksled](analyser/HLU-TILL-FELAVHJALPANDE-ATGARD-KOKSBANK-GOLV-OCH-MALNING.md)
-- [Hall, garderober, klädkammare och grannventilation – selektiva åtgärder och obesvarad teknisk princip](analyser/HALL-GARDEROBER-KLADKAMMARE-OCH-GRANNVENTILATION.md)
-- [OCAB/Gaby 20 oktober 2025 – tidslinje, räckviddsfel och argument](analyser/TIDSLINJE-KOMPLETTERING-OCAB-GABY-20-OKT-2025.md)
-- [Motsägelser och argument – Peter, Thomas, Björn, Jennifer och processkedjan](analyser/MOTSAGELSER-OCH-ARGUMENT-PETER-THOMAS-BJORN-JENNIFER-PROCESS.md)
-- [Specifik tidslinje – Peter 19 maj, Thomas/Björn och Jennifer 17 augusti](analyser/TIDSLINJE-KOMPLETTERING-PETER-19-MAJ-JENNIFER-17-AUG-2026.md)
-- [Peter 19 maj – ljudfil och prioriterade låspunkter](transkriptioner/LJUDFIL-11-2026-05-19-PETER-THOMAS-LAGENHETEN-INVENTERING.md)
-- [Gaby 20 oktober 2025 – telefonsamtal om OCAB och rapportens faktiska räckvidd](transkriptioner/LJUDFIL-17-2025-10-20-GABY-OCAB-SAMTAL-INVENTERING.md)
-- [Marko – hela inspelningen, sekvensen kring 15:16 och jämförelse med Jennifer](analyser/MARKO-HELA-INSPELNINGEN-SEKVENS-15-16-OCH-JAMFORELSE-JENNIFER.md)
-- [Carolina 4 november – anteckningar, femmetersuppgift och felkällor](analyser/CAROLINA-VENTILATION-4-NOV-ANTECKNINGAR-FEM-METER-OCH-FELKALLOR.md)
-- [Carolina 4 november 2025 – ljudfil mottagen och kontrollfrågor](transkriptioner/LJUDFIL-8-2025-11-04-CAROLINA-VENTILATION-INVENTERING.md)
-- [Städfirma 6 oktober 2025 – ljudfil mottagen och kontrollfrågor](transkriptioner/LJUDFIL-9-2025-10-06-STADFIRMA-INVENTERING.md)
-- [Frågor till Jennifer före möte 2 och svarstatus](analyser/FRAGOR-TILL-JENNIFER-FORE-MOTE-2-OCH-SVARSSTATUS.md)
-- [Platsbesök med Marko, del 1 och del 2 – bör ses över](analyser/MARKO-PLATSBESOK-DEL-1-2-BOR-SES-OVER.md)
-- [Arbetsanalys av Markos platsbesök, del 1 och del 2](transkriptioner/LJUDFIL-4-5-MARKO-PLATSBESOK-DEL-1-2-ARBETSANALYS.md)
-- [Miljöförvaltningens inspektion 11 mars 2026 – bör ses över](analyser/MILJOFORVALTNINGEN-11-MARS-BOR-SES-OVER.md)
-- [Arbetsanalys av ljudfil 3 – Miljöförvaltningen 11 mars 2026](transkriptioner/LJUDFIL-3-2026-03-11-MILJOFORVALTNINGEN-ARBETSANALYS.md)
-- [Möte 2 den 17 december 2025 – bör ses över](analyser/MOTE-2-2025-12-17-BOR-SES-OVER.md)
-- [Arbetsanalys av ljudfil 2](transkriptioner/LJUDFIL-2-2025-12-17-ARBETSANALYS.md)
-- [Arbetsanalys av ljudfil 1](transkriptioner/LJUDFIL-1-2025-11-11-ARBETSANALYS.md)
-
-## Obesvarade frågor
-
 - [Huvudregister – frågor ställda men inte fullt besvarade](analyser/FRAGOR-STÄLLDA-MEN-EJ-BESVARADE-HUVUDREGISTER.md)
+- [Frågor till Jennifer före möte 2 och svarstatus](analyser/FRAGOR-TILL-JENNIFER-FORE-MOTE-2-OCH-SVARSSTATUS.md)
 - [Frågor från möte 2](analyser/FRAGOR-MOTE-2-2025-12-17-EJ-BESVARADE.md)
 
-## Hyresgästföreningen
+## 6. HYRESGÄSTFÖRENINGEN
 
 - [Relevant för sakfrågan](analyser/HYRESGASTFORENINGEN-RELEVANT-FOR-SAKFRAGAN.md)
 - [Arbetsanalys av mötet den 27 januari 2026](transkriptioner/LJUDFIL-6-2026-01-27-HYRESGASTFORENINGEN-ARBETSANALYS.md)
 - [Ej viktigt för huvudspåret](analyser/HYRESGASTFORENINGEN-EJ-VIKTIGT-FOR-HUVUDSPARET.md)
 
-## Integritet och avgränsning
+## 7. INTEGRITET OCH AVGRÄNSNING
 
 - [Psykiskt mående – relevans och avgränsning](analyser/PSYKISKT-MAENDE-RELEVANS-OCH-AVGRAENSNING.md)
 
@@ -49,4 +64,8 @@ Detta är ingången till det material som särskilt bör ses över. Originalbevi
 
 För varje uppgift ska det framgå:
 
-**DATUM → FAKTISKT SAGT/GJORT → KÄLLA → VAD DET VISAR → MÖJLIG TOLKNING → VAD SOM INTE ÄR BEVISAT.**
+**DATUM → FAKTISKT SAGT/GJORT → KÄLLA → BEVISSTATUS → VAD DET VISAR → MÖJLIG TOLKNING → VAD SOM INTE ÄR BEVISAT.**
+
+### Huvudtes
+
+> **Materialet visar inte att en viss teknisk orsak redan är bevisad. Det visar däremot en lång kedja av begränsade kontroller och åtgärder utan redovisad sammanhållen grundorsak, samtidigt som slutsatserna successivt blir mer kategoriska. Den centrala frågan är vilket konkret tekniskt underlag som överbryggar glappet från fortsatt okänd orsak den 23 juni till ärendet avslutat den 9 juli och ”konstaterad fullgod” den 17 augusti.**
