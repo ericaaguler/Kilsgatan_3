@@ -1,12 +1,57 @@
-# Tidslinjeuppdatering – 19–24 augusti 2026
+# Tidslinjeuppdatering – 9–24 augusti 2026
 
-**Statusdatum: 24 augusti 2026**
+**Statusdatum: 25 augusti 2026**
 
-Syfte: fånga händelser och kontrollpunkter som ännu inte ligger i huvudfilen `TIDSLINJE.md`. Endast sådant som kan källåsas ska senare föras in som ordinarie tidslinjerader. Uppgifter från telefonsamtal markeras separat tills de är ordagrant låsta mot ljudfil.
+Syfte: fånga händelser och kontrollpunkter som ska synas i huvudtidslinjen `TIDSLINJE.md` och samtidigt visa var korta mikrotidslinjer behövs. Endast sådant som kan källåsas ska användas som fastslaget faktum. Uppgifter från telefonsamtal markeras separat tills de är ordagrant låsta mot ljudfil.
 
 Aktuell lägenhet: **Kilsgatan 3, lgh 1202, objekt 60020562 / 0562**.
-Aktuellt SBK-tillsynsärende: **2026-06369**.
+Miljöförvaltningen: **ärende 2025-23696**.
+Mark- och miljödomstolen: **mål M 5167-26**.
+SBK-tillsynsärende: **2026-06369**.
 Kontaktcenterärende: **2026KC299760**.
+
+---
+
+## 9 augusti 2026 – nya frågor till Miljöförvaltningen
+
+Erica vidarebefordrar/kompletterar ärende 2025-23696 och lyfter att problemet kvarstår efter avslutad tillsyn. Hon frågar bland annat om kvarvarande brand-/rökrelaterad påverkan från 2017 tekniskt har uteslutits och på vilken grund ytterligare utredning annars bedömts obehövlig.
+
+**Betydelse:** frågan gäller inte bara det material som låg före beslutet 13 april utan även hur myndigheten hanterar fortsatt problematik och senare uppgifter.
+
+## 10 augusti 2026 – Miriam Adolfsson svarar om pågående överprövning
+
+Miljöförvaltningen svarar att Länsstyrelsen den 3 juni bedömt att nämnden hade fog att avsluta ärendet och att frågan nu prövas av Mark- och miljödomstolen. Miljöförvaltningen anger att när överinstans prövar samma sakfråga måste förvaltningen avvakta domstolens beslut och att nya skrivelser får skickas till domstolen.
+
+**Kontrollfråga:** vad avser Miljöförvaltningen exakt med **”samma sakfråga”**, särskilt när senare händelser och nya förstahandsuppgifter uppkommit efter beslutet 13 april?
+
+## 11 augusti 2026 – Tora Joby bekräftar registrering men inte vidarebefordran
+
+Tora Joby, miljö- och hälsoskyddsinspektör, svarar att Ericas meddelande är **registrerat i ärendet**. Hon skriver samtidigt att det nu är Mark- och miljödomstolens uppgift att avgöra om nämnden hade fog att avsluta ärendet, att ingen registrerad kontakt har förts med fastighetsägaren efter avslutet med undantag för information om överklagandet samt att de senast inskickade handlingarna **inte har vidarebefordrats av Miljöförvaltningen till Mark- och miljödomstolen**.
+
+**Betydelse:** tre saker måste hållas isär:
+1. handlingen registreras hos Miljöförvaltningen,
+2. Miljöförvaltningen gör ingen ny sakprövning medan överprövning pågår,
+3. Miljöförvaltningen vidarebefordrar inte de nya handlingarna till domstolen – Erica måste själv säkerställa att domstolen får dem.
+
+## 12–17 augusti 2026 – frågan ”samma sakfråga” följs upp
+
+Erica riktar frågan till enhetschef Miriam Adolfsson och begär precisering av vad Miljöförvaltningen menar med ”samma sakfråga”. Den 17 augusti följer hon upp igen och ber om svar på avgränsade frågor.
+
+**Öppen fråga:** omfattar myndighetens avvaktan även nya omständigheter som inträffat efter beslutet, exempelvis nya reaktioner/platsbesök och senare dokumentfynd, eller endast samma historiska förhållanden som redan prövats?
+
+## 17 augusti 2026 – Jennifer Ehlin vidhåller Familjebostäders brukbarhetsbedömning
+
+Jennifer svarar på Ericas begäran om konkret utredningsplan. Hon hänvisar till Miljöförvaltningens beslut, luftflödesmätningar, godkänd OVK och den uppgivna kanalrensningen fem meter upp.
+
+På Ericas fråga om hur Familjebostäder agerar när hon fortfarande inte flyttat in och flera personer rapporterat reaktioner svarar Jennifer i sak att Familjebostäders bedömning **sedan dag 1** är att lägenheten är brukbar som permanentbostad och att inomhusmiljön är konstaterad fullgod.
+
+Samtidigt återkommer samma tidigare problem i dokumentkedjan:
+- Familjebostäder har tidigare uppgett att ingen av deras personal upplever lukt,
+- 15 januari 2026 skrev Jennifer samtidigt att orsaken till hallukten fortfarande var oklar,
+- den uppgivna 5-meters kanalrensningen saknar ännu tydlig arbetsorder/utföranderapport,
+- flera rapporterade reaktioner har inträffat efter Miljöförvaltningens beslut.
+
+**Betydelse:** detta ska ha en egen mikrotidslinje: **”brukbar sedan dag 1” kontra kvarstående orsaksfråga, planerade åtgärder och rapporterade reaktioner.**
 
 ---
 
@@ -58,7 +103,7 @@ Detta mejl gör att två separata dokumentkedjor uttryckligen efterfrågas i sam
 
 ## 21 augusti 2026 kl. 09:00 – Kontaktcenter svarar
 
-Servicehandläggare Katarina skickar "den senaste OVK rapporten" och uppger att det finns ärende **2026-06369**. Hon skickar ärendet vidare till stadsbyggnadsexpeditionen eftersom det är för många handlingar för Kontaktcenters system.
+Servicehandläggare Katarina skickar ”den senaste OVK rapporten” och uppger att det finns ärende **2026-06369**. Hon skickar ärendet vidare till stadsbyggnadsexpeditionen eftersom det är för många handlingar för Kontaktcenters system.
 
 ### Kontrollpunkt / möjlig hanteringsmiss
 
@@ -100,91 +145,59 @@ Jenny uppger att:
 
 **Ingen saklig bedömning av OVK-/dokumentationsfrågorna har lämnats ännu.**
 
-Det finns ännu inget besked från Jenny om:
-
-- äldre OVK före 2022,
-- komplett dokumentkedja för 0562,
-- jämförelse mellan uppmätta luftflöden,
-- separat ombesiktning av system 01,
-- åtgärdsunderlag,
-- brand-/saneringsintyg,
-- eller om SBK avser att inhämta kompletteringar från Familjebostäder.
-
 ---
 
-# Historiska tekniska händelser som bör synas tydligare i huvudtidslinjen
-
-Dessa händelser finns i analysmaterialet och bör lyftas tydligare i huvudtidslinjen när respektive originalkälla är kopplad till Bevis-ID.
+# Historiska tekniska händelser som ska synas tydligt i huvudtidslinjen
 
 ## 16 november 2017 – brandhändelse Kilsgatan 3
-
-Brand/rökutveckling i lägenhet på Kilsgatan 3 är verifierad genom händelsematerial från räddningstjänst/polis. Separat kontrollpunkt: vilken dokumentation finns om efterföljande sanering, försäkringsärende, entreprenör och efterkontroll?
+Brand/rökutveckling är verifierad. Separat kontrollpunkt: dokumentation om sanering, försäkringsärende, entreprenör och efterkontroll.
 
 ## 4 april 2022 – ordinarie OVK, byggnad 1
-
-- System 01 = bostäder/uppgångar 1–5.
-- System 02 = bostäder/uppgångar 7–11.
-- **0562 finns med under system 01.**
-- För 0562 redovisas ungefär: **kök 9–33 l/s, bad 15 l/s, sovrum 4 l/s**.
+- System 01 = bostäder 1–5.
+- System 02 = bostäder 7–11.
+- **0562 finns med under system 01:** kök 9–33 l/s, bad 15 l/s, sovrum 4 l/s.
 - System 01 godkänns.
-- System 02 godkänns inte och går vidare till ombesiktning.
+- Samma system har noterade anmärkningar om ojämna flöden, otät lucka till sugkammare och litet läckage vid renslucka i källargång.
 
 ## 8 november 2022 – ombesiktning, byggnad 1
+- gäller **system 02 / bostäder 7–11**,
+- samtliga ventilationssystem ingår **inte**,
+- 0562 ingår inte,
+- ombesiktning anges ske efter utförda åtgärder.
 
-- Ombesiktningen gäller **system 02 / bostäder 7–11**.
-- Protokollet säger att samtliga ventilationssystem **inte** ingår.
-- **0562 ingår inte**, vilket är förenligt med att 0562 hör till system 01 som redan godkänts i april.
-- Ombesiktningen anges ske efter utförda åtgärder.
-
-### Öppet dokumentationsspår
-
-Vilka konkreta åtgärder genomfördes mellan april och november 2022, och var finns arbets-/åtgärdsunderlagen?
+## 4 november–15 januari 2026 – kanalrensningskedjan
+Se mikrotidslinje. Kärnproblemet är att 4 november-besöket dokumenterar mätning/justering, 2 december skriver Jennifer att kanalrensning *kommer att ske*, 17 december finns uppgift om ca fem meter och 15 januari uppges femmetersrensning till Miljöförvaltningen utan ännu identifierad fullständig arbetsorder/utföranderapport.
 
 ## 11 mars 2026 – Miljöförvaltningens ventilationsmätning i 0562
+- kök 36 l/s,
+- badrum 4 l/s,
+- sovrum 3 l/s,
+- totalt 43 l/s,
+- cirka 8 Pa undertryck.
 
-Mätningen i 0562 gav med stängda fönster ungefär:
-
-- kök **36 l/s**,
-- badrum **4 l/s**,
-- sovrum **3 l/s**,
-- totalt **43 l/s**,
-- cirka **8 Pa undertryck**.
-
-### Teknisk kontrollfråga
-
-Fördelningen skiljer sig tydligt från 2022 års OVK för samma lägenhet, särskilt badrum **15 → 4 l/s**, samtidigt som köksflödet ligger högre. Skillnaden är inte i sig bevis för fel, eftersom mätmetod/driftläge kan skilja, men den behöver kunna förklaras tekniskt.
-
-## OVK 2022 – läckage/otäthet i systemet
-
-OVK-materialet innehåller uppgifter om **läckage vid renslucka** och **otät lucka till sugkammare** samt ojämna flöden i några lägenheter.
-
-Separat kontrollfråga till Miljöförvaltningen/SBK:
-
-> Har kanalsystemets täthet eller läckage faktiskt undersökts på Kilsgatan 3, och i så fall när och med vilket resultat?
-
-Detta ska hållas isär från frågan om ett totalt luftflöde är tillräckligt.
+Skillnaden från 2022 är en **teknisk kontrollfråga**, inte i sig bevis för fel.
 
 ---
 
-# 24 augusti 2026 – aktuell status
+# Rekommenderade mikrotidslinjer
 
-1. **SBK / Jenny:** sakligt svar inväntas denna vecka.
-2. **OVK-historik:** 2022-materialet är delvis klarlagt; äldre registrerad historik hos SBK behöver fortfarande verifieras skriftligt.
-3. **0562:** lägenheten finns i ordinarie OVK 4 april 2022, men inte i novemberombesiktningen eftersom den gäller system 02.
-4. **Mätvärden:** skillnaden mellan 2022 och 2026 ska hållas som teknisk kontrollfråga, inte som fastslaget fel.
-5. **Täthet/läckage:** behöver utredas separat från luftflöde.
-6. **Brand/sanering:** verifierad brandhändelse finns; komplett kedja för försäkringsanmälan, sanering, entreprenör, provtagning och efterkontroll är fortfarande inte verifierad.
-7. **Egenkontroll:** kontrollera vilket dokumenterat egenkontrollmaterial Familjebostäder har för brand, störande lukt, ventilation, fukt/material och uppföljning av åtgärder samt vad Miljöförvaltningen faktiskt begärde in och granskade.
+1. **Kanalrensningen – 4 nov 2025 → 15 jan 2026**
+2. **”Brukbar sedan dag 1” kontra kvarstående lukt/symtom/åtgärder – okt 2025 → aug 2026**
+3. **Miljöförvaltningen – vad visste myndigheten före beslutet 13 apr och vad hände efter beslutet?**
+4. **Brand 2017 → sanering/dokumentationskedja → brandrapport 2026**
+5. **OVK/system 01/0562 – 2018 → 2022 → 2026**
+6. **Tre städningar → kvarstående beläggning/lukt → varför ingen orsaksutredning?**
+7. **Vittnen och nya reaktioner efter myndighetsbeslutet – 19 maj, 10 juli, 16 aug 2026**
+8. **Planerade/utförda åtgärder kontra påståendet att inget fel finns – el, målning, ventilation, golv, köksdelar**
+9. **Frågor till Familjebostäder → svar/hänvisningar → vad förblir obesvarat**
+10. **Myndighetskedjan – Miljöförvaltningen → Länsstyrelsen → MMD → vilka sakfrågor analyseras faktiskt**
 
 ---
 
-# Att föra in i huvudtidslinjen
+# Aktuell status 25 augusti 2026
 
-Prioritet nästa uppdatering av `TIDSLINJE.md`:
-
-1. 20 aug – telefonsamtal SBK (först efter källåsning mot ljud).
-2. 20 aug 19:46 – mejl med OVK- och brandfrågorna.
-3. 21 aug 09:00 – Kontaktcenter skickar material och hänvisar till 2026-06369.
-4. 21 aug 12:51 – precisering att skickat system 02-material inte besvarar 0562/system 01.
-5. 21 aug 16:48 – Jenny tar över ärendet och aviserar sakligt svar kommande vecka.
-6. Lägg tydliga historiska tekniska checkpoints 2017, april 2022, november 2022 och 11 mars 2026 i huvudtidslinjen med respektive Bevis-ID.
+- Augusti-mejlen från Miljöförvaltningen är nu infogade i tidslinjesystemet.
+- Tora Jobys besked 11 augusti ska användas som kontrollpunkt för registrering/inte vidarebefordrat material.
+- Jennifer 17 augusti ska korsrefereras i mikrotidslinjen om brukbarhet.
+- SBK-spåret 20–21 augusti ligger kvar som separat dokumentationsspår.
+- Nästa steg är att låsa varje mikrotidslinje mot primärkällor och därefter använda dem i överklagandet istället för att återberätta hela huvudtidslinjen.
