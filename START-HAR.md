@@ -12,11 +12,13 @@ Detta är ingången till materialet. **Revisionen 25 augusti 2026 är nu kanonis
 - [Reviderat luckregister – saknat underlag och obesvarade övergångar](analyser/REVISION-2026-08-25-LUCKOR-OCH-SAKNAT-UNDERLAG.md)
 - [Källkontroll och rättelser – 25 augusti 2026](analyser/REVISION-2026-08-25-KALLKONTROLL-OCH-RATTELSER.md)
 - [Samlad prioriterad analys](analyser/PRIORITERAT-ATT-SE.md)
+- [**Chat-integrering – allt nytt från aktuell genomgång**](analyser/REVISION-2026-08-25-CHAT-INTEGRERING-ALLT-NYTT.md)
 
 ### Viktiga rättelser
 
 - De tydligaste tidskodade uttalandena om **målningens oklara relevans, fortsatt okänd orsak och tomställning** hör till **23 juni 2026**, inte 19 maj. 19 maj är fortsatt ett viktigt tidigare led genom Thomas nya observation och det öppna orsaksproblemet.
 - Den **20 oktober 2025 finns två separata Gaby-ljud**: ett längre OCAB-/räckviddssamtal och ett separat cirka 3:04 långt **HLU-/mellanskillnadssamtal**. De får inte blandas ihop.
+- Ventilationsspåret **löpande avtorkning/rengöring av synlig del vs Peters uppgift att sådan avtorkning sannolikt inte löser grundproblemet** är nu registrerat som ljudbevis att lokalisera. Exakt ordalydelse/tidskod ska låsas innan direkt citat används.
 
 ## 2. NYCKELLJUD – LÄS MOT ORIGINAL
 
@@ -28,6 +30,7 @@ Detta är ingången till materialet. **Revisionen 25 augusti 2026 är nu kanonis
 - [17 december 2025 – möte 2 – arbetsanalys](transkriptioner/LJUDFIL-2-2025-12-17-ARBETSANALYS.md)
 - [11 mars 2026 – Miljöförvaltningen – arbetsanalys](transkriptioner/LJUDFIL-3-2026-03-11-MILJOFORVALTNINGEN-ARBETSANALYS.md)
 - [Marko/Björn – platsbesök del 1–2 – arbetsanalys](transkriptioner/LJUDFIL-4-5-MARKO-PLATSBESOK-DEL-1-2-ARBETSANALYS.md)
+- [Ventilation/trasa – Jennifer/Peter – ljudbevis att lokalisera](analyser/LJUDBEVIS-VENTILATION-TRASA-JENNIFER-PETER-ATT-LOKALISERA.md)
 
 ## 3. TEKNISKA DELSPÅR
 
