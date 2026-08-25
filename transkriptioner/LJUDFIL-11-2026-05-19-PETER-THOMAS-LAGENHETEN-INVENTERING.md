@@ -2,11 +2,12 @@
 
 **Status:** mottagen och registrerad som eget källspår. Innehållet ska låsas sekvensvis innan ordagranna citat används externt.
 
-## Källfil
+## Källfiler
 
-Uppladdad ljudfil: `19 maj 2026 möte med peter i lägenheten .m4a`
+Tidigare uppladdad ljudfil: `19 maj 2026 möte med peter i lägenheten .m4a`  
+Ny uppladdad fil: `19 maj 2026 möte med peter i lägenheten (1).m4a`
 
-Teknisk längd: cirka **37 min 04 sek**.
+Den nya filen har teknisk längd **37 min 03,808 sek**, samma längd som den tidigare registrerade versionen. Detta talar för att det sannolikt är samma inspelning eller en export/kopia, men utan samtidig råfilskontroll av båda versionerna ska den inte beskrivas som bit-för-bit-identisk.
 
 ## Deltagare / kontext
 
@@ -16,34 +17,41 @@ Teknisk längd: cirka **37 min 04 sek**.
 
 Skärmdump från sms den 19 maj 2026 visar att Erica på morgonen frågar Thomas om han kan komma förbi eftersom Peter ska komma kl. 09.30 och att Thomas svarar att han ska försöka skynda sig. Efter mötet skriver Thomas att han blev frustrerad över Peters agerande och att han tycker att Peter säger att han ska rapportera vidare. Skärmdumpen används som tids- och deltagarkontext, inte som bevis för exakt vad som sades i ljudfilen.
 
-## Prioriterade sekvenser att låsa
+## PRIORITERAT – detta får inte tappas
 
-När ljudet granskas ska särskilt följande säkras med tidskod och ordalydelse:
+När ljudet granskas ska särskilt följande säkras med tidskod, talare och ordalydelse:
 
-1. När Thomas kommer in i lägenheten och blir del av samtalet.
-2. Vad Peter själv säger om orsaken till problemet.
-3. Om Peter uttrycker att tömning/tomställning eller ommålning inte skulle lösa grundproblemet.
-4. Om Peter frågar Thomas vad han tror att problemet kan vara och uttrycker egen nyfikenhet/oklarhet om orsaken.
-5. Om Peter säger att något ska rapporteras eller föras vidare – exakt vad och till vem.
-6. Vad Thomas säger om skillnaden mellan 1201 och 1202, luft/lukt/symtom eller annan iakttagelse.
-7. Vad Erica beskriver om tidigare åtgärder och kvarstående besvär.
-8. Eventuella uttalanden som visar att Familjebostäders egen representant behandlar orsaken som fortfarande okänd.
+1. **När Thomas kommer in i lägenheten** och hur samtalet förändras efter att en granne med egen jämförelsepunkt är på plats.
+2. **Vad Peter själv säger om orsaken till problemet.** Leta efter formuleringar som visar att han inte vet vad orsaken är, att han är nyfiken på vad det kan vara eller att frågan fortfarande är öppen.
+3. **Målning/tomställning:** om Peter uttrycker att tömning/tomställning eller ommålning inte skulle lösa grundproblemet. Detta är särskilt viktigt mot senare beskrivningar av målning som åtgärd eller som del av lösningen.
+4. **Peter frågar Thomas vad han tror att problemet kan vara.** Om detta bekräftas visar det att Familjebostäders egen representant fortfarande efterfrågar en förklaring från en granne och alltså inte arbetar utifrån en identifierad grundorsak.
+5. **Peters egen nyfikenhet/osäkerhet:** exakt vad han säger om att själv vilja veta/förstå vad problemet är.
+6. **Rapportering vidare:** om Peter säger att något ska rapporteras eller föras vidare – exakt vad, till vem och med vilket syfte.
+7. **Thomas jämförelse 1201/1202:** vad Thomas säger om skillnaden mellan sin egen lägenhet och 1202, särskilt luft, lukt, symtom eller annan konkret iakttagelse.
+8. **Thomas egen reaktion:** om han beskriver att han själv påverkas i 1202 men inte på motsvarande sätt i 1201.
+9. **Tidigare åtgärder men kvarstående problem:** vad Erica och Peter säger om städning, vädring, målning, ventilation eller andra redan utförda åtgärder och att besvären ändå finns kvar.
+10. **Familjebostäders kunskapsläge den 19 maj:** varje formulering från Peter som visar att frågan inte behandlas som tekniskt löst eller färdigutredd.
 
-## Bevismässig betydelse – preliminär
+## Varför detta ljud kan vara mycket viktigt
 
-Om ljudet bekräftar att Peter själv säger att målning/tomställning inte löser problemet och samtidigt frågar Thomas vad orsaken kan vara, blir detta relevant för flera senare påståenden från Familjebostäder:
+Om ljudet bekräftar att Peter själv:
 
-- att personalen inte skulle ha observerat något relevant problem,
-- att inomhusmiljön redan skulle vara tillräckligt utredd,
-- och att kosmetiska/ytskiktsrelaterade åtgärder skulle kunna behandlas som tillräckliga svar på grundproblemet.
+- säger att målning/tomställning inte löser problemet,
+- frågar Thomas vad han tror orsaken kan vara,
+- uttrycker egen nyfikenhet eller osäkerhet,
+- och säger att frågan ska rapporteras vidare,
 
-Det kan i så fall visa att Familjebostäders egen representant den 19 maj 2026 fortfarande behandlade **grundorsaken som okänd**.
+blir det ett mycket viktigt mellanled i tidslinjen.
 
-Detta ska dock inte formuleras som fastslaget förrän de exakta sekvenserna i ljudet har verifierats.
+Det kan då visa att **Familjebostäders egen husvärd den 19 maj 2026 fortfarande behandlade grundorsaken som okänd**, trots att Familjebostäder senare beskriver inomhusmiljön som fullgod och bostaden som brukbar från dag 1.
 
-## Koppling till senare svar till Jennifer
+Detta är inte bevis för någon viss teknisk orsak. Det är däremot potentiellt starkt bevis för **kunskapsläget och den kvarstående osäkerheten inom Familjebostäder**.
 
-Detta ljudspår ska återbesökas innan slutversionen av augustisvaret till Jennifer skickas. Om sekvenserna låses kan de användas för att bemöta en alltför bred formulering om att Familjebostäders personal inte upplever eller sett något problem.
+## Särskild jämförelse mot Jennifer
+
+Om ovanstående låses ska följande fråga ställas:
+
+> Hur kan Familjebostäder senare lämna kategoriska besked om att inomhusmiljön är konstaterad fullgod, om den egna husvärden den 19 maj fortfarande frågar vad problemet kan vara och behandlar orsaken som okänd?
 
 Viktig distinktion:
 
@@ -51,3 +59,12 @@ Viktig distinktion:
 - `ingen i personalen har observerat, bekräftat eller diskuterat ett kvarstående problem` är en annan.
 
 Ljudfilen från 19 maj kan bli viktig för den senare frågan.
+
+## Bevisdisciplin
+
+Detta får inte formuleras som fastslaget förrän de exakta sekvenserna är ljudverifierade. Vid extern användning ska varje viktigt citat få:
+
+- tidskod,
+- talaridentitet,
+- exakt ordalydelse,
+- och sammanhanget före/efter.
