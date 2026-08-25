@@ -148,3 +148,53 @@ Statusorden ska inte tolkas som att problemet tekniskt löstes respektive avvisa
 > **Materialet visar inte att en viss teknisk orsak redan är fastställd. Det visar däremot att flera begränsade undersökningar och åtgärder genomförts medan någon sammanhållen grundorsak inte redovisats, och att senare slutsatser blivit mer kategoriska. Den centrala frågan är vilket konkret underlag som överbryggar detta glapp.**
 
 Detta är den formulering som ska prioriteras framför spekulation om mögel, brandrest, VOC, sot eller annan viss källa.
+
+## 19. Två separata Gaby-ljud den 20 oktober 2025
+
+**Rättelse:** projektet innehåller två olika 20-oktoberkällor som inte får blandas ihop:
+
+1. cirka 28 minuter – Gaby/OCAB och undersökningens räckvidd,
+2. cirka 3:04 – Gaby/HLU/mellanskillnad/målning.
+
+Det korta HLU-ljudet stöds tidsmässigt av att Erica redan den 5 november 2025 listar **”ljudfil Erica & Gaby fullständigt HLU 20 oktober 2025”** som bilaga i sin bristanmälan.
+
+Den senare export-/filmetadata som kan avvika får därför inte användas för att omdatera själva samtalet utan stöd.
+
+## 20. Leonard-spåret ska inte klassas som OCAB-huvudspår
+
+Leonard 22 oktober är främst relevant för:
+
+- HLU/mellanskillnad,
+- målning kontra standardutförande,
+- betydelsen av att tidigare muntliga besked verifieras med ljud.
+
+Sekundärt är Leonard relevant för huvudärendet genom skriftlig hantering av dålig lukt/ventilation/vidare utredning.
+
+## 21. Möte 1 den 11 november – nuvarande transkriptionsbegränsning
+
+Den nuvarande arbetsanalysen täcker endast en del av den cirka 90 minuter långa originalinspelningen.
+
+Följande får därför inte användas som låsta citat förrän originalet kontrollerats:
+
+- köksbänk/bänkskiva ska bytas,
+- list/täckning över brunt material/hål,
+- exakt klädkammar-/förrådssekvens,
+- exakt ventilationssekvens där kanalrensning och flera lägenheter diskuteras.
+
+Det är korrekt att registrera dem som **prioriterade ljudspår att lokalisera**.
+
+## 22. Ventilation/trasa – inte ännu ett verifierat direkt citat
+
+Det finns ett särskilt chat-/minnesspår att Jennifer ska ha sagt att Peter kan/får torka synlig ventilation med trasa, samt ett separat Peter-samtal där sådan avtorkning uppges diskuteras som otillräcklig lösning.
+
+**Status:** exakt inspelning, tidskod, talare och ordalydelse måste låsas innan uppgiften används som direkt citat eller motsägelse.
+
+Se `analyser/LJUDBEVIS-VENTILATION-TRASA-JENNIFER-PETER-ATT-LOKALISERA.md`.
+
+## 23. Chat-synk
+
+Alla relevanta fynd och rättelser från den aktuella konversationen är samlade och korslänkade i:
+
+`analyser/CHAT-SYNK-2026-08-25-ALLT-FRAN-DENNA-CHAT.md`
+
+Det dokumentet är ett revisionsindex, inte en primärkälla.
