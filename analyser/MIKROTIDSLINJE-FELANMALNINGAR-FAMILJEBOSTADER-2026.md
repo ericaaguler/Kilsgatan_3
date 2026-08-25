@@ -18,6 +18,7 @@
 | 2026-07-10 | — | Vid platsbesök med husvärden Marko uppger Erica att hon och ytterligare en person fick hälsobesvär under vistelsen. Denna händelse blir underlag för nästa felanmälan. | Problemet reklameras på nytt. | Vad dokumenterade Familjebostäder från platsbesöket och hur kopplades det till fortsatt utredning? |
 | 2026-07-13 | 874860 | Felanmälan för **Dålig lukt**, objekt 60020562. Bekräftelsen anger status **Beställd** och bokad tid 16 juli kl. 14–16. Beskrivningen säger att problemet kvarstår och att orsaken fortfarande inte är utredd. | Senast 17 augusti anges 874860 som **Makulerad**. | Varför makulerades ett beställt/bokat ärende, när skedde det och vad hände med det bokade besöket/åtgärden? |
 | 2026-08-17 | 857001, 864574, 867756, 870651, 874860 | Erica gör en ny felanmälan efter besök 16 augusti och redovisar den aktuella statuslistan: **857001 Utförd, 864574 Utförd, 867756 Makulerad, 870651 Makulerad, 874860 Makulerad**. Hon ber skriftligen om skälen till makuleringarna och exakt vad som utförts i de två ärenden som står som Utförd. | Ny felanmälan/klagomål skickas och eskalering begärs. | De granskade källorna visar frågorna, men någon specificerad teknisk redovisning av de två "Utförd" eller skälen för de tre "Makulerad" har ännu inte identifierats i detta spår. |
+| 2026-08-17 | Svar på ny felanmälan | Jennifer Ehlin föreslår att hon själv vistas och arbetar i lägenheten under längre tid och hänvisar till att ventilationsutredningarna enligt Familjebostäders bedömning inte visar någon brist. | I just detta svar lämnas ingen specificerad redovisning av varför 867756, 870651 och 874860 makulerades eller exakt vad som utfördes i 857001 och 864574. | Statusfrågorna är därför fortfarande öppna i det hittills granskade underlaget. |
 
 ## Det som faktiskt kan sägas
 
@@ -26,6 +27,7 @@
 3. 870651 kan följas från **Accepterad** den 13 juli till **Makulerad** senast den 17 augusti.
 4. 874860 kan följas från **Beställd/bokad** den 13 juli till **Makulerad** senast den 17 augusti.
 5. Redan den 24 maj hade Erica skriftligen invänt mot att tidigare felanmälningar betraktades som avslutade och uppgett att problemet kvarstod.
+6. Jennifer Ehlins svar den 17 augusti hänvisar till ventilationsutredningar och föreslår egen längre vistelse i lägenheten, men redovisar i det svaret inte den administrativa eller tekniska grunden för de fem statusarna som Erica uttryckligen frågat om.
 
 ## Viktig avgränsning
 
@@ -39,6 +41,7 @@ Detta underlag visar **inte i sig att Familjebostäder gjort något rättsligt f
 - `korrespondens/familjebostader/2026-05-25_1023_B0342_info-kontakt-familjebostader_sv-felanmalan-839920-846050.md`
 - `korrespondens/familjebostader/2026-05-25_2237_B0343_erica-a-guler_felanmalan-857004-samt-857001.md`
 - `korrespondens/familjebostader/2026-08-17_1003_B0441_erica-a-guler_ny-felanmalan-klagomal.md`
+- `korrespondens/familjebostader/2026-08-17_1646_B0447_jennifer-ehlin_vb-ny-felanmalan-klagomal.md`
 - Skärmbilder från Familjebostäders Mina sidor, tillförda 25 augusti 2026, som visar status/datum för 857001, 864574, 867756 och 870651 samt beställningsbekräftelse för 874860.
 
 ## Öppna kontrollpunkter
