@@ -12,6 +12,7 @@ Detta är ingången till det material som särskilt bör ses över. Originalbevi
 - [Motsägelser och argument – Peter, Thomas, Björn, Jennifer och processkedjan](analyser/MOTSAGELSER-OCH-ARGUMENT-PETER-THOMAS-BJORN-JENNIFER-PROCESS.md)
 - [Specifik tidslinje – Peter 19 maj, Thomas/Björn och Jennifer 17 augusti](analyser/TIDSLINJE-KOMPLETTERING-PETER-19-MAJ-JENNIFER-17-AUG-2026.md)
 - [Peter 19 maj – ljudfil och prioriterade låspunkter](transkriptioner/LJUDFIL-11-2026-05-19-PETER-THOMAS-LAGENHETEN-INVENTERING.md)
+- [Gaby 20 oktober 2025 – telefonsamtal om OCAB och rapportens faktiska räckvidd](transkriptioner/LJUDFIL-17-2025-10-20-GABY-OCAB-SAMTAL-INVENTERING.md)
 - [Marko – hela inspelningen, sekvensen kring 15:16 och jämförelse med Jennifer](analyser/MARKO-HELA-INSPELNINGEN-SEKVENS-15-16-OCH-JAMFORELSE-JENNIFER.md)
 - [Carolina 4 november – anteckningar, femmetersuppgift och felkällor](analyser/CAROLINA-VENTILATION-4-NOV-ANTECKNINGAR-FEM-METER-OCH-FELKALLOR.md)
 - [Carolina 4 november 2025 – ljudfil mottagen och kontrollfrågor](transkriptioner/LJUDFIL-8-2025-11-04-CAROLINA-VENTILATION-INVENTERING.md)
