@@ -71,7 +71,54 @@ Vid behov kan även frågas:
 
 > **Berördes någon ventilationskanal eller något don i badrum eller sovrum av samma rensningsåtgärd, eller avsåg uppgiften endast köksventilationen?**
 
-## 6. Bevisdisciplin
+## 6. Myndighets- och domstolsspåret
+
+Det går ännu **inte** att fastslå att Miljöförvaltningen, Länsstyrelsen eller Mark- och miljödomstolen "missade" denna fråga i betydelsen att de aldrig såg uppgiften. Den säkrare kontrollfrågan är:
+
+> **Var i respektive akt eller beslut framgår att det verifierades vilken fysisk kanal, vilket rum/ventilationspunkt, vilken åtkomstpunkt och vilken femmeterssträcka som avsågs innan kanalrensningen tillmättes betydelse?**
+
+Om sådan analys inte kan identifieras uppstår en konkret räckvidds- och verifieringsfråga.
+
+### Miljöförvaltningen
+
+Kontrollera om myndigheten:
+- begärde arbetsorder/utföranderapport,
+- identifierade kök kontra badrum/sovrum,
+- identifierade åtkomstpunkt och kanalsträcka,
+- kontrollerade vad "5 m upp" faktiskt betydde,
+- och knöt den påstådda rensningen till den ventilationspunkt som senare mättes/bedömdes.
+
+Om detta inte framgår ska formuleringen vara:
+
+> **Det kan inte verifieras i tillgängligt material att Miljöförvaltningen preciserade den uppgivna kanalrensningens fysiska omfattning innan uppgiften användes i bedömningen.**
+
+### Länsstyrelsen
+
+Kontrollera om Länsstyrelsen självständigt prövade kanalrensningens dokumenterade omfattning eller huvudsakligen utgick från Miljöförvaltningens beskrivning och slutsats.
+
+Den centrala frågan är inte om Länsstyrelsen borde ha gjort en ny teknisk undersökning, utan:
+
+> **Hur bedömdes en påstådd teknisk åtgärds bevisvärde när exakt kanal, åtkomstpunkt, sträcka, datum och primär utförandedokumentation inte redovisats?**
+
+### Mark- och miljödomstolen
+
+Efter domen den 19 augusti 2026 är frågan processuellt:
+
+> **Domstolen konstaterar att nämnden gjort den utredning som ärendets beskaffenhet krävde. Var i domskälen framgår hur den oklara fysiska räckvidden för kanalrensningen och avsaknaden av identifierad primär utförandedokumentation bedömdes?**
+
+Det är inte ett påstående om att domstolen inte läst materialet. Det är en kontrollfråga om hur slutsatsen kan verifieras mot akten.
+
+## 7. Varför denna precisering spelar roll
+
+En uppgift som "kanalrensning har utförts" kan låta som om ett helt relevant ventilationsproblem har hanterats. Men bevisvärdet beror på **vad som faktiskt rensades**.
+
+Om lägenheten har flera ventilationspunkter måste det därför gå att skilja:
+
+`åtgärd finns påstådd` → `vilken ventilationspunkt?` → `vilken kanal?` → `vilken sträcka?` → `vilken åtkomst?` → `vilket resultat?` → `vilken effektkontroll?`
+
+Först då går det att bedöma vilken sakfråga åtgärden faktiskt kan användas som stöd för.
+
+## 8. Bevisdisciplin
 
 - Att lägenheten har flera ventilationspunkter gör precisering av kanal/åtkomstpunkt relevant.
 - Det är inte i sig bevis för att den uppgivna rensningen inte utfördes.
@@ -79,6 +126,6 @@ Vid behov kan även frågas:
 - Ingen teknisk slutsats om kanalernas sammankoppling ska dras utan ventilationsritning/systemskiss eller sakkunnig bedömning.
 - Originalmejlet 2 december och originaluppgiften 15 januari ska source-lockas före extern användning.
 
-## 7. Korsreferens
+## 9. Korsreferens
 
 Denna fil ska läsas som korrigering/precisering ovanpå äldre kanalrensningsanalys. Vid konflikt gäller denna fil tillsammans med `AKTUELL-STYRNING-OCH-KORRIGERINGSREGLER-2026-08-25.md` och primärkällorna.
