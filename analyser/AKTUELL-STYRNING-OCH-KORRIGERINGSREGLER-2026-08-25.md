@@ -27,8 +27,17 @@ Följande filer ska användas som primära arbetskartor efter den fulla trådgen
 - `analyser/LAGRATTSLIG-ANALYS-OCH-LAGBROTTSSPAR-2026-08-25.md`
 - `analyser/BRANSCHVAGLEDNING-FASTIGHETSAGARNA-INOMHUSMILJO-BRISTER-OVK-2026-08-25.md`
 - `analyser/PROCESSUELL-HUVUDLINJE-MMD-M5167-26-2026-08-26.md`
+- `analyser/REMEDYMATRIS-STYRNING-OCH-ARBETSUPPLAGG-2026-08-26.md`
+- `analyser/ANSVARSKARTA-SANNERHOLM-STYRNING-2026-08-26.md`
+- `analyser/ANSVARSKARTA-FAS1-AKTORER-FUNKTIONER-KALLOR-2026-08-26.md`
 
 Den processuella huvudlinjen från 26 augusti ska läsas ovanpå de tekniska och faktiska sakspåren, inte ersätta dem.
+
+Remedymatrisen ska användas för att gå från `problem → önskat resultat → möjligt rättsmedel → rättsliga krav → bevis → bevisluckor → motargument → prioritet`. Den ska inte användas för att maximera antalet processer.
+
+Ansvarskartan ska användas för att gå från `information/kännedom → ansvarig funktion → åtgärd/beslut → underlag → resultat → effektkontroll → reaktion på senare information`. Den ska inte användas för att leta syndabockar.
+
+Ansvarskartan ska byggas stegvis. FAS 1 är nu påbörjad med aktörs-, funktions- och källinventering. FAS 2 får inte hoppa direkt till slutsatser om ansvar utan ska först bygga den source-lockade kunskapsloggen: vem inom Familjebostäder visste vad och när.
 
 ## 3. Kritisk korrigering: två Thomas
 
@@ -48,12 +57,19 @@ Det finns två olika Thomas:
 - Kräv spårbart stöd för varje teknisk slutsats.
 - Skilj fenomen, åtgärd, undersökning, resultat, hypotes och utredningsglapp.
 - Skilj alltid ett dokuments äkthet från dess räckvidd: fastighet, byggnad, adress/uppgång, ventilationssystem, lägenhet och datum måste kontrolleras separat.
+- Skilj individens uttalande från Familjebostäders organisatoriska ståndpunkt.
+- Anta inte ansvar eller mandat enbart från jobbtitel.
+- Skilj aktivitet från relevant utrednings-/åtgärdsinsats och genomförd åtgärd från verifierad effekt.
 
 ## 5. Huvudfråga
 
 > **Vilken undersökning har faktiskt haft i uppdrag att fastställa eller systematiskt söka orsaken till de återkommande hälsobesvären vid vistelse i lägenhet 1202?**
 
 Detta ska hållas isär från att vissa luftflöden, fuktpunkter eller visuella förhållanden har kontrollerats.
+
+Organisatoriskt tillkommer ansvarskartans fråga:
+
+> **Vilken funktion inom Familjebostäder hade ansvar för nästa steg när problemet eller nya förstahandsuppgifter rapporterades, och kan den kedjan följas från kännedom till åtgärd, resultat, effektkontroll och återkoppling?**
 
 ## 6. Strategiska huvudspår
 
@@ -112,6 +128,14 @@ För varje viktig fråga ska kontrolleras:
 
 Detta är en prioriterad analyslinje efter MMD-domen den 19 augusti 2026.
 
+### Familjebostäders ansvarskedja
+
+För varje huvudproblem ska parallellt kontrolleras:
+
+`problem → när fick FB kännedom → mottagare → ansvarig funktion → beslut/åtgärd → underlag → syfte → resultat → effektkontroll → senare information → FB:s reaktion`
+
+Särskilda organisatoriska noder i FAS 1 är: förvaltare, biträdande förvaltare, husvärdsled, drifttekniskt led, chefs-/eskaleringsnivå, kundservice/registrering och beställarled mot externa entreprenörer. Exakt mandat ska source-lockas.
+
 ## 7. Motsägelser ska inte bara listas
 
 Varje motsägelse ska analyseras som:
@@ -148,7 +172,8 @@ Innan något går till domstol, myndighet, media eller annan extern mottagare:
 - markera hypoteser som hypoteser,
 - använd inte äldre korrigerade person-/händelseuppgifter,
 - kontrollera aktuell lagtext och rätt processregel,
-- source-locka särskilt: 12 mars, 18 mars, 9 april-begäran, Familjebostäders svar “Vi har inget mer att tillägga” samt OVK 8 november 2022/systemkopplingen.
+- source-locka särskilt: 12 mars, 18 mars, 9 april-begäran, Familjebostäders svar “Vi har inget mer att tillägga” samt OVK 8 november 2022/systemkopplingen,
+- source-locka roll/mandat för Marko, Peter, Gaby och berörd chefsfunktion innan individuell ansvarsslutsats används externt.
 
 I generella arbetsdokument ska mottagaren benämnas **juristen**, inte “Roland”. Ett namn används endast i faktisk korrespondens där det behövs.
 
@@ -160,4 +185,8 @@ Efter MMD-domen tillkommer den processuella kontrollfrågan:
 
 > **Hur kan tillsynsutredningen bedömas som tillräcklig om myndigheten själv identifierade konkreta sakfrågor som behövde kompletteras, samtidigt som den administrativa akten inte visar en verifierbar kedja från dessa frågor till konkreta svar och uttrycklig bedömning före beslutet?**
 
-Detta är en arbetsposition och ska vid extern användning underbyggas med de konkreta originalhandlingarna.
+Ansvarskartan tillför en separat organisatorisk kontrollfråga:
+
+> **Kan Familjebostäders hantering följas som en sluten ansvarskedja från kännedom om problemet till ansvarig funktion, relevant utredning/åtgärd, dokumenterat resultat, effektkontroll och reaktion när problemet rapporterades igen?**
+
+Dessa är arbetspositioner och ska vid extern användning underbyggas med konkreta originalhandlingar.
