@@ -30,8 +30,32 @@ Samtliga öppna nästa-faser från masterspåren har nu genomförts som struktur
 ### MÖD-överklagande efter domen 19 augusti
 - `analyser/OVERKLAGAN-MOD-DOM-19AUG-GRANSKNING-OCH-LAGBOKSAPPPLICERING-2026-08-26.md`
 - `analyser/MOD-OVERKLAGAN-KALLINTEGRATION-FYRA-PDFER-2026-08-26.md`
+- `analyser/MOD-SPAR-STRUKTUR-OCH-KALLKARTA-2026-08-26.md`
 
-Den senare filen dokumenterar särskilt hur följande fyra PDF-källor får användas i det senaste MÖD-spåret:
+Den nya MÖD-strukturfilen är styrande arbetsindex för det fortsatta överklagandespåret och binder samman:
+- senaste överklagandedokumentet,
+- processuell huvudlinje,
+- Heuman-/bevisanalys,
+- juridisk huvudtidslinje,
+- source-lock,
+- prövningstillstånd,
+- offentlighets-/aktspår,
+- de fyra juridiska PDF-källornas exakta roll.
+
+### Standardprotokoll för varje nytt uppladdat dokument
+- `analyser/PROMPT-GRANSKA-NYTT-DOKUMENT-MOT-FYRA-JURIDISKA-PDFER-2026-08-26.md`
+
+Från och med nu ska varje nytt dokument som Erica uttryckligen vill granska inom detta upplägg:
+1. först identifieras och genomgås i sin helhet,
+2. därefter matchas separat mot samtliga fyra juridiska PDF-källor,
+3. få relevansgrad per bok: HÖG / MEDEL / LÅG / EJ RELEVANT,
+4. inte få irrelevanta böcker artificiellt inpressade,
+5. analyseras enligt `vad visar → vad visar inte → inferens → alternativ förklaring → bevislucka`,
+6. source-lockas före extern användning,
+7. adversarialt stresstestas,
+8. placeras i rätt GitHub-spår.
+
+De fyra PDF-källorna är:
 - `Förvaltningsprocesslagen – en kommentar` = hög relevans som processrättsligt analysstöd, med kontroll av direkt tillämplig specialprocess,
 - `Myndigheternas skrivregler` = skriv-/klarhetsstöd och separat klarspråksspår,
 - `Den nya hyresrätten efter hyresregleringens avskaffande` = äldre hyresrättsligt bakgrundsstöd i separat JB/remedy-spår, inte huvudkälla för MÖD-processen,
@@ -49,6 +73,7 @@ Före extern slutversion till jurist/domstol ska särskilt följande kontrollera
 4. Familjebostäders exakta originalformuleringar om brukbarhet och fullgod inomhusmiljö.
 5. De starkaste vittnes-/förstahandsuppgifterna i original.
 6. Direkt tillämplig processregel för prövningstillstånd och MÖD-handläggning ska kontrolleras mot aktuell lagtext; FPL-kommentaren får inte användas som ersättning för specialregeln.
+7. Offentlighets-/aktspåret ska skilja mellan handling som inte identifierats i utlämnat material, handling som finns men inte är allmän, handling som är allmän men inte lämnas ut samt myndighetsuppgift om att handling saknas.
 
 ## Nuvarande juristkärna
 
@@ -57,6 +82,10 @@ Före extern slutversion till jurist/domstol ska särskilt följande kontrollera
 För MÖD-spåret tillkommer:
 
 > **Prövningstillståndet ska byggas på kontrollerbara processfrågor: går riktigheten i MMD:s slutsats att bedöma när domskälen inte visar hur identifierade kompletteringsfrågor, OVK-räckvidd och andra source-lockade beslutsgrundsfrågor har lösts?**
+
+## Arbetsregel för nästa dokument
+
+När nästa dokument laddas upp ska standardprompten för fyr-PDF-granskning användas som arbetsprotokoll. Ingen bok ska användas bara för att den finns. Varje bok ska få en uttrycklig relevansbedömning och endast de delar som faktiskt hjälper dokumentets rättsliga eller processuella fråga ska integreras.
 
 ## Nästa externa steg
 
