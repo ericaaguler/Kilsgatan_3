@@ -30,6 +30,8 @@ Följande filer ska användas som primära arbetskartor efter den fulla trådgen
 - `analyser/REMEDYMATRIS-STYRNING-OCH-ARBETSUPPLAGG-2026-08-26.md`
 - `analyser/ANSVARSKARTA-SANNERHOLM-STYRNING-2026-08-26.md`
 - `analyser/ANSVARSKARTA-FAS1-AKTORER-FUNKTIONER-KALLOR-2026-08-26.md`
+- `analyser/PROCESS-OCH-BEVISANALYS-HEUMAN-STYRNING-2026-08-26.md`
+- `analyser/PROCESS-OCH-BEVISANALYS-FAS1-BEVISTEMAN-2026-08-26.md`
 
 Den processuella huvudlinjen från 26 augusti ska läsas ovanpå de tekniska och faktiska sakspåren, inte ersätta dem.
 
@@ -37,7 +39,9 @@ Remedymatrisen ska användas för att gå från `problem → önskat resultat �
 
 Ansvarskartan ska användas för att gå från `information/kännedom → ansvarig funktion → åtgärd/beslut → underlag → resultat → effektkontroll → reaktion på senare information`. Den ska inte användas för att leta syndabockar.
 
-Ansvarskartan ska byggas stegvis. FAS 1 är nu påbörjad med aktörs-, funktions- och källinventering. FAS 2 får inte hoppa direkt till slutsatser om ansvar utan ska först bygga den source-lockade kunskapsloggen: vem inom Familjebostäder visste vad och när.
+Ansvarskartan ska byggas stegvis. FAS 1 är genomförd med aktörs-, funktions- och källinventering. FAS 2 får inte hoppa direkt till slutsatser om ansvar utan ska först bygga den source-lockade kunskapsloggen: vem inom Familjebostäder visste vad och när.
+
+Process- och bevisanalysen ska användas för att gå från `bevistema → rättsfaktum → bevisfaktum → direkt bevisvärde → inferens → begränsning → alternativ förklaring → motbevisning → bevislucka`. FAS 1 är nu genomförd genom en särskild bevistematisk karta. Ingen slutlig bevisvärdering eller advocacy ska göras innan de efterföljande faserna har genomförts.
 
 ## 3. Kritisk korrigering: två Thomas
 
@@ -60,6 +64,15 @@ Det finns två olika Thomas:
 - Skilj individens uttalande från Familjebostäders organisatoriska ståndpunkt.
 - Anta inte ansvar eller mandat enbart från jobbtitel.
 - Skilj aktivitet från relevant utrednings-/åtgärdsinsats och genomförd åtgärd från verifierad effekt.
+- Skilj rättsfaktum från bevisfaktum.
+- Skilj rapporterad reaktion från tekniskt eller medicinskt orsakssamband.
+- Skilj personlig observation från teknisk undersökning och teknisk observation från sakkunnigbedömning.
+- Redovisa motbevisning lika tydligt som stödjande bevisning.
+- Ingen motsägelse får klassas som materiell innan båda originaluppgifterna har kontrollerats.
+- Frånvaro av handling får inte automatiskt likställas med att en händelse inte inträffat.
+- När slutsatsen kräver ett inferenssteg ska den märkas `INFERENS – INTE DIREKT VISAT`.
+- När materialet inte räcker ska slutsatsen vara `KAN INTE FASTSTÄLLAS`.
+- När teknisk eller medicinsk sakkunnigbedömning krävs ska detta markeras uttryckligen.
 
 ## 5. Huvudfråga
 
@@ -71,15 +84,24 @@ Organisatoriskt tillkommer ansvarskartans fråga:
 
 > **Vilken funktion inom Familjebostäder hade ansvar för nästa steg när problemet eller nya förstahandsuppgifter rapporterades, och kan den kedjan följas från kännedom till åtgärd, resultat, effektkontroll och återkoppling?**
 
+Process- och bevisanalytiskt tillkommer:
+
+> **Vad behöver faktiskt visas i respektive rättsligt spår, vilka bevis stödjer respektive rättsfaktum, vad visar varje bevis direkt, vilken inferens krävs och vilka motbevis eller alternativa förklaringar måste hanteras?**
+
 ## 6. Strategiska huvudspår
 
 ### Brukbarhet
 
 Frågan enligt hyresrätten är bredare än om en enskild teknisk brist har konstaterats: kan lägenheten faktiskt användas för sitt avsedda bostadsändamål?
 
+I Heuman-spåret ska brukbarhet delas i åtminstone två bevisteman: konkret brist/hinder/men och faktisk användbarhet under hyrestiden. Utebliven användning visar inte ensam orsaken till den uteblivna användningen.
+
 ### Olägenhet för människors hälsa
 
-Vittnesuppgifter och återkommande vistelserelaterade reaktioner ska användas som utredningsfakta, inte som teknisk orsaksbevisning.
+Vittnesuppgifter och återkommande vistelserelaterade reaktioner ska användas som utrednings- och bevisfakta, inte som teknisk orsaksbevisning.
+
+Heuman-spåret ska särskilt skilja mellan:
+`rapporterad reaktion → tidsmässigt mönster → platsanknytning som möjlig inferens → teknisk/medicinsk kausalitet som separat bevisfråga`.
 
 ### Ventilation/OVK
 
@@ -91,6 +113,9 @@ Varje teknisk handling ska vid behov läggas i objektmatris:
 
 Särskild kontrollpunkt: verifiera om OVK-handlingen 8 november 2022 avser system 02 / Kilsgatan 7–11 medan Kilsgatan 3 tillhör system 01 / bostäder 1–5. Detta får inte användas externt som fastslaget förrän originalhandlingarna är source-lockade.
 
+I bevisanalysen ska dessutom skiljas:
+`ventilationens funktion vid mättillfället` från `lägenhetens totala inomhusmiljö` från `orsaken till rapporterade hälsobesvär`.
+
 ### Kanalrensning
 
 Kontrollera primär dokumentkedja: datum, arbetsorder, utförare, kanalsträcka, metod, åtkomstpunkt och före-/efterkontroll. Håll särskilt isär:
@@ -100,7 +125,7 @@ Kontrollera primär dokumentkedja: datum, arbetsorder, utförare, kanalsträcka,
 - Jennifer Ehlins senare uppgift “5 m upp”,
 - Jennifers framtidsform den 2 december.
 
-Frågan är vilket primärdokument som binder samman beskrivningarna och visar exakt vad som faktiskt gjordes.
+Frågan är vilket primärdokument som binder samman beskrivningarna och visar exakt vad som faktiskt gjordes. Skillnader i formulering är inte automatiskt en materiell motsägelse.
 
 ### Brand 2017
 
@@ -109,6 +134,8 @@ Brandhistoriken är en dokumenterad historisk faktor, inte en fastställd orsak.
 Använd kontrollkedjan:
 
 `brand → utredning → sanering → dokumentation → kontroll → myndighetsbedömning`
+
+I Heuman-spåret ska separata bevisteman hållas för att brand inträffat, vilken omfattning den hade, om sanering uppges ha skett, vilken saneringsdokumentation som kan identifieras och om någon senare teknisk koppling alls kan visas. Inget inferenshopp från verifierad brand till nuvarande orsak är tillåtet.
 
 ### Myndighetsutredning
 
@@ -128,6 +155,8 @@ För varje viktig fråga ska kontrolleras:
 
 Detta är en prioriterad analyslinje efter MMD-domen den 19 augusti 2026.
 
+I Heuman-spåret ska myndighetens observationer, mätningar, rättsliga prövningsfråga och slutsats hållas separata från Familjebostäders senare beskrivning av myndighetens slutsats.
+
 ### Familjebostäders ansvarskedja
 
 För varje huvudproblem ska parallellt kontrolleras:
@@ -135,6 +164,31 @@ För varje huvudproblem ska parallellt kontrolleras:
 `problem → när fick FB kännedom → mottagare → ansvarig funktion → beslut/åtgärd → underlag → syfte → resultat → effektkontroll → senare information → FB:s reaktion`
 
 Särskilda organisatoriska noder i FAS 1 är: förvaltare, biträdande förvaltare, husvärdsled, drifttekniskt led, chefs-/eskaleringsnivå, kundservice/registrering och beställarled mot externa entreprenörer. Exakt mandat ska source-lockas.
+
+### Process- och bevisanalys
+
+FAS 1 har identifierat separata bevisteman för bland annat:
+- skick vid tillträdet,
+- konkret brist/hinder/men,
+- faktisk användbarhet,
+- vistelserelaterade reaktioner och tidsmönster,
+- oberoende mellan förstahandsuppgifter,
+- Familjebostäders negativa observationer som motbevisning,
+- tekniska undersökningars faktiska räckvidd,
+- orsaksfrågan,
+- Familjebostäders kunskap och agerande,
+- åtgärder och verifierad effekt,
+- ventilation/OVK/kanalrensning,
+- brand/sanering,
+- OCAB,
+- Miljöförvaltningens faktiska observationer och utredningskedja,
+- materialet den 9 april,
+- senare händelser,
+- Familjebostäders påståenden och deras underlag,
+- frånvaro av dokumentation,
+- motbevisning och alternativa förklaringar.
+
+Nästa fas får inte börja med slutsatser utan ska inventera vilka primärbevis som faktiskt hör till varje bevistema.
 
 ## 7. Motsägelser ska inte bara listas
 
@@ -153,6 +207,8 @@ Prioriterade motsägelsespår:
 - fullgod inomhusmiljö / avgränsade dokumenterade undersökningar,
 - äldre OVK / senare lägenhetsspecifika problem,
 - myndigheten identifierar kompletteringsbehov / akten visar inte tydligt verifierbart svar före avslut.
+
+Heuman-spåret kräver dessutom att varje möjlig motsägelse testas mot frågorna: samma sak, samma tid, samma aktör/organisation, kan båda vara sanna, har nytt underlag tillkommit och kan skillnaden förklaras av kontext.
 
 ## 8. Branschmaterial
 
@@ -173,7 +229,10 @@ Innan något går till domstol, myndighet, media eller annan extern mottagare:
 - använd inte äldre korrigerade person-/händelseuppgifter,
 - kontrollera aktuell lagtext och rätt processregel,
 - source-locka särskilt: 12 mars, 18 mars, 9 april-begäran, Familjebostäders svar “Vi har inget mer att tillägga” samt OVK 8 november 2022/systemkopplingen,
-- source-locka roll/mandat för Marko, Peter, Gaby och berörd chefsfunktion innan individuell ansvarsslutsats används externt.
+- source-locka roll/mandat för Marko, Peter, Gaby och berörd chefsfunktion innan individuell ansvarsslutsats används externt,
+- använd inte en personlig observation som teknisk bevisning,
+- använd inte ett vittnes rapporterade symtom som bevis för medicinsk eller teknisk orsak,
+- beskriv inte ett dokuments bevisvärde bredare än dess uppdrag, metod och räckvidd stödjer.
 
 I generella arbetsdokument ska mottagaren benämnas **juristen**, inte “Roland”. Ett namn används endast i faktisk korrespondens där det behövs.
 
@@ -188,5 +247,9 @@ Efter MMD-domen tillkommer den processuella kontrollfrågan:
 Ansvarskartan tillför en separat organisatorisk kontrollfråga:
 
 > **Kan Familjebostäders hantering följas som en sluten ansvarskedja från kännedom om problemet till ansvarig funktion, relevant utredning/åtgärd, dokumenterat resultat, effektkontroll och reaktion när problemet rapporterades igen?**
+
+Heuman-spåret tillför slutligen bevisfrågan:
+
+> **Vilka av dessa arbetspositioner går faktiskt att styrka med stark och relevant bevisning, vilka kräver inferens, vilka möts av betydande motbevisning och vilka kan ännu inte fastställas?**
 
 Dessa är arbetspositioner och ska vid extern användning underbyggas med konkreta originalhandlingar.
