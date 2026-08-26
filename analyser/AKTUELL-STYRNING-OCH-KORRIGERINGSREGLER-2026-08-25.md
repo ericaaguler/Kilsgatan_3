@@ -32,8 +32,16 @@ Följande filer ska användas som primära arbetskartor efter den fulla trådgen
 - `analyser/ANSVARSKARTA-FAS1-AKTORER-FUNKTIONER-KALLOR-2026-08-26.md`
 - `analyser/PROCESS-OCH-BEVISANALYS-HEUMAN-STYRNING-2026-08-26.md`
 - `analyser/PROCESS-OCH-BEVISANALYS-FAS1-BEVISTEMAN-2026-08-26.md`
+- `analyser/OVERKLAGAN-MOD-DOM-19AUG-GRANSKNING-OCH-LAGBOKSAPPPLICERING-2026-08-26.md`
+- `analyser/MOD-OVERKLAGAN-KALLINTEGRATION-FYRA-PDFER-2026-08-26.md`
+- `analyser/MOD-SPAR-STRUKTUR-OCH-KALLKARTA-2026-08-26.md`
+- `analyser/PROMPT-GRANSKA-NYTT-DOKUMENT-MOT-FYRA-JURIDISKA-PDFER-2026-08-26.md`
 
 Den processuella huvudlinjen från 26 augusti ska läsas ovanpå de tekniska och faktiska sakspåren, inte ersätta dem.
+
+MÖD-källkartan ska användas som särskilt arbetsindex för mål M 5167-26 efter MMD-domen den 19 augusti 2026. Den binder samman senaste överklagandedokumentet, prövningstillstånd, source-lock, offentlighets-/aktspåret och de fyra juridiska PDF-källornas rätta roll.
+
+Standardprompten för fyr-PDF-granskning ska användas varje gång Erica uttryckligen vill att ett nytt uppladdat dokument ska analyseras enligt detta upplägg. Varje bok ska bedömas separat som HÖG, MEDEL, LÅG eller EJ RELEVANT. Ingen bok ska pressas in artificiellt.
 
 Remedymatrisen ska användas för att gå från `problem → önskat resultat → möjligt rättsmedel → rättsliga krav → bevis → bevisluckor → motargument → prioritet`. Den ska inte användas för att maximera antalet processer.
 
@@ -73,6 +81,9 @@ Det finns två olika Thomas:
 - När slutsatsen kräver ett inferenssteg ska den märkas `INFERENS – INTE DIREKT VISAT`.
 - När materialet inte räcker ska slutsatsen vara `KAN INTE FASTSTÄLLAS`.
 - När teknisk eller medicinsk sakkunnigbedömning krävs ska detta markeras uttryckligen.
+- För varje nytt dokument som granskas mot de fyra juridiska PDF-källorna ska först dokumentets funktion och bevisvärde bestämmas, därefter bokrelevans. Ingen doktrin får behandlas som primärbevis.
+- Äldre juridisk litteratur får användas som bakgrund men aktuell lagtext och senare praxis ska kontrolleras före extern användning.
+- Specialprocess ska alltid kontrolleras före subsidiär processlag. FPL-kommentaren får inte automatiskt ersätta direkt tillämplig processregel för MÖD.
 
 ## 5. Huvudfråga
 
@@ -88,6 +99,10 @@ Process- och bevisanalytiskt tillkommer:
 
 > **Vad behöver faktiskt visas i respektive rättsligt spår, vilka bevis stödjer respektive rättsfaktum, vad visar varje bevis direkt, vilken inferens krävs och vilka motbevis eller alternativa förklaringar måste hanteras?**
 
+För MÖD-spåret tillkommer:
+
+> **Går riktigheten i MMD:s slutsats att bedöma när domskälen inte visar hur source-lockade frågor om kompletteringskedja, OVK-räckvidd, dokumentation och andra relevanta beslutsgrundsfrågor har lösts?**
+
 ## 6. Strategiska huvudspår
 
 ### Brukbarhet
@@ -95,6 +110,8 @@ Process- och bevisanalytiskt tillkommer:
 Frågan enligt hyresrätten är bredare än om en enskild teknisk brist har konstaterats: kan lägenheten faktiskt användas för sitt avsedda bostadsändamål?
 
 I Heuman-spåret ska brukbarhet delas i åtminstone två bevisteman: konkret brist/hinder/men och faktisk användbarhet under hyrestiden. Utebliven användning visar inte ensam orsaken till den uteblivna användningen.
+
+Äldre hyresrättsdoktrin i `Den nya hyresrätten efter hyresregleringens avskaffande` får användas som historiskt/doktrinärt bakgrundsstöd, men dagens 12 kap. jordabalken och aktuell praxis ska alltid kontrolleras.
 
 ### Olägenhet för människors hälsa
 
@@ -157,6 +174,21 @@ Detta är en prioriterad analyslinje efter MMD-domen den 19 augusti 2026.
 
 I Heuman-spåret ska myndighetens observationer, mätningar, rättsliga prövningsfråga och slutsats hållas separata från Familjebostäders senare beskrivning av myndighetens slutsats.
 
+### MÖD/process
+
+Använd `MOD-SPAR-STRUKTUR-OCH-KALLKARTA-2026-08-26.md` som index.
+
+Särskilda kontrollpunkter:
+- granskningsdispens,
+- ändringsdispens,
+- exakt processregel för måltypen,
+- utredningskedjan 12 mars → 18 mars → 9 april → FB-svar → 13 april,
+- OVK-handlingens verkliga räckvidd,
+- 9 april-materialets bedömning,
+- dokumentation/kommunicering,
+- offentlighets-/aktspåret,
+- source-lock av varje materiellt sakpåstående.
+
 ### Familjebostäders ansvarskedja
 
 För varje huvudproblem ska parallellt kontrolleras:
@@ -210,13 +242,20 @@ Prioriterade motsägelsespår:
 
 Heuman-spåret kräver dessutom att varje möjlig motsägelse testas mot frågorna: samma sak, samma tid, samma aktör/organisation, kan båda vara sanna, har nytt underlag tillkommit och kan skillnaden förklaras av kontext.
 
-## 8. Branschmaterial
+## 8. Branschmaterial och juridiska böcker
 
 Fastighetsägarnas material ska alltid märkas:
 
 > **KÄLLTYP: BRANSCHVÄGLEDNING – INTE BINDANDE RÄTTSKÄLLA.**
 
 Använd det för professionell hantering och begreppsstruktur, inte som bevis för lagbrott.
+
+De fyra juridiska PDF-källorna ska klassas så här per dokument:
+
+- `Förvaltningsprocesslagen – en kommentar` – processrättsligt analysstöd; kontrollera alltid specialprocess.
+- `Myndigheternas skrivregler` – klarhets-/skrivstöd, inte materiell ändringsgrund.
+- `Den nya hyresrätten efter hyresregleringens avskaffande` – äldre hyresrättsdoktrin; kontrollera aktuell lag och praxis.
+- `Lägenhetsbyten och andrahandsuthyrning` – använd endast där bokfrågan faktiskt är relevant; annars PARKERAS.
 
 ## 9. Extern användning
 
@@ -232,7 +271,8 @@ Innan något går till domstol, myndighet, media eller annan extern mottagare:
 - source-locka roll/mandat för Marko, Peter, Gaby och berörd chefsfunktion innan individuell ansvarsslutsats används externt,
 - använd inte en personlig observation som teknisk bevisning,
 - använd inte ett vittnes rapporterade symtom som bevis för medicinsk eller teknisk orsak,
-- beskriv inte ett dokuments bevisvärde bredare än dess uppdrag, metod och räckvidd stödjer.
+- beskriv inte ett dokuments bevisvärde bredare än dess uppdrag, metod och räckvidd stödjer,
+- när ett nytt dokument analyserats mot de fyra juridiska PDF-källorna: registrera vilken bok som faktiskt användes, varför och med vilken relevansgrad.
 
 I generella arbetsdokument ska mottagaren benämnas **juristen**, inte “Roland”. Ett namn används endast i faktisk korrespondens där det behövs.
 
@@ -253,3 +293,25 @@ Heuman-spåret tillför slutligen bevisfrågan:
 > **Vilka av dessa arbetspositioner går faktiskt att styrka med stark och relevant bevisning, vilka kräver inferens, vilka möts av betydande motbevisning och vilka kan ännu inte fastställas?**
 
 Dessa är arbetspositioner och ska vid extern användning underbyggas med konkreta originalhandlingar.
+
+## 11. Standardregel för kommande dokumentgranskningar
+
+När Erica laddar upp nästa dokument och anger att det ska granskas mot de fyra juridiska PDF-källorna ska arbetsprotokollet i:
+
+`analyser/PROMPT-GRANSKA-NYTT-DOKUMENT-MOT-FYRA-JURIDISKA-PDFER-2026-08-26.md`
+
+följas.
+
+Minimikrav:
+1. identifiera vad dokumentet är och gör,
+2. gå igenom hela dokumentet,
+3. skilj faktum/inferens/hypotes/bevislucka,
+4. analysera vad dokumentet visar och inte visar,
+5. matcha separat mot alla fyra böckerna,
+6. ge relevansgrad för varje bok,
+7. kontrollera specialprocess/aktuell lag,
+8. source-locka materiella påståenden,
+9. bygg motpartens starkaste motargument,
+10. ange starkaste kvarstående linje,
+11. placera dokumentet i rätt GitHub-spår,
+12. uppdatera centralt status-/styrindex om dokumentet förändrar projektets läge.
