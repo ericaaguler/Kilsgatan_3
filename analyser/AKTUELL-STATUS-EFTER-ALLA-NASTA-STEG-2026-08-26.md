@@ -48,6 +48,30 @@ Den nya MÖD-strukturfilen är styrande arbetsindex för det fortsatta överklag
 - polisanmälan ska avvakta konkret brottslig gärningsbevisning,
 - ekonomiska krav ska delas i hyresnedsättning/återbetalning, hyresrättsligt skadestånd och eventuellt senare myndighetsskadestånd.
 
+### Rättslig tidslinje 2025-23696
+- `analyser/RATTSLIG-TIDSLINJE-2025-23696-FYRA-PDF-GRANSKNING-2026-08-26.md`
+- `analyser/STATUSDELTA-RATTSLIG-TIDSLINJE-2025-23696-2026-08-26.md`
+
+Arbetsposition: tidslinjen är stark som source-lock-ram för 11 mars–13 april, men sekundära formuleringar som `ej uppfyllt` eller `materiellt missvisande` får inte behandlas som fastställda rättsliga slutsatser innan originalkedjan är låst.
+
+### Sammanställning till Erica – brister i utredning och beslutsgrund
+- `analyser/SAMMANSTALLNING-TILL-ERICA-BRISTER-I-UTREDNING-OCH-BESLUTSGRUND-FYRA-PDF-GRANSKNING-2026-08-26.md`
+- `analyser/STATUSDELTA-SAMMANSTALLNING-BRISTER-I-UTREDNING-OCH-BESLUTSGRUND-2026-08-26.md`
+
+`02_Sammanstallning_till_Erica_brister_i_utredning_och_beslutsgrund(1).docx` har granskats enligt fyr-PDF-metoden.
+
+Arbetsposition:
+- dokumentet är en kort läsarvänlig jurist-/MÖD-översikt, inte primärbevis,
+- den starkaste linjen är den verifierbara kedjan `fråga → svar → kommunicering → bedömning`,
+- 9 april-kronologin och OVK-räckvidden är prioriterade source-lock-punkter,
+- vittnen och genomvädring är utrednings-/fenomenbevis men inte teknisk orsaksbevisning,
+- frånvaro i återhämtad akt får inte likställas med att handling/uppgift aldrig funnits,
+- saknat frånluftsdon, rumsflöden och kanalrensningens tekniska betydelse kräver sakkunnig innan materiell teknisk slutsats,
+- Förvaltningsprocesslagen – en kommentar har HÖG relevans som process-/PT-analysstöd men specialprocess ska styra,
+- Myndigheternas skrivregler har MEDEL relevans för precision och källstruktur,
+- Den nya hyresrätten har LÅG direkt relevans men MEDEL i separat remedyspår,
+- Lägenhetsbyten och andrahandsuthyrning har LÅG / normalt ingen direkt relevans för denna MÖD-/myndighetsanalys.
+
 ### Standardprotokoll för varje nytt uppladdat dokument
 - `analyser/PROMPT-GRANSKA-NYTT-DOKUMENT-MOT-FYRA-JURIDISKA-PDFER-2026-08-26.md`
 
@@ -73,7 +97,7 @@ Det betyder att respektive metodfas nu finns som användbar arbetsprodukt. Det b
 
 Före extern slutversion till jurist/domstol ska särskilt följande kontrolleras mot original:
 
-1. Miljöförvaltningens kedja 12 mars → 18 mars → 9 april → faktisk begäran till Familjebostäder → Familjebostäders svar → beslut 13 april.
+1. Miljöförvaltningens kedja 11/12 mars → 18 mars → 9 april → faktisk begäran till Familjebostäder → Familjebostäders svar → komplettering 9 april → beslut 13 april.
 2. Exakt svarstid i begäran till Familjebostäder och relationen till beslutsdatum 13 april.
 3. OVK 8 november 2022:s exakta system-/adressräckvidd.
 4. Primär arbetsorder/utföranderapport för kanalrensning 2025 och uppgiften om cirka 5 m.
@@ -102,11 +126,11 @@ När nästa dokument laddas upp ska standardprompten för fyr-PDF-granskning anv
 
 ## Nästa externa steg
 
-Prioriterad arbetsordning efter Planen-granskningen:
+Prioriterad arbetsordning:
 - MÖD-överklagandet: tidskritiskt,
-- source-lock av bärande myndighets-/OVK-påståenden,
+- source-lock av 11/12 mars–13 april-kedjan och OVK-räckvidden,
 - fortsatt offentlighets-/aktarbete parallellt,
-- teknisk sakkunnig för att precisera eventuellt Hyresnämndsyrkande,
+- teknisk sakkunnig för ventilations-/kanal-/Hyresnämndsspår,
 - därefter juristprioritering av Hyresnämnd, hyresnedsättning/återbetalning, ny tillsyn och eventuellt JO-spår.
 
 Ingen ny process bör startas enbart därför att den är möjlig; varje spår ska bära sina egna rekvisit och sin egen bevisning.
