@@ -2,7 +2,7 @@
 
 **Datum för analys:** 27 augusti 2026  
 **Status:** NY INFO / prioriterad bevis- och utredningsfråga. Ska hållas åtskild från faktatidslinjen tills respektive uppgift är primärlåst.  
-**Primärkällor i aktuell genomgång:** `2025-23696-97-Information(2).pdf` och `2025-23696-98-Foto(2).pdf`.
+**Primärkällor i aktuell genomgång:** `2025-23696-97-Information(2).pdf`, `2025-23696-98-Foto(2).pdf` samt nytt samtida primärmejl `mail 20 november efter städning till gaby .pdf`.
 
 ## 1. Tidslinjen är nu klarare
 
@@ -51,12 +51,16 @@ Uppgiften att städpersonalen ska ha sagt att de normalt undviker så starka med
 - Ericas komplettering till Miljöförvaltningen anger att MouldOut användes 20 november och `Mögel bort` 27 november.
 - Kompletteringen beskriver uttryckligen detta som en del av tre professionella städningar och kopplar det till frågan om kvarstående problem trots åtgärder.
 - Materialet gavs in till Miljöförvaltningen före beslutet den 13 april 2026.
+- I ett **samtida mejl till Gaby den 20 november 2025 kl. 20:08**, alltså samma dag som andra städningen, skrev Erica om kökssocklar/området under diskbänken: **"Det är ingrodd smuts/mögel som inte går bort"** och **"Städarna säger det inte går inte bort"**. Hon skrev även om fogarna: **"Ingrodd smuts/matrester (ser ut som mögel) kvar trots städning. Städarna säger det inte går inte bort."**
+- I samma mejl begärde Erica uttryckligen att Familjebostäder skulle hitta en annan lösning eftersom det inte gick bort trots städning och skrev att det **"måste antingen saneras eller åtgärdas på annat sätt"**.
 
 ### STARKT STÖD
 
 - Det går inte längre att beskriva de två senare städningarna enbart som vanlig flyttstädning utan att beakta att mögelinriktade produkter faktiskt användes.
 - Åtgärdsvalet skapar en relevant fråga om vilken problembild beställaren/städfirman arbetade utifrån.
 - Åtgärderna ändrade det okulära bevisläget före Miljöförvaltningens tillsyn den 11 mars 2026.
+- Det samtida mejlet den 20 november stärker att frågan **inte uppstod först i efterhand**. Samma dag som andra städningen rapporterade Erica till ansvarig biträdande förvaltare att städpersonalen enligt henne själva sagt att den ingrodda påverkan inte gick att få bort genom städning.
+- Detta skapar en tydlig skillnad mellan **städfel som kan reklameras** och **material/påverkan som enligt den samtida uppgiften inte gick att avlägsna med städning**. Erica separerar själv detta i mejlet: badrumstaket reklameras som städning, medan kökssocklar/fogar läggs på Familjebostäder som en annan åtgärdsfråga.
 
 ### KAN INTE FASTSTÄLLAS
 
@@ -65,7 +69,8 @@ Uppgiften att städpersonalen ska ha sagt att de normalt undviker så starka med
 - att Gaby uttryckligen beställde "mögelsanering",
 - exakt vilka ytor som behandlades,
 - exakt varför produkterna valdes,
-- att användningen av produkterna i sig visar orsaken till de rapporterade hälsoreaktionerna.
+- att användningen av produkterna i sig visar orsaken till de rapporterade hälsoreaktionerna,
+- exakt ordalydelse från städpersonalen utöver vad Erica återgav i sitt samtidiga mejl. Mejltexten är **primärkälla för vad Erica rapporterade till Gaby samma dag**, men sekundär i förhållande till städpersonalens egna ord.
 
 ## 5. Vad Miljöförvaltningen borde ha reagerat på
 
@@ -112,6 +117,23 @@ Detta borde åtminstone ha utlöst frågan:
 
 > **Hur förklarar fastighetsägaren skillnaden mellan sin kommunicerade problembild och den praktiska åtgärd som därefter beställdes/utfördes?**
 
+### F. Ny primär samtidighetsmarkör: städpersonalen uppges själva ha sagt att det inte går bort
+
+Mejlet den 20 november 2025 är särskilt viktigt eftersom det skickades **samma kväll som städningen** och till Gaby, med Jennifer i den omgivande mejlkedjan.
+
+Erica skrev att:
+
+- det fanns **"ingrodd smuts/mögel som inte går bort"**,
+- **"Städarna säger det inte går inte bort"**,
+- fogarna fortfarande hade ingrodd påverkan efter städningen,
+- och Familjebostäder därför behövde hitta annan lösning än fortsatt städning.
+
+Detta betyder inte att städpersonalen diagnostiserade mögel. Men det borde ha skapat en konkret förvaltningsfråga redan då:
+
+> **Om den professionella städfirman själv, enligt den samtidiga rapporten till fastighetsägaren, bedömde att påverkan inte gick att avlägsna genom städning – varför fortsatte ärendet att hanteras som städning utan att beställning, materialskick och behov av annan undersökning klarlades?**
+
+Det är också relevant att Erica i samma mejl skilde på vad som verkligen var en **städreklamation** (badrumstaket) och vad hon ansåg Familjebostäder behövde lösa på annat sätt (ingrodd påverkan i kökssocklar/fogar). Detta försvagar en förenklad efterhandsbeskrivning av hela problembilden som enbart missnöje med flyttstädningen.
+
 ## 6. Koppling till utredningsansvaret
 
 Den försiktiga juridiska arbetspositionen är:
@@ -124,7 +146,7 @@ Det betyder inte att Miljöförvaltningen måste kommentera varje foto eller var
 
 Styrande processfråga:
 
-> **Var i akten eller beslutet framgår att Miljöförvaltningen bedömde betydelsen av att två efterföljande städningar använde mögelinriktade produkter, vad som hade beställts av fastighetsägaren, varför dessa produkter användes och vilken effekt åtgärderna hade?**
+> **Var i akten eller beslutet framgår att Miljöförvaltningen bedömde betydelsen av att två efterföljande städningar använde mögelinriktade produkter, att städpersonalen enligt ett samtida mejl uppgav att viss ingrodd påverkan inte gick bort, vad som hade beställts av fastighetsägaren, varför produkterna användes och vilken effekt åtgärderna hade?**
 
 ## 7. Beslutsrapporten / avslutningsbeslutet
 
@@ -140,20 +162,21 @@ Det ska inte formuleras som att myndigheten "ignorerade" materialet förrän akt
 
 För MÖD-spåret är detta inte främst bevis för mögel. Det är en **utrednings- och bevisvärdesfråga**:
 
-> **När två mögelinriktade rengöringsprodukter användes efter det första platsmötet, problemen enligt uppgift kvarstod, och Miljöförvaltningen hade detta material före beslutet – hur kan slutsatsen om tillräcklig utredning kontrolleras om det inte framgår hur åtgärdsvalet, beställningskedjan och den uteblivna effekten värderades?**
+> **När två mögelinriktade rengöringsprodukter användes efter det första platsmötet, städpersonalen enligt ett samtida mejl uppgav att viss ingrodd påverkan inte gick att avlägsna, problemen enligt uppgift kvarstod, och Miljöförvaltningen hade detta material före beslutet – hur kan slutsatsen om tillräcklig utredning kontrolleras om det inte framgår hur åtgärdsvalet, beställningskedjan, den uteblivna effekten och städfirmans rapporterade begränsning värderades?**
 
 ## 9. Nästa source-lock
 
-1. original arbetsorder till Ed inför 20 november,
+1. original arbetsorder till Ed/städfirman inför 20 november,
 2. reklamationen efter 27 oktober,
 3. vem hos FB som beställde 20 november-städningen,
 4. städfirmans arbetsrapport 20 november,
 5. arbetsorder/rapport 27 november,
 6. exakt produktinformation/SDS vid behov,
-7. eventuell inspelning eller skriftlig uppgift där städpersonalen säger att de undviker så starka medel,
-8. Miljöförvaltningens aktlogg som visar mottagande/registrering av `2025-23696-97` och `2025-23696-98`,
-9. kontroll av om dessa handlingar nämns i tjänsteanteckningar, interna bedömningar eller beslutsskäl.
+7. eventuell inspelning eller egen skriftlig uppgift från städpersonalen om att de undviker starka medel,
+8. städfirmans egen bekräftelse av vad de menade med att påverkan "inte går bort",
+9. Miljöförvaltningens aktlogg som visar mottagande/registrering av `2025-23696-97` och `2025-23696-98`,
+10. kontroll av om dessa handlingar nämns i tjänsteanteckningar, interna bedömningar eller beslutsskäl.
 
 ## 10. Styrande formulering
 
-> **Den andra professionella städningen genomfördes den 20 november 2025, nio dagar efter det första större platsmötet den 11 november. Vid denna städning användes Diversey Taski Sani MouldOut. Vid den tredje städningen den 27 november användes även en produkt benämnd "Mögel bort". Detta bevisar inte att mögel var konstaterat, men det visar att hanteringen efter den första flyttstädningen inkluderade riktade mögelinriktade rengöringsmedel. Eftersom Miljöförvaltningen hade denna information före beslutet bör det kunna klarläggas hur myndigheten värderade varför dessa produkter användes, vad fastighetsägaren faktiskt hade beställt, vilken effekt åtgärderna hade och vilken betydelse de upprepade behandlingarna hade för den senare okulära bedömningen.**
+> **Den andra professionella städningen genomfördes den 20 november 2025, nio dagar efter det första större platsmötet den 11 november. Vid denna städning användes Diversey Taski Sani MouldOut. Samma kväll rapporterade Erica skriftligen till Gaby att ingrodd påverkan i kökssocklar, under diskbänk och i fogar kvarstod och att "städarna säger det inte går bort". Vid den tredje städningen den 27 november användes även en produkt benämnd "Mögel bort". Detta bevisar inte att mögel var konstaterat eller att städpersonalen gjorde en mikrobiologisk bedömning. Däremot visar det att hanteringen efter den första flyttstädningen inkluderade riktade mögelinriktade rengöringsmedel och att professionell städning enligt den samtidiga rapporten inte kunde avlägsna all ingrodd påverkan. Eftersom Miljöförvaltningen hade denna information före beslutet bör det kunna klarläggas hur myndigheten värderade vad fastighetsägaren faktiskt beställt, varför dessa produkter användes, varför professionell städning inte räckte, vilken effekt åtgärderna hade och vilken betydelse behandlingarna hade för den senare okulära bedömningen.**
