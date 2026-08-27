@@ -1,153 +1,175 @@
-# Kanalrensning – samtida 5 november-källa och tidslucka 11 nov → 2 dec → 17 dec 2025
+# Kanalrensning – samtida källor och tidslucka 4 nov → 6 nov → 10/11 nov → 12 nov → 2 dec → 17 dec 2025
 
 **Datum för analys:** 27 augusti 2026  
-**Status:** Prioriterad bevis- och tidslinjeanalys. Ska hållas åtskild från faktatidslinjen tills varje senare led source-lockats i primärhandling/transkription.  
-**Primärkälla för 5 november:** `2. checklistan 11 november Anmälan om brister i lägenheten, Kilsgatan 3, lgh 1202- CAS-133640-Q5D1C8 .pdf`
+**Status:** Prioriterad bevis- och tidslinjeanalys. Denna version ersätter tidigare arbetsantagande att begreppet/konceptet kanalrensning först kom in i kommunikationen vid mötet 11 november.  
+**Primärkällor i denna uppdatering:**
+- `2. checklistan 11 november Anmälan om brister i lägenheten, Kilsgatan 3, lgh 1202- CAS-133640-Q5D1C8 .pdf` (daterad 5 november 2025)
+- `mail mellan mig och gaby 10 nove,ber .pdf` (mejlkedja 6–10 november 2025)
+- `Skickat- den 12 november 2025 10-49.pdf` (mejl till Jennifer dagen efter mötet)
 
-## 1. Ny viktig iakttagelse
+## 1. Viktig korrigering av tidigare arbetsposition
 
-Den uppladdade bristanmälan är daterad **5 november 2025**, alltså dagen efter driftteknikerbesöket den **4 november 2025** och före det första större mötet med Familjebostäder den **11 november 2025**.
+Den tidigare analysen byggde på att den mycket detaljerade 5 november-handlingen inte använder orden `kanalrensning` eller `rensning`, trots att driftteknikerbesöket 4 november återges utförligt.
 
-Dokumentet är 28 sidor långt och mycket detaljerat. Det beskriver driftteknikerbesöket flera gånger och anger bland annat att driftteknikern:
+Detta är fortfarande korrekt för **5 november-dokumentet**.
 
-- kontrollerade ventilationen,
-- konstaterade blockerad friskluft i flera rum,
-- bytte ventilöppningar i kök och badrum,
-- tog bort ljudisoleringsfilter från fönsterventiler,
-- och förklarade hur ventilationen därefter skulle arbeta.
+Men den nyuppladdade mejlkedjan visar att Erica redan den **6 november 2025** skrev att möblerna flyttades in innan driftteknikern kom och **"rengjorde ventilkanalerna"**. Därmed kan projektet inte längre säga att konceptet kanalrengöring/kanalrensning först uppstod vid mötet 11 november.
 
-Trots den detaljerade ventilationsbeskrivningen finns **ingen träff på ordet `kanalrensning` eller `rensning` i dokumentet**.
+**KORRIGERAD ARBETSPOSITION:**
 
-### Bevisvärde
+> Den 5 november beskriver Erica driftteknikerns ventilationsåtgärder utan att använda ordet kanalrensning. Den 6 november använder hon däremot själv formuleringen att driftteknikern hade "rengjorde ventilkanalerna". Detta visar att någon form av kanalrengöring fanns i hennes samtida förståelse före mötet 11 november. Det återstår fortfarande att fastställa om detta motsvarar driftteknikerns interna formulering "rensningen av kanal", en begränsad lokal rengöring eller den senare åtgärd som Jennifer den 2 december beskriver som något som ska ske.
 
-Detta är en viktig **samtida negativ bevisomständighet**:
-
-> **I Ericas mycket detaljerade skriftliga redogörelse dagen efter driftteknikerbesöket finns ingen uppgift om att hon då hade informerats om, uppfattat eller diskuterat att en kanalrensning hade utförts.**
-
-Det bevisar inte ensamt att ingen kanalrensning faktiskt utfördes. Men det är relevant för frågan **när begreppet kanalrensning först blev en uttrycklig del av ärendets gemensamma kommunikation och hur de senare uppgifterna uppstod.**
-
-## 2. Den tidsmässiga luckan som nu ska granskas
-
-Arbetsmaterialet pekar på följande sekvens:
+## 2. Samtida källkedja
 
 ### 4 november 2025 – driftteknikerbesök
-Caroline/drifttekniker kontrollerar och justerar ventilationen. Den senare identifierade driftanteckningen innehåller formuleringen **"rensningen av kanal"** i samband med forcerat flöde.
+Den identifierade driftanteckningen innehåller formuleringen **"rensningen av kanal"** i samband med att forcerat flöde uppges ha nått 35 l/s.
 
-**Viktig distinktion:** den interna/drifttekniska anteckningen och vad som kommunicerades till Erica vid besöket är inte nödvändigtvis samma sak.
+Samtidigt beskriver Ericas egna samtidiga texter konkreta åtgärder som byte/rengöring av ventilöppningar och borttagning av ljudisoleringsmaterial.
 
-### 5 november 2025 – Ericas detaljerade bristanmälan
-Erica återger driftteknikerbesöket utförligt men nämner inte kanalrensning eller rensning.
+**VERIFIERAT I PRIMÄRKÄLLA:** driftanteckningen ska styra exakt teknisk formulering.  
+**TEKNISK SAKKUNNIG / SOURCE-LOCK KRÄVS:** vad "rensningen av kanal" faktiskt omfattade fysiskt och om detta var en full kanalrensning i branschmässig mening.
 
-**VERIFIERAT I PRIMÄRKÄLLA:** 5 november-dokumentet saknar uttrycket kanalrensning/rensning och beskriver i stället byte av ventilöppningar, borttagning av filter och ventilationsfunktion.
+### 5 november 2025 – detaljerad bristanmälan
+Det 28-sidiga dokumentet beskriver 4 november-besöket flera gånger men använder inte orden `kanalrensning` eller `rensning`.
 
-### 11 november 2025 – första större mötet
-Enligt nuvarande arbetsposition är det först under detta möte, med bland andra Jennifer och Micke, som **begreppet kanalrensning blir en uttrycklig samtalspunkt mellan parterna**.
+Detta är relevant som samtida dokumentation av hur åtgärderna då beskrevs, men får inte längre användas för påståendet att Erica saknade all kännedom om kanalrengöring före mötet.
 
-**SOURCE-LOCK KRÄVS:** exakt ordalydelse, vem som introducerar begreppet, vad som sägs ha gjorts respektive ska göras, och om någon sträcka/datum anges måste låsas mot ljudfil/transkription.
+### 6 november 2025 – mejl till Gaby
+I mejlkedjan skriver Erica att möblerna flyttades in **"innan driftteknikern kom och rengjorde ventilkanalerna"**.
+
+I samma mejl beskriver hon 4 november-besöket mer konkret: driftteknikern bytte ventilöppningarna i kök och badrum, tog bort ljudisolering i fönsterventilerna och bad henne hålla fönstren stängda så ventilationen kunde arbeta. Erica uppger att lukt och huvudvärk kvarstod när fönstren stängdes.
+
+Gaby svarar därefter:
+
+> **"detta är en ny information för mig att ventilationen inte funkar, här ska vi felsöka vad problemet är."**
+
+och:
+
+> **"Det komplexa är just att det är i din lägenheten och inte någon annan vilket gör att det tar längre att förstå vad problemet är nånstans."**
+
+**BEVISMÄSSIG BETYDELSE:** även efter 4 november-åtgärderna beskrivs problemet internt av biträdande förvaltare som något som behöver **felsökas** och förstås. Detta är starkare och mer precist än ett påstående om att Familjebostäder redan då ansåg problemet slutligt löst.
+
+### 10 november 2025 – mejl till Gaby inför mötet
+Erica skriver: **"Jag träffar Jennifer i lägenheten imorgon"**.
+
+Detta låser mötesdatumet till **11 november 2025** tillsammans med 12 november-mejlets formulering om mötet "igår".
+
+Mejlet fokuserar på bostadens skick, inomhusmiljö, ventilation, lukt, hälsopåverkan och OVK. Det visar att Jennifer inför mötet hade fått en tydlig skriftlig beskrivning av att frågan inte bara gällde städning.
+
+### 11 november 2025 – mötet i lägenheten
+Mötet är nu **datumverifierat** genom samtidiga mejl 10 och 12 november.
+
+**SOURCE-LOCK KRÄVS FÖR INNEHÅLLET:** ljudfil/transkription ska styra om, när och av vem ordet `kanalrensning` användes under mötet, och om det sades att något redan hade gjorts eller skulle göras.
+
+Den nya 12 november-källan innebär att projektet inte får utgå från minnesbilden att kanalrensning definitivt diskuterades under mötet utan kontroll mot ljudfilen.
+
+### 12 november 2025 kl. 10:49 – mejl till Jennifer efter mötet
+Erica tackar Jennifer för mötet dagen innan och skriver:
+
+> **"Vi hann inte toucha på ämnet huvudvärken - luften - jag tror rengöring i kanal samt få in luft i klädkammaren är smart början. Få frisk att cirkulera."**
+
+Detta är en mycket viktig ny samtida uppgift.
+
+**Vad den visar:**
+- Erica uppfattade efter mötet att ämnet huvudvärk/luft inte hade hunnit behandlas ordentligt.
+- Hon beskriver **rengöring i kanal** som en möjlig/smart början framåt.
+- Formuleringen är framtids-/förslagsorienterad och passar dåligt med en förståelse att frågan redan var slutligt hanterad.
+
+**Vad den inte visar:**
+- att ingen kanalrengöring alls hade gjorts 4 november,
+- att Jennifer lovade kanalrensning under mötet,
+- att den senare `5 m`-uppgiften avser samma åtgärd,
+- eller att Jennifer hade en viss subjektiv kunskap eller avsikt.
 
 ### 2 december 2025 – Jennifer skriver att kanalrensning ska ske
 Enligt tidigare identifierat arbetsmaterial skriver Jennifer att kanalrensning **"kommer att ske"**.
 
-Detta är processuellt och bevismässigt viktigt eftersom formuleringen ligger **efter mötet den 11 november men före det andra mötet den 17 december**.
+Detta ligger nu i en tydligare kontext: efter 4 november-åtgärden, efter Gaby 6 november säger att problemet ska felsökas, efter 11 november-mötet och efter Ericas 12 november-förslag om rengöring i kanal.
 
-**SOURCE-LOCK KRÄVS:** originalmejlet 2 december ska styra exakt ordalydelse, tempus, vilket rum/system som avses och om åtgärden kopplas till tidigare utförd rensning.
+**SOURCE-LOCK KRÄVS:** originalmejlet 2 december ska styra exakt ordalydelse och vilket tekniskt arbete som avses.
 
-### 17 december 2025 – andra större mötet
-Vid det senare mötet förekommer enligt arbetsmaterial en uppgift om att cirka **fem meter** kanal redan skulle ha rensats.
+### 17 december 2025 – andra mötet
+Enligt arbetsmaterial förekommer senare uppgift om cirka fem meter kanalrensning.
 
-**SOURCE-LOCK KRÄVS:** exakt vem som säger detta, om det anges när rensningen skedde, var den skedde, om formuleringen är "5 m", "5 m upp" eller annat, samt hur detta förhåller sig till Jennifers 2 december-mejl om att rensning skulle ske.
+**SOURCE-LOCK KRÄVS:** exakt ordalydelse, talare, tidsangivelse och koppling till tidigare åtgärder.
 
-## 3. Den centrala kontrollfrågan
+## 3. Den verkliga tidsluckan efter den nya informationen
 
-Den nya luckan är alltså inte bara teknisk utan **kronologisk och kommunikativ**:
+Den centrala frågan är inte längre **när ordet kanalrensning först nämndes**.
 
-> **Hur går ärendet från att Erica den 5 november, direkt efter driftteknikerbesöket, beskriver ventilationen utförligt utan någon kanalrensning alls, till att kanalrensning blir en uttrycklig samtalspunkt vid mötet den 11 november, därefter till att Jennifer den 2 december skriver att kanalrensning ska ske, och sedan till att det vid mötet den 17 december uppges att cirka fem meter redan har rensats?**
+Den centrala frågan är:
 
-Denna kedja behöver source-lockas i primärkällor.
+> **Vilka olika kanalåtgärder avses i källorna, och är 4 november-rengöringen, Ericas 12 november-förslag om "rengöring i kanal", Jennifers 2 december-besked om att kanalrensning ska ske och den senare femmetersuppgiften samma åtgärd eller olika åtgärder?**
 
-## 4. Varför detta är viktigt
+Denna fråga är starkare eftersom den kan prövas objektivt mot datum, arbetsorder, driftanteckningar, ljudfiler och Familjebostäders senare uppgifter.
 
-Det finns nu potentiellt **tre olika informationsnivåer** som måste hållas isär:
+## 4. Tre möjliga huvudförklaringar
 
-1. **Driftteknikerns interna/tekniska anteckning** – innehåller "rensningen av kanal".
-2. **Vad Erica faktiskt fick veta och återgav direkt efter besöket** – 5 november-dokumentet nämner inte kanalrensning.
-3. **Vad Familjebostäder senare började kommunicera som planerad eller redan utförd åtgärd** – mötet 11 november, Jennifers 2 december-mejl och uppgiften vid 17 december-mötet.
+### A. 4 november var en begränsad/local kanalrengöring
+Driftteknikerns "rensningen av kanal" och Ericas "rengjorde ventilkanalerna" kan avse en begränsad rengöring i anslutning till don/kanal. Då kan 12 november och 2 december avse en **ytterligare eller mer omfattande kanalrensning**.
 
-Att dessa nivåer skiljer sig bevisar inte i sig att någon lämnat en felaktig uppgift. Men det skapar en konkret fråga om **när åtgärden utfördes, när den blev känd, vad som faktiskt kommunicerades och hur den senare femmetersuppgiften kan bindas till en primär utförandehandling.**
+Detta skulle kunna göra källorna förenliga, men kräver dokumentation som skiljer åtgärderna åt.
 
-## 5. Möjliga förklaringar som måste testas
+### B. 4 november var den kanalrensning som senare åberopas
+Om 4 november-åtgärden är samma åtgärd som den senare `5 m`-uppgiften måste det förklaras varför Erica 12 november fortfarande föreslår rengöring i kanal som en början och varför Jennifer 2 december beskriver kanalrensning som något som ska ske.
 
-### Alternativ A – rensning skedde 4 november men kommunicerades inte till Erica
-Detta skulle kunna förklara varför driftanteckningen nämner rensning men 5 november-dokumentet inte gör det.
+### C. Senare uppgifter avser en ny åtgärd mellan 12 november och 17 december
+Detta är tidsmässigt möjligt. Då bör det finnas en separat arbetsorder, bokning, driftanteckning eller utföranderapport som visar när den skedde och vad den omfattade.
 
-Då behöver primär dokumentation visa:
-- vilken kanal som rensades,
-- vem som utförde det,
-- metod och omfattning,
-- och varför Jennifer senare den 2 december skriver att kanalrensning ska ske.
+## 5. Kunskapsspåret hos Familjebostäder
 
-### Alternativ B – driftanteckningens "rensningen av kanal" avser en mindre/lokal åtgärd, medan Jennifer 2 december avser en annan eller mer omfattande kanalrensning
-Detta är fullt möjligt och får inte uteslutas.
+Den nya mejlkedjan är också viktig utanför kanalrensningen.
 
-Då måste de två åtgärderna skiljas åt genom:
-- datum,
-- kanal/ventilationspunkt,
-- åtkomstpunkt,
-- sträcka,
-- utförare,
-- arbetsorder,
-- effektkontroll.
+Den visar att Gaby 6 november, efter driftteknikerbesöket, svarar att uppgiften att ventilationen inte fungerar är ny för honom och att **"här ska vi felsöka vad problemet är"**. Han beskriver också problemet som komplext eftersom det enligt uppgiften uppträder i just denna lägenhet.
 
-### Alternativ C – den senare femmetersuppgiften är en efterhandsbeskrivning av 4 november-åtgärden
-Om så är fallet måste det visas vilken primär källa som binder just **fem meter** till 4 november.
+Detta ska användas sakligt:
 
-### Alternativ D – rensning skedde mellan 2 och 17 december
-Detta skulle vara förenligt med Jennifers framtidsform den 2 december och uppgift om utförd rensning vid 17 december-mötet.
+> **Efter 4 november-åtgärderna beskrev Familjebostäders biträdande förvaltare fortfarande situationen som ett problem som behövde felsökas och vars orsak behövde förstås.**
 
-Då bör det finnas arbetsorder, bokning, entreprenörs-/driftanteckning eller annan dokumentation från perioden.
+Det bevisar inte vad Gaby/Jennifer senare visste om teknisk orsak. Det är däremot en tydlig kunskaps- och positionsmarkör i november 2025.
 
 ## 6. Bevisdisciplin
 
-**VERIFIERAT I PRIMÄRKÄLLA:**
-- 5 november-dokumentet är daterat efter 4 november-besöket.
-- Det beskriver 4 november-besöket utförligt.
-- Det nämner inte "kanalrensning" eller "rensning".
+**VERIFIERAT I PRIMÄRKÄLLA**
+- 6 november använder Erica formuleringen att driftteknikern hade "rengjorde ventilkanalerna".
+- Gaby svarar att ventilation som inte fungerar är ny information och att problemet ska felsökas.
+- 10 november skriver Erica att hon träffar Jennifer "imorgon".
+- 12 november tackar Erica för mötet "igår", vilket tillsammans verifierar mötesdatum 11 november.
+- 12 november skriver Erica att de inte hann beröra huvudvärk/luft och föreslår "rengöring i kanal" som en smart början.
 
-**STARKT STÖD:**
-- Frånvaron är relevant eftersom dokumentet är långt, detaljerat och särskilt fokuserat på ventilation och de åtgärder driftteknikern gjorde.
+**STARKT STÖD**
+- Efter 4 november var orsaksfrågan fortfarande öppen i Familjebostäders egen kommunikation.
+- Kanalrengöring tycks inte ha betraktats som en slutligt avslutad fråga av Erica 12 november.
 
-**SOURCE-LOCK KRÄVS:**
-- att begreppet kanalrensning först introducerades i den gemensamma kommunikationen under mötet 11 november,
-- Jennifers exakta 2 december-formulering,
-- exakt femmetersuppgift vid 17 december,
-- kopplingen mellan driftanteckningen 4 november och senare femmetersuppgift.
+**SOURCE-LOCK KRÄVS**
+- exakt vad som sades om kanalrensning under 11 november-mötet,
+- Jennifers 2 december-mejl,
+- 17 december-ljudfilen,
+- den senare `5 m`/`5 m upp`-uppgiften och vilken primär åtgärd den avser.
 
-**KAN INTE FASTSTÄLLAS:**
-- att ingen rensning skedde 4 november enbart eftersom Erica inte skrev om den 5 november,
-- att Jennifers 2 december-mejl motsäger driftanteckningen innan det fastställts om de avser samma åtgärd,
-- exakt när femmetersrensningen utfördes utan primär arbetsdokumentation.
+**KAN INTE FASTSTÄLLAS**
+- att ingen kanalrengöring gjordes 4 november,
+- att kanalrensning först diskuterades 11 november,
+- att Jennifer medvetet lämnade motstridiga uppgifter,
+- att 4 november och 2 december avser samma tekniska åtgärd.
 
-## 7. Koppling till MÖD/Miljöförvaltningen
+## 7. Styrande formulering framåt
 
-Denna tidslucka ska kopplas till det befintliga process- och bevisfrågan om kanalrensningens bevisvärde:
-
-> **Vilken primär handling visar vilken kanalrensningsåtgärd som faktiskt utfördes, när den utfördes, vilken fysisk sträcka den omfattade och hur Miljöförvaltningen verifierade att den senare uppgiften om kanalrensning/fem meter avsåg en faktiskt dokumenterad åtgärd?**
-
-Det är särskilt relevant om myndigheten eller senare instanser har tillmätt kanalrensningen betydelse som genomförd teknisk åtgärd.
+> **Samtida mejl visar att någon form av rengöring av ventilkanal(er) fanns i Ericas förståelse redan den 6 november efter driftteknikerbesöket den 4 november. Samtidigt beskrev Familjebostäders biträdande förvaltare problemet som något som fortfarande behövde felsökas. Efter mötet den 11 november skrev Erica den 12 november att huvudvärk/luft inte hade hunnit behandlas och föreslog "rengöring i kanal" som en smart början. När Jennifer därefter den 2 december beskriver kanalrensning som en åtgärd som ska ske och en senare femmetersuppgift förekommer uppstår en konkret verifieringsfråga: avser källorna samma kanalåtgärd eller flera olika åtgärder, och vilken primär dokumentation binder respektive uppgift till datum, kanal, sträcka och utförande?**
 
 ## 8. Nästa source-lock
 
-Prioritera i denna ordning:
+1. 11 november-ljudfil/transkription: sök exakt efter `kanal`, `rens`, `ventilation`, `fem meter`, `5 meter`.
+2. Jennifers originalmejl 2 december.
+3. 17 december-ljudfil/transkription.
+4. Carolines originalanteckning 4 november.
+5. Arbetsorder/utföranderapporter november–december 2025.
+6. Familjebostäders uppgift till Miljöförvaltningen 15 januari 2026.
 
-1. ljudfil/transkription från **11 november 2025** – första uttryckliga kanalrensningsdiskussionen,
-2. Jennifers originalmejl **2 december 2025**,
-3. ljudfil/transkription från **17 december 2025**,
-4. Carolines primära driftanteckning från **4 november 2025**,
-5. arbetsorder/utföranderapport för rensningen,
-6. Familjebostäders uppgift till Miljöförvaltningen den **15 januari 2026** om kanalrensning/"5 m upp".
+## 9. Koppling till MÖD/Miljöförvaltningen
 
-## 9. Styrande formulering
+Den processuella frågan kvarstår och blir nu mer exakt:
 
-Tills dessa led är source-lockade ska projektet använda:
+> **Vilken specifik kanalåtgärd verifierade Miljöförvaltningen – 4 november-rengöringen, en senare kanalrensning eller båda – och vilken primär dokumentation visar datum, fysisk omfattning och resultat för den åtgärd som tillmättes betydelse i tillsynen?**
 
-> **Den samtida bristanmälan den 5 november återger driftteknikerbesöket den 4 november detaljerat men nämner ingen kanalrensning. Kanalrensning framträder därefter som en uttrycklig fråga i den senare kommunikationen. Exakt när den uppgivna rensningen utfördes och hur 4 november-anteckningen, Jennifers 2 december-besked och den senare femmetersuppgiften förhåller sig till varandra måste därför fastställas genom primär dokumentation.**
+Detta ska kopplas till befintliga spår om `fråga → svar → kommunicering → bedömning`, kanalrensningens tekniska räckvidd och dokumentationsluckan kring `5 m upp`.
