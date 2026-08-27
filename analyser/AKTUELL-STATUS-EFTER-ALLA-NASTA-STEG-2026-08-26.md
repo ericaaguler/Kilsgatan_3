@@ -72,6 +72,23 @@ Arbetsposition:
 - Den nya hyresrätten har LÅG direkt relevans men MEDEL i separat remedyspår,
 - Lägenhetsbyten och andrahandsuthyrning har LÅG / normalt ingen direkt relevans för denna MÖD-/myndighetsanalys.
 
+### NY INFO 27 augusti – kanalrensning och kunskapsläge i november 2025
+- `analyser/KANALRENSNING-SAMTIDA-KALLA-5NOV-OCH-TIDSGAP-11NOV-2DEC-17DEC-2025.md`
+
+Nya primärmejl från 6–12 november har ändrat och preciserat arbetspositionen:
+
+- 5 november-handlingen beskriver driftteknikerbesöket 4 november detaljerat men använder inte ordet `kanalrensning`/`rensning`.
+- 6 november skriver Erica däremot att driftteknikern hade **"rengjorde ventilkanalerna"**. Därmed får projektet inte längre säga att konceptet kanalrengöring först uppstod vid mötet 11 november.
+- Samma 6 november svarar Gaby att uppgiften att ventilationen inte fungerar är ny för honom och att **"här ska vi felsöka vad problemet är"**, samt att det är komplext eftersom problemet enligt uppgiften gäller just lägenheten. Detta är en viktig kunskaps-/positionsmarkör: efter 4 november-åtgärden beskrev FB fortfarande problemet som något som behövde förstås/felsökas.
+- 10 november skriver Erica att hon träffar Jennifer **"imorgon"** och 12 november tackar hon för mötet **"igår"**. Mötesdatumet **11 november 2025** är därmed verifierat genom två samtidiga mejl.
+- 12 november skriver Erica efter mötet: **"Vi hann inte toucha på ämnet huvudvärken - luften - jag tror rengöring i kanal samt få in luft i klädkammaren är smart början."** Detta visar att hon efter mötet såg kanalrengöring som en möjlig fortsatt åtgärd och att huvudvärk/luft enligt hennes egen samtidiga beskrivning inte hunnit behandlas ordentligt.
+- Exakt vad som sades om kanalrensning under själva 11 november-mötet är därför fortsatt **SOURCE-LOCK KRÄVS** mot ljudfil/transkription. Projektet ska inte utgå från minnesbilden att begreppet definitivt introducerades eller beslutades där.
+- När Jennifer 2 december senare beskriver kanalrensning som något som ska ske och en senare uppgift om cirka fem meter förekommer blir huvudfrågan: **är 4 november-rengöringen, 12 november-förslaget, 2 december-åtgärden och den senare femmetersuppgiften samma kanalåtgärd eller flera olika åtgärder?**
+
+Styrande formulering:
+
+> **Samtida mejl visar att någon form av rengöring av ventilkanal(er) fanns i Ericas förståelse redan den 6 november efter driftteknikerbesöket. Samtidigt beskrev Familjebostäders biträdande förvaltare problemet som något som fortfarande behövde felsökas. Efter mötet den 11 november föreslog Erica den 12 november "rengöring i kanal" som en smart början. När Jennifer därefter den 2 december beskriver kanalrensning som något som ska ske och en senare femmetersuppgift förekommer måste det fastställas om källorna avser samma åtgärd eller flera separata åtgärder.**
+
 ### Standardprotokoll för varje nytt uppladdat dokument
 - `analyser/PROMPT-GRANSKA-NYTT-DOKUMENT-MOT-FYRA-JURIDISKA-PDFER-2026-08-26.md`
 
@@ -100,7 +117,7 @@ Före extern slutversion till jurist/domstol ska särskilt följande kontrollera
 1. Miljöförvaltningens kedja 11/12 mars → 18 mars → 9 april → faktisk begäran till Familjebostäder → Familjebostäders svar → komplettering 9 april → beslut 13 april.
 2. Exakt svarstid i begäran till Familjebostäder och relationen till beslutsdatum 13 april.
 3. OVK 8 november 2022:s exakta system-/adressräckvidd.
-4. Primär arbetsorder/utföranderapport för kanalrensning 2025 och uppgiften om cirka 5 m.
+4. Kanalrensningskedjan ska nu source-lockas som flera möjliga åtgärder: 4 nov driftanteckning/kanalrengöring → 11 nov ljud → 12 nov uppföljningsmejl → 2 dec Jennifer → 17 dec ljud → 15 jan uppgift till MF → arbetsorder/utföranderapport.
 5. Familjebostäders exakta originalformuleringar om brukbarhet och fullgod inomhusmiljö.
 6. De starkaste vittnes-/förstahandsuppgifterna i original.
 7. MMD-domens exakta överklagandefrist och fullföljdshänvisning.
@@ -129,6 +146,7 @@ När nästa dokument laddas upp ska standardprompten för fyr-PDF-granskning anv
 Prioriterad arbetsordning:
 - MÖD-överklagandet: tidskritiskt,
 - source-lock av 11/12 mars–13 april-kedjan och OVK-räckvidden,
+- source-lock av kanalrensningskedjan 4 nov → 11 nov → 12 nov → 2 dec → 17 dec → 15 jan,
 - fortsatt offentlighets-/aktarbete parallellt,
 - teknisk sakkunnig för ventilations-/kanal-/Hyresnämndsspår,
 - därefter juristprioritering av Hyresnämnd, hyresnedsättning/återbetalning, ny tillsyn och eventuellt JO-spår.
