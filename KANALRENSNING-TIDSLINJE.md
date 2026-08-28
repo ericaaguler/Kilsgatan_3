@@ -1,0 +1,42 @@
+# Tidslinje – kanalrensning och ventilation
+
+**Fastighet:** Kilsgatan 3, Farsta  
+**Lägenhet:** 1202  
+**Objektnummer:** 60020562
+
+Syfte: att kronologiskt redovisa vad som observerats, utlovats, uppgetts och dokumenterats om kanalrensning och ventilation i lägenhet 1202. Tidslinjen skiljer kanalrensning från OVK. En OVK är inte i sig dokumentation av när en faktisk kanalrensning senast utfördes i lägenheten.
+
+| Datum | Vem | Vad sades/gjordes | Källstatus |
+|---|---|---|---|
+| **4 nov 2025** | **Caroline Blomberg / drifttekniker Familjebostäder** | Caroline undersöker ventilationen i lägenheten. Tilluftsventiler bakom fönstergaller är blockerade med ljudisoleringspapper i båda sovrummen och vardagsrummet. Pappret tas bort. Luftflöden mäts och justeringar görs. I Carolines senare utlämnade anteckningar redovisas mätning, justering och återställning av tilluft. Någon dokumenterad kanalrensning om fem meter framgår inte av anteckningarna. | Driftteknikeranteckningar + inspelning/Erica |
+| **6 nov 2025** | **Erica Güler → Gaby Khalaf / Familjebostäder** | Erica skriver efter driftteknikerbesöket att ljudisolering tagits bort ur fönsterventilerna och att hon ombetts att inte vädra så att ventilationen ska arbeta, men att lukten då blir starkare och att hon får huvudvärk kort efter att fönstren stängts. | Dokumenterat mejl |
+| **6 nov 2025** | **Gaby Khalaf / Familjebostäder → Erica Güler** | Gaby svarar: ”Svar: detta är en ny information för mig att ventilationen inte funkar, här ska vi felsöka vad problemet är. Det komplexa är just att det är i din lägenheten och inte någon annan vilket gör att det tar längre att förstå vad problemet är nånstans.” | Dokumenterat mejl |
+| **11 nov 2025** | **Jennifer Ehlin, Micke m.fl. / Familjebostäder – första mötet i lägenheten** | Jennifer föreslår kanalrensning. Efter att kanalrensning tas upp uppger Micke att en sådan åtgärd behöver göras i samtliga tre lägenheter i ventilationsstammen. | Mötes-/ljuduppgift; exakt ordalydelse ska vid behov låsas mot ljudfil |
+| **11 nov 2025** | **Familjebostäder / frånluftsdon i köket** | Frånluftsdonet i köket återmonteras inte vid mötet utan lämnas ur sitt normala läge. | Förstahandsuppgift Erica / foto kan knytas till händelsen |
+| **2 dec 2025** | **Jennifer Ehlin / Familjebostäder → Erica Güler** | Jennifer anger skriftligen att kanalrensning kommer att ske. Kanalrensningen beskrivs därmed som en kommande åtgärd. | Dokumenterat mejl |
+| **17 dec 2025** | **Jennifer Ehlin / Familjebostäder – andra mötet i lägenheten** | Jennifer uppger att Caroline har gjort en ”kanalrensning i fem meter” och beskriver detta som något ”vi inte brukar göra i lägenheter”. | Ljudinspelning / transkriptspår |
+| **17 dec 2025** | **Jennifer Ehlin / Familjebostäder – andra mötet i lägenheten** | Jennifer uppger att husvärden Peter ska torka i ventilationen i köket med trasa. Någon arbetsorder, utföranderapport eller annan handling som vid mötet styrker den uppgivna femmetersrensningen visas inte för Erica. | Ljudinspelning / förstahandsuppgift Erica |
+| **22 dec 2025** | **Jennifer Ehlin / Familjebostäder → Miljöförvaltningen** | Jennifer skickar Familjebostäders kompletterande information och underlag till Miljöförvaltningen i ärende 2025-23696. | Dokumenterat mejl |
+| **23 dec 2025** | **Miljöförvaltningen → Erica Güler** | Miljöförvaltningen skickar Familjebostäders kompletterande handlingar till Erica för yttrande. Erica får då tillgång till Carolines anteckningar från ventilationsbesöket den 4 november. | Dokumenterat mejl + bilagor |
+| **23 dec 2025** | **Erica Güler / granskning av Carolines anteckningar** | I anteckningarna framgår luftflödesmätning, justering vid frånluftsdon och återställning av tilluft/fönsterventiler. Det framgår inte att Caroline utfört en fem meter lång kanalrensning. | Driftteknikeranteckningar |
+| **6 jan 2026** | **Erica Güler → Miljöförvaltningen** | Erica påtalar att uppgifterna om kanalrensningen inte går ihop och begär spårbar dokumentation om bland annat datum, arbetsorder, utförare, metod och omfattning. | Dokumenterat yttrande/mejl |
+| **jan 2026 – exakt mottagningsdatum behöver låsas** | **Familjebostäders handlingar till Miljöförvaltningen** | I material som Erica senare hänvisar till uppges att kanalrensning genomfördes i fastigheten under perioden **22–30 mars 2021**, men att **lägenhet 1202 inte gav tillträde vid detta tillfälle**. Uppgiften visar därför inte att lägenhet 1202 kanalrensades 2021. Exakt vilken bilaga och vilket datum Erica fick handlingen ska låsas mot originalmejlet från Miljöförvaltningen. | Familjebostäders uppgift återgiven i Ericas senare mejl; primärkällan ska låsas |
+| **28 jan 2026** | **Erica Güler → Emma Sega / Hyresgästföreningen** | Erica återger uppgiften att fastigheten kanalrensades 22–30 mars 2021 men att lägenhet 1202 inte gav tillträde. Hon lyfter att den senare uppgivna rensningen cirka fem meter upp i kökskanalen saknar datum och protokoll och ställer den centrala frågan om när en faktisk och fullständig kanalrensning senast genomfördes i lägenhet 1202. | Dokumenterat mejl |
+| **28 jan 2026** | **Emma Sega / Hyresgästföreningen** | I ett förslag till återkoppling till Familjebostäder skriver Emma: ”Hyresgästen uppger att kanalrensning har utlovats av er, men att detta ännu inte har genomförts.” | Dokumenterat mejl |
+| **10 feb 2026** | **Erica Güler → Miljöförvaltningen** | Under rubriken ”Kanalrensning – dokumentation och historik” begär Erica att fastighetsägaren redovisar **när fullständig kanalrensning senast genomfördes i lägenheten, inklusive dokumentation**, om kanalrensning utförts regelbundet eller om det förekommit längre uppehåll, även före 2021. | Dokumenterat mejl |
+| **11 mar 2026** | **Peter / husvärd Familjebostäder → Erica Güler** | Peter informerar Erica om att han varit i lägenheterna ovanför och under 1202 och tagit bort ljudisoleringspapper som blockerade tilluftsventilerna även där. | Förstahandsuppgift/inspelning |
+| **11 mar 2026** | **Erica Güler → Hyresnämnden** | Erica uppger att kanalrensning har uppgetts vara utförd eller planerad, men att den dokumentation hon tagit del av inte verifierar att en fullständig kanalrensning genomförts. | Dokumenterat mejl |
+| **7 apr 2026** | **Erica Güler → Stadsbyggnadskontoret** | Erica tar upp kanalrensningen i sin formella begäran om tillsyn enligt PBL och uppger att dokumentation saknas i centrala delar, bland annat avseende OVK, kanalrensning och sanering efter brand. | Myndighetsärende |
+| **26 aug 2026** | **Erica Güler → Jennifer Ehlin / Familjebostäder** | Erica begär på nytt att den uppgivna kanalrensningen preciseras. Hon frågar när femmetersrensningen utfördes, hur den genomfördes tekniskt, från vilka åtkomstpunkter arbetet gjordes, vilken kanalsträcka som rensades, vilken metod som användes samt begär arbetsorder, utföranderapport och efterkontroll. | Dokumenterat mejl |
+| **27 aug 2026** | **Jennifer Ehlin / Familjebostäder → Erica Güler** | Jennifer besvarar inte frågorna om kanalrensningen utan skriver: ”Jag återkommer med information kring dina AO som du har frågor kring.” | Dokumenterat mejl |
+| **28 aug 2026 – status** | **Öppen verifieringsfråga** | I den granskade Outlook-korrespondensen har inget svar lokaliserats som anger **när en faktisk och fullständig kanalrensning senast genomfördes i lägenhet 1202, objekt 60020562**, eller som redovisar den efterfrågade dokumentationen. Det finns inte heller något synligt vidarebefordrat svar till Emma Sega som besvarar denna fråga. | Status efter Outlook-granskning 28 aug 2026 |
+
+## Kärnfråga som tidslinjen lämnar öppen
+
+**När genomfördes senast en faktisk och fullständig kanalrensning i lägenhet 1202, objekt 60020562, och vilken primär dokumentation visar datum, utförare, metod, omfattning och efterkontroll?**
+
+Detta är en separat fråga från OVK. Att OVK har genomförts eller godkänts visar inte i sig när kanalerna i just lägenhet 1202 senast rensades.
+
+## Statusnotering om 1 september 2026
+
+Den 1 september 2026 har ännu inte inträffat när denna version skrivs (28 augusti 2026). Om inget svar har inkommit då kan statusraden uppdateras till: **”1 sep 2026 – fortfarande inget redovisat svar på när fullständig kanalrensning senast genomfördes i lägenhet 1202, objekt 60020562.”** Den formuleringen ska inte göras till faktauppgift förrän datumet har passerat och inkommande e-post har kontrollerats.
