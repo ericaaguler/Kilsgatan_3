@@ -2,8 +2,6 @@
 
 Kilsgatan 3, lägenhet 1202, Farsta
 
-Syfte: enkel kronologisk redovisning av datum, vem och vad som sades eller gjordes. Analys och slutsatser hålls utanför tidslinjen.
-
 | Datum | Vem | Vad som sades/gjordes |
 |---|---|---|
 | **16 nov 2017** | **Storstockholms brandförsvar** | Brand-/rökhändelse på Kilsgatan 3. Räddningsinsats genomförs. |
@@ -25,9 +23,3 @@ Syfte: enkel kronologisk redovisning av datum, vem och vad som sades eller gjord
 | **14 aug 2026** | **Storstockholms brandförsvar** | Brandhändelsen verifieras genom händelserapport 2017010144. Uppgifter lämnas även om räddningsinsatsen och fastighetsägarens ansvar efter avslutad insats. |
 | **17 aug 2026** | **Restvärderäddning / Tim Nyqvist** | Uppger att någon rapport för händelsen inte har kunnat lokaliseras hos Restvärderäddning och hänvisar till försäkringsbolag som möjlig dokumentationsägare. |
 | **24 aug 2026** | **Stadsbyggnadskontoret / Sheida Rowshani** | Uppger att dokument om eventuella kontroller efter en brand inte finns registrerade hos Stadsbyggnadskontoret och inte är handlingar som kontoret vanligtvis kräver efter en brand. |
-
-## Kontrollpunkter före extern användning
-
-- Exakta uttalanden från mötet den **11 november 2025** om branden ska verifieras mot ljudoriginal/transkription.
-- Uppgifterna om **7 november 2025** och mötet med den äldre kvinnliga grannen den **11 november 2025** är tills vidare återgivna som Ericas uppgifter och bör, om möjligt, styrkas med vittnesuppgift eller annan samtida dokumentation.
-- Tidslinjen visar endast vad som sagts eller gjorts och tar inte ställning till om branden 2017 är orsak till dagens inomhusmiljöproblem.
