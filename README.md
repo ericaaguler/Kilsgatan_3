@@ -25,6 +25,11 @@ Repositoryt ska inte innehålla:
 - analyser från samtal,
 - sammanfattningar som förstärker eller förändrar originalets innebörd.
 
+## Centrala tematiska tidslinjer
+
+- [Brandtidslinje – Kilsgatan 3, lägenhet 1202](BRAND-TIDSLINJE.md)
+- [Tidslinje – kanalrensning och ventilation, lägenhet 1202 / objekt 60020562](KANALRENSNING-TIDSLINJE.md)
+
 ## Ingångar
 
 - [Tidslinje](TIDSLINJE.md)
