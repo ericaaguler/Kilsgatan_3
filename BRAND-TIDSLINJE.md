@@ -1,67 +1,105 @@
-# Brandtidslinje – Kilsgatan 3, lägenhet 1202
+# Brandtidslinje – brand, sanering och dokumentationslucka
 
-Syfte: att visa när uppgiften om branden först kom fram, hur den därefter bekräftades eller motsades, och hur dokumentationsspåret efter branden senare har sökts genom Familjebostäder, räddningstjänst, försäkringsbolag, Restvärderäddning och Stadsbyggnadskontoret.
+**Objekt:** Kilsgatan 3, lägenhet 1202, Farsta  
+**Syfte:** Visa i kronologisk ordning vad som är känt om brand-/rökhändelsen, när Familjebostäder fick kännedom om uppgiften, när branden förnekades, vilka frågor Erica ställde, hur motstridiga besked uppstod och vilket underlag som fortfarande saknas för att verifiera efterföljande sanering/återställning och bedömningen av lägenhetens inomhusmiljö.
 
-Viktigt: tidslinjen skiljer mellan **vittnesuppgifter**, **partuppgifter** och **dokumenterade externa besked**. Den fastslår inte att branden orsakar dagens problem och fastslår inte att sanering uteblev.
+**Viktigt:** Tidslinjen fastslår inte att branden orsakar dagens hälsobesvär och fastslår inte att sanering uteblev. Den visar den dokumentations- och utredningslucka som fortfarande måste kunna besvaras.
 
-| Datum | Vem | Vad som sades/gjordes | Källstatus |
-|---|---|---|---|
-| **16 nov 2017** | **Storstockholms brandförsvar** | Brand-/rökhändelse inträffar på Kilsgatan 3. Räddningsinsats genomförs och avslutas samma kväll. Händelsen verifieras senare genom SSBF:s händelserapport 2017010144. | Extern handling |
-| **16 nov 2017** | **Storstockholms brandförsvar / Familjebostäder** | Enligt senare inhämtad händelserapport ventileras lägenheten i samband med insatsen och Familjebostäder kontaktas. Efter avslutad räddningsinsats ligger det fortsatta ansvaret på fastighetsägaren. | Extern handling |
-| **16 nov 2017** | **Thomas Duvsjö, granne** | Thomas har senare uppgett att han ringde 112 i samband med brandhändelsen. | Vittnesuppgift |
-| **7 nov 2025** | **Erica Güler + Thomas Bartsch** | Erica och Thomas Bartsch, Ericas vän och själv hyresgäst hos Familjebostäder, vistas tillsammans i lägenheten. Thomas Bartsch har egen erfarenhet av Familjebostäder som hyresvärd. | Förstahandsuppgift Erica / möjlig vittnesuppgift Bartsch |
-| **7 nov 2025** | **Thomas Duvsjö** | Erica och Thomas Bartsch träffar Thomas Duvsjö. Thomas Duvsjö uppger att det tidigare har brunnit i lägenheten. Han lämnar även uppgift om tidigare boendesituation/missbruksproblematik. Den senare delen ska behandlas som vittnesuppgift och inte som fastställt faktum. | Vittnesuppgift |
-| **10 nov 2025** | **Erica Güler + Thomas Bartsch** | Erica och Thomas går tillsammans igenom och felsöker lägenheten inför Familjebostäders möte den 11 november. De sätter upp post-it-lappar vid brister som ska tas upp. Under vistelsen blir Thomas Bartsch dålig, behöver sätta sig och ber om att balkongdörren ska hållas öppen för frisk luft. | Ericas förstahandsanteckning; delvis stöd i SMS-kedja |
-| **10 nov 2025** | **Äldre kvinnlig granne i lgh 1102** | Erica och Thomas Bartsch träffar kvinnan som bor under Erica. Hon uppger att det har brunnit i lägenheten 1202. Erica och Thomas blir inbjudna i hennes lägenhet. Branduppgiften ska behandlas som vittnesuppgift. | Vittnesuppgift / Ericas förstahandsanteckning |
-| **11 nov 2025** | **Thomas Bartsch / Gaby Khalaf / övriga mötesdeltagare** | Vid 1:a mötet med Familjebostäder i lägenheten säger Thomas Bartsch enligt Ericas förstahandsanteckning inför samtliga närvarande att en oberoende granne har uppgett att det har brunnit i lägenheten. Gaby svarar att uppgiften inte stämmer. Thomas frågar varför en oberoende granne skulle säga att det har brunnit om uppgiften inte stämde. Enligt Ericas anteckning bemöter ingen annan uppgiften. | Ericas förstahandsanteckning; mötet i sig source-lockat genom B0100/B0101 |
-| **24 nov 2025** | **Erica Güler → Familjebostäder** | Erica skriver om brandhistoriken och behovet av sanering/ventilationsrengöring. Hon skriver att branden är dokumenterad och att lägenheten tidigare stått tom under perioder då fastighetsägaren haft möjlighet att kontrollera och åtgärda lägenheten. | Dokumenterat mejl |
-| **24 nov 2025** | **Gaby Khalaf / Familjebostäder** | Svarar: ”det finns som sagt ingen brand situation i denna lägenhet, vi ser inget dokumenterad från vår sida det betyder att det är inget sådant som har inträffat här.” | Dokumenterat mejl |
-| **25 nov 2025** | **Gaby Khalaf / Familjebostäder** | Gaby skriver: ”Jag ser inte heller att det har funnits någon brand i denna lägenhet, så vet inte vart du har fått detta ifrån” och uppger samtidigt att lägenheten tidigare varit tomställd av andra anledningar. | Dokumenterat mejl |
-| **28 nov 2025 kl. 10:27** | **Erica Güler → Gaby Khalaf, kopia Jennifer Ehlin** | Erica skriver att tre grannar oberoende av varandra berättat om branden den 16 november 2017 och att händelsen finns dokumenterad via Brottsplatskartan/Polisens händelserapport med uppgifter om kraftig rökutveckling. Hon frågar uttryckligen: ”Har lägenheten någonsin sanerats efter brandtillbudet?” | Dokumenterat mejl, B0139/B0140-tråden |
-| **28 nov 2025 kl. 11:18** | **Jennifer Ehlin / Familjebostäder** | Jennifer svarar i samma mejltråd och föreslår ett nytt platsmöte den 2 december i stället för fortsatt mejlande. Hon besvarar inte i detta svar frågan om brand eller om lägenheten någonsin sanerats efter brandtillbudet. | Dokumenterat mejl, B0140 |
-| **30 nov 2025** | **Erica Güler → Jennifer Ehlin** | Erica skriver att huvudfrågan fortfarande är obesvarad och frågar uttryckligen: ”Har lägenheten någonsin sanerats efter brandtillbudet den 16 november 2017?” | Dokumenterat mejl |
-| **30 nov 2025** | **Erica Güler → Miljöförvaltningen** | Erica anmäler problem med inomhusmiljön. Brandhistorik och oklarhet kring eventuella saneringsåtgärder ingår i anmälan. | Myndighetsärende |
-| **1 dec 2025** | **Miljöförvaltningen → Familjebostäder** | Miljöförvaltningen kommunicerar anmälan till Familjebostäder och begär yttrande samt redovisning av vilka utrednings- och åtgärdsåtgärder som genomförts eller planerats. | Myndighetsuppgift |
-| **2 dec 2025** | **Jennifer Ehlin / Familjebostäder** | Jennifer svarar: ”Självklart har lägenheten sanerats efter en eventuell brand. I annat fall skulle det lukta brandrök och köket skulle vara sotskadat.” | Dokumenterat mejl |
-| **2 dec 2025** | **Jennifer Ehlin / Familjebostäder** | Jennifer skriver samtidigt: ”Jag har ingen dokumentation om detta då det skedde för snart 9 år sedan”, och hänvisar till Familjebostäders rutiner vid brand. | Dokumenterat mejl |
-| **2 dec 2025** | **Jennifer Ehlin / Familjebostäder** | Jennifer skriver även att de boende ”säkert” blivit evakuerade och att det ”tog säkert tid för oss att sanera lägenheten”, men att fastighetssystemet inte innehåller så gammal information. | Dokumenterat mejl |
-| **10 dec 2025 kl. 22:37** | **Erica Güler → Jennifer Ehlin** | Erica skriver under rubriken ”Motsägelsen: Har det brunnit eller inte?” att hon fått helt olika uppgifter från Familjebostäder: Gaby skriver att ingen brand förekommit medan Jennifer skriver att lägenheten ”självklart sanerats efter en eventuell brand”. Erica skriver att den korrekta versionen måste redovisas skriftligt. | Dokumenterat mejl |
-| **10 dec 2025** | **Erica Güler → Jennifer Ehlin** | Erica skriver: ”Precis som en läkare dokumenterar en operation i journalen – och journalen ligger kvar oavsett om det gått 1 år, 9 år eller 40 år – ska även en saneringsåtgärd finnas registrerad.” | Dokumenterat mejl |
-| **10 dec 2025** | **Erica Güler → Jennifer Ehlin** | Erica skriver att frågan är avgörande för att förstå varför lukten fortfarande kvarstår trots tre städningar, starkare medel och ytterligare ingrepp. | Dokumenterat mejl |
-| **11 dec 2025** | **Erica Güler → Miljöförvaltningen** | Erica kompletterar miljöärendet med ytterligare uppgifter. | Myndighetsärende |
-| **7 apr 2026** | **Erica Güler → Stadsbyggnadskontoret** | Erica lämnar in tillsynsanmälan. Brand-/saneringsfrågan och Familjebostäders motstridiga uppgifter ingår i underlaget. Dnr 2026-06369. | Myndighetsärende |
-| **9 aug 2026 kl. 17:07** | **Erica Güler → Storstockholms brandförsvar** | Begär allmänna handlingar och sakkunnigt klargörande om brandhändelsen den 16 november 2017, vad som gjordes efter insatsen, ansvarsfördelning och vad som idag kan verifieras. | Dokumenterat mejl |
-| **10 aug 2026 kl. 15:12** | **Erica Güler → S:t Erik Försäkring** | Begär handlingar och uppgifter för att klarlägga om Familjebostäder var försäkrat vid händelsen och om det finns skade- eller dokumentationsspår hos försäkringsgivaren. | Dokumenterat mejl |
-| **11 aug 2026** | **S:t Erik Försäkring** | Bekräftar att Familjebostäder var försäkrat genom S:t Erik Försäkring den 16 november 2017. | Externt dokumenterat besked |
-| **11 aug 2026** | **S:t Erik Försäkring** | Uppger att det inte finns och inte har funnits något skadeärende för den aktuella skadan och att skadan inte anmäldes till S:t Erik Försäkring. | Externt dokumenterat besked |
-| **11 aug 2026** | **S:t Erik Försäkring** | Uppger att eftersom skadan inte anmäldes finns inga skadehandlingar hos bolaget och att någon gallring därför inte har skett. | Externt dokumenterat besked |
-| **14 aug 2026** | **Storstockholms brandförsvar / Max Ekberg** | SSBF skickar händelserapport 2017010144 och uppger att lägenheten ventilerades för att minimera fortsatta rök- och sotskador. Det framgår inte av deras dokumentation hur det fortsatta restvärdesarbetet genomfördes. Kontakt med Familjebostäder framgår. | Extern handling / myndighetsbesked |
-| **14 aug 2026** | **Storstockholms brandförsvar / Max Ekberg** | Uppger att SSBF efter avslutad insats inte har formellt ansvar för efterföljande hantering av byggnad/konstruktion; ansvaret ligger på fastighetsägaren. Hänvisar även till berört försäkringsbolag och Restvärderäddning för fortsatt dokumentationsspår. | Myndighetsbesked |
-| **17 aug 2026** | **Brandskyddsföreningen Restvärderäddning / Tim Nyqvist** | Uppger att någon rapport avseende händelsen inte har kunnat lokaliseras hos Restvärderäddning. Exakt datum för Ericas första utgående kontakt ska låsas mot originalmejlet när det lokaliserats. | Externt dokumenterat besked |
-| **24 aug 2026** | **Stadsbyggnadskontoret / Sheida Rowshani** | Uppger att handlingar om eventuella kontroller efter brand inte finns registrerade hos Stadsbyggnadskontoret och att sådana handlingar inte generellt behöver lämnas in dit efter en brand. | Myndighetsbesked |
-| **28 aug 2026** | **Stadsbyggnadskontoret / Jenny Hamrin** | Uppger att Stadsbyggnadskontoret har börjat handlägga tillsynsärendet och ska utreda om Familjebostäder har uppfyllt sina skyldigheter enligt PBL. | Myndighetsbesked |
-| **28 aug 2026** | **Stadsbyggnadskontoret / Jenny Hamrin** | Uppger att SBK har efterfrågat uppgifter från Familjebostäder och avvaktar deras svar till 20 september 2026 innan fortsatt handläggning. | Myndighetsbesked |
+---
 
-## Kvarstående luckor i novemberkedjan
+## Kronologisk tidslinje
 
-Följande ska fortfarande kontrolleras innan novemberdelen betraktas som komplett:
+| Datum | Vem | Vad som sades/gjordes | Betydelse / lucka | Källstatus |
+|---|---|---|---|---|
+| **16 nov 2017** | **Storstockholms brandförsvar / Familjebostäder** | Brand-/rökhändelse inträffar i lägenheten. SSBF genomför räddningsinsats. Lägenheten ventileras för att minimera fortsatta rök- och sotskador. Kontakt etableras med Familjebostäder. | Brandhändelsen är inte längre en fråga om muntliga rykten. Extern myndighetshandling verifierar händelsen och kontakt med fastighetsägaren. | Extern handling, SSBF händelserapport 2017010144 |
+| **16 nov 2017** | **Storstockholms brandförsvar / fastighetsägaren** | SSBF:s senare besked är att det inte framgår av deras dokumentation hur det fortsatta restvärdesarbetet genomfördes. Efter avslutad insats ligger ansvaret för byggnad/konstruktion hos fastighetsägaren. | Här uppstår den centrala historiska dokumentationsfrågan: vad gjorde Familjebostäder efter att SSBF lämnade platsen? | SSBF / Max Ekberg, dnr 3934/2026 |
+| **7 nov 2025** | **Erica Güler / Thomas Bartsch / Thomas Duvsjö** | Erica och vännen Thomas Bartsch träffar grannen Thomas Duvsjö. Han uppger att det tidigare har brunnit i lägenheten. | Första dokumenterade delen av 2025 års vittneskedja. | Vittnesuppgift / Ericas förstahandsuppgift |
+| **10 nov 2025** | **Erica Güler / Thomas Bartsch** | Erica och Thomas går igenom och felsöker lägenheten inför Familjebostäders första möte. De sätter upp post-it-lappar vid brister. Thomas blir dålig, behöver sätta sig och ber om öppen balkongdörr för frisk luft. | Hälsoreaktion före FB-mötet registreras separat från brandorsaksfrågan. | Ericas förstahandsanteckning; delvis stöd i SMS-kedja |
+| **10 nov 2025** | **Erica Güler / Thomas Bartsch / kvinna i lgh 1102** | Erica och Thomas träffar kvinnan som bor under Erica. Hon uppger att det har brunnit i lägenhet 1202. De blir inbjudna i hennes lägenhet. Erica upplever att luften där inte är lika tung och observerar skillnader i köksutförandet. | Ytterligare oberoende vittnesuppgift om brandhistoriken. Jämförelsen mellan lägenheterna är Ericas observation, inte teknisk slutsats. | Vittnesuppgift / förstahandsanteckning |
+| **11 nov 2025** | **Thomas Bartsch / Gaby Khalaf / Jennifer Ehlin / Micke / övriga deltagare** | **1:a mötet med Familjebostäder i lägenheten.** Thomas Bartsch säger enligt Ericas anteckning inför de närvarande att en oberoende granne uppgett att det brunnit i lägenheten. Gaby svarar att uppgiften inte stämmer. Thomas frågar varför en oberoende granne skulle säga detta om det inte stämde. Ingen annan bemöter enligt Erica uppgiften. | Familjebostäder får branduppgiften muntligt på plats, men den förnekas av Gaby. | Mötet source-lockat via B0100/B0101; branddialogen Ericas förstahandsanteckning |
+| **11 nov 2025** | **Jennifer Ehlin / Micke / mötesdeltagare** | Vid samma möte diskuteras enligt Ericas anteckning rengöring/rensning inne i ventilationskanalen. Micke uppger att en sådan åtgärd då behöver göras i alla berörda lägenheter, varefter Jennifers inställning till åtgärden ändras. | Relevant eftersom ventilation/kanaler kan vara en del av frågan om vad som kontrollerats och rengjorts, men detta ska hållas isär från påståendet att brand är dagens orsak. | Ericas förstahandsanteckning; senare skriftligt stöd 26 nov |
+| **24 nov 2025** | **Erica Güler → Gaby Khalaf** | Erica tar åter upp brandhistoriken och sanerings-/ventilationsfrågorna. | Visar att brandfrågan fortsätter efter mötet och inte försvinner efter Gabys muntliga nekande. | Dokumenterat mejl |
+| **24 nov 2025** | **Gaby Khalaf / Familjebostäder** | Gaby skriver: **”det finns som sagt ingen brand situation i denna lägenhet, vi ser inget dokumenterad från vår sida det betyder att det är inget sådant som har inträffat här.”** | Första source-lockade skriftliga brandförnekandet. Avsaknad i FB:s eget system används som grund för slutsatsen att händelsen inte inträffat. | Dokumenterat mejl |
+| **25 nov 2025** | **Gaby Khalaf / Familjebostäder** | Gaby skriver: **”Jag ser inte heller att det har funnits någon brand i denna lägenhet, så vet inte vart du har fått detta ifrån”** och uppger att lägenheten tidigare varit tomställd av andra anledningar. | Andra skriftliga brandförnekandet. | Dokumenterat mejl |
+| **26 nov 2025** | **Erica Güler → Gaby Khalaf** | Erica skriver om ventilationsfrågan: **”Även ni sa att det behövs rengöring inuti men då vart det lite jobbigt när det kom fram att då måste man göra det i alla lägenheter.”** | Samtida skriftligt stöd för att invändig kanalrengöring hade diskuterats på mötet. | Dokumenterat mejl |
+| **28 nov 2025 kl. 10:27** | **Erica Güler → Gaby Khalaf, kopia Jennifer Ehlin** | Erica skriver att tre grannar berättat om branden den 16 november 2017 och att händelsen finns dokumenterad via **Brottsplatskartan/Polisens händelserapport** med uppgifter om kraftig rökutveckling. Hon frågar: **”Har lägenheten någonsin sanerats efter brandtillbudet?”** | Från denna punkt kan FB inte rimligen behandla frågan enbart som ett odokumenterat grannpåstående; Erica hänvisar uttryckligen till extern dokumentation och ställer en konkret saneringsfråga. | Dokumenterat mejl, B0139/B0140-tråden |
+| **28 nov 2025 kl. 11:18** | **Jennifer Ehlin / Familjebostäder** | Jennifer svarar i samma tråd och föreslår nytt platsmöte den 2 december i stället för fortsatt mejlande. Hon besvarar inte i detta svar brand- eller saneringsfrågan. | Uteblivet sakligt svar på den uttryckliga saneringsfrågan. | Dokumenterat mejl, B0140 |
+| **30 nov 2025** | **Erica Güler → Jennifer Ehlin** | Erica skriver att huvudfrågan fortfarande är obesvarad och frågar igen: **”Har lägenheten någonsin sanerats efter brandtillbudet den 16 november 2017?”** | Visar att frågan uttryckligen kvarstår. | Dokumenterat mejl |
+| **30 nov 2025 kl. 18:05** | **Erica Güler → Miljöförvaltningen** | Erica begär myndighetsinspektion under ämnet **”misstänkt hälsorisk, ventilation och mögel-/brandpåverkan”**. Hon har en egen punkt **”Uppgifter om tidigare brand”**, länkar till Brottsplatskartan, skriver att FB inte besvarat frågan om sanering och begär inspektion med hänvisning till bland annat **”misstanke om osanerade brandrester”**. | **Miljöförvaltningen hade brand-/saneringsluckan uttryckligen framför sig redan från anmälan.** Frågan är därför inte om de kände till den, utan hur den bedömdes och var bedömningen dokumenterades. | Dokumenterat mejl, B0143 |
+| **1 dec 2025** | **Miljöförvaltningen → Familjebostäder** | Miljöförvaltningen kommunicerar ärendet till Familjebostäder och begär yttrande/redovisning av utrednings- och åtgärdsarbete. | Brand-/saneringsfrågan ingår i det material Erica lämnat in. Kontroll krävs av exakt vilka frågor MF förde vidare och hur FB svarade. | Myndighetsärende |
+| **2 dec 2025** | **Jennifer Ehlin / Familjebostäder** | Jennifer svarar på Ericas fråga: **”Självklart har lägenheten sanerats efter en eventuell brand. I annat fall skulle det lukta brandrök och köket skulle vara sotskadat.”** | Detta står i direkt konflikt med Gabys tidigare besked att någon brand inte inträffat. Påståendet om sanering stöds inte i samma mejl av arbetsrapport, intyg eller annan dokumentation. | Dokumenterat mejl |
+| **2 dec 2025** | **Jennifer Ehlin / Familjebostäder** | Jennifer skriver samtidigt: **”Jag har ingen dokumentation om detta då det skedde för snart 9 år sedan”** och hänvisar till FB:s rutiner vid brand. Hon skriver även hypotetiskt att boende ”säkert” evakuerats och att det ”tog säkert tid” att sanera. | Här uppstår kärnmotsägelsen: sanering påstås ha skett med stor säkerhet samtidigt som dokumentation saknas och vissa delar uttrycks som antaganden. | Dokumenterat mejl |
+| **2 dec 2025** | **Jennifer Ehlin / Familjebostäder** | Jennifer skriver att lägenheten enligt FB inte är obeboelig och att **”Gällande ventilationen kommer en kanalrensning sker.”** | Bedömningen av beboelighet lämnas utan redovisat saneringsintyg eller verifiering av vad som gjordes efter branden. Detta bevisar inte att lägenheten var obeboelig, men lämnar en tydlig underlagsfråga. | Dokumenterat mejl, återgivet i B0174-tråden |
+| **10 dec 2025 kl. 22:37** | **Erica Güler → Jennifer Ehlin** | Erica skriver under rubriken **”Motsägelsen: Har det brunnit eller inte?”** att Gaby säger att ingen brand förekommit medan Jennifer säger att lägenheten ”självklart sanerats efter en eventuell brand”. Erica kräver ett tydligt och enhetligt skriftligt besked. | Erica identifierar uttryckligen den interna motsägelsen hos FB. | Dokumenterat mejl, återgivet i B0174 |
+| **10 dec 2025** | **Erica Güler → Jennifer Ehlin** | Erica frågar hur bedömningen att bostaden varit **”bebolig från dag 1”** gjorts när ventilationen inte är åtgärdad, lukt kvarstår, luktorsaken inte är utredd och hon får huvudvärk efter kort vistelse. | Kärnfrågan om beboelighetsbedömningens faktiska underlag blir uttrycklig. | Dokumenterat mejl, B0174-tråden |
+| **12 dec 2025** | **Jennifer Ehlin / Familjebostäder** | Jennifer bokar möte den 17 december och skriver: **”Vi går igenom dina kvarvarande frågor då.”** | De kvarvarande frågorna omfattar enligt den underliggande tråden brand, sanering, dokumentation, ventilation och beboelighetsbedömning. | Dokumenterat mejl, B0174 |
+| **17 dec 2025** | **Jennifer Ehlin / Familjebostäder / Erica Güler / Peter** | Möte i lägenheten. Enligt Ericas anteckning tas de kvarvarande frågorna om branden, saneringen och den saknade dokumentationen inte upp och besvaras inte trots beskedet den 12 december. | **Öppen auditpunkt:** source-locka mot efterföljande mejl vad som uttryckligen skrevs om att frågorna inte hanns med. | Ericas förstahandsanteckning – source-lock pågår |
+| **13 apr 2026** | **Miljöförvaltningen** | Miljöförvaltningen avslutar tillsynsärendet efter sin utredning/platsinspektion. | **Kvarstående kontrollfråga:** var i beslutsunderlaget bedömdes brandhistoriken, FB:s motstridiga besked och avsaknaden av verifierbar saneringsdokumentation? | Myndighetsbeslut; audit pågår |
+| **9 aug 2026 kl. 17:07** | **Erica Güler → Storstockholms brandförsvar** | Erica begär samtliga handlingar om branden samt sakkunnigt klargörande om vad som gjordes, vem som tog över ansvaret, vad som normalt behöver kontrolleras/saneras och vad som idag kan verifieras. Hon formulerar kärnan: avsaknad av dokumentation bevisar varken att sanering saknades eller att den genomfördes. | Formell spårning bakåt mot primärkällor startar. | Dokumenterat mejl |
+| **aug 2026, dnr 3934/2026** | **Storstockholms brandförsvar / Max Ekberg** | SSBF skickar händelserapporten. Max skriver att rapporten inte visar exakt vilka delar som fick rök-/sotskador och inte visar hur det fortsatta restvärdesarbetet genomfördes. Han bekräftar att **kontakt etablerades med Familjebostäder**. | SSBF kan verifiera räddningsinsatsen och kontakten med FB, men inte den efterföljande saneringen/återställningen. | Dokumenterat SSBF-mejl / händelserapport |
+| **aug 2026, dnr 3934/2026** | **Storstockholms brandförsvar / Max Ekberg** | Max skriver att SSBF efter avslutad insats inte har formellt ansvar för att säkerställa byggnadens fortsatta hantering; **det ansvaret vilar på fastighetsägaren**. Efter insatsen informerar SSBF ägaren om vidtagna åtgärder och ger råd om vad som återstår. | Binder dokumentationsfrågan tillbaka till fastighetsägaren efter avslutad räddningsinsats. | Dokumenterat SSBF-mejl |
+| **aug 2026, dnr 3934/2026** | **Storstockholms brandförsvar / Max Ekberg** | SSBF hänvisar Erica till **fastighetsägaren, berört försäkringsbolag och Brandskyddsföreningen Restvärderäddning** för uppgifter om händelsen och det fortsatta arbetet. För frågor om inomhusmiljö och kontroll av saneringsarbete föreslår Max att Erica vänder sig till **Miljöförvaltningen i Stockholms stad**. | Viktig ansvarskedja: FB/försäkring/RVR för efterarbetet; MF som relevant myndighet för inomhusmiljöfrågorna. | Dokumenterat SSBF-mejl |
+| **10 aug 2026** | **Erica Güler → S:t Erik Försäkring** | Erica begär handlingar om försäkring, skadeärende, entreprenörer och eventuell gallring. | Kontroll av alternativt dokumentationsspår. | Dokumenterat mejl |
+| **11 aug 2026** | **S:t Erik Försäkring** | Bekräftar att Familjebostäder var försäkrat genom S:t Erik Försäkring den 16 november 2017, men att den aktuella skadan **inte anmäldes dit** och att det därför inte finns något skadeärende eller skadehandlingar hos bolaget. | Ett tänkbart dokumentationsspår ger inget svar på vad som gjordes efter branden. | Externt dokumenterat besked |
+| **17 aug 2026** | **Brandskyddsföreningen Restvärderäddning** | Uppger att någon rapport avseende händelsen inte kunnat lokaliseras. | Även RVR-spåret lämnar efterarbetet oklart. | Externt dokumenterat besked |
+| **24 aug 2026** | **Stadsbyggnadskontoret** | Uppger att handlingar om eventuella kontroller efter brand inte finns registrerade hos SBK och att sådana handlingar inte generellt behöver lämnas in dit efter brand. | Ytterligare dokumentationsspår ger inte svar på vad som faktiskt gjordes i lägenheten. | Myndighetsbesked |
 
-1. exakt källa för varje del av mötesdialogen den 11 november och fullständig deltagarlista,
-2. om och när själva länken eller en skärmdump från Brottsplatskartan skickades före den source-lockade uttryckliga hänvisningen den 28 november,
-3. om posten i äldre sammanställning som placerar en Brottsplatskartan-hänvisning redan den 24 november har stöd i originalmejl eller är feldaterad,
-4. exakt händelsekedja mellan 11 och 24 november som ledde fram till Gabys brandsvar,
-5. vilka frågor om brand/sanering som Erica ställde i respektive mejl 20–24 november och vilka av dem som blev obesvarade,
-6. hur 28 november-frågan och Jennifers svar ska kopplas till den fortsatta kedjan 30 november och 2 december.
+---
 
-## Kärnfråga som tidslinjen lämnar öppen
+# Det tidslinjen visar – utan att gå längre än källorna
 
-Tidslinjen visar inte att sanering säkert uteblev och visar inte att branden orsakar dagens besvär. Den visar däremot att:
+1. **Branden är verifierad av Storstockholms brandförsvar.** Den är alltså inte längre endast en vittnesuppgift.
+2. **Familjebostäder kontaktades under/med anledning av räddningsinsatsen 2017.**
+3. **Gaby förnekade branden både muntligt enligt Ericas anteckning och senare skriftligt den 24 och 25 november 2025.**
+4. **Erica ställde därefter upprepade och konkreta frågor om branden och om lägenheten sanerats.**
+5. **Jennifer lämnade ett annat besked:** lägenheten skulle ”självklart” ha sanerats efter en eventuell brand, men hon skrev samtidigt att hon saknade dokumentation.
+6. **Något saneringsintyg, arbetsrapport, faktura, slutrapport eller annat primärt underlag som visar vad som faktiskt gjordes efter branden har hittills inte redovisats för Erica i det granskade materialet.**
+7. **Familjebostäder bedömde samtidigt lägenheten som beboelig.** Den tidslinjen visar däremot inte vilket brandsaneringsunderlag som låg bakom just den bedömningen.
+8. **Erica rapporterade återkommande hälsobesvär och kvarstående lukt.** Detta bevisar inte att brandrester är orsaken, men gör frågan om vad som faktiskt utretts och verifierats relevant.
+9. **SSBF kan verifiera räddningsinsatsen och att FB kontaktades, men inte det fortsatta restvärdes-/saneringsarbetet.**
+10. **SSBF hänvisar efterarbetet till fastighetsägaren/försäkringsspåret/RVR och hänvisar frågor om inomhusmiljö och kontroll av sanering till Miljöförvaltningen.**
+11. **S:t Erik Försäkring har inget skadeärende för händelsen och RVR har hittills inte hittat någon rapport.**
+12. Därmed kvarstår den centrala frågan: **Vilken primär handling visar vad Familjebostäder faktiskt gjorde med lägenheten, konstruktionen och ventilationen efter brand-/rökhändelsen 2017 och på vilket underlag kunde en senare bedömning av lägenhetens beboelighet göras?**
 
-1. branduppgiften kom till Erica genom flera personer innan Familjebostäders senare skriftliga besked,
-2. Familjebostäders företrädare därefter lämnade motstridiga besked om branden och saneringen,
-3. Jennifer uppgav att sanering ”självklart” hade skett men samtidigt saknade dokumentation,
-4. försäkringsbolaget senare bekräftade att skadan aldrig anmäldes dit och att inget skadeärende därför skapades,
-5. SSBF kan visa räddningsinsatsen men inte hur det fortsatta restvärdes-/återställningsarbetet genomfördes,
-6. Restvärderäddning har hittills inte kunnat lokalisera någon rapport.
+---
 
-Kvarstående verifieringsfråga: **vilket primärt dokumentationsspår visar vad som faktiskt gjordes med lägenheten, konstruktionen och ventilationen efter brand-/rökhändelsen 2017?**
+# Miljöförvaltningen – den särskilda luckan
+
+## Vad som är verifierat
+
+Miljöförvaltningen hade senast den **30 november 2025** skriftlig kännedom om:
+
+- branduppgiften,
+- Brottsplatskartan/extern händelsedokumentation,
+- att Erica uppgav att Familjebostäder inte besvarat saneringsfrågan,
+- misstanke om osanerade brandrester,
+- stark lukt och återkommande hälsobesvär,
+- brister i ventilationen,
+- begäran om en oberoende myndighetsbedömning av inomhusmiljön.
+
+Det går därför **inte** att förklara bort brand-/saneringsfrågan med att Miljöförvaltningen inte kände till den.
+
+## Vad som ännu inte är source-lockat
+
+Det är däremot ännu inte fastställt **varför** Miljöförvaltningen inte gick vidare med just denna dokumentationslucka. För att säga det måste deras akt/beslutsunderlag visa:
+
+1. hur brandhistoriken värderades,
+2. hur Gabys brandförnekande vägdes mot annan information,
+3. hur Jennifers påstående om genomförd sanering utan dokumentation värderades,
+4. om MF begärde ett saneringsintyg, arbetsrapport eller annat primärt underlag från FB,
+5. om MF bedömde att sådant underlag inte behövdes och i så fall varför,
+6. om brand-/saneringsspåret tekniskt utreddes eller uttryckligen avgränsades bort,
+7. hur denna fråga påverkade bedömningen av att ytterligare tillsyn inte behövdes.
+
+**Auditstatus:** `DOKUMENTATIONSLUCKA / EJ REDOVISAD BEDÖMNING` tills originalakten visar motsatsen.
+
+---
+
+# Kvarstående kontrollpunkter
+
+- Source-locka fullständig kedja **11–24 november 2025** för alla brand-/saneringsfrågor och svar.
+- Kontrollera exakt när själva skärmdumpen/länken från Brottsplatskartan först skickades till FB.
+- Source-locka vad som skrevs efter mötet **17 december 2025** om frågor som inte hann behandlas.
+- Auditera Miljöförvaltningens **hela akt/dokument 1–107** mot brand-/saneringsfrågan: vad fanns, vad lästes, vad värderades och vad saknas i beslutsskäl/anteckningar.
+- Koppla SSBF:s händelserapport och Max Ekbergs mejl till huvudtidlinjen med diarienummer **3934/2026**.
+- Fortsätt söka primär dokumentation hos Familjebostäder om 2017 års efterarbete: arbetsorder, beställning, entreprenör, faktura, saneringsrapport, slutkontroll eller motsvarande.
