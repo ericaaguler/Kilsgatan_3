@@ -12,13 +12,26 @@ Alla separata tidslinjer och sakspår ska vara **filtrerade vyer av huvudmateria
 
 Arbetsordningen är:
 
-`originalkälla → bevisregister → anteckning/audit → juridisk bevisfunktion → huvudtidslinje → separat sakspår → extern argumentation`
+`originalkälla → bevisregister → STORA AUDITEN → huvudtidslinje → separat sakspår → extern argumentation`
 
 Om en viktig uppgift upptäcks i ett separat spår men saknas i huvudtidslinjen ska den flaggas och föras tillbaka till huvudmaterialet.
 
 ---
 
-# 1. KÄRNFILER
+# 1. KÄRNFILER OCH HUVUDLAGER
+
+## STORA AUDITEN – projektets kontrollager
+
+- [`STORA-AUDITEN/README.md`](STORA-AUDITEN/README.md) – styrregler och obligatoriska auditfält.
+- [`STORA-AUDITEN/01-KONTROLLPANEL.md`](STORA-AUDITEN/01-KONTROLLPANEL.md) – hela projektets levande kontrollpanel.
+- [`STORA-AUDITEN/02-BEVISPOSTER-MASTER.md`](STORA-AUDITEN/02-BEVISPOSTER-MASTER.md) – masteraudit per bevispost/beviskedja.
+- [`STORA-AUDITEN/03-ORIGINALKONTROLL-OCH-KOMPLETTERINGSKO.md`](STORA-AUDITEN/03-ORIGINALKONTROLL-OCH-KOMPLETTERINGSKO.md) – kö för source-lock, originalkontroll och saknade kompletteringar.
+
+**STORA AUDITEN är ett eget huvudlager, inte en sammanfattning och inte en alternativ tidslinje.** Där ska varje identifierad bevispost få:
+
+`datum → källa → faktisk uppgift → bevisklass → juridisk funktion → vad den inte bevisar → saknad komplettering → relevant lag/princip → status i huvudtidslinje/spår → originalkontroll → extern användbarhet`
+
+Material som bara finns som sammanställning eller ej originalkontrollerad transkription ska markeras och får inte användas externt som säker ordalydelse innan originalfilen har kontrollerats.
 
 ## Huvudtidslinje
 
@@ -26,20 +39,15 @@ Om en viktig uppgift upptäcks i ett separat spår men saknas i huvudtidslinjen 
 
 ## Bevisregister
 
-- [`BEVISREGISTER.md`](BEVISREGISTER.md) – register över bevis och källor.
+- [`BEVISREGISTER.md`](BEVISREGISTER.md) – register över bevis och källor. Registrerade bevis-ID B0001–B0464 ingår i STORA AUDITENS scope.
 
 ## Struktur
 
 - [`STRUKTUR-HUVUDTIDSLINJE-OCH-SPAR.md`](STRUKTUR-HUVUDTIDSLINJE-OCH-SPAR.md) – styr hur originalkällor, anteckningar, audit, juridisk bevisfunktion, huvudtidslinje och separata spår hänger ihop.
 
-## STORA AUDITEN – primärt auditregister
+## Tidigare audit-/analysfiler – underlag till huvudlagret
 
-- [`analyser/STORA-AUDITEN-BEVIS-KRONOLOGI-RATTSFUNKTION-2026-08-29.md`](analyser/STORA-AUDITEN-BEVIS-KRONOLOGI-RATTSFUNKTION-2026-08-29.md) – masterregistret för datum, källa, faktisk uppgift, bevisklass, juridisk funktion, begränsning, saknat bevis, lag/princip och kontrollkö.
-
-**Stora auditten ska vara den centrala kontrollpanelen för fortsatt source-lock.** Den ersätter inte originalkällor eller `TIDSLINJE.md`; den talar om vad varje källa kan användas till och vilka luckor som fortfarande måste fyllas.
-
-## Övrig huvudaudit / rättsfunktion
-
+- [`analyser/STORA-AUDITEN-BEVIS-KRONOLOGI-RATTSFUNKTION-2026-08-29.md`](analyser/STORA-AUDITEN-BEVIS-KRONOLOGI-RATTSFUNKTION-2026-08-29.md)
 - [`analyser/BEVIS-OCH-RATTSFUNKTION-HUVUDAUDIT-ALLT-MATERIAL-2026-08-29.md`](analyser/BEVIS-OCH-RATTSFUNKTION-HUVUDAUDIT-ALLT-MATERIAL-2026-08-29.md)
 - [`analyser/PROJEKTAUDIT-KILSGATAN-3-2026-08-29.md`](analyser/PROJEKTAUDIT-KILSGATAN-3-2026-08-29.md)
 - [`analyser/AUDIT-HUVUDTIDSLINJE-OCH-KALLTACKNING-2026-08-29.md`](analyser/AUDIT-HUVUDTIDSLINJE-OCH-KALLTACKNING-2026-08-29.md)
@@ -47,7 +55,7 @@ Om en viktig uppgift upptäcks i ett separat spår men saknas i huvudtidslinjen 
 - [`analyser/MF-AKT-01-107-BRAND-SANERING-AUDIT-2026-08-29.md`](analyser/MF-AKT-01-107-BRAND-SANERING-AUDIT-2026-08-29.md)
 - [`analyser/MF-AKT-01-107-KONTROLLREGISTER-2026-08-29.md`](analyser/MF-AKT-01-107-KONTROLLREGISTER-2026-08-29.md)
 
-Auditfilerna används för att hitta sådant som saknas, är för kortfattat, har fel person, fel datum, saknar ordalydelse, saknar källa, motsäger annan källa, utgör dokumentationslucka eller används till en juridisk slutsats som källan inte ensam kan bära.
+Dessa filer är nu **underlag** till `STORA-AUDITEN/`; de är inte konkurrerande kontrollpaneler.
 
 ---
 
@@ -89,9 +97,7 @@ Varje viktig uppgift ska kunna klassificeras efter vad den faktiskt kan bevisa:
 - `J9 BESLUTSMOTIVERING`
 - `J10 DOMSTOLENS UTREDNING`
 
-**Huvudtidslinjen ska säga vad som hände. Rättsfunktionslagret ska säga vad händelsen juridiskt kan användas till.**
-
-Det förhindrar att faktum, analys och slutsats blandas ihop.
+**Huvudtidslinjen ska säga vad som hände. STORA AUDITEN ska säga vad källan faktiskt kan användas till, vad den inte bevisar och vad som fortfarande saknas.**
 
 ---
 
@@ -227,6 +233,6 @@ Personer med samma förnamn får aldrig blandas ihop.
 
 # Slutprincip
 
-**Först komplett huvudtidslinje. Därefter enskilda spår.**
+**Först källsäker kontroll i STORA AUDITEN. Därefter korrekt huvudtidslinje. Därefter enskilda spår och extern argumentation.**
 
 Varje bevis ska användas för den juridiska funktion det faktiskt kan bära. Ett separat spår får aldrig bli en plats där uppgifter försvinner ur huvudhistoriken.
