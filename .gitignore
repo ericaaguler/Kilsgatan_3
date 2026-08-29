@@ -15,5 +15,38 @@ _scratch/
 _temp/
 lokalt/
 
-# VIKTIGT: bevismaterial, PDF, ljud, bilder och projektanteckningar ignoreras INTE generellt.
-# De kan vara av betydelse för Kilsgatan 3-ärendet och ska hanteras uttryckligen.
+# ============================================================
+# KILSGATAN 3 – BEVIS OCH ANTECKNINGAR SKA ALLTID SPÅRAS
+# ============================================================
+# .gitignore används ENDAST för lokala/tempfiler ovan.
+# Följande material får inte ignoreras eftersom det är en del av
+# beviskedjan, huvudtidslinjen, auditten eller Ericas anteckningar.
+# Negationerna nedan fungerar även som skydd om bredare ignore-regler
+# skulle läggas till senare.
+
+!anteckningar/
+!anteckningar/**
+!analyser/
+!analyser/**
+!bevis/
+!bevis/**
+!handlingar/
+!handlingar/**
+!korrespondens/
+!korrespondens/**
+!inspelningar/
+!inspelningar/**
+!transkriptioner/
+!transkriptioner/**
+!TIDSLINJE.md
+!TIDSLINJE-*.md
+!BEVISREGISTER.md
+!BRAND-TIDSLINJE.md
+!KANALRENSNING-TIDSLINJE.md
+!JAMFORELSE-ANDRA-BRANDER.md
+!STRUKTUR-HUVUDTIDSLINJE-OCH-SPAR.md
+
+# VIKTIGT:
+# PDF, ljud, bilder och andra bevisfiler ignoreras inte generellt.
+# Om någon fil av integritets-, storleks- eller säkerhetsskäl inte ska
+# versionshanteras måste det beslutas uttryckligen för just den filen.
