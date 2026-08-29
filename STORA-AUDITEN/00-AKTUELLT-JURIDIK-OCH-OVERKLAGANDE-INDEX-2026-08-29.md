@@ -21,17 +21,24 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 1. `STORA-AUDITEN/11-MF-LANSSTYRELSEN-MMD-FYR-PDF-LAGUTNYTTJANDE-AUDIT-2026-08-29.md`
 2. `STORA-AUDITEN/12-SEXBOKS-AUDIT-NYA-RATTSSPAR-OCH-OVERKLAGANDE-FORBATTRINGAR-2026-08-29.md`
 3. `STORA-AUDITEN/14-MASTERPROMPT-OMPROVNING-SEXBOKS-OCH-OVERKLAGANDE-2026-08-29.md`
-4. `STORA-AUDITEN/10-OBESVARADE-FRAGOR-MASTER-FB-MF-LST-MMD-2026-08-29.md`
+4. `STORA-AUDITEN/10-OBESVARADE-FRAGOR-MASTER-FB-MF-LST-MMD-2026-08-29.md` – **levande frågemaster, nu även HGF, svarsblankett, akt 95, kanalrensning och Aron Nabi**
 5. `STORA-AUDITEN/16-AKTORSANSVAR-LAGKRAV-FELSOKNING-FORSAKRING-2026-08-29.md`
 6. `STORA-AUDITEN/18-INTAKE-AUDIT-OKTOBER-NOVEMBER-FOTO-MAIL-MF-2026-08-29.md`
 7. `STORA-AUDITEN/19-MF-KOMMUNICERING-PARTSINSYN-HEVAL-AUDIT-2026-08-29.md`
 8. `STORA-AUDITEN/20-FB-HANDLING-FOR-HANDLING-KOMMUNICERINGS-AUDIT-2026-08-29.md`
 9. `STORA-AUDITEN/21-FB-SVARSBLANKETT-OCAB-CAROLINE-ATGARDER-AUDIT-2026-08-29.md`
-10. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
+10. `STORA-AUDITEN/22-HGF-BRISTUNDERLAG-ARON-NABI-VIDAREBEFORDRAN-AUDIT-2026-08-29.md`
+11. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
 
 ## Aktuella bevisfynd som ska source-lockas före slutversion
 
 - **5–7 oktober 2025:** tidig lukt-/skickdokumentation och begäran om professionell utredning. Viktig för FB:s tidiga kännedom och för att visa att problemet föregår brandhypotesen.
+- **27 oktober 2025:** akut felanmälan direkt till FB om kraftig lukt, huvudvärk och kraftigt smutsad ventilations-/fläktdel med nio fotografier. Ericas benämning `mögel/mikrobiell påväxt` är partsbedömning tills expertstöd finns.
+- **27 oktober–5 november 2025:** fotodokumentation efter professionell städning visar kvarstående synliga mörka/bruna/svarta missfärgningar, smuts, rost och materialavvikelser i flera delar av bostaden. Bilderna får inte själva artbestämma mögel, sot eller kemiskt ämne.
+- **5 november 2025:** omfattande bristpaket source-lockat som skickat direkt till Familjebostäder. Mejlet hänvisar till bristblankett, detaljerad bristbilaga, foton efter städning och OCAB. Exakt bilageinventering ska ändå låsas före formuleringen att samtliga senare HGF-dokument fanns hos FB.
+- **6 november 2025:** HGF-rådgivningen mottog/återmottog material i CAS-133640-Q5D1C8 med bilagor. Det visar inte att Emma Sega personligen läste hela paketet samma dag.
+- **10 november 2025:** ytterligare bristunderlag innehåller bl.a. frågor om kökskonstruktion, el/spis, svart missfärgning vid ventilation och separat kemisk/unken lukt i förråd/klädkammare. Tekniska slutsatser i partsdokumentet ska hållas isär från observationerna.
+- **HGF→FB:** senare uppger Emma Sega att HGF redan skickat ett `förbehåll` till hyresvärden. Exakt datum, innehåll, mottagare och bilagor är ännu inte source-lockade. Ett senare föreslaget mejl efter HGF:s platsbesök skickades uttryckligen inte efter Ericas invändning mot utkastet.
 - **Ventilationsbilder oktober 2025:** starka observationsbevis men får inte användas för att identifiera sot/mögel/ämne utan expertstöd.
 - **20–27 november 2025:** kvarstående visuellt skick och lukt efter flera städningar. Samtida material, men Ericas tekniska slutsatser ska hållas isär från observationerna.
 - **2 december 2025 Jennifer:** source-lockat mejl: dels påstående om att sanering “självklart” skett samtidigt som dokumentation inte redovisades, dels framtidsformuleringen **"Gällande ventilationen kommer en kanalrensning sker"**. Kanalrensningsspåret ska jämföras mot Caroline-sammanställningen, senare 5-metersuppgift och primär arbetsorder.
@@ -42,6 +49,7 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 - **12–18 mars 2026:** MF uppger att konkreta frågor om brandsanering, kanalrensning och VOC ställts till FB; något konkret motsvarande FB-svar på dessa frågor har hittills inte identifierats före beslutet.
 - **26 mars 2026:** MF hade uttrycklig scope-invändning före beslutet den 13 april; ska kopplas till PT/granskningsdispens.
 - **9 april 2026 akt 95:** FB:s yttrande inkom 12:50 efter den kommunicering som samma dag skickats till Erica. Ingen senare separat kommunicering av akt 95 före beslutet den 13 april har identifierats. FL 25-brott får inte påstås automatiskt; först måste betydelsen för beslutet bedömas.
+- **Aron Nabi:** source-lockat att han står i kopia på Jennifers akt-95-mejl. Offentlig 2026-källa identifierar honom som förvaltare hos Familjebostäder med Farsta Strand/Fagersjö/Högdalen–Rågsved. Hans exakta roll i Kilsgatan 3-ärendet och orsaken till kopian är **inte** verifierade.
 - **9 april–13 april:** FB fick i Hevals påminnelse svarstid till 16 april men MF avslutade ärendet den 13 april. Processuellt kontrollspår – inte automatiskt rättsfel.
 - **OCAB:** originalrapporten visar fukt-/materialavvikelse under kyl/frys men är inte en bred lukt-/brand-/VOC-/orsaksutredning. FB har själv senare beskrivit OCAB:s uppdrag som fuktutredning.
 - **FB:s svarsblankett:** kategoriska Nej-svar om störning/skada och "inga åtgärder" ska jämföras mot OCAB, Caroline och Jennifer 2 december. Starkaste spåret är scope/tid/dokumentationsmotsägelse – inte påstående om medveten osanning.
@@ -66,6 +74,7 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 
 - `samma sakfråga`, klarspråk och service – främst MF/JO-spår; ska inte överbelasta PT-argumentationen.
 - hyresrättens brukbarhetsregler – separat bakgrunds-/hyresrättsspår; inte självständig grund för MMD:s miljötillsynsprövning.
+- HGF-spåret – skilj mellan vad HGF faktiskt mottog, vad HGF faktiskt skickade till FB och vad FB redan hade fått direkt från Erica. HGF:s `förbehåll` måste hämtas från originalakt innan dess innehåll påstås.
 - bemötande/känslighet – separat dokumentationsspår; konkret ordalydelse ska hållas isär från upplevelse/etiketter.
 - MF-kommunicering/partsinsyn – bygg på **vilket material som faktiskt kommunicerades**. Nu finns en specifik röd kontrollpost, akt 95 den 9 april, men den rättsliga FL 25-betydelsen är ännu inte fastställd.
 - FB:s svarsblankett – använd som partens egen redovisning och jämför scope/tidslinje mot bilagorna; formulera inte kategoriskt att kryssen är falska innan varje åtgärds syfte och tidpunkt är source-lockad.
