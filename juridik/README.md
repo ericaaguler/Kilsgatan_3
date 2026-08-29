@@ -16,6 +16,14 @@ Detta dokument organiserar den fortsatta juridiska analysen i fyra separata arbe
 
 Researchlagret ska användas tillsammans med MASTERPROMPTEN och får inte uppgradera hypoteser till fakta.
 
+## Norstedts AI-rapport 2025 – metodstöd och MÖD-prompt
+
+### `NORSTEDTS-AI-RAPPORT-2025-RELEVANS-OCH-MOD-PROMPT-2026-08-30.md`
+
+**Status:** METOD- OCH ARBETSFLÖDESSTÖD – INTE RÄTTSKÄLLA I SAKFRÅGAN.
+
+Rapporten används inte som rättsligt stöd mot FB/MF/LST/MMD. Den används för att förstärka projektets arbetsmetod kring juridisk research, dokumentgranskning, spårbarhet, source-lock, mänsklig kontroll och kvalitetssäkring. Filen innehåller en särskild arbets-/release-prompt för `Överklagan kanske Erica` med fokus på PT 39 § 1–2, MMD:s bärande slutsats, bevisräckvidd, motargument och release-gate.
+
 ## Aktuell potentiell överklagan
 
 ### `OVERKLAGAN-KANSKE-ERICA-M-5167-26-2026-08-29.md`
