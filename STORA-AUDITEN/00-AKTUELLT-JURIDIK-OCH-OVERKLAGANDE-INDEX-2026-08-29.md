@@ -22,7 +22,18 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 2. `STORA-AUDITEN/12-SEXBOKS-AUDIT-NYA-RATTSSPAR-OCH-OVERKLAGANDE-FORBATTRINGAR-2026-08-29.md`
 3. `STORA-AUDITEN/14-MASTERPROMPT-OMPROVNING-SEXBOKS-OCH-OVERKLAGANDE-2026-08-29.md`
 4. `STORA-AUDITEN/10-OBESVARADE-FRAGOR-MASTER-FB-MF-LST-MMD-2026-08-29.md`
-5. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
+5. `STORA-AUDITEN/16-AKTORSANSVAR-LAGKRAV-FELSOKNING-FORSAKRING-2026-08-29.md`
+6. `STORA-AUDITEN/18-INTAKE-AUDIT-OKTOBER-NOVEMBER-FOTO-MAIL-MF-2026-08-29.md`
+7. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
+
+## Aktuella bevisfynd som ska source-lockas före slutversion
+
+- **5–7 oktober 2025:** tidig lukt-/skickdokumentation och begäran om professionell utredning. Viktig för FB:s tidiga kännedom och för att visa att problemet föregår brandhypotesen.
+- **Ventilationsbilder oktober 2025:** starka observationsbevis men får inte användas för att identifiera sot/mögel/ämne utan expertstöd.
+- **20–27 november 2025:** kvarstående visuellt skick och lukt efter flera städningar. Samtida material, men Ericas tekniska slutsatser ska hållas isär från observationerna.
+- **2 december 2025 Jennifer:** påstående om att sanering “självklart” skett samtidigt som dokumentation inte redovisades; centralt J6-dokumentationsspår.
+- **26 mars 2026:** MF hade uttrycklig scope-invändning före beslutet den 13 april; ska kopplas till PT/granskningsdispens.
+- **OCAB:** originalbeställning, originalrapport och exakt scope är högsta prioritet innan FB:s hänvisning till OCAB ges bevisräckvidd.
 
 ## Äldre/underordnade överklagandefiler
 
@@ -44,6 +55,7 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 
 - `samma sakfråga`, klarspråk och service – främst MF/JO-spår; ska inte överbelasta PT-argumentationen.
 - hyresrättens brukbarhetsregler – separat bakgrunds-/hyresrättsspår; inte självständig grund för MMD:s miljötillsynsprövning.
+- bemötande/känslighet – separat dokumentationsspår; konkret ordalydelse ska hållas isär från upplevelse/etiketter.
 
 ## Slutregel
 
