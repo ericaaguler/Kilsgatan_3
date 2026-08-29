@@ -179,6 +179,53 @@ Gaby sammanfattar senare skriftligen att husvärden utför beställningarna, att
 
 ---
 
+## FYND 013 – Miljöförvaltningen hade brand-/saneringsluckan uttryckligen i anmälan men dess bedömning är inte redovisad
+
+**Status:** `DOKUMENTATIONSLUCKA / EJ REDOVISAD BEDÖMNING`
+
+**Bevis-ID:** B0143  
+**Källa:** `korrespondens/miljoforvaltningen/2025-11-30_1805_B0143_erica-a-guler_begaran-om-myndighetsinspektion-misstankt-halsorisk-ventilation-och-moge.md`
+
+Den 30 november 2025 skickar Erica en begäran om myndighetsinspektion till Miljöförvaltningen med ämnet:
+
+> `Begäran om myndighetsinspektion – misstänkt hälsorisk, ventilation och mögel-/brandpåverkan`
+
+Mejlet innehåller en särskild rubrik **”Uppgifter om tidigare brand”**, länk till Brottsplatskartan, uppgiften att Familjebostäder inte besvarat frågan om sanering och en uttrycklig begäran om inspektion med hänvisning till bland annat **”misstanke om osanerade brandrester”**.
+
+Det är därför verifierat att Miljöförvaltningen hade brand-/saneringsfrågan framför sig redan vid anmälan.
+
+**Det som ännu måste source-lockas ur dokument 1–107 och övrig akt är:**
+
+1. hur brandhistoriken värderades,
+2. hur Gabys förnekande av brand vägdes mot andra uppgifter,
+3. hur Jennifers senare påstående om genomförd sanering utan dokumentation värderades,
+4. om Miljöförvaltningen begärde saneringsintyg, arbetsrapport eller annat primärt underlag från Familjebostäder,
+5. om sådant underlag bedömdes onödigt och i så fall på vilken grund,
+6. om brand-/saneringsspåret tekniskt utreddes eller avgränsades bort,
+7. var denna bedömning finns dokumenterad inför beslutet 13 april 2026.
+
+**Auditregel:** skriv inte att Miljöförvaltningen ”inte kände till” brandfrågan. Den korrekta öppna frågan är **varför och hur den kända brand-/saneringsluckan hanterades i tillsynen**.
+
+---
+
+## FYND 014 – SSBF:s senare besked flyttar efterarbetsfrågan tillbaka till fastighetsägaren och inomhusmiljöfrågan mot Miljöförvaltningen
+
+**Status:** `NY SOURCE-LOCK / SKA KOPPLAS TILL HUVUDTIDSLINJEN`
+
+I korrespondens med Storstockholms brandförsvar, dnr **3934/2026**, uppger Max Ekberg bland annat att:
+
+- SSBF ventilerade lägenheten för att minimera fortsatta rök- och sotskador,
+- deras dokumentation inte visar hur det fortsatta restvärdesarbetet genomfördes,
+- kontakt etablerades med Familjebostäder,
+- SSBF inte har formellt ansvar för den fortsatta hanteringen efter avslutad insats utan att ansvaret för byggnaden vilar på fastighetsägaren,
+- SSBF normalt informerar fastighetsägaren om vidtagna åtgärder och ger råd om vad som återstår,
+- Erica hänvisas till fastighetsägaren, berört försäkringsbolag och Brandskyddsföreningen Restvärderäddning för efterarbets-/dokumentationsspåret,
+- frågor om inomhusmiljö och kontroll av saneringsarbete hänvisas till Miljöförvaltningen i Stockholms stad.
+
+**Auditbetydelse:** denna ansvarskedja ska ligga i både huvudtidlinjen och brandspåret. Den gör frågan om Miljöförvaltningens hantering av den redan kända sanerings-/inomhusmiljöluckan särskilt relevant, utan att i sig bevisa att MF handlagt fel.
+
+---
+
 ## Nästa kontrollblock
 
 - fulltext B0108–B0129,
@@ -188,4 +235,5 @@ Gaby sammanfattar senare skriftligen att husvärden utför beställningarna, att
 - städningens beställningsorsak,
 - tidigare mejl/bilder om köksstomme och material nära golvet,
 - kostnadsspåret: köksbänk, golv och målning,
+- **Miljöförvaltningens dokument 1–107 rad för rad mot brand/sanering/beboelighetsunderlag**,
 - därefter fortsatt BEVISREGISTER ↔ TIDSLINJE-audit.
