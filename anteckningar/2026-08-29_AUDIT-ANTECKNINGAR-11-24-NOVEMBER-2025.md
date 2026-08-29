@@ -9,6 +9,41 @@
 - **Thomas Bartsch är vän till Erica Güler.**
 - Thomas ska hållas strikt åtskild från Thomas Duvsjö.
 
+## 4 november 2025 – Caroline/Karolin, ventilation
+
+### SOURCE-LOCKAD KONTROLLPUNKT
+
+Den checklista/bristanmälan som Erica senare skickade vidare inför första mötet anger att driftteknikern **Karolin/Caroline var på plats den 4 november 2025** och då kontrollerade ventilationen, bytte ventilöppningar i kök och badrum samt tog bort ljudisoleringsfilter från fönsterventilerna.
+
+Ericas anteckning är att detta var **den enda gången Caroline faktiskt var inne i lägenheten**.
+
+Senare mejl från Gaby den 24 november säger att Caroline skulle bokas in igen, men detta är ett besked om en planerad ny kontakt – inte bevis för att ett andra besök faktiskt skedde.
+
+Den 26 november skriver Erica till Gaby att Caroline inte hade hört av sig och att Erica inte upplevde att Caroline hade varit inne i lägenheten den veckan, bland annat eftersom ventilöppningen fortfarande inte var återmonterad.
+
+**Auditregel:** skilj strikt mellan `Caroline bokas in igen` och `Caroline har faktiskt gjort ett nytt besök`. Tills en primärkälla visar motsatsen ska endast besöket **4 november 2025** räknas som source-lockat genomfört Caroline-besök.
+
+## 7 november 2025 – mejl till Jennifer med checklista inför första mötet
+
+### SOURCE-LOCKAT
+
+Erica skickar den 7 november 2025 kl. 10:57 ett mejl till Jennifer Ehlin inför platsmötet och bifogar den omfattande checklistan/bristanmälan `Anmälan om brister i lägenheten, Kilsgatan 3, lgh 1202 – CAS-133640-Q5D1C8`.
+
+Mejlet och checklistan tar uttryckligen upp bland annat:
+
+- bristande ventilation,
+- ventilationskanalens skick,
+- OVK,
+- ventilationsöppningar,
+- lukt och hälsopåverkan,
+- kökets galler, el, fukt/missfärgningar och andra brister.
+
+### Viktig ordkontroll – kanalrensning
+
+I den bifogade checklistan förekommer beskrivningar av smuts/avlagringar i ventilationskanalen och behov av kontroll/åtgärd, men **ordet/uttrycket `kanalrensning` finns inte i checklistan**.
+
+Detta är viktigt för kronologin: före första mötet hade Erica alltså redan lyft själva **ventilationsproblemet och kanalens smutsiga skick**, men inte formulerat en åtgärd som `kanalrensning` i checklistan.
+
 ## 10 november 2025 – genomgång inför första mötet
 
 ### Ericas anteckning
@@ -51,6 +86,20 @@ Thomas frågar varför en oberoende granne skulle säga att det har brunnit om u
 Enligt Ericas anteckning bemöter ingen annan uppgiften.
 
 **Auditstatus:** uppgiften ska source-lockas mot möteskälla innan exakt ordalydelse används externt.
+
+### Kanalrensning – Ericas förstahandsanteckning om när uttrycket/åtgärden uppkommer
+
+Ericas anteckning är att **begreppet/åtgärden kanalrensning först kommer upp under det första mötet den 11 november**, inte i checklistan som skickades före mötet.
+
+Enligt Ericas anteckning:
+
+1. Jennifer tar upp/frågar om rengöring/rensning av kanalen.
+2. Micke, husvärd, uppger att om sådan rensning ska göras så krävs det i alla lägenheter/berörda lägenheter.
+3. Efter Mickes besked ändrar Jennifer sin inställning till åtgärden.
+
+**Status:** `ANVÄNDARENS FÖRSTAHANDSUPPGIFT – EXAKT MÖTESORDALYDELSE BEHÖVER SOURCE-LOCKAS`.
+
+Det finns samtidigt ett senare skriftligt stöd för själva sakförloppet. Den 26 november skriver Erica till Gaby att de under mötet hade sagt att rengöring behövdes inuti, men att det blev problematiskt när det kom fram att detta då skulle behöva göras i alla lägenheter. Detta stärker att frågan om rengöring inne i kanalen faktiskt hade diskuterats tidigare, men den skriftliga källan namnger inte Jennifer och Micke i just den formuleringen.
 
 ### Ventilationsdon i köket
 
@@ -103,6 +152,8 @@ Direkt därefter skriver han att Caroline bokats in igen beträffande ventilatio
 
 **Viktigt:** detta är den 24 november, inte den 25 november.
 
+**Viktigt om Caroline:** formuleringen `bokat in Caroline igen` visar planerad uppföljning, inte att ett andra besök genomförts.
+
 ## 25 november 2025 – Gaby Khalaf / Familjebostäder
 
 ### SOURCE-LOCKAD SKRIFTLIG UPPGIFT
@@ -115,6 +166,18 @@ Han skriver samtidigt att lägenheten tidigare varit tomställd av andra anledni
 
 Han bekräftar även att vissa saker har överenskommits och ska erbjudas/åtgärdas.
 
+### 25–26 november – Caroline och ventilöppningen
+
+Den 25 november skriver Gaby att Caroline redan varit hos Erica och mätt luftflödet och att locket till frånluften i köket ska vara monterat och rent. Detta besked är förenligt med det kända besöket den 4 november men visar inte i sig ett nytt besök.
+
+Den 26 november svarar Erica att hon syftat på om Caroline hade varit inne i lägenheten igen utan kontakt. Erica skriver att Caroline inte hört av sig och att hon inte upplever att Caroline varit inne den veckan; annars tror hon att ventilöppningen hade satts tillbaka.
+
+Erica skriver samtidigt:
+
+> ”Även ni sa att det behövs rengöring inuti men då vart det lite jobbigt när det kom fram att då måste man göra det i alla lägenheter.”
+
+Detta ska kopplas till mötesspåret om kanal-/kanalrengöring.
+
 ## 26 november och framåt – åtgärdskedja att koppla tillbaka till mötet
 
 I senare skriftlig kommunikation sammanfattar Gaby vad Familjebostäder godkänner och vad som ska göras, bland annat:
@@ -125,6 +188,26 @@ I senare skriftlig kommunikation sammanfattar Gaby vad Familjebostäder godkänn
 4. golvbyte efter målningen.
 
 Detta ska användas för att kontrollera exakt vad som faktiskt härstammar från överenskommelsen den 11 november och vad som beslutats senare.
+
+## 27–28 november 2025 – Brottsplatskartan / Polisens händelserapport till Familjebostäder
+
+### SOURCE-LOCKAD KRONOLOGI
+
+**28 november 2025 kl. 01:10 CET** skickar Erica ett mejl till Gaby där hon skriver att tre grannar bekräftat branden den 16 november 2017 och att den dessutom finns dokumenterad i **Polisens händelserapport** med uppgift om kraftig rökutveckling. Mejlet har en separat PDF-bilaga: `27 november 2025 efter städning 3 - 2025.pdf`.
+
+Den källan visar alltså att Familjebostäder senast då skriftligen fick hänvisning till polisens dokumentation. Bilagans namn visar inte ensam att den innehåller en skärmdump från Brottsplatskartan; det måste kontrolleras i själva PDF:en innan det låses.
+
+**28 november 2025 kl. 10:27 CET** skickar Erica ytterligare ett mejl till Gaby med Jennifer i kopia och skriver uttryckligen:
+
+> ”händelsen finns dokumenterad via Brottsplatskartan/Polisens händelserapport med uppgifter om kraftig rökutveckling.”
+
+Detta är den tidigaste hittills source-lockade **uttryckliga skrivningen `Brottsplatskartan` till Familjebostäder** i genomgången.
+
+Mejlet innehåller flera inline-bildlänkar (`IMG_1924.jpeg` m.fl.), men Outlook-metadata visar ingen separat bilaga som är namngiven Brottsplatskartan. Därför är det ännu **inte source-lockat exakt vilken bild/länk som var en eventuell skärmdump av Brottsplatskartan**.
+
+### Auditfråga
+
+Kontrollera PDF-bilagan från mejlet kl. 01:10 och de inline-bilder som följde med mejlet kl. 10:27 för att avgöra exakt när själva länken/skärmdumpen från Brottsplatskartan skickades, inte bara när webbplatsen omnämndes i text.
 
 ## Styrregel
 
