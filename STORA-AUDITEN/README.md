@@ -98,7 +98,9 @@ STORA AUDITEN ska aktivt stoppa följande felslut:
 
 `BEVISREGISTER.md` innehåller för närvarande bevis-ID **B0001–B0464**. Alla dessa poster ingår i STORA AUDITENS scope.
 
-Ingen post får betraktas som fullauditerad i detta lager förrän samtliga obligatoriska fält är ifyllda. Poster som ännu inte hunnit berikas får status `EJ FULLAUDITERAD – ANVÄND ORIGINAL/BEVISREGISTER`.
+**B0001–B0464 har nu fått 464/464 separata bas-auditrader i registermatrisen.** Bas-audit innebär att varje registrerad post har kvalitetsstatus/originalspärr; det betyder inte att varje post redan är postspecifikt fullauditerad eller EXTERN-READY.
+
+Nya identifierade bilder, video, ljud och processuppgifter som ännu saknar B-ID ska läggas i originalkarantänen tills original/source-lock är säkrat och posten har registrerats.
 
 Nya bevis-ID ska automatiskt läggas till auditens scope.
 
@@ -107,7 +109,25 @@ Nya bevis-ID ska automatiskt läggas till auditens scope.
 - `01-KONTROLLPANEL.md` – hela projektets aktuella kontrollpanel.
 - `02-BEVISPOSTER-MASTER.md` – detaljaudit av bevisposter och kritiska beviskedjor.
 - `03-ORIGINALKONTROLL-OCH-KOMPLETTERINGSKO.md` – sådant som måste tillbaka till originalfil eller kompletteras innan extern användning.
+- `04-MF-MMD-PROCESSAUDIT.md` – fördjupad processaudit av Miljöförvaltningen och Mark- och miljödomstolen.
+- `05-REGISTERMATRIS-B0001-B0464.md` – index till 464/464 separata bas-auditrader för samtliga registrerade Bevis-ID.
+- `06-CHAT-BEVIS-ORIGINALKARANTAN.md` – nya visuella/ljud-/SMS-/processbevis från arbetschatten som ännu saknar B-ID eller source-lock.
 
-## 9. Slutregel
+Registermatrisens fem segment ligger i `audit/` men är **underordnade STORA-AUDITEN** och nås via `05-REGISTERMATRIS-B0001-B0464.md`. De är inte ett konkurrerande huvudlager.
+
+## 9. Rättsliga kontrolltaggar i den nya registerauditen
+
+Vid postspecifik fördjupning används bland annat:
+
+- `JB12:9` – 12 kap. 9 § jordabalken, brukbart skick på tillträdesdagen.
+- `JB12:15` – 12 kap. 15 § jordabalken, skick/underhåll under hyrestiden.
+- `JB12:16` – 12 kap. 16 § jordabalken, skada/hinder/men och åtgärdsfunktion.
+- `MB9:3` – 9 kap. 3 § miljöbalken, olägenhet för människors hälsa.
+- `MB26:19` – 26 kap. 19 § miljöbalken, kontroll/egenkontroll.
+- `FL23` – 23 § förvaltningslagen, myndighetens utredningsansvar.
+- `PBL-OVK` – PBL/PBF:s bestämmelser om obligatorisk ventilationskontroll inom deras faktiska scope.
+- `KÄLLA`, `UNDERRÄTTELSE`, `SPÅRBARHET`, `DUBBELRÄKNING` – bevis-/processprinciper som hindrar att derivat, partsuppgifter och dubbletter ges större räckvidd än källan.
+
+## 10. Slutregel
 
 **Ingen berättelse får vinna över källan. Ingen juridisk slutsats får bli starkare än beviset. Ingen sammanställning får ersätta originalet.**
