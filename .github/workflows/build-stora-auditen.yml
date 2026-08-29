@@ -1,0 +1,57 @@
+name: Build STORA AUDITEN
+
+on:
+  push:
+    branches:
+      - main
+      - agent/stora-auditen-register
+    paths:
+      - 'BEVISREGISTER.md'
+      - 'TIDSLINJE.md'
+      - 'STORA-AUDITEN/OVERRIDES.json'
+      - 'scripts/build_stora_auditen.py'
+      - '.github/workflows/build-stora-auditen.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate audit control panel
+        run: python scripts/build_stora_auditen.py
+      - name: Validate required audit fields
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('STORA-AUDITEN/01-BEVISPOSTER-KONTROLLPANEL.md')
+          text = p.read_text(encoding='utf-8')
+          required = [
+              'Datum', 'Källa', 'Faktisk uppgift', 'Bevisklass', 'Juridisk funktion',
+              'Vad den inte bevisar', 'Saknad komplettering', 'Relevant lag/princip',
+              'Status i huvudtidslinjen/spåren'
+          ]
+          missing = [x for x in required if x not in text]
+          if missing:
+              raise SystemExit(f'Missing audit fields: {missing}')
+          print('Audit fields OK')
+          PY
+      - name: Commit generated control panel
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add STORA-AUDITEN/01-BEVISPOSTER-KONTROLLPANEL.md
+          if git diff --cached --quiet; then
+            echo 'No audit changes'
+          else
+            git commit -m 'Regenerera STORA AUDITEN beviskontrollpanel'
+            git push
+          fi
