@@ -119,6 +119,8 @@ Nya bevis-ID ska automatiskt läggas till auditens scope.
 - `07-NYA-BEVISPOSTER-FULLAUDIT-CHAT-2026-08-29.md` – full audit enligt samtliga obligatoriska fält för materiellt viktiga nya bevis från chatten, med `AUD-...`-ID tills permanent B-ID/source-lock finns.
 - `08-MIRIAM-SAMMA-SAKFRAGA-JENNIFER-MMD-AUDIT.md` – full processaudit av Miriams `samma sakfråga`, senare omständigheter efter 13 april och Jennifer/MF-spåret.
 - `09-PROCESS-DOKUMENTHANTERING-HGF-GALLRING-SAMMA-SAKFRAGA-AUDIT.md` – samlad process-/dokumenthanteringsaudit som låser gallringskedjan, HGF-originalkarantänen och de nya processreglerna.
+- `10-OBESVARADE-FRAGOR-MASTER-FB-MF-LST-MMD-2026-08-29.md` – levande master över obesvarade, delvis besvarade och felriktat besvarade frågor till FB, MF, Länsstyrelsen och MMD.
+- `11-MF-LANSSTYRELSEN-MMD-FYR-PDF-LAGUTNYTTJANDE-AUDIT-2026-08-29.md` – full myndighets-/processaudit av MF, Länsstyrelsen och MMD med fyr-PDF-kontroll, aktuell lagverifiering, direkt tillämplighet och beviskrav.
 - `08-FYR-PDF-OCH-LAGUTNYTTJANDEAUDIT-NYA-BEVISPOSTER-2026-08-29.md` – fyr-PDF-audit av de nya bevisposterna med kontroll mot aktuell 2026-rätt; särskilt LOMD/ärendelagen, miljöbalken 26 kap., förvaltningslagen och 12 kap. JB.
 
 Registermatrisens fem segment ligger i `audit/` men är **underordnade STORA-AUDITEN** och nås via `05-REGISTERMATRIS-B0001-B0464.md`. De är inte ett konkurrerande huvudlager.
@@ -133,6 +135,12 @@ Vid postspecifik fördjupning används bland annat:
 - `MB9:3` – 9 kap. 3 § miljöbalken, olägenhet för människors hälsa.
 - `MB26:19` – 26 kap. 19 § miljöbalken, kontroll/egenkontroll.
 - `FL23` – 23 § förvaltningslagen, myndighetens utredningsansvar.
+- `FL32` – 32 § förvaltningslagen, klargörande beslutsmotivering med tillämpade föreskrifter och avgörande omständigheter.
+- `FL39` – 39 § förvaltningslagen, begränsning av beslutsmyndighetens möjlighet att ändra överklagat beslut efter överlämnande.
+- `LOMD5:1` – 5 kap. 1 § lagen om mark- och miljödomstolar; leder i överklagade mål till lagen om domstolsärenden.
+- `ÄRENDE12` – 12 § lagen om domstolsärenden, MMD:s utrednings-/processledningsansvar.
+- `ÄRENDE28` – 28 § lagen om domstolsärenden; skäl för avgörande och särskild regel när överklagat beslut fastställs.
+- `ÄRENDE39` – 39 § lagen om domstolsärenden; prövningstillståndsgrunder vid överklagande till hovrätt/MÖD.
 - `PBL-OVK` – PBL/PBF:s bestämmelser om obligatorisk ventilationskontroll inom deras faktiska scope.
 - `KÄLLA`, `UNDERRÄTTELSE`, `SPÅRBARHET`, `DUBBELRÄKNING`, `DOKUMENTHANTERING`, `GDPR/TF` – kontrolltaggar som hindrar att derivat, partsuppgifter och dubbletter ges större räckvidd än källan.
 
