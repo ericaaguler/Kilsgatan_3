@@ -123,6 +123,7 @@ Nya bevis-ID ska automatiskt läggas till auditens scope.
 - `11-MF-LANSSTYRELSEN-MMD-FYR-PDF-LAGUTNYTTJANDE-AUDIT-2026-08-29.md` – full myndighets-/processaudit av MF, Länsstyrelsen och MMD med fyr-PDF-kontroll, aktuell lagverifiering, direkt tillämplighet och beviskrav.
 - `12-SEXBOKS-AUDIT-NYA-RATTSSPAR-OCH-OVERKLAGANDE-FORBATTRINGAR-2026-08-29.md` – fördjupad audit av sex juridiska böcker med nya spår: tillsynens dokumentationskedja, teknisk informationsasymmetri, återförvisning/instansordning, `samma sak`, saklig bevisvärdering, JO/klarspråk samt konkreta V2-förbättringar av `Överklagan kanske Erica`.
 - `08-FYR-PDF-OCH-LAGUTNYTTJANDEAUDIT-NYA-BEVISPOSTER-2026-08-29.md` – fyr-PDF-audit av de nya bevisposterna med kontroll mot aktuell 2026-rätt; särskilt LOMD/ärendelagen, miljöbalken 26 kap., förvaltningslagen och 12 kap. JB.
+- `30-FORSVARBARHETSREVISION-OCH-CATCHUP-AUDIT-OVERKLAGANDE-2026-08-30.md` – kör den styrande försvarbarhets-/överprövningsmodellen på den aktiva MÖD-versionen och inventerar senaste inflödet; skiljer redan auditerat material från kvarvarande source-lock-kö och rangordnar de 3–5 argument som bör bära PT-frågan.
 
 Registermatrisens fem segment ligger i `audit/` men är **underordnade STORA-AUDITEN** och nås via `05-REGISTERMATRIS-B0001-B0464.md`. De är inte ett konkurrerande huvudlager.
 
