@@ -16,7 +16,7 @@ _temp/
 lokalt/
 
 # ============================================================
-# KILSGATAN 3 – BEVIS OCH ANTECKNINGAR SKA ALLTID SPÅRAS
+# KILSGATAN 3 – BEVIS, ANTECKNINGAR OCH AUDIT SKA ALLTID SPÅRAS
 # ============================================================
 # .gitignore används ENDAST för lokala/tempfiler ovan.
 # Följande material får inte ignoreras eftersom det är en del av
@@ -45,8 +45,38 @@ lokalt/
 !KANALRENSNING-TIDSLINJE.md
 !JAMFORELSE-ANDRA-BRANDER.md
 !STRUKTUR-HUVUDTIDSLINJE-OCH-SPAR.md
+!TIDSLINJE-AUDIT-INDEX.md
+
+# Särskilt skydd för aktiva audit-/frågeloggar som inte får tappas
+!analyser/STORA-AUDITEN-BEVIS-KRONOLOGI-RATTSFUNKTION-2026-08-29.md
+!analyser/BEVIS-OCH-RATTSFUNKTION-HUVUDAUDIT-ALLT-MATERIAL-2026-08-29.md
+!analyser/BRAND-FRAGELOGG-OCH-MF-TILLSYN-11-MARS-2026.md
+!analyser/MF-AKT-01-107-BRAND-SANERING-AUDIT-2026-08-29.md
+!analyser/MF-AKT-01-107-KONTROLLREGISTER-2026-08-29.md
+!anteckningar/2026-08-29_BRAND-TILLSYN-FRAGELOGG-MALNING-OCH-DOKUMENTATIONSLUCKA.md
+!anteckningar/2026-08-29_HUVUDANTECKNING-JURIDISK-BEVISFUNKTION.md
+!anteckningar/2026-08-29_AUDIT-ANTECKNINGAR-11-24-NOVEMBER-2025.md
 
 # VIKTIGT:
-# PDF, ljud, bilder och andra bevisfiler ignoreras inte generellt.
+# PDF, ljud, bilder, video och andra bevisfiler ignoreras inte generellt.
 # Om någon fil av integritets-, storleks- eller säkerhetsskäl inte ska
-# versionshanteras måste det beslutas uttryckligen för just den filen.
+# versionshanteras måste det beslutas uttryckligen för just den filen och
+# beslutet dokumenteras i antecknings-/auditlagret så att källan inte försvinner ur spårbarheten.
+
+# Får aldrig läggas till som breda ignore-regler utan dokumenterat beslut:
+# *.pdf
+# *.m4a
+# *.mp3
+# *.wav
+# *.mp4
+# *.mov
+# *.jpg
+# *.jpeg
+# *.png
+# anteckningar/
+# analyser/
+# bevis/
+# handlingar/
+# korrespondens/
+# inspelningar/
+# transkriptioner/
