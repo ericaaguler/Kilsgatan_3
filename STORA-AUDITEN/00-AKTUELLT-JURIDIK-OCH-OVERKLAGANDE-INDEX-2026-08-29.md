@@ -28,7 +28,8 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 8. `STORA-AUDITEN/20-FB-HANDLING-FOR-HANDLING-KOMMUNICERINGS-AUDIT-2026-08-29.md`
 9. `STORA-AUDITEN/21-FB-SVARSBLANKETT-OCAB-CAROLINE-ATGARDER-AUDIT-2026-08-29.md`
 10. `STORA-AUDITEN/22-HGF-BRISTUNDERLAG-ARON-NABI-VIDAREBEFORDRAN-AUDIT-2026-08-29.md`
-11. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
+11. `STORA-AUDITEN/23-KORRIGERING-HALLMALNING-SVARSBLANKETT-THOMAS-PETER-JENNIFER-2026-08-30.md` – **styrande korrigering av halltolkningen i audit 21 och nytt orsaks-/åtgärdsspår**
+12. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
 
 ## Aktuella bevisfynd som ska source-lockas före slutversion
 
@@ -41,7 +42,10 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 - **HGF→FB:** senare uppger Emma Sega att HGF redan skickat ett `förbehåll` till hyresvärden. Exakt datum, innehåll, mottagare och bilagor är ännu inte source-lockade. Ett senare föreslaget mejl efter HGF:s platsbesök skickades uttryckligen inte efter Ericas invändning mot utkastet.
 - **Ventilationsbilder oktober 2025:** starka observationsbevis men får inte användas för att identifiera sot/mögel/ämne utan expertstöd.
 - **20–27 november 2025:** kvarstående visuellt skick och lukt efter flera städningar. Samtida material, men Ericas tekniska slutsatser ska hållas isär från observationerna.
+- **Hallmålning – korrigerad tolkning:** Erica hade påtalat flera hallbrister och lukt framför allt i skåp, så det får inte skrivas att hallen var helt oanmäld. Det är däremot inte verifierat att hon hade påtalat/fastställt mögel- eller fuktskada i hallens väggytor. Hallmålningen ska därför analyseras efter **syfte**, inte som bevis för att Jennifer upptäckte ett helt nytt fel.
+- **17 augusti 2026 Jennifer:** source-lockat att hon beskriver `målning av väggar istället för tapetsering` som en extra tjänst. Detta talar för att åtminstone vissa målningar kan ha varit HLU/service snarare än erkännande av teknisk hälsostörning. Ericas uppgift om FB:s generella tapet/målningspolicy är ännu **INTE VERIFIERAD** mot policyhandling.
 - **2 december 2025 Jennifer:** source-lockat mejl: dels påstående om att sanering “självklart” skett samtidigt som dokumentation inte redovisades, dels framtidsformuleringen **"Gällande ventilationen kommer en kanalrensning sker"**. Kanalrensningsspåret ska jämföras mot Caroline-sammanställningen, senare 5-metersuppgift och primär arbetsorder.
+- **17 december 2025:** senare transkriptions-/sammanställningsmaterial tyder på att Jennifer avgränsade bort mögelprov/ytterligare åtgärd och inte upplevde lukt. **Exakt ordalydelse ska source-lockas mot originalaudio före extern citatanvändning.**
 - **22–23 december 2025, FB-paketet:** OCAB, Caroline Blomberg, svarsblankett och FB-bemötande identifierade som paket och uttryckligen kommunicerade till Erica för yttrande.
 - **15–16 januari 2026:** FB:s kompletterande svar och OVK-underlag kommunicerades till Erica. Viktigt motbevis mot en generell tes om utebliven kommunicering före Heval.
 - **12 februari 2026:** officiella ärenderapporten anger att Heval Remazan tilldelades ärendet. Detta är styrande brytdatum för före/efter-auditen.
@@ -52,7 +56,9 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 - **Aron Nabi:** source-lockat att han står i kopia på Jennifers akt-95-mejl. Offentlig 2026-källa identifierar honom som förvaltare hos Familjebostäder med Farsta Strand/Fagersjö/Högdalen–Rågsved. Hans exakta roll i Kilsgatan 3-ärendet och orsaken till kopian är **inte** verifierade.
 - **9 april–13 april:** FB fick i Hevals påminnelse svarstid till 16 april men MF avslutade ärendet den 13 april. Processuellt kontrollspår – inte automatiskt rättsfel.
 - **OCAB:** originalrapporten visar fukt-/materialavvikelse under kyl/frys men är inte en bred lukt-/brand-/VOC-/orsaksutredning. FB har själv senare beskrivit OCAB:s uppdrag som fuktutredning.
-- **FB:s svarsblankett:** kategoriska Nej-svar om störning/skada och "inga åtgärder" ska jämföras mot OCAB, Caroline och Jennifer 2 december. Starkaste spåret är scope/tid/dokumentationsmotsägelse – inte påstående om medveten osanning.
+- **FB:s svarsblankett:** kategoriska Nej-svar om störning/skada och `inga åtgärder` ska jämföras mot OCAB, Caroline, Jennifer 2 december och den bredare åtgärdsbilden. Den nya audit 23 kräver att varje åtgärd bryts ned efter **syfte → tidpunkt → underlag → effekt**. Starkaste spåret är scope/tid/dokumentationsmotsägelse – inte påstående om medveten osanning.
+- **Thomas Duvsjö:** två separata besök ska hållas isär: 4 april och 19 maj 2026. Den senare kompletteringen verifierar att han lämnade en särskild redogörelse om 19-majbesöket. Hans observationer kan stödja återkommande fenomen/utredningsbehov men inte teknisk kausalitet.
+- **Peter-spåret:** senare material återger att Peter fortfarande efterfrågade möjlig orsak vid 19-majbesöket och senare ifrågasatte om målning/tomställning skulle hjälpa. Exakt ordalydelse/citat kräver source-lock mot originalredogörelse/ljud innan domstolsanvändning.
 
 ## Äldre/underordnade överklagandefiler
 
@@ -77,7 +83,7 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 - HGF-spåret – skilj mellan vad HGF faktiskt mottog, vad HGF faktiskt skickade till FB och vad FB redan hade fått direkt från Erica. HGF:s `förbehåll` måste hämtas från originalakt innan dess innehåll påstås.
 - bemötande/känslighet – separat dokumentationsspår; konkret ordalydelse ska hållas isär från upplevelse/etiketter.
 - MF-kommunicering/partsinsyn – bygg på **vilket material som faktiskt kommunicerades**. Nu finns en specifik röd kontrollpost, akt 95 den 9 april, men den rättsliga FL 25-betydelsen är ännu inte fastställd.
-- FB:s svarsblankett – använd som partens egen redovisning och jämför scope/tidslinje mot bilagorna; formulera inte kategoriskt att kryssen är falska innan varje åtgärds syfte och tidpunkt är source-lockad.
+- FB:s svarsblankett – använd som partens egen redovisning och jämför scope/tidslinje mot bilagorna; formulera inte kategoriskt att kryssen är falska innan varje åtgärds syfte och tidpunkt är source-lockad. **Audit 23 är styrande korrigering för hallmålning/åtgärdsspåret.**
 
 ## Slutregel
 
