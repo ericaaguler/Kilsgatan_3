@@ -16,11 +16,11 @@ _temp/
 lokalt/
 
 # ============================================================
-# KILSGATAN 3 – BEVIS, ANTECKNINGAR OCH AUDIT SKA ALLTID SPÅRAS
+# KILSGATAN 3 – BEVIS, ANTECKNINGAR, JURIDIK OCH AUDIT SKA ALLTID SPÅRAS
 # ============================================================
 # .gitignore används ENDAST för lokala/tempfiler ovan.
 # Följande material får inte ignoreras eftersom det är en del av
-# beviskedjan, huvudtidslinjen, auditten eller Ericas anteckningar.
+# beviskedjan, huvudtidslinjen, auditten, juridiklagret eller Ericas anteckningar.
 # Negationerna nedan fungerar även som skydd om bredare ignore-regler
 # skulle läggas till senare.
 
@@ -38,6 +38,14 @@ lokalt/
 !inspelningar/**
 !transkriptioner/
 !transkriptioner/**
+!STORA-AUDITEN/
+!STORA-AUDITEN/**
+!juridik/
+!juridik/**
+!audit/
+!audit/**
+!styrning/
+!styrning/**
 !TIDSLINJE.md
 !TIDSLINJE-*.md
 !BEVISREGISTER.md
@@ -45,6 +53,7 @@ lokalt/
 !KANALRENSNING-TIDSLINJE.md
 !JAMFORELSE-ANDRA-BRANDER.md
 !STRUKTUR-HUVUDTIDSLINJE-OCH-SPAR.md
+!STRUKTUR-TILLAGG-*.md
 !TIDSLINJE-AUDIT-INDEX.md
 
 # Särskilt skydd för aktiva audit-/frågeloggar som inte får tappas
@@ -56,6 +65,7 @@ lokalt/
 !anteckningar/2026-08-29_BRAND-TILLSYN-FRAGELOGG-MALNING-OCH-DOKUMENTATIONSLUCKA.md
 !anteckningar/2026-08-29_HUVUDANTECKNING-JURIDISK-BEVISFUNKTION.md
 !anteckningar/2026-08-29_AUDIT-ANTECKNINGAR-11-24-NOVEMBER-2025.md
+!styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md
 
 # VIKTIGT:
 # PDF, ljud, bilder, video och andra bevisfiler ignoreras inte generellt.
@@ -80,3 +90,7 @@ lokalt/
 # korrespondens/
 # inspelningar/
 # transkriptioner/
+# STORA-AUDITEN/
+# juridik/
+# audit/
+# styrning/
