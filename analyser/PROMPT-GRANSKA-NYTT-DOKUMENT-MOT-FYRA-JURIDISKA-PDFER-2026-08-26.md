@@ -1,202 +1,284 @@
-# Standardprompt – granska nytt dokument mot fyra juridiska PDF-källor
+# Standardprompt – granska ny information eller nytt dokument mot fyra juridiska PDF-källor
 
-**Syfte:** Denna prompt ska användas varje gång Erica laddar upp ett nytt dokument som ska analyseras inom Kilsgatan 3-projektet. Dokumentet ska inte bara sammanfattas. Det ska läsas mot projektets fyra juridiska PDF-källor och mot GitHub-strukturen.
+**Syfte:** Denna prompt ska användas varje gång Erica laddar upp ett nytt dokument, mejl, bild, ljuduppgift, myndighetssvar, teknisk uppgift eller annan ny information och vill veta om materialet kan få juridisk betydelse med stöd av de fyra juridiska PDF-källorna i Kilsgatan 3-projektet.
 
-## PROMPT
+Prompten ska inte bara hitta argument. Den ska pröva **om ett rättsligt argument verkligen bär**, vilken rättskälla som stödjer det, om regeln är direkt tillämplig och vad som måste verifieras i aktuell lag/praxis innan extern användning.
 
-Jag laddar nu upp ett nytt dokument i Kilsgatan 3-ärendet.
+## PROMPT ATT ANVÄNDA
 
-Din uppgift är att göra en **fullständig dokumentgranskning** och därefter **matcha innehållet mot de fyra juridiska PDF-källor som finns i projektet**:
+Jag lägger nu in ny information eller ett nytt dokument i Kilsgatan 3-ärendet.
+
+Gör en **full juridisk och bevismässig audit** av materialet mot de fyra PDF-källorna i projektet:
 
 1. **Förvaltningsprocesslagen – en kommentar**
 2. **Myndigheternas skrivregler**
 3. **Den nya hyresrätten efter hyresregleringens avskaffande**
 4. **Lägenhetsbyten och andrahandsuthyrning**
 
-Du ska INTE utgå från att alla fyra är relevanta. Du ska för varje bok uttryckligen bedöma:
+Du ska INTE anta att alla fyra böcker är relevanta. För varje bok ska du uttryckligen klassificera relevansen som:
 
-- HÖG RELEVANS,
-- MEDEL RELEVANS,
-- LÅG RELEVANS,
-- eller EJ RELEVANT FÖR DETTA DOKUMENT.
+- HÖG RELEVANS
+- MEDEL RELEVANS
+- LÅG RELEVANS
+- EJ RELEVANT
 
-Om en bok inte är relevant ska du säga det och **inte pressa in den artificiellt**.
+Om en bok inte hjälper den aktuella frågan ska den parkeras.
 
-## STEG 1 – VAD ÄR DET FÖR DOKUMENT?
+---
 
-Börja med att identifiera:
+## STEG 0 – IDENTIFIERA VAD SOM ÄR NYTT
 
-- dokumenttyp,
-- avsändare/författare,
+Börja med att ange exakt:
+
+- vilken ny uppgift som tillkommit,
+- vilken tidigare arbetsposition den påverkar,
+- om den **bekräftar**, **försvagar**, **korrigerar** eller **öppnar ett nytt spår**,
+- vilka tidigare påståenden som nu måste ändras eller source-lockas på nytt.
+
+Om materialet rättar ett tidigare antagande ska detta anges tydligt som:
+
+> **KORRIGERING AV TIDIGARE ARBETSPOSITION**
+
+Lägg aldrig den nya uppgiften direkt i faktatidslinjen om originalbevis saknas.
+
+---
+
+## STEG 1 – KLASSIFICERA KÄLLAN
+
+Identifiera:
+
+- dokumenttyp / medietyp,
+- avsändare eller uppgiftslämnare,
 - datum,
 - mottagare,
-- processuell eller materiell funktion,
-- vilket ärende/mål/spår det tillhör,
-- om dokumentet är primärhandling, sekundär sammanställning, partsinlaga, myndighetsbeslut, tekniskt underlag eller analys.
+- ärende/mål/spår,
+- om det är primärhandling, samtida partsuppgift, förstahandsuppgift, sekundär sammanställning, teknisk handling, myndighetsbeslut, fotografi, ljud/transkription eller analys.
 
-Förklara därefter med vanlig svenska:
+Förklara sedan:
 
-> Vad gör detta dokument faktiskt?
+> **Vad kan denna källa faktiskt bevisa – och med vilken begränsning?**
 
-Inte bara vad det handlar om, utan vilken funktion det har i ärendet.
+---
 
-## STEG 2 – GÅ IGENOM HELA DOKUMENTET
+## STEG 2 – FAKTUM, INFERENS, HYPOTES, BEVISLUCKA
 
-Gå igenom dokumentet avsnitt för avsnitt och identifiera:
+För varje central punkt, skilj strikt mellan:
 
-- centrala sakpåståenden,
-- rättsliga påståenden,
-- tekniska påståenden,
-- processuella påståenden,
-- bevispåståenden,
-- slutsatser,
-- antaganden,
-- motsägelser,
-- oklarheter,
-- sådant som uttryckligen inte behandlas.
+**FAKTUM** – direkt visat av källan.
 
-För varje viktig punkt ska du skilja:
-
-**FAKTUM** – vad dokumentet faktiskt säger eller visar.
-
-**INFERENS** – vad som kräver ett slutsatssteg.
+**INFERENS** – slutsats som kräver ett resonemangssteg.
 
 **HYPOTES** – möjlig förklaring som inte är fastställd.
 
-**BEVISLUCKA** – vad som behöver styrkas med annan handling.
+**BEVISLUCKA** – vad som måste hämtas in för att kunna gå längre.
 
-## STEG 3 – VAD VISAR DOKUMENTET OCH VAD VISAR DET INTE?
+Använd modellen:
 
-För varje central uppgift ska du använda modellen:
+`påstående → källa → direkt bevisvärde → inferens → begränsning → alternativ förklaring → motbevisning → bevislucka`
 
-`påstående → källa i dokumentet → vad det direkt visar → vad det inte visar → möjlig alternativ förklaring → vilket ytterligare bevis behövs`
+Överdriv aldrig bevisvärdet.
 
-Överdriv aldrig dokumentets bevisvärde.
+Särskilda regler:
 
-Frånvaro av en handling får inte automatiskt likställas med att händelsen aldrig inträffat.
+- frånvaro av handling ≠ händelsen har inte inträffat,
+- personlig observation ≠ teknisk undersökning,
+- teknisk mätning ≠ generell friskförklaring av bostaden,
+- vittnesreaktioner kan stödja fenomen/tidsmönster men inte automatiskt teknisk eller medicinsk kausalitet,
+- åtgärd utförd ≠ bakomliggande orsak identifierad,
+- åtgärd utförd ≠ effekt verifierad.
 
-En personlig observation får inte behandlas som teknisk undersökning.
+---
 
-En teknisk mätning får inte ges större räckvidd än metod, tidpunkt och objekt stödjer.
+## STEG 3 – FORMULERA DET MÖJLIGA RÄTTSLIGA PÅSTÅENDET
 
-Vittnesuppgifter kan styrka rapporterade observationer och tidsmönster men inte automatiskt teknisk eller medicinsk kausalitet.
+För varje ny uppgift, fråga:
 
-## STEG 4 – MATCHA MOT FÖRVALTNINGSPROCESSLAGEN – EN KOMMENTAR
+1. Vilken juridisk fråga kan uppgiften vara relevant för?
+2. Vilket **rättsfaktum** skulle behöva visas?
+3. Är den nya uppgiften ett relevant **bevisfaktum** för detta?
+4. Hur stark är kopplingen?
+5. Vilken motförklaring finns?
 
-Kontrollera om dokumentet aktualiserar frågor om exempelvis:
+Exempel på spår:
 
-- domstolens utredningsansvar/processledning,
-- partsställning,
-- kommunicering,
-- bevisning,
+- Miljöförvaltningens utredningsansvar,
+- kommunicering före beslut,
+- beslutsmotivering,
+- tillsynsmyndighetens möjlighet att kräva uppgifter/undersökningar,
+- prövningstillstånd/MÖD,
 - återförvisning,
+- lägenhetens skick,
+- hinder eller men i nyttjanderätten,
+- åtgärdsföreläggande,
+- hyresnedsättning/skadestånd,
+- offentlighet/akt,
+- tekniskt ansvar för ventilation/OVK,
+- brand-/saneringsdokumentation.
+
+---
+
+## STEG 4 – MATCHA MOT VARJE PDF-BOK
+
+### PDF 1 – Förvaltningsprocesslagen – en kommentar
+
+Kontrollera om materialet berör:
+
+- processledning och utredning i domstol,
+- partsargumentation och bevisning,
+- kommunicering,
 - överklagande,
-- prövningstillstånd,
-- ändringsdispens,
-- granskningsdispens,
-- hur domskäl och processmaterial ska bedömas.
+- ändrings- eller granskningsdispens,
+- återförvisning,
+- domskäl,
+- processmaterialets räckvidd.
 
-Ange:
+För varje relevant avsnitt ska du ange:
 
-**Vad i boken stärker dokumentets linje?**
+`bokresonemang → möjlig juridisk princip → direkt tillämplig? → specialregel måste kontrolleras? → hur ny info kan användas`
 
-**Vad i boken försvagar eller begränsar dokumentets linje?**
+**VIKTIGT:** FPL-kommentaren är metod-/doktrinstöd. För MÖD ska direkt tillämplig specialprocess alltid identifieras separat. Kontrollera lagen om mark- och miljödomstolar och lagen om domstolsärenden där de är relevanta.
 
-**Vilken regel är metodiskt relevant men inte direkt tillämplig på just denna måltyp?**
+### PDF 2 – Myndigheternas skrivregler
 
-Kontrollera alltid om specialprocess gäller före FPL. För MÖD-spåret ska lagen om mark- och miljödomstolar och lagen om domstolsärenden kontrolleras separat mot aktuell lagtext.
+Kontrollera om materialet belyser:
 
-## STEG 5 – MATCHA MOT MYNDIGHETERNAS SKRIVREGLER
-
-Kontrollera om dokumentet aktualiserar:
-
-- otydligt myndighetsspråk,
+- otydlig motivering,
 - vaga uttryck,
-- svårbegripliga motiveringar,
+- oklara referenser,
 - terminologisk inkonsekvens,
-- problem med mottagaranpassning,
-- disposition och begriplighet.
+- bristande mottagaranpassning,
+- disposition som gör det svårt att förstå vad myndigheten faktiskt bedömt.
 
-Skilj alltid mellan:
+Skilj alltid:
 
-**språklig/klarhetsmässig brist**
+`klarspråks-/strukturproblem` från `materiellt rättsligt fel`.
 
-och
+Boken får inte användas som självständig grund för att ett beslut ska ändras.
 
-**materiellt rättsligt fel**.
+### PDF 3 – Den nya hyresrätten efter hyresregleringens avskaffande
 
-Skrivreglerna får inte användas som om de i sig bevisar att ett beslut ska ändras.
-
-## STEG 6 – MATCHA MOT DEN NYA HYRESRÄTTEN
-
-Kontrollera om dokumentet berör:
+Kontrollera om materialet berör:
 
 - lägenhetens skick,
-- fullt brukbar för avsett ändamål,
+- brukbarhet,
 - brist,
 - hinder eller men i nyttjanderätten,
-- underhållsansvar,
-- avhjälpande,
+- hyresvärdens underhålls-/avhjälpandeansvar,
 - hyresnedsättning,
 - skadestånd,
-- andra hyresrättsliga påföljder.
+- andra påföljder.
 
-Eftersom boken är äldre ska du uttryckligen markera:
+Markera alltid:
 
-> ÄLDRE DOKTRIN – AKTUELL LAG OCH PRAXIS MÅSTE KONTROLLERAS.
+> **ÄLDRE DOKTRIN – AKTUELL 12 KAP. JORDABALKEN OCH SENARE PRAXIS MÅSTE KONTROLLERAS.**
 
-Använd inte boken som ensam grund för dagens rättsläge.
+### PDF 4 – Lägenhetsbyten och andrahandsuthyrning
 
-## STEG 7 – MATCHA MOT LÄGENHETSBYTEN OCH ANDRAHANDSUTHYRNING
-
-Kontrollera om dokumentet faktiskt rör:
+Använd endast om den nya informationen faktiskt rör:
 
 - byte,
 - andrahandsuthyrning,
-- Hyresnämndens praxis inom dessa områden,
-- bevisbördefrågor som boken behandlar och som verkligen kan överföras till den aktuella frågan.
+- eller ett tydligt överförbart resonemang om Hyresnämnd/bevisning.
 
-Om inte:
+Annars:
 
-> EJ RELEVANT FÖR DETTA DOKUMENT – PARKERAS.
+> **EJ RELEVANT – PARKERAS.**
 
-Pressa aldrig in denna bok i ett miljöbalks-, tillsyns- eller MÖD-spår om den inte har en konkret funktion.
+---
 
-## STEG 8 – MATCHA MOT GITHUB-STRUKTUREN
+## STEG 5 – LAGUTNYTTJANDEKONTROLL
 
-Efter bokanalysen ska dokumentet placeras i rätt befintliga spår, exempelvis:
+Detta steg är obligatoriskt när en bok verkar ge stöd för ett argument.
 
-- MÖD/process,
-- Miljöförvaltningens handläggning,
-- offentlighet/akt,
-- ventilation/OVK,
-- kanalrensning,
-- brand/sanering,
-- vittnen/förstahandsuppgifter,
-- hyresrätt/remedy,
-- ansvarskarta,
-- påståendekatalog,
-- juridisk huvudtidslinje,
-- process- och bevisanalys,
-- juristbrief.
+För varje rättslig regel/princip som hittas i böckerna ska du skapa en post:
 
-Säg vilka befintliga GitHub-filer dokumentet ska uppdatera eller länkas från.
+### Lagkort
 
-Skapa inte en ny teori bara för att dokumentet innehåller något nytt.
+**Fråga:**
 
-## STEG 9 – SOURCE-LOCK
+**Bok och avsnitt:**
 
-Skapa en särskild lista:
+**Vad boken säger:**
 
-### Source-lock krävs före extern användning
+**Lagrum som boken hänvisar till:**
 
-För varje materiellt viktigt påstående ange:
+**Är lagrummet fortfarande gällande i samma lydelse?**  
+`JURIDISK KONTROLL KRÄVS` tills aktuell officiell lagtext är verifierad.
 
-- vilken originalhandling som behövs,
-- om original redan finns,
-- om uppgiften endast finns i sekundär sammanställning,
-- om ordalydelsen måste verifieras,
-- om datum/avsändare/system/lägenhet/räckvidd måste kontrolleras.
+**Är regeln direkt tillämplig på mitt forum/mål?**
+
+**Finns speciallag som går före?**
+
+**Vilket rättsfaktum kräver regeln?**
+
+**Vilket av mitt material stödjer rättsfaktumet?**
+
+**Vad saknas?**
+
+**Motpartens bästa invändning:**
+
+**Kan regeln användas externt nu?**  
+`JA / JA EFTER SOURCE-LOCK / NEJ / OSÄKERT`
+
+Ingen boktext får behandlas som aktuell lag enbart för att den står i boken.
+
+---
+
+## STEG 6 – KONTROLL MOT AKTUELL RÄTT
+
+Innan ett lagargument rekommenderas för verklig inlaga ska du skilja mellan:
+
+1. **vad boken säger**, och
+2. **vad aktuell rätt 2026 faktiskt säger**.
+
+Kontrollera vid behov:
+
+- aktuell lagtext från officiell källa,
+- ändringar efter bokens publicering,
+- övergångsbestämmelser,
+- speciallag,
+- senare vägledande praxis.
+
+Om detta inte har verifierats ska argumentet märkas:
+
+> **JURIDISK KONTROLL KRÄVS FÖRE EXTERN ANVÄNDNING**
+
+---
+
+## STEG 7 – MYNDIGHETSPROCESSEN: FRÅGA → SVAR → KOMMUNICERING → BEDÖMNING
+
+Om den nya informationen rör Miljöförvaltningen eller annan myndighet ska du alltid kontrollera:
+
+`fråga identifierad → uppgift begärd? → svar inkom? → svar verifierbart? → kommunicerat till Erica? → bedömt före beslut? → syns skälet?`
+
+Fråga särskilt:
+
+- fanns materialet hos myndigheten före beslutet?
+- visar akten att materialet värderades?
+- behövde myndigheten begära kompletterande uppgift/undersökning för att kunna bedöma frågan?
+- om inget ytterligare begärdes: går det att förstå varför?
+
+Undvik formuleringen "myndigheten ignorerade" om inte aktkedjan faktiskt visar detta.
+
+---
+
+## STEG 8 – ADVERSARIAL AUDIT
+
+Bygg den starkaste rimliga motargumentationen:
+
+- Vad skulle Familjebostäder säga?
+- Vad skulle Miljöförvaltningen säga?
+- Vad skulle MMD/MÖD kunna säga?
+- Finns en neutral/tekniskt rimlig alternativ förklaring?
+- Kräver vårt argument mer bevis än vi faktiskt har?
+
+Avsluta med:
+
+> **STARKASTE LINJE SOM ÖVERLEVER STRESSTESTET**
+
+---
+
+## STEG 9 – SOURCE-LOCK OCH SAKKUNNIGBEHOV
 
 Använd markörerna:
 
@@ -207,69 +289,76 @@ Använd markörerna:
 - `JURIDISK KONTROLL KRÄVS`
 - `TEKNISK SAKKUNNIG KRÄVS`
 
-## STEG 10 – ADVERSARIALT TEST
+Lista exakt vilken originalhandling, teknisk dokumentation, arbetsorder, aktanteckning, transkription eller aktuell lagtext som behövs.
 
-Bygg först den starkaste rimliga motargumentationen mot vår tolkning.
+---
 
-Fråga:
+## STEG 10 – GITHUB-INTEGRATION
 
-- Hur skulle Miljöförvaltningen svara?
-- Hur skulle Familjebostäder svara?
-- Hur skulle domstolen kunna förklara dokumentet på ett annat sätt?
-- Finns en oskyldig eller tekniskt rimlig alternativ förklaring?
-- Överdriver vi bevisvärdet?
+Om användaren skriver `@GitHub` ska du efter analysen:
 
-Därefter identifiera den **starkaste linje som fortfarande står kvar efter stresstestet**.
+1. uppdatera rätt analysfil,
+2. skapa en separat statusdelta om den nya uppgiften ändrar projektets läge,
+3. uppdatera centralt styr-/statusindex när ändringen är materiell,
+4. inte föra in obestyrkta uppgifter i `TIDSLINJE.md`,
+5. skilja primärbevis från analys,
+6. registrera vilka PDF-böcker som faktiskt var relevanta,
+7. registrera vilket lagrum/princip boken pekade mot,
+8. markera om aktuell rätt fortfarande måste verifieras.
 
-## STEG 11 – VAD BÖR STÄRKAS?
+Placera materialet i rätt spår, exempelvis:
 
-Avsluta med tre rubriker:
+- MÖD/process,
+- Miljöförvaltningens handläggning,
+- offentlighet/akt,
+- ventilation/OVK,
+- kanalrensning,
+- brand/sanering,
+- städning/material,
+- vittnen/förstahandsuppgifter,
+- hyresrätt/remedy,
+- ansvarskarta,
+- påståendekatalog,
+- juridisk huvudtidslinje,
+- juristbrief.
 
-### Behåll
-Vad i dokumentet är redan starkt och korrekt avgränsat?
-
-### Stärk
-Vad behöver bättre lagstöd, bättre bevis, tydligare formulering eller exaktare struktur?
-
-### Ta bort eller tona ned
-Vad är för kategoriskt, dåligt styrkt, irrelevant eller riskerar att försvaga huvudlinjen?
-
-## STEG 12 – GITHUB
-
-När analysen är klar och användaren har skrivit `@GitHub` ska du:
-
-1. uppdatera GitHub med analysen,
-2. länka dokumentet till rätt spår,
-3. uppdatera centralt status-/styrindex om dokumentet ändrar projektets läge,
-4. inte lägga obestyrkta sakpåståenden i faktatidslinjen,
-5. tydligt skilja primärbevis från analys,
-6. registrera vilka av de fyra PDF-böckerna som faktiskt användes och vilken relevans de hade.
+---
 
 ## STANDARDOUTPUT
 
-Svaret till användaren ska minst innehålla:
+Svaret ska minst innehålla:
 
-1. **Vad dokumentet är och vad det gör**
-2. **Noggrann genomgång av innehållet**
-3. **Vad som är starkt**
-4. **Vad som är svagt/oklart**
-5. **Vad dokumentet visar / inte visar**
-6. **Matchning mot PDF 1 – Förvaltningsprocesslagen**
-7. **Matchning mot PDF 2 – Myndigheternas skrivregler**
-8. **Matchning mot PDF 3 – Den nya hyresrätten**
-9. **Matchning mot PDF 4 – Lägenhetsbyten och andrahandsuthyrning**
-10. **Vilka lag-/processfrågor som bör stärkas**
-11. **Source-lock-lista**
+1. **Ny information – exakt vad som ändras**
+2. **Källtyp och bevisvärde**
+3. **Faktum / inferens / hypotes / bevislucka**
+4. **Möjliga rättsliga frågor**
+5. **PDF 1 – relevans och konkret nytta**
+6. **PDF 2 – relevans och konkret nytta**
+7. **PDF 3 – relevans och konkret nytta**
+8. **PDF 4 – relevans och konkret nytta**
+9. **Lagkort för varje användbar regel**
+10. **Vad aktuell lag/praxis måste verifiera**
+11. **Fråga → svar → kommunicering → bedömning** där relevant
 12. **Motpartens starkaste motargument**
-13. **Starkaste kvarstående linje efter stresstest**
-14. **Vilka GitHub-spår/filer som ska uppdateras**
+13. **Starkaste kvarstående linje**
+14. **Source-lock / sakkunnigbehov**
+15. **Exakt hur materialet kan användas: MÖD / MF / Hyresnämnd / annat / inte ännu**
+16. **GitHub-filer som ska uppdateras**
+
+---
+
+## KORTKOMMANDO
+
+När Erica inte vill klistra in hela prompten ska följande räcka:
+
+> **Granska den här nya informationen enligt fyr-PDF- och lagutnyttjandeauditen. Visa om någon av böckerna ger ett juridiskt argument jag faktiskt kan använda, vilket lagrum/princip det gäller, om regeln är direkt tillämplig, vad som måste verifieras i aktuell rätt och vilket ytterligare bevis som behövs. Uppdatera GitHub om jag skriver @GitHub.**
+
+---
 
 ## ÖVERORDNAD PRINCIP
 
-Målet är inte att hitta så många argument som möjligt.
+Målet är inte att hitta så många lagrum som möjligt.
 
 Målet är att hitta:
 
-> **de argument som kan styrkas, har rätt juridisk räckvidd och fortfarande håller när de utsätts för motargument.**
-
-De fyra PDF-källorna ska användas som juridiska analysverktyg, inte som dekoration.
+> **ett rättsligt relevant påstående som stöds av rätt källa, rätt bevisning och rätt processregel – och som fortfarande håller när motpartens bästa invändning prövas.**
