@@ -1,7 +1,7 @@
 # Aktuell styrning och korrigeringsregler – Kilsgatan 3
 
 **Datum:** 25 augusti 2026  
-**Senast uppdaterad:** 26 augusti 2026  
+**Senast uppdaterad:** 29 augusti 2026  
 **Syfte:** Ange vilka analysfiler som ska behandlas som aktuella styrfiler efter full trådgenomgång och hur konflikter mellan äldre sammanställningar ska hanteras.
 
 ## 1. Källhierarki
@@ -11,14 +11,22 @@ Vid konflikt gäller följande ordning:
 1. originalbevis/primärhandling,
 2. verifierad transkription eller dokumenterad förstahandsuppgift,
 3. `TIDSLINJE.md` / `BEVISREGISTER.md` när posten är källåst,
-4. aktuell korrigerad analys,
-5. äldre analys/sammanställning.
+4. `STORA-AUDITEN.md` som styrande audit- och kontrollager,
+5. aktuell korrigerad analys,
+6. äldre analys/sammanställning.
 
 Ingen analysfil ersätter originalbevis.
 
 ## 2. Aktuella styrfiler
 
-Följande filer ska användas som primära arbetskartor efter den fulla trådgenomgången:
+**ÖVERSTA KONTROLLLAGER:**
+
+- `STORA-AUDITEN.md`
+- `analyser/STORA-AUDITEN-HUVUDLAGER-KONTROLLPANEL-2026-08-29.md`
+
+Dessa två filer ska läsas först när ny information påverkar bevisvärde, source-lock, juridisk funktion eller spårstatus. `STORA-AUDITEN.md` är projektets kanoniska kontrollpanel; den mer detaljerade analysfilen används som utbyggd arbetsmatris för poster, delspår och kompletteringskö.
+
+Följande filer ska därefter användas som primära arbetskartor:
 
 - `analyser/CHAT-SYNC-2026-08-25-FULL-THREAD.md`
 - `analyser/CASE-STRATEGY-HANDOFF-RELEVANT-AND-CORRECTED-2026-08-25.md`
@@ -84,6 +92,7 @@ Det finns två olika Thomas:
 - För varje nytt dokument som granskas mot de fyra juridiska PDF-källorna ska först dokumentets funktion och bevisvärde bestämmas, därefter bokrelevans. Ingen doktrin får behandlas som primärbevis.
 - Äldre juridisk litteratur får användas som bakgrund men aktuell lagtext och senare praxis ska kontrolleras före extern användning.
 - Specialprocess ska alltid kontrolleras före subsidiär processlag. FPL-kommentaren får inte automatiskt ersätta direkt tillämplig processregel för MÖD.
+- **Ny huvudregel 29 augusti:** varje materiellt relevant ny uppgift ska först klassificeras i STORA AUDITEN innan den får ändra en huvudlinje, en extern sakframställan eller en juridisk slutsats.
 
 ## 5. Huvudfråga
 
@@ -272,7 +281,8 @@ Innan något går till domstol, myndighet, media eller annan extern mottagare:
 - använd inte en personlig observation som teknisk bevisning,
 - använd inte ett vittnes rapporterade symtom som bevis för medicinsk eller teknisk orsak,
 - beskriv inte ett dokuments bevisvärde bredare än dess uppdrag, metod och räckvidd stödjer,
-- när ett nytt dokument analyserats mot de fyra juridiska PDF-källorna: registrera vilken bok som faktiskt användes, varför och med vilken relevansgrad.
+- när ett nytt dokument analyserats mot de fyra juridiska PDF-källorna: registrera vilken bok som faktiskt användes, varför och med vilken relevansgrad,
+- kontrollera `STORA-AUDITEN.md` och uppdatera/klassificera relevant AUD-post innan nytt material används externt.
 
 I generella arbetsdokument ska mottagaren benämnas **juristen**, inte “Roland”. Ett namn används endast i faktisk korrespondens där det behövs.
 
@@ -315,3 +325,19 @@ Minimikrav:
 10. ange starkaste kvarstående linje,
 11. placera dokumentet i rätt GitHub-spår,
 12. uppdatera centralt status-/styrindex om dokumentet förändrar projektets läge.
+
+## 12. STORA AUDITEN – obligatorisk passage från 29 augusti 2026
+
+`STORA-AUDITEN.md` är från och med 29 augusti 2026 **översta kontrollpanelen för hela projektet**. Den ska inte läsas som en sakframställning utan som en kvalitetssäkringsmotor.
+
+Varje materiellt relevant post ska där kunna besvaras i nio fält:
+
+`datum → källa → faktisk uppgift → bevisklass → juridisk funktion → vad den inte bevisar → saknad komplettering → relevant lag/princip → status i huvudtidslinjen/spåren`
+
+Material som endast finns i en senare sammanställning, partsinlaga eller transkription ska markeras som sådant och föras tillbaka till originalfilen innan det används externt som säkert faktapåstående.
+
+`TIDSLINJE.md` förblir ren faktatidslinje. `BEVISREGISTER.md` förblir detaljerat bevisregister. STORA AUDITEN styr **hur** deras poster får användas, vilka inferenser som är förbjudna, vilka kompletteringar som saknas och vilken juridisk funktion varje post faktiskt kan bära.
+
+När ny info kommer in gäller därför:
+
+`ny källa → AUD-post → source-lock → direkt bevisvärde → begränsning → juridisk funktion → lagkontroll → spårstatus → eventuell huvudtidslinje → extern användbarhet`.
