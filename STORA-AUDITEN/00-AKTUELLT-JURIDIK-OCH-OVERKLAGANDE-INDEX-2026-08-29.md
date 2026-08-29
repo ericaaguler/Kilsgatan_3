@@ -25,17 +25,26 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 5. `STORA-AUDITEN/16-AKTORSANSVAR-LAGKRAV-FELSOKNING-FORSAKRING-2026-08-29.md`
 6. `STORA-AUDITEN/18-INTAKE-AUDIT-OKTOBER-NOVEMBER-FOTO-MAIL-MF-2026-08-29.md`
 7. `STORA-AUDITEN/19-MF-KOMMUNICERING-PARTSINSYN-HEVAL-AUDIT-2026-08-29.md`
-8. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
+8. `STORA-AUDITEN/20-FB-HANDLING-FOR-HANDLING-KOMMUNICERINGS-AUDIT-2026-08-29.md`
+9. `STORA-AUDITEN/21-FB-SVARSBLANKETT-OCAB-CAROLINE-ATGARDER-AUDIT-2026-08-29.md`
+10. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
 
 ## Aktuella bevisfynd som ska source-lockas före slutversion
 
 - **5–7 oktober 2025:** tidig lukt-/skickdokumentation och begäran om professionell utredning. Viktig för FB:s tidiga kännedom och för att visa att problemet föregår brandhypotesen.
 - **Ventilationsbilder oktober 2025:** starka observationsbevis men får inte användas för att identifiera sot/mögel/ämne utan expertstöd.
 - **20–27 november 2025:** kvarstående visuellt skick och lukt efter flera städningar. Samtida material, men Ericas tekniska slutsatser ska hållas isär från observationerna.
-- **2 december 2025 Jennifer:** påstående om att sanering “självklart” skett samtidigt som dokumentation inte redovisades; centralt J6-dokumentationsspår.
-- **18 februari–18 mars 2026, MF-kommunicering:** verifierat handläggarbyte, Ericas samtidiga transparens-/insynsfråga och Miriams svar om kommunikationsform. Får inte ännu beskrivas som fastställt FL 10/25-fel utan full aktmatris.
+- **2 december 2025 Jennifer:** source-lockat mejl: dels påstående om att sanering “självklart” skett samtidigt som dokumentation inte redovisades, dels framtidsformuleringen **"Gällande ventilationen kommer en kanalrensning sker"**. Kanalrensningsspåret ska jämföras mot Caroline-sammanställningen, senare 5-metersuppgift och primär arbetsorder.
+- **22–23 december 2025, FB-paketet:** OCAB, Caroline Blomberg, svarsblankett och FB-bemötande identifierade som paket och uttryckligen kommunicerade till Erica för yttrande.
+- **15–16 januari 2026:** FB:s kompletterande svar och OVK-underlag kommunicerades till Erica. Viktigt motbevis mot en generell tes om utebliven kommunicering före Heval.
+- **12 februari 2026:** officiella ärenderapporten anger att Heval Remazan tilldelades ärendet. Detta är styrande brytdatum för före/efter-auditen.
+- **18 februari–18 mars 2026, MF-kommunicering:** verifierat handläggarbyte, Ericas samtidiga transparens-/insynsfråga och Miriams svar om kommunikationsform. Får inte beskrivas som fastställt FL 10/25-fel endast på grund av e-postformatet.
+- **12–18 mars 2026:** MF uppger att konkreta frågor om brandsanering, kanalrensning och VOC ställts till FB; något konkret motsvarande FB-svar på dessa frågor har hittills inte identifierats före beslutet.
 - **26 mars 2026:** MF hade uttrycklig scope-invändning före beslutet den 13 april; ska kopplas till PT/granskningsdispens.
-- **OCAB:** originalbeställning, originalrapport och exakt scope är högsta prioritet innan FB:s hänvisning till OCAB ges bevisräckvidd.
+- **9 april 2026 akt 95:** FB:s yttrande inkom 12:50 efter den kommunicering som samma dag skickats till Erica. Ingen senare separat kommunicering av akt 95 före beslutet den 13 april har identifierats. FL 25-brott får inte påstås automatiskt; först måste betydelsen för beslutet bedömas.
+- **9 april–13 april:** FB fick i Hevals påminnelse svarstid till 16 april men MF avslutade ärendet den 13 april. Processuellt kontrollspår – inte automatiskt rättsfel.
+- **OCAB:** originalrapporten visar fukt-/materialavvikelse under kyl/frys men är inte en bred lukt-/brand-/VOC-/orsaksutredning. FB har själv senare beskrivit OCAB:s uppdrag som fuktutredning.
+- **FB:s svarsblankett:** kategoriska Nej-svar om störning/skada och "inga åtgärder" ska jämföras mot OCAB, Caroline och Jennifer 2 december. Starkaste spåret är scope/tid/dokumentationsmotsägelse – inte påstående om medveten osanning.
 
 ## Äldre/underordnade överklagandefiler
 
@@ -58,7 +67,8 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 - `samma sakfråga`, klarspråk och service – främst MF/JO-spår; ska inte överbelasta PT-argumentationen.
 - hyresrättens brukbarhetsregler – separat bakgrunds-/hyresrättsspår; inte självständig grund för MMD:s miljötillsynsprövning.
 - bemötande/känslighet – separat dokumentationsspår; konkret ordalydelse ska hållas isär från upplevelse/etiketter.
-- MF-kommunicering/partsinsyn – stark kontrollfråga, men bygg den på **vilket material som faktiskt kommunicerades**, inte på krav om samma e-posttråd.
+- MF-kommunicering/partsinsyn – bygg på **vilket material som faktiskt kommunicerades**. Nu finns en specifik röd kontrollpost, akt 95 den 9 april, men den rättsliga FL 25-betydelsen är ännu inte fastställd.
+- FB:s svarsblankett – använd som partens egen redovisning och jämför scope/tidslinje mot bilagorna; formulera inte kategoriskt att kryssen är falska innan varje åtgärds syfte och tidpunkt är source-lockad.
 
 ## Slutregel
 
