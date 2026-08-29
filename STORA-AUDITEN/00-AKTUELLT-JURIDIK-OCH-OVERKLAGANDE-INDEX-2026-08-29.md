@@ -24,7 +24,8 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 4. `STORA-AUDITEN/10-OBESVARADE-FRAGOR-MASTER-FB-MF-LST-MMD-2026-08-29.md`
 5. `STORA-AUDITEN/16-AKTORSANSVAR-LAGKRAV-FELSOKNING-FORSAKRING-2026-08-29.md`
 6. `STORA-AUDITEN/18-INTAKE-AUDIT-OKTOBER-NOVEMBER-FOTO-MAIL-MF-2026-08-29.md`
-7. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
+7. `STORA-AUDITEN/19-MF-KOMMUNICERING-PARTSINSYN-HEVAL-AUDIT-2026-08-29.md`
+8. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
 
 ## Aktuella bevisfynd som ska source-lockas före slutversion
 
@@ -32,6 +33,7 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 - **Ventilationsbilder oktober 2025:** starka observationsbevis men får inte användas för att identifiera sot/mögel/ämne utan expertstöd.
 - **20–27 november 2025:** kvarstående visuellt skick och lukt efter flera städningar. Samtida material, men Ericas tekniska slutsatser ska hållas isär från observationerna.
 - **2 december 2025 Jennifer:** påstående om att sanering “självklart” skett samtidigt som dokumentation inte redovisades; centralt J6-dokumentationsspår.
+- **18 februari–18 mars 2026, MF-kommunicering:** verifierat handläggarbyte, Ericas samtidiga transparens-/insynsfråga och Miriams svar om kommunikationsform. Får inte ännu beskrivas som fastställt FL 10/25-fel utan full aktmatris.
 - **26 mars 2026:** MF hade uttrycklig scope-invändning före beslutet den 13 april; ska kopplas till PT/granskningsdispens.
 - **OCAB:** originalbeställning, originalrapport och exakt scope är högsta prioritet innan FB:s hänvisning till OCAB ges bevisräckvidd.
 
@@ -56,6 +58,7 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 - `samma sakfråga`, klarspråk och service – främst MF/JO-spår; ska inte överbelasta PT-argumentationen.
 - hyresrättens brukbarhetsregler – separat bakgrunds-/hyresrättsspår; inte självständig grund för MMD:s miljötillsynsprövning.
 - bemötande/känslighet – separat dokumentationsspår; konkret ordalydelse ska hållas isär från upplevelse/etiketter.
+- MF-kommunicering/partsinsyn – stark kontrollfråga, men bygg den på **vilket material som faktiskt kommunicerades**, inte på krav om samma e-posttråd.
 
 ## Slutregel
 
