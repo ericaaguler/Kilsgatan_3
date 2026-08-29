@@ -31,6 +31,25 @@ En uppgift som är relevant för flera sakspår ska först säkras i huvudtidsli
 
 Den styr hur varje uppgift ska klassificeras juridiskt: kännedom, skick/hinder, symptomfenomen, tekniskt scope, motsägelse, dokumentationslucka, myndighetens kännedom, utredningsval eller beslutsmotivering.
 
+### Brand / tillsyn 11 mars / frågelogg
+
+- [`2026-08-29_BRAND-TILLSYN-FRAGELOGG-MALNING-OCH-DOKUMENTATIONSLUCKA.md`](2026-08-29_BRAND-TILLSYN-FRAGELOGG-MALNING-OCH-DOKUMENTATIONSLUCKA.md)
+
+Denna fil är ett **obligatoriskt bevarandelager** för de nya fynden från ljudfil/transkribering, Outlook och brandspåret. Den innehåller bland annat:
+
+- Hevals råd vid tillsynen 11 mars: **”Jag tycker att du ska tacka ja”** till målning/åtgärd,
+- att toxiner, brandpartiklar/rökpartiklar diskuterades men inte provtogs/tekniskt utreddes vid tillsynen,
+- muntlig observation om att det känns tungt i lägenheten,
+- att målning diskuteras som möjlig praktisk åtgärd utan fastställd brandorsak,
+- att MF på plats ännu inte hade tagit slutlig ställning till om lägenheten var beboelig,
+- datumkorrigeringen att det omfattande MF-yttrandet är **7 januari 2026** enligt Outlook-tidsstämpeln,
+- den viktiga posten **9 mars 2026**, då Erica uttryckligen ber MF kräva in uppgifter/dokumentation om eventuell sanering efter rök/brand,
+- konservativ räknad frågelogg: minst **5** materiella brand-/saneringsfrågetillfällen till Familjebostäder och minst **7** till Miljöförvaltningen,
+- dokumentationskedjan SSBF → FB → S:t Erik → Restvärderäddning → SBK,
+- frågan vilken felsökning som faktiskt fullföljde Familjebostäders löfte den 6 november 2025.
+
+**Denna fil får aldrig ersättas av en kortare sammanfattning.** Vid ny source-lockning ska status uppdateras eller kompletteras, inte raderas.
+
 ### Novemberaudit
 
 - [`2026-08-29_AUDIT-ANTECKNINGAR-11-24-NOVEMBER-2025.md`](2026-08-29_AUDIT-ANTECKNINGAR-11-24-NOVEMBER-2025.md)
@@ -51,6 +70,16 @@ Den innehåller bland annat:
 - 26 november skriftligt stöd om rengöring inne i kanalen och konsekvensen för andra lägenheter,
 - 28 november hänvisning till Brottsplatskartan/Polisens händelserapport.
 
+## Obligatoriska arbetslinjer som inte får försvinna
+
+> **Orsaksfrågan är fortfarande obesvarad i det granskade underlaget.**
+
+> **En rapport kan inte besvara en fråga den aldrig har undersökt.**
+
+> **En rapport kan inte fylla en historisk dokumentationslucka när de handlingar som skulle verifiera åtgärden aldrig har redovisats.**
+
+> **Frågan är inte om brand-/saneringsfrågan var känd. Frågan är vilket verifierbart underlag som faktiskt besvarade den.**
+
 ## Juridisk separationsregel
 
 **Huvudtidslinjen ska innehålla vad som hände.**
@@ -62,3 +91,17 @@ Detta förhindrar att analys, slutsats och faktum blandas ihop.
 ## Viktigt om `.gitignore`
 
 Anteckningar ska vara versionshanterade och spårbara. De ska därför **inte ignoreras**. Repositoryts `.gitignore` innehåller uttryckliga skyddsregler (`!anteckningar/**`, `!analyser/**`, m.fl.) för att viktiga bevis-, audit- och tidslinjefiler inte oavsiktligt ska falla bort.
+
+### Särskild bevaranderegel
+
+Följande kategorier får inte senare läggas i `.gitignore` utan ett uttryckligt, dokumenterat beslut:
+
+- användaranteckningar,
+- auditfiler,
+- tidslinjer och spårtidslinjer,
+- source-lockade transkriptioner,
+- ljud-/videoreferenser och källindex,
+- myndighetsakter,
+- mejl-/korrespondensfiler,
+- bevisregister,
+- rättsfunktions- och frågeloggar.
