@@ -70,7 +70,8 @@ Följande får **inte** användas externt som säker ordalydelse eller säker fa
 - juristunderlag,
 - partsinlaga som återger ett tidigare bevis,
 - transkription som inte är kontrollerad mot originalinspelningen,
-- filnamn som påstår vilket möte en ljudfil avser.
+- filnamn som påstår vilket möte en ljudfil avser,
+- inklistrat mejl eller markdown-export som inte kan knytas till native original/official aktkopia.
 
 De ska markeras:
 
@@ -92,7 +93,10 @@ STORA AUDITEN ska aktivt stoppa följande felslut:
 - godkänd OVK = inte automatiskt bevis att objekt 60020562 kontrollerats eller att alla inomhusmiljöproblem är uteslutna,
 - OCAB-resultat = gäller endast rapportens faktiska uppdrag/metod,
 - motsägelse inom Familjebostäder = visar motstridiga uppgifter, inte automatiskt vilken version som är sann,
-- brand 2017 + symptom 2025/2026 = visar inte i sig kausalitet mellan branden och dagens problem.
+- brand 2017 + symptom 2025/2026 = visar inte i sig kausalitet mellan branden och dagens problem,
+- `samma sakfråga` = inte automatiskt bevis för hur alla senare faktiska omständigheter ska behandlas processuellt,
+- `gallras` i ett kundservicesvar = inte automatiskt bevis för faktisk gallring/radering,
+- korrigerat ordval om `gallring` = inte automatiskt svar på en bredare GDPR-/allmän-handlingsbegäran.
 
 ## 7. Aktuell omfattning
 
@@ -113,6 +117,8 @@ Nya bevis-ID ska automatiskt läggas till auditens scope.
 - `05-REGISTERMATRIS-B0001-B0464.md` – index till 464/464 separata bas-auditrader för samtliga registrerade Bevis-ID.
 - `06-CHAT-BEVIS-ORIGINALKARANTAN.md` – nya visuella/ljud-/SMS-/processbevis från arbetschatten som ännu saknar B-ID eller source-lock.
 - `07-NYA-BEVISPOSTER-FULLAUDIT-CHAT-2026-08-29.md` – full audit enligt samtliga obligatoriska fält för materiellt viktiga nya bevis från chatten, med `AUD-...`-ID tills permanent B-ID/source-lock finns.
+- `08-MIRIAM-SAMMA-SAKFRAGA-JENNIFER-MMD-AUDIT.md` – full processaudit av Miriams `samma sakfråga`, senare omständigheter efter 13 april och Jennifer/MF-spåret.
+- `09-PROCESS-DOKUMENTHANTERING-HGF-GALLRING-SAMMA-SAKFRAGA-AUDIT.md` – samlad process-/dokumenthanteringsaudit som låser gallringskedjan, HGF-originalkarantänen och de nya processreglerna.
 
 Registermatrisens fem segment ligger i `audit/` men är **underordnade STORA-AUDITEN** och nås via `05-REGISTERMATRIS-B0001-B0464.md`. De är inte ett konkurrerande huvudlager.
 
@@ -127,7 +133,7 @@ Vid postspecifik fördjupning används bland annat:
 - `MB26:19` – 26 kap. 19 § miljöbalken, kontroll/egenkontroll.
 - `FL23` – 23 § förvaltningslagen, myndighetens utredningsansvar.
 - `PBL-OVK` – PBL/PBF:s bestämmelser om obligatorisk ventilationskontroll inom deras faktiska scope.
-- `KÄLLA`, `UNDERRÄTTELSE`, `SPÅRBARHET`, `DUBBELRÄKNING` – bevis-/processprinciper som hindrar att derivat, partsuppgifter och dubbletter ges större räckvidd än källan.
+- `KÄLLA`, `UNDERRÄTTELSE`, `SPÅRBARHET`, `DUBBELRÄKNING`, `DOKUMENTHANTERING`, `GDPR/TF` – kontrolltaggar som hindrar att derivat, partsuppgifter och dubbletter ges större räckvidd än källan.
 
 ## 10. Slutregel
 
