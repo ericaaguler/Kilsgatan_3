@@ -119,6 +119,7 @@ Nya bevis-ID ska automatiskt läggas till auditens scope.
 - `07-NYA-BEVISPOSTER-FULLAUDIT-CHAT-2026-08-29.md` – full audit enligt samtliga obligatoriska fält för materiellt viktiga nya bevis från chatten, med `AUD-...`-ID tills permanent B-ID/source-lock finns.
 - `08-MIRIAM-SAMMA-SAKFRAGA-JENNIFER-MMD-AUDIT.md` – full processaudit av Miriams `samma sakfråga`, senare omständigheter efter 13 april och Jennifer/MF-spåret.
 - `09-PROCESS-DOKUMENTHANTERING-HGF-GALLRING-SAMMA-SAKFRAGA-AUDIT.md` – samlad process-/dokumenthanteringsaudit som låser gallringskedjan, HGF-originalkarantänen och de nya processreglerna.
+- `08-FYR-PDF-OCH-LAGUTNYTTJANDEAUDIT-NYA-BEVISPOSTER-2026-08-29.md` – fyr-PDF-audit av de nya bevisposterna med kontroll mot aktuell 2026-rätt; särskilt LOMD/ärendelagen, miljöbalken 26 kap., förvaltningslagen och 12 kap. JB.
 
 Registermatrisens fem segment ligger i `audit/` men är **underordnade STORA-AUDITEN** och nås via `05-REGISTERMATRIS-B0001-B0464.md`. De är inte ett konkurrerande huvudlager.
 
