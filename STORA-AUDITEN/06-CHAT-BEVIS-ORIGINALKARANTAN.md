@@ -1,0 +1,29 @@
+# STORA AUDITEN – CHATBEVIS OCH ORIGINALKARANTÄN
+
+**Status:** AKTIV KOMPLETTERINGSKÖ
+
+Denna fil fångar viktiga bevis som identifierats i arbetschatten men som ännu saknar eget B-ID eller inte är source-lockade mot original. Den kompletterar `03-ORIGINALKONTROLL-OCH-KOMPLETTERINGSKO.md`.
+
+| Datum / arbetsbevis | Faktiskt låst | Bevisklass nu | Vad det inte bevisar | Obligatorisk komplettering | Spår/status |
+|---|---|---|---|---|---|
+| 1 okt 2025 14:41 – video första besöket | Metadata/tid och visuellt avvikande skick vid första besök | B/A2 visuellt; originalvideo identifierad | Materialidentitet, orsak eller ansvar | Registrera originalvideo med B-ID, hash/metadata och tidslinjelänk | TILLTRÄDE/KÖK – B-ID SAKNAS |
+| 27 okt 2025 – SMS Eds | Tid för städning och Familjebostäder som beställare framgår i SMS-kedjan | A/C kommunikation | Exakt beställningsomfattning/resultat | Full SMS-tråd + FB-order/arbetsbeskrivning + Eds rapport | STÄDNING – B-ID SAKNAS |
+| 6 nov 2025 – SMS Eds | Eds uppger mottagen beställning; Erica frågar vad FB beställt/om hela köket städats | A/C kommunikation; Ericas ord om mögel = partsuppgift | Tekniskt fastställt mögel eller faktisk omfattning av ordern | Native SMS + beställningshandling/återrapportering | STÄDNING – B-ID SAKNAS |
+| 27 nov 2025 – video golv/sockel | Visuellt avvikande skick dokumenterat samma dag som tredje städningen enligt projektkedjan | B visuellt | Vad materialet är; vilka ytor som ingick i ordern | Originalvideo/B-ID + städrapport 27/11 | STÄDNING/KÖK |
+| 1 dec 2025 – öppet köksgolv | Erica dokumenterade öppet underlag och visuella avvikelser | B visuellt + C partsuppgift om närvaro | Fukt/mögel/sot; att FB själva såg underlaget | Originalbilder/B-ID + entreprenörens arbetsorder, fuktmätning, egenkontroll, avvikelse/återrapportering | GOLVBYTE |
+| 11 nov 2025 – mötesljud | Möte verifierat; muntliga arbetsuppgifter finns | E/transkriptionsspår tills original låsts | Exakt ordalydelse/talare för ej kontrollerade sekvenser | Originalfil, mötesidentitet, tidskod, talare, kontrolltranskription | SOURCE-LOCK KRÄVS |
+| 17 dec 2025 ca 16:31–18:12 | Arbetsanalys pekar ut sekvens om femmeters kanalrensning/löpande rengöring | E/D2 derivat | Att Jennifer exakt säger ”Peter” eller ”trasa” | Kontroll mot original ljud och exakt tidskod | LJUD/VENTILATION – KARANTÄN |
+| 5 jan 2026 20:18:42 – köksvideo | Visuellt avvikande mörkt/brunt skick i/under fast köksinredning | B visuellt | Mögel, sot, mikrobiell tillväxt, fuktorsak | Originalvideo/B-ID + teknisk undersökning om materialidentitet ska påstås | KÖKSSTOMME |
+| 20 jan 2026 – ventilation | Omfattande synlig beläggning/nedsmutsning i ventilationsöppning | B visuellt | Beläggningens identitet; att exakt den delen omfattades av tidigare rensning | Original/B-ID + kanalrensningsorder, metod, sträcka, före/efter | VENTILATION |
+| 11 mars 2026 – jämförelse mot MF-besök | Erica uppger att ventilationen såg likadan ut vid tillsynen | C partsuppgift | Exakt vad inspektörerna såg/noterade | MF:s egna foton, fältanteckningar och råmätningar | MF/VENTILATION – VERIFIERA |
+| 26 maj 2026 15:39 – köksstomme | Senare visuellt avvikande material dokumenterat | B visuellt | Materialidentitet/orsak; exakt oförändrad punkt utan positionsmatchning | Original/B-ID + positionsmatchning/teknisk kontroll | KÖKSSTOMME |
+| 23 juni 2026 – Peter-ljud | Relevant samtal identifierat som sökspår | E/F tills original låsts | Exakt citat eller innebörd | Originalfil + tidskod + kontrolltranskription | LJUD/PETER – ORIGINAL KRÄVS |
+| 10 juli 2026 – Marko | Arbetsuppgift om doft/något finns i projektspåret | C/E beroende på original | Exakt citat eller orsak | Original ljud/video/anteckning + tidskod | FB SENARE OBSERVATION |
+| 25 aug 2026 – badrumsbild | Mörk/missfärgad fog syns | B visuellt; ”mögel” = partsuppgift tills tekniskt stöd | Mikrobiologisk identitet | Original/B-ID; teknisk bedömning endast om ordet mögel ska göras objektivt | BADRUM |
+| Odaterade uppladdade kopior – sex konstruktionsbilder | Sprickor, skiktat/poröst material, missfärgningar och hålrum syns | B visuellt | Datum, materialidentitet, orsak | Hitta original/metadata, skapa B-ID | KÖKSSTOMME |
+| Vid tillträde enligt partsuppgift – olika kakelnyanser | Färgskillnad kan ses | B visuellt + F hypotes om brand | Att kaklet bytts på grund av brand eller att färgskillnaden är brandskada | Originaldatum + skade-/återställningshandling efter branden | BRANDHYPOTES/KÖK |
+| Fönsterbräda | Bilder och skriftlig invändning finns; Erica uppger att felanmälan senare försvunnit | B/C + processuppgift | Att FB raderat/makulerat ärendet utan systemlogg | Ärendenummer, full status-/ändringslogg, användare, tid, intern motivering | FELANMÄLAN/PROCESS |
+
+## Hård regel
+
+**Ingen rad ovan får bli ett säkert externt faktapåstående bara genom att återges i en ny tidslinje, partsinlaga eller AI-analys.** Där posten kräver original ska kedjan gå tillbaka till originalfilen. Där posten bara visar ett visuellt skick får den inte få en teknisk materialetikett utan separat tekniskt stöd.
