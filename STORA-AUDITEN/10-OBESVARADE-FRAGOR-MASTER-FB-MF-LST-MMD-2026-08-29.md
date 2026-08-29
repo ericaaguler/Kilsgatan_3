@@ -1,8 +1,8 @@
 # STORA AUDITEN – MASTER ÖVER OBESVARADE FRÅGOR
 
 **Datum:** 29 augusti 2026  
-**Status:** AKTIV HUVUDLISTA – ska uppdateras när nytt svar eller original hittas.  
-**Syfte:** Samla frågor som Erica faktiskt har ställt till Familjebostäder, Miljöförvaltningen, Länsstyrelsen och Mark- och miljödomstolen och där ett fullständigt svar ännu inte har identifierats. Skilj strikt mellan `OBESVARAD`, `DELVIS BESVARAD`, `SVARAR PÅ ANNAN FRÅGA`, `HÄNVISAD BORT`, `SVAR FINNS MEN ORIGINALKONTROLL KRÄVS` och `AKTIV KONTROLLFRÅGA – EJ ÄNNU BEVISAT SKICKAD`.
+**Status:** AKTIV HUVUDLISTA – uppdaterad med chat-audit 29 augusti 2026, HGF-bristunderlag, FB-svarsblankett, kanalrensningsmatris, Aron Nabi och kommuniceringsspåret.  
+**Syfte:** Samla frågor som Erica faktiskt har ställt till Familjebostäder, Miljöförvaltningen, Länsstyrelsen, Mark- och miljödomstolen och Hyresgästföreningen samt nya kontrollfrågor som uppstått genom audit. Skilj strikt mellan `OBESVARAD`, `DELVIS BESVARAD`, `SVARAR PÅ ANNAN FRÅGA`, `HÄNVISAD BORT`, `SVAR FINNS MEN ORIGINALKONTROLL KRÄVS` och `AKTIV KONTROLLFRÅGA – EJ ÄNNU BEVISAT SKICKAD`.
 
 ## Hård bevisregel
 
@@ -11,6 +11,8 @@ En fråga får inte märkas `OBESVARAD` bara för att den känns obesvarad. För
 2. mottagarens svar,
 3. eventuellt senare svar i annan tråd,
 4. mötes-/telefonanteckning om frågan faktiskt besvarades muntligt.
+
+Nya frågor som uppstått genom audit men ännu inte faktiskt skickats till mottagaren ska märkas `AKTIV KONTROLLFRÅGA – EJ ÄNNU BEVISAT SKICKAD`.
 
 ---
 
@@ -61,15 +63,30 @@ Gaby skriver: `här ska vi felsöka vad problemet är` och att det komplexa är 
 
 **Vad som fortfarande saknas:** primär dokumentation som visar vad som faktiskt gjordes efter branden.
 
-## A4. 26 november 2025 – kanalrensning
+## A4. November–december 2025 – kanalrensning, rensning av kanal och `5 m upp`
 
-Erica skriver bland annat:
+Erica frågar bland annat:
 - När rengjordes/rensades röret/kanalen sist i just denna lägenhet?
 - Vad menade FB med att rengöring behövdes inne i kanalen och att detta i så fall behövde göras i fler lägenheter?
 
-**Status:** `DELVIS BESVARAD SENARE – OMFATTNING/METOD/ORDER FORTFARANDE OFULLSTÄNDIG`.
+Efter senare audit måste tre olika uppgifter hållas isär:
+1. teknisk sammanställning/Caroline: `efter rensningen av kanal`,
+2. Jennifer 2 december: `Gällande ventilationen kommer en kanalrensning sker`,
+3. senare FB-uppgift: drifttekniker ska ha rensat kanal i köket `5 m upp`.
 
-**Saknas:** beställning, utförare, metod, exakt kanalsträcka, före-/efterkontroll och koppling till uppgiften `5 m upp`.
+**Nya kontrollfrågor:**
+- Vilket exakt arbete hade redan utförts när Caroline/FB skrev `efter rensningen av kanal`?
+- Vilket datum?
+- Vem utförde det?
+- Avsåg det endast donet, en närliggande kanalsträcka eller fem meter kanal?
+- Vilken metod/utrustning användes?
+- Vad påträffades och vad avlägsnades?
+- Vilket före-/efterresultat dokumenterades?
+- Vilken ytterligare kanalrensning avsåg Jennifer den 2 december i futurum?
+- Utfördes den senare kanalrensningen?
+- Är `5 m upp` samma arbete eller ett annat?
+
+**Status:** `DELVIS BESVARAD – OMFATTNING/METOD/ORDER FORTFARANDE OFULLSTÄNDIG; MÖJLIG MOTSÄGELSE FÅR INTE SLUTKLASSAS UTAN PRIMÄR ARBETSORDER/RAPPORT`.
 
 ## A5. 5 augusti 2026 – sex uttryckliga frågor till FB
 
@@ -111,6 +128,76 @@ Erica skriver 26 augusti att de tre frågorna inte besvarats i Jennifers svar.
 
 **Status:** `ORDET GALLRING BESVARAT/KORRIGERAT; DEN BREDA UPPFÖLJNINGSBEGÄRAN DEN 9 AUGUSTI HAR INGET SENARE DSO-SVAR IDENTIFIERAT T.O.M. 29 AUGUSTI`.
 
+## A8. Familjebostäders svarsblankett till MF – `ingen störning/skada` och `inga åtgärder planeras`
+
+**Nya auditfrågor:**
+1. Vad avsåg Familjebostäder exakt med kryssrutan `Jag har konstaterat störning/skada – Nej`?
+2. Avsåg `störning/skada` den rapporterade lukt-/symtomstörningen, fysisk skada på byggnad/material eller båda?
+3. Vilket exakt besök eller vilka besök låg bakom bedömningen?
+4. Vem gjorde bedömningen?
+5. Vilken metod användes för att avgöra om den rapporterade störningen fanns?
+6. Varför anges att klaganden inte upplevde störningen vid besöket – vilket besök avses och vilken dokumentation stöder uppgiften?
+7. Hur förhåller sig `ingen skada` till OCAB:s dokumenterade förhöjda fuktindikation/svällda skiva och rekommendation om materialbyte?
+8. Hur förhåller sig `inga åtgärder planeras` till golvbyte, målning, elåtgärder, köksåtgärder och planerad kanalrensning?
+9. Vilka av dessa åtgärder var vanligt underhåll/HLU och vilka var avhjälpande av dokumenterade brister?
+10. Vilket problem var respektive åtgärd avsedd att lösa?
+11. Hur verifierades effekten efter respektive åtgärd?
+12. Vem fyllde i blanketten och på vilket underlag?
+
+**Status:** `AKTIV KONTROLLFRÅGA – DELAR ÄR SOURCE-LOCKADE, FULL BLANKETT-/BILAGEJÄMFÖRELSE PÅGÅR`.
+
+## A9. Oktober–november 2025 – tidiga frågor från HGF-bristunderlaget
+
+### Ventilation/lukt
+- Har köksfläkten/ventilationsdelen någonsin rengjorts?
+- Vad orsakar den kvarstående lukten?
+- Behövs miljöteknisk kontroll av luftkvalitet/fukt?
+- När ska ventilationsfirma rengöra/sanera fläkt och kanal?
+- Vem ansvarar?
+- När görs nästa ventilationskontroll?
+
+### Kök/konstruktion
+- Hur ser det ut under/ bakom skåp och bänkskivor?
+- Finns underliggande fukt/skada bakom spis och inredning?
+- Vad är den mörka/svarta/bruna beläggningen?
+- Vilka material behöver bytas i stället för rengöras?
+
+### Spis/el
+- Vilken historik finns för spisen – installationsår, tidigare fel och reparationer?
+- Vilket lim har använts?
+- Vem utförde limning/reparation och när?
+- Är spisens elanslutning korrekt?
+- Behöver elinstallationer vid fläkt/kök kontrolleras av behörig fackman?
+
+### Hall/klädkammare/förråd
+- Hur ska lukt och vätskespår i hallskåp avhjälpas?
+- Varifrån kommer den särskilda lukten i klädkammare/förråd?
+- Vad har tidigare hänt i utrymmet?
+- Behövs fukt-/materialundersökning bakom vägg/golv/inredning?
+
+### Brukbarhet/åtgärdsplan
+- Kan bostaden återställas före december 2025?
+- Om inte: kan tillfällig bostad erbjudas under utredning/åtgärd?
+- När kommer en tidsatt åtgärdsplan med ansvarig och slutdatum?
+- När anses respektive brist faktiskt avhjälpt och hur verifieras resultatet?
+
+**Status:** `ORIGINALFRÅGOR SOURCE-LOCKADE I HGF-BRISTUNDERLAG; SVARSSTATUS SKA MATCHAS MOT FB-KORRESPONDENSEN`.
+
+## A10. Aron Nabi – roll i FB:s yttrande till MF den 9 april 2026
+
+**Verifierat:** Aron Nabi var kopierad på Jennifers mejl till Heval 9 april. Offentliga uppgifter identifierar honom som förvaltare hos Familjebostäder.
+
+**Kontrollfrågor:**
+- Varför kopierades Aron Nabi på Jennifers yttrande till MF?
+- Hade han chefs-, kollegialt, områdes- eller ersättaransvar i ärendet?
+- Hade Aron fått tidigare material om lgh 1202?
+- Deltog han i bedömningen `vi har inget mer att tillägga`?
+- Gav han Jennifer råd inför svaret?
+- Finns intern FB-korrespondens mellan Jennifer och Aron om MF-ärendet?
+- Hade Aron operativt ansvar för Kilsgatan 3 vid denna tid?
+
+**Status:** `IDENTITET/ANSTÄLLNINGSROLL VERIFIERAD – ÄRENDEROLL OBESVARAD`.
+
 ---
 
 # B. MILJÖFÖRVALTNINGEN
@@ -133,8 +220,6 @@ Erica frågar vilket underlag MF använder för att bedöma att lägenheten inte
 **Status:** `INGET FULLSTÄNDIGT TEKNISKT SVAR IDENTIFIERAT`.
 
 ## B3. 9 augusti 2026 – 17 frågor om utredning och beslut
-
-Följande huvudfrågor ska hållas som separata poster:
 
 1. Hur värderades vittnesuppgifterna som fanns före beslutet?
 2. Var dokumenterades denna värdering?
@@ -160,8 +245,6 @@ Följande huvudfrågor ska hållas som separata poster:
 
 ## B4. `samma sakfråga` – 10, 17 och 26 augusti
 
-Obesvarade precisionsfrågor:
-
 - Vad menar MF exakt med `samma sakfråga`?
 - Omfattar begreppet även frågor om hur det gamla beslutet faktiskt togs fram?
 - Om ja: vilken rättslig grund hindrar MF från att redovisa redan genomförd handläggning?
@@ -175,8 +258,6 @@ Obesvarade precisionsfrågor:
 
 ## B5. Jennifer Ehlin ↔ MF efter 10 juli
 
-Frågor till MF:
-
 - När ägde kontakten rum?
 - Vad avsåg kontakten?
 - Vilka uppgifter eller frågor framfördes?
@@ -189,8 +270,6 @@ Frågor till MF:
 
 ## B6. Registrering och överlämnande till MMD
 
-Frågor:
-
 - Vilka senare handlingar finns registrerade i MF:s ärende efter det ursprungliga överlämnandet?
 - Vilka av dessa överlämnades till MMD?
 - Finns samtliga relevanta handlingar som MF har också i mål M 5167-26?
@@ -202,20 +281,32 @@ Frågor:
 ## B7. Stina Jurell – anteckningar och rekommendationer
 
 ### Vad som ÄR verifierat
-
 Stina Jurell var handläggare/inspektör i ärendet och korrespondens finns inför tillsynen. Senare frågor från Erica beskriver att rekommendationer under tillsynen 11 mars omfattade korsdrag/fortsatt vädring, öppna innerdörrar och förbättrad luftcirkulation och frågar hur MF då verifierat normal användning utan sådana kompensatoriska åtgärder.
 
 ### Vad som INTE ännu är verifierat
+Inget skickat originalmejl har ännu source-lockats där Erica uttryckligen skriver `jag begär Stina Jurells anteckningar` eller motsvarande.
 
-I genomgången 29 augusti har inget skickat originalmejl source-lockats där Erica uttryckligen skriver `jag begär Stina Jurells anteckningar` eller motsvarande.
-
-**Status:** `AKTIV KONTROLLFRÅGA – EJ ÄNNU BEVISAT ATT SÅDAN BEGÄRAN SKICKATS`.
-
-### Fråga som däremot ska in i auditten
-
+### Kontrollfrågor
 - Varför återges inte alla relevanta muntliga rekommendationer/observationer från tillsynen i kontrollrapporten/beslutsunderlaget?
 - Finns Stinas fältanteckningar, tjänsteanteckningar, arbetsanteckningar, fotografier eller annan dokumentation från tillsynen, och i så fall var?
-- Vilken av dessa handlingar är allmän handling respektive arbetsmaterial? **Rättslig klassificering måste göras först när handlingstypen är känd.**
+- Vilken av dessa handlingar är allmän handling respektive arbetsmaterial? Rättslig klassificering först när handlingstypen är känd.
+
+**Status:** `AKTIV KONTROLLFRÅGA – EXPLICIT TIDIGARE BEGÄRAN OM JUST ANTECKNINGARNA EJ ÄNNU BEVISAT SKICKAD`.
+
+## B8. 9 april–13 april 2026 – kommunicering av akt 95 och avslut före angiven svarstid
+
+**Nya frågor från kommuniceringsauditen:**
+- När fick Erica del av akt 95, Jennifers yttrande 9 april kl. 12:50?
+- Fick hon del av det före beslutet den 13 april?
+- Om ja: hur och när?
+- Om nej: bedömdes akt 95 vara material av betydelse för beslutet?
+- Om det var av betydelse: varför kommunicerades det inte före beslut?
+- Om det inte var av betydelse: vilken funktion hade yttrandet i ärendet?
+- Varför angav MF den 9 april svarstid för FB till 16 april men avslutade ärendet den 13 april?
+- Vilket underlag gjorde ärendet tillräckligt utrett den 13 april trots att MF fyra dagar tidigare fortfarande efterfrågade yttrande?
+- Hur behandlades Ericas komplettering 9 april innan beslutet fyra dagar senare?
+
+**Status:** `MYCKET STARK AKTKONTROLLFRÅGA – FL 10/25-FEL FÅR INTE SLUTKONSTATERAS FÖRRÄN MATERIALBETYDELSE OCH FAKTISK KOMMUNICERING ÄR FULLT MATCHAD`.
 
 ---
 
@@ -223,9 +314,6 @@ I genomgången 29 augusti har inget skickat originalmejl source-lockats där Eri
 
 ## C1. Överklagandet och `centrala frågor som fortfarande saknar svar`
 
-Erica skickade överklagande av Länsstyrelsens beslut 14 juni 2026 och bifogade bl.a. `Bilaga 2 – Centrala frågor som fortfarande saknar svar i ärendet`.
-
-**Auditfrågor:**
 - Vilka av dessa frågor bemöttes uttryckligen i Länsstyrelsens beslut 3 juni?
 - Vilka lämnades utan konkret svar?
 - Hur behandlade Länsstyrelsen invändningen att orsaken inte fastställts?
@@ -237,9 +325,6 @@ Erica skickade överklagande av Länsstyrelsens beslut 14 juni 2026 och bifogade
 
 ## C2. 28 maj – komplettering efter Thomas 19 maj
 
-Erica skickade komplettering till Länsstyrelsen om fortsatt brukbarhets-/utredningsproblematik efter platsbesöket 19 maj.
-
-**Kvarstående kontrollfråga:**
 - Hur och var framgår att Länsstyrelsen värderade den nya förstahandsuppgiften innan beslutet 3 juni?
 
 **Status:** `BESLUTSMOTIVERING MÅSTE MATCHAS MOT KOMPLETTERINGEN`.
@@ -250,10 +335,7 @@ Erica skickade komplettering till Länsstyrelsen om fortsatt brukbarhets-/utredn
 
 ## D1. Registrering av senare material
 
-Erica har bl.a. skickat kompletteringar 10 juli, 21 juli och Björn Adlers redogörelse 28 juli.
-
-Frågor:
-- Har samtliga dessa handlingar registrerats i M 5167-26?
+- Har samtliga kompletteringar registrerats i M 5167-26?
 - Vilka senare handlingar från MF har tillförts målet?
 - Finns Thomas 19 maj, Björn 10 juli, senare MF-korrespondens och eventuell Jennifer↔MF-kontakt i domstolens akt?
 
@@ -261,41 +343,97 @@ Frågor:
 
 ## D2. Fortsatt handläggning
 
-28 juli ber Erica om information om den fortsatta handläggningen och när hon kan förvänta sig att höra från domstolen.
+28 juli bad Erica om information om den fortsatta handläggningen och när hon kunde förvänta sig att höra från domstolen.
 
-**Status:** `SVAR MÅSTE KONTROLLERAS MOT DOMSTOLENS SENARE KORRESPONDENS`.
+**Status:** `DELVIS BESVARAD AV DOMSTOLENS SENARE 28 JULI-KORRESPONDENS; INTE LÄNGRE REN OBESVARAD FRÅGA`.
 
-## D3. Vilket underlag ska domstolen pröva på?
+## D3. Vilket underlag prövade domstolen faktiskt?
 
-I senare mejl som även kopieras/skickas till MMD ställs frågan:
-- Om MF säger att domstolen nu hanterar `samma sakfråga`, vilket relevant underlag har domstolen faktiskt tillgång till?
-- Vilka av de specificerade senare handlingarna finns registrerade i M 5167-26?
+- Om MF säger att domstolen hanterar `samma sakfråga`, vilket relevant underlag hade domstolen faktiskt tillgång till?
+- Vilka specificerade senare handlingar fanns registrerade i M 5167-26?
+- Fanns komplett senare brand-/saneringsdokumentation i målet?
+- Fanns full kommuniceringskedja kring akt 95 och 9–13 april i målet?
 
-**Status:** `OBESVARAD TILLS AKTFÖRTECKNING ELLER DOMSTOLENS BEKRÄFTELSE VISAR MOTSATSEN`.
+**Status:** `AKTKONTROLL KRÄVS`.
 
 ---
 
-# E. PRIORITERAD LISTA – FRÅGOR SOM BÖR FÖLJAS UPP FÖRST
+# E. HYRESGÄSTFÖRENINGEN – CAS-133640-Q5D1C8
+
+## E1. Vilket material fick HGF i november 2025?
+
+Verifierat: Erica skickade/återsände material med CAS-133640-Q5D1C8 till HGF-rådgivningen 6 november och mejlet hade bilagor.
+
+**Frågor:**
+- Vilka exakta bilagor registrerades i HGF:s ärende?
+- Finns bristblanketten, 28-sidiga bristbilagan, akut-felanmälan, fotodokumentationen och 10 november-kompletteringen i HGF:s akt?
+- När lästes/handlades respektive underlag?
+- Vem var ansvarig handläggare i november?
+
+**Status:** `DELVIS VERIFIERAD – HGF-AKT/BILAGELISTA KRÄVS`.
+
+## E2. Tog Emma Sega eller HGF materialet vidare till Familjebostäder?
+
+Verifierat senare: Emma skriver att HGF `redan skickat ett förbehåll till hyresvärden`.
+
+Verifierat efter senare HGF-platsbesök: Emma presenterade ett utkast till mejl till FB; Erica godkände inte utkastet; Emma skrev därefter `Då skickar jag inget till hyresvärden i nuläget.`
+
+**Frågor:**
+- Vilket exakt `förbehåll` hade HGF redan skickat till FB?
+- Vilket datum?
+- Vem skickade det?
+- Till vem hos FB?
+- Vilka bilagor följde med?
+- Innehöll det hela novemberpaketet eller endast en juridisk reservation?
+- Innehöll det 10 november-kompletteringen?
+- Finns utgående mejl/journalanteckning i CAS-akten?
+- Vilka andra kontakter hade Emma/Sandra/HGF med FB om lägenheten?
+
+**Status:** `DELVIS VERIFIERAD – DET ÄR INTE VERIFIERAT ATT EMMA VIDAREBEFORDRADE HELA NOVEMBERPAKETET`.
+
+## E3. Vad betydde HGF:s senare beslut att avvakta MF?
+
+- Vem beslutade att HGF skulle avvakta Miljöförvaltningens bedömning?
+- Vilka hyresrättsliga frågor ansåg HGF fortfarande vara möjliga att driva oberoende av MF?
+- Vilka frågor ansåg HGF kräva MF-underlag?
+- Varför fördes inte en separat åtgärds-/brukbarhetsdialog med FB vidare om fysiska brister som inte behövde avgöras som miljöbalksolägenhet?
+
+**Status:** `AKTIV KONTROLLFRÅGA`.
+
+---
+
+# F. PRIORITERAD LISTA – FRÅGOR SOM BÖR FÖLJAS UPP FÖRST
 
 1. **Vilken undersökning har faktiskt utrett grundorsaken till de återkommande reaktionerna?** – FB + MF.
 2. **Vilka möjliga orsaker har tekniskt faktiskt uteslutits, och hur?** – MF.
 3. **Vad gjorde FB efter brandförsvarets insats 2017, och var finns dokumentationen?** – FB.
 4. **Vilket svar/underlag fick MF på sin fråga om `sanering efter brand` i mars 2026?** – MF.
 5. **Hur värderades vittnesuppgifterna före beslutet 13 april, och var dokumenterades värderingen?** – MF.
-6. **Varför framgår inte alla relevanta rekommendationer/observationer från tillsynen 11 mars i rapporten? Finns Stinas fält-/tjänsteanteckningar?** – MF. `AKTIV KONTROLL; explicit tidigare begäran om just anteckningarna är ännu inte source-lockad.`
-7. **Vad betyder `samma sakfråga` konkret och hur hanteras Thomas 19 maj/Björn 10 juli?** – MF.
-8. **Vad avsåg den uppgivna Jennifer↔MF-kontakten efter 10 juli och finns den dokumenterad?** – FB + MF.
-9. **Vilka senare handlingar finns faktiskt hos MMD?** – MF + MMD.
-10. **Varför makulerades 867756, 870651 och 874860 och vad gjordes i 857001/864574?** – FB.
-11. **Vilken felsökning följde efter Gabys löfte 6 november att `felsöka vad problemet är`, och vad blev slutsatsen?** – FB.
-12. **Hur besvarades den breda GDPR/allmän-handlingsbegäran 9 augusti efter korrigeringen av ordet `gallring`?** – FB.
-13. **Hur värderade Länsstyrelsen kompletteringen 28 maj och vilka av `centrala frågor som fortfarande saknar svar` bemöttes faktiskt?** – Länsstyrelsen.
+6. **Vilket underlag gjorde ärendet tillräckligt utrett den 13 april när MF 9 april fortfarande inhämtade yttrande med svarstid 16 april?** – MF.
+7. **När och hur kommunicerades akt 95 till Erica före beslutet?** – MF.
+8. **Vilket exakt platsbesök/metod låg bakom FB:s `ingen störning/skada`, och hur går det ihop med OCAB/faktiska åtgärder?** – FB.
+9. **Vilken kanalrensning var redan utförd, vilken planerades 2 december och vad betyder `5 m upp`?** – FB.
+10. **Varför kopierades Aron Nabi på FB:s yttrande 9 april och vilken roll hade han i ärendet?** – FB.
+11. **Varför framgår inte alla relevanta rekommendationer/observationer från tillsynen 11 mars i rapporten? Finns Stinas fält-/tjänsteanteckningar?** – MF.
+12. **Vad betyder `samma sakfråga` konkret och hur hanteras Thomas 19 maj/Björn 10 juli?** – MF.
+13. **Vad avsåg den uppgivna Jennifer↔MF-kontakten efter 10 juli och finns den dokumenterad?** – FB + MF.
+14. **Vilka senare handlingar fanns faktiskt hos MMD?** – MF + MMD.
+15. **Varför makulerades 867756, 870651 och 874860 och vad gjordes i 857001/864574?** – FB.
+16. **Vilken felsökning följde efter Gabys löfte 6 november att `felsöka vad problemet är`, och vad blev slutsatsen?** – FB.
+17. **Hur besvarades den breda GDPR/allmän-handlingsbegäran 9 augusti efter korrigeringen av ordet `gallring`?** – FB.
+18. **Vilket exakt förbehåll skickade HGF till FB, och vilka bilagor följde med?** – HGF.
+19. **Hur värderade Länsstyrelsen kompletteringen 28 maj och vilka av `centrala frågor som fortfarande saknar svar` bemöttes faktiskt?** – Länsstyrelsen.
 
 ---
 
-# F. ARBETSREGEL FÖR FORTSATT AUDIT
+# G. ARBETSREGEL FÖR FORTSATT AUDIT
 
 Varje rad ska senare få:
 `frågedatum → mottagare → exakt fråga → originalkälla → svar/svarsdatum → status → juridisk funktion → nästa åtgärd`.
 
 När ett svar hittas ska frågan **inte raderas**. Status ändras till `BESVARAD`, `DELVIS BESVARAD` eller `SVARAR PÅ ANNAN FRÅGA`, så att historiken över hur länge och hur många gånger samma fråga behövt ställas bevaras.
+
+## Kopplade auditer
+- `STORA-AUDITEN/20-FB-HANDLING-FOR-HANDLING-KOMMUNICERINGS-AUDIT-2026-08-29.md`
+- `STORA-AUDITEN/21-FB-SVARSBLANKETT-OCAB-CAROLINE-ATGARDER-AUDIT-2026-08-29.md`
+- `STORA-AUDITEN/22-HGF-BRISTUNDERLAG-ARON-NABI-VIDAREBEFORDRAN-AUDIT-2026-08-29.md`
