@@ -5,9 +5,10 @@
 **Klagande:** Erica Güler  
 **Fastighet/bostad:** Kilsgatan 3, lägenhet 1202, Farsta  
 **Status:** **POTENTIELL ÖVERKLAGANDEVERSION – INTE SLUTVERSION OCH INTE KLAR FÖR INLÄMNING**  
-**Sista överklagandedag enligt domen:** 9 september 2026
+**Sista överklagandedag enligt domen:** 9 september 2026  
+**Lagkontroll:** gällande SFS återkontrollerad 29 augusti 2026 för centrala process- och utredningsregler.
 
-> Den här filen är ett kvalificerat arbetsutkast. Den ska inte expedieras innan bilagor, aktuella lagrum, prövningstillståndsgrunder, datum och samtliga source-lockade sakuppgifter har slutkontrollerats.
+> **VIKTIG INTERN SPÄRR:** Denna fil är ett kvalificerat arbetsutkast. Den får inte expedieras innan `STORA-AUDITEN/15-OVERKLAGAN-KANSKE-ERICA-RELEASE-GATE-2026-08-29.md` är genomgången. Uppgifter som ännu inte är source-lockade ska i slutversionen antingen verifieras eller uttryckligen formuleras som frågor/osäkerheter.
 
 ---
 
@@ -18,13 +19,27 @@
 
 Jag överklagar Mark- och miljödomstolens dom den 19 augusti 2026 i mål M 5167-26.
 
-Det centrala i mitt överklagande är inte att Mark- och miljööverdomstolen redan nu ska fastställa vilken teknisk orsak som ligger bakom de återkommande besvär som rapporterats vid vistelse i lägenheten.
+Min talan bygger inte på att Mark- och miljööverdomstolen ska välja mellan olika spekulationer om orsaken till de återkommande besvär som rapporterats vid vistelse i lägenheten. Den bygger på en mer grundläggande fråga:
 
-Det centrala är i stället om det verkligen fanns ett tillräckligt underlag för att avsluta tillsynsärendet när flera relevanta omständigheter fortfarande var outredda, när den genomförda undersökningen hade ett begränsat tekniskt innehåll, när återkommande uppgifter om besvär fanns från flera personer och när viktiga dokumentationsfrågor fortfarande inte var besvarade.
+> **Fanns det ett tillräckligt och spårbart underlag för slutsatsen att tillsynen var färdigutredd och kunde avslutas?**
 
-Mark- och miljödomstolen har funnit att nämnden har företagit den utredning och vidtagit de åtgärder som *ärendets beskaffenhet har krävt*.
+Mark- och miljödomstolen har bedömt att nämnden företagit den utredning och vidtagit de åtgärder som *ärendets beskaffenhet har krävt*.
 
-Jag menar att det finns anledning att betvivla riktigheten av den slutsatsen. I vart fall går riktigheten inte att bedöma utan en närmare prövning av vilka frågor som faktiskt undersöktes, vilka frågor som fortfarande var öppna, vilka handlingar som saknades och vilken betydelse de nu ytterligare klarlagda omständigheterna har för frågan om ärendet verkligen var färdigutrett.
+Jag menar att det finns anledning att betvivla riktigheten av den slutsatsen. I vart fall går riktigheten inte att bedöma utan en närmare granskning av
+
+- vilka frågor som faktiskt undersöktes,
+- vilka metoder som användes,
+- vad dessa metoder faktiskt kunde besvara,
+- vilka relevanta frågor som fortfarande var öppna,
+- vilka beslutsrelevanta muntliga uppgifter och observationer som dokumenterades vid tillsynen,
+- vilka handlingar som faktiskt fanns i akten före beslutet,
+- och vilket konkret underlag som gjorde ytterligare tillsyn obehövlig.
+
+Den rättsliga och bevismässiga kedjan måste gå att följa:
+
+> **påtalat problem → relevanta utredningsfrågor → valda metoder → faktiskt resultat → kvarstående frågor → skälen till att ytterligare utredning ändå inte behövdes.**
+
+Om den kedjan inte kan följas går riktigheten av det överklagade slutet åtminstone inte att bedöma utan närmare prövning.
 
 ---
 
@@ -37,85 +52,115 @@ Jag yrkar i första hand att Mark- och miljööverdomstolen
 3. upphäver Länsstyrelsen Stockholms beslut den 3 juni 2026 i ärende 21412-2026,
 4. och återförvisar ärendet till Miljö- och hälsoskyddsnämnden i Stockholms kommun för fortsatt tillsyn och kompletterande utredning.
 
-I andra hand yrkar jag att målet återförvisas till Mark- och miljödomstolen för förnyad handläggning efter att relevant kompletterande material har inhämtats och bedömts.
+I andra hand yrkar jag att målet återförvisas till Mark- och miljödomstolen för förnyad handläggning efter att relevant kompletterande processmaterial har inhämtats och bedömts.
 
-Jag begär inte att domstolen ska bestämma en viss teknisk undersökningsmetod. Jag begär att tillsynsfrågan inte avslutas innan det finns ett underlag som faktiskt kan bära slutsatsen att ytterligare tillsyn inte behövs.
+Jag begär **inte** att Mark- och miljööverdomstolen själv ska fastställa vilken teknisk orsak som finns i bostaden eller bestämma en viss provtagningsmetod.
+
+Min begäran är att tillsynsfrågan inte ska behandlas som färdigutredd innan det finns ett underlag som faktiskt kan bära slutsatsen att ytterligare tillsyn inte behövs.
+
+Om prövningstillstånd meddelas begär jag, om domstolen bedömer att det är till fördel för utredningen, sammanträde enligt 13–14 §§ lagen (1996:242) om domstolsärenden för att klarlägga de faktiska förhållandena kring tillsynen, utredningens avgränsning och de centrala kvarstående utredningsfrågorna.
 
 ---
 
-# 2. PRÖVNINGSTILLSTÅND
+# 2. PRÖVNINGSTILLSTÅND – TVÅ SJÄLVSTÄNDIGA HUVUDGRUNDER
 
-Enligt 39 § lagen (1996:242) om domstolsärenden ska prövningstillstånd meddelas bland annat om
+Enligt 39 § lagen om domstolsärenden ska prövningstillstånd meddelas bland annat om
 
-- det finns anledning att betvivla riktigheten av det slut som tingsrätten har kommit till, eller
-- det inte utan att prövningstillstånd meddelas går att bedöma riktigheten av slutet.
+1. det finns anledning att betvivla riktigheten av det slut som tingsrätten har kommit till, eller
+2. det inte utan att prövningstillstånd meddelas går att bedöma riktigheten av slutet.
 
-Båda grunderna är relevanta här.
+Jag åberopar båda grunderna.
 
-Mark- och miljödomstolen har uttryckligen slagit fast att nämnden har företagit den utredning och vidtagit de åtgärder som *ärendets beskaffenhet har krävt*.
+## 2.1 Ändringsdispens – 39 § 1
 
-Samtidigt visar materialet att
+Det finns anledning att betvivla riktigheten av slutsatsen att den genomförda utredningen motsvarade vad ärendets beskaffenhet krävde eftersom
 
 - den redovisade tillsynen huvudsakligen bestod av okulär kontroll och kontroll av ventilationsförhållanden vid ett visst tillfälle,
-- flera andra orsaks- och dokumentationsfrågor inte undersöktes med en metod som kunde besvara dem,
-- brand-/saneringsfrågan fanns i Miljöförvaltningens handläggning men någon sammanhängande verifierad dokumentationskedja om efterarbetet efter branden inte har redovisats,
-- flera personer har lämnat uppgifter om återkommande reaktioner vid vistelse i lägenheten,
-- problemen har rapporterats även efter flera utförda åtgärder,
-- och ytterligare material av betydelse har framkommit efter det underlag som låg till grund för Mark- och miljödomstolens dom.
+- andra uttryckligen aktualiserade orsaks- och dokumentationsfrågor inte visats ha undersökts med metoder som kunde besvara dem,
+- Miljöförvaltningen själv återkom efter tillsynen till frågor om bland annat sanering efter brand, kanalrensning och VOC,
+- det ännu inte är klarlagt vilket konkret svar eller tekniskt underlag som därefter löste dessa frågor före beslutet,
+- flera personer hade lämnat uppgifter om reaktioner vid vistelse i lägenheten,
+- och fastighetsägaren hade själv tidigare uppgett att problemet skulle felsökas utan att någon sammanhängande dokumenterad grundorsak senare redovisats.
 
-Det finns därför åtminstone anledning att betvivla riktigheten av slutsatsen att utredningen redan var tillräcklig. I vart fall går det inte att bedöma riktigheten av den slutsatsen utan en närmare prövning av utredningens faktiska räckvidd och de dokumentationsluckor som nu kan visas.
+## 2.2 Granskningsdispens – 39 § 2
+
+Även om Mark- och miljööverdomstolen inte redan nu kan slå fast att underinstansernas slutsats är felaktig går riktigheten enligt min mening inte att bedöma utan närmare kontroll av processmaterialet.
+
+Särskilt behöver följande klarläggas:
+
+- Miljöförvaltningens fullständiga akt kring tillsynen den 11 mars,
+- vilka muntliga uppgifter och observationer som dokumenterades,
+- vilka uppgifter som tillfördes ärendet och kommunicerades,
+- handlingarna närmast före beslutet den 13 april,
+- exakt vilket svar Familjebostäder lämnade på frågor om sanering efter brand, kanalrensning och VOC,
+- och vilket underlag som faktiskt gjorde ytterligare teknisk undersökning obehövlig.
+
+Dessa är inte perifera frågor. De går direkt till riktigheten av domstolens bärande slutsats att utredningen redan var tillräcklig.
 
 ---
 
-# 3. BEVISBÖRDAN KAN INTE I PRAKTIKEN LÄGGAS PÅ MIG SOM HYRESGÄST ATT SJÄLV FASTSTÄLLA DEN TEKNISKA ORSAKEN
+# 3. MIN TALAN GÄLLER UTREDNINGENS TILLRÄCKLIGHET – INTE ATT JAG REDAN HAR BEVISAT ORSAKEN
 
-Jag har under hela ärendet gjort det som rimligen kan krävas av mig som hyresgäst.
+Det finns en avgörande skillnad mellan följande två påståenden:
 
-Jag har bland annat
+**A.** Den exakta orsaken till de rapporterade besvären har inte kunnat fastställas.
 
-- anmält problemen,
-- återkommande beskrivit när besvären uppstår,
-- lämnat uppgifter och dokumentation,
-- gett fastighetsägaren och myndigheten tillträde,
-- medverkat vid platsbesök och tillsyn,
-- låtit flera åtgärder genomföras,
-- följt upp när problemen fortsatt,
-- efterfrågat arbetsordrar och tekniska underlag,
-- och upprepade gånger frågat vilken undersökning som faktiskt haft i uppdrag att fastställa grundorsaken.
+**B.** Utredningen har varit tillräckligt bred och tillförlitlig för att tillsynen ska kunna avslutas utan ytterligare åtgärd.
 
-Jag kan som hyresgäst rapportera ett faktiskt problem och medverka till att det utreds. Jag kan däremot inte rimligen förväntas agera som fastighetsägarens tekniska utredare eller själv fastställa den bakomliggande orsaken innan tillsynsmyndighetens ansvar aktualiseras.
+Det första påståendet leder inte automatiskt till det andra.
 
-Enligt 2 kap. 1 § miljöbalken gäller vid tillsyn enligt balken att den som bedriver en verksamhet eller vidtar en åtgärd ska visa att skyldigheterna enligt 2 kap. miljöbalken iakttas. Bestämmelsen måste läsas tillsammans med bland annat kunskaps- och försiktighetskraven i 2 kap. 2–3 §§ miljöbalken.
+Om problemen fortsätter samtidigt som tidigare undersökningar haft ett begränsat tekniskt scope kan frånvaron av en fastställd orsak i stället aktualisera frågan om **vad som återstår att utreda**.
 
-Det betyder inte att fastighetsägaren måste motbevisa varje tänkbar teori som en hyresgäst kan formulera. Det betyder däremot att tillsynssystemet inte kan bygga på att den boende först själv måste identifiera och tekniskt bevisa den exakta orsaken innan det finns anledning att kräva ett tillräckligt underlag från den som ansvarar för fastigheten.
+Det är denna skillnad som är kärnan i mitt överklagande.
 
-Det är också betydelsefullt att 26 kap. 21 § miljöbalken ger tillsynsmyndigheten möjlighet att kräva in de uppgifter och handlingar som behövs för tillsynen och att 26 kap. 22 § miljöbalken ger stöd för att kräva sådana undersökningar som behövs när det finns skäl att anta att en bostadsbyggnads skick medför olägenhet för människors hälsa.
+> **Orsaksfrågan är fortfarande obesvarad i det hittills granskade underlaget i den meningen att det inte framgår vilken undersökning som haft i uttryckligt uppdrag att identifiera grundorsaken till de återkommande rapporterade reaktionerna och vilket resultat en sådan orsaksutredning i så fall kom fram till.**
+
+Det innebär inte att någon särskild alternativ orsak därmed är bevisad.
+
+---
+
+# 4. TEKNISK INFORMATIONSASYMMETRI – JAG KAN INTE GÖRAS TILL FASTIGHETSÄGARENS TEKNISKA UTREDARE
+
+Jag har som hyresgäst lämnat de faktiska uppgifter och den bevisning som står till mitt förfogande. Jag har anmält problemen, beskrivit när besvären uppstår, medverkat till undersökningar och platsbesök, gett tillträde, låtit åtgärder genomföras och återkommande följt upp när problemet fortsatt.
+
+De centrala tekniska och historiska uppgifterna ligger däremot till stor del utanför min rådighet. Jag disponerar inte över exempelvis
+
+- fastighetsägarens historiska skade- och arbetsordersystem,
+- entreprenörshandlingar,
+- eventuella sanerings- och försäkringshandlingar,
+- byggnadens dolda konstruktioner,
+- professionella mätinstrument eller undersökningsmetoder,
+- eller tillsynsmyndighetens interna fält- och tjänstedokumentation.
+
+Enligt 23 § förvaltningslagen ska myndigheten se till att ett ärende blir utrett i den omfattning dess beskaffenhet kräver. Bestämmelsen innebär samtidigt att en enskild som inleder ett ärende ska medverka genom att så långt som möjligt ge in den utredning hon vill åberopa.
+
+Jag gör alltså inte gällande att jag saknar all medverkans- eller uppgiftsbörda.
+
+Min invändning är att min medverkansskyldighet inte kan omvandlas till ett krav på att jag själv ska identifiera den exakta tekniska orsaken till ett problem i en byggnad som jag inte äger, förvaltar eller tekniskt råder över.
+
+Vid tillsyn enligt miljöbalken följer dessutom av 2 kap. 1 § miljöbalken att den som bedriver en verksamhet eller vidtar en åtgärd ska visa att skyldigheterna enligt 2 kap. iakttas. Tillsynsmyndigheten har enligt 26 kap. 21 § möjlighet att kräva de uppgifter och handlingar som behövs och enligt 26 kap. 22 § möjlighet att kräva undersökningar när förutsättningarna i bestämmelsen är uppfyllda.
 
 Den rättsligt centrala frågan är därför inte:
 
-> **Varför har hyresgästen inte själv lyckats bevisa orsaken?**
+> **Varför har jag som hyresgäst inte själv lyckats namnge den tekniska orsaken?**
 
-Den rättsligt centrala frågan är:
+Den är:
 
-> **Vilket tillräckligt underlag har fastighetsägaren redovisat och vilket tillräckligt underlag hade tillsynsmyndigheten för att komma fram till att ytterligare utredning inte behövdes?**
+> **Vilket tillräckligt underlag hade fastighetsägaren och tillsynsmyndigheten för slutsatsen att ytterligare utredning inte behövdes?**
 
 ---
 
-# 4. FAMILJEBOSTÄDER UPPGAV SJÄLVA ATT PROBLEMET SKULLE FELSÖKAS
+# 5. FAMILJEBOSTÄDER UPPGAV SJÄLVA ATT PROBLEMET SKULLE FELSÖKAS
 
-Redan den 6 november 2025 skrev Familjebostäder att
+Familjebostäder skrev redan den 6 november 2025 att problemet skulle felsökas och beskrev samtidigt att det var komplext att förstå var problemet fanns.
 
-> **”här ska vi felsöka vad problemet är.”**
+Det är relevant eftersom fastighetsägaren själv då behandlade orsaken som oklar.
 
-Familjebostäder skrev också att det komplexa var att problemet upplevdes i just min lägenhet och inte på samma sätt i andra lägenheter, vilket gjorde att det kunde ta längre tid att förstå var problemet fanns.
-
-Detta är betydelsefullt därför att fastighetsägaren själv då beskrev orsaken som oklar och i behov av felsökning.
-
-Den centrala frågan är därför fortfarande:
+Den centrala kontrollfrågan är därför:
 
 > **Var är resultatet av den felsökning som Familjebostäder själv uppgav skulle genomföras?**
 
-Vilken orsak identifierades?
+Vilken fråga fick felsökningen?
 
 Vilka möjliga orsaker undersöktes?
 
@@ -123,459 +168,463 @@ Vilka kunde uteslutas?
 
 Med vilka metoder?
 
-Och hur verifierades att bostaden därefter kunde användas på normalt sätt utan de återkommande rapporterade besvären?
+Vilken slutsats dokumenterades?
 
-Att olika åtgärder har genomförts är inte samma sak som att grundorsaken har identifierats.
+Hur verifierades att de genomförda åtgärderna faktiskt undanröjde den störning som hade gett upphov till klagomålet?
+
+Att ett antal åtgärder genomförts är inte samma sak som att grundorsaken identifierats.
 
 ---
 
-# 5. EN BEGRÄNSAD UNDERSÖKNING KAN INTE UTAN VIDARE BÄRA EN BRED SLUTSATS
+# 6. EN BEGRÄNSAD UNDERSÖKNING KAN INTE UTAN VIDARE BÄRA EN BRED SLUTSATS
 
-Miljöförvaltningens tillsyn den 11 mars 2026 bestod enligt beslutsunderlaget huvudsakligen av en okulär bedömning av inomhusmiljön och kontroll av ventilationsförhållandena.
+Miljöförvaltningens tillsyn den 11 mars 2026 bestod enligt det redovisade beslutsunderlaget huvudsakligen av en okulär bedömning av inomhusmiljön och kontroll av ventilationsförhållandena.
 
-Vid just den tillsynen noterades ingen avvikande lukt och de uppmätta luftflödena bedömdes som tillfredsställande.
+Vid det aktuella tillfället noterades ingen avvikande lukt och de uppmätta luftflödena bedömdes som tillfredsställande.
 
-Jag bestrider inte att dessa observationer får beaktas.
+Jag bestrider inte att dessa observationer och mätningar får beaktas.
 
-Min invändning är att de endast visar vad som observerades och mättes vid det aktuella tillfället och inom den använda metodens räckvidd.
+Min invändning gäller deras **räckvidd**.
 
-De visar inte i sig att andra möjliga orsaker har undersökts eller uteslutits, exempelvis
+De visar vad som observerades och mättes vid det aktuella tillfället inom den använda metodens scope. De visar inte utan ytterligare metodstöd att andra möjliga orsaker har undersökts eller uteslutits, exempelvis sådana frågor som rör
 
-- kvarvarande påverkan efter den tidigare brand-/rökhändelsen,
-- vad som faktiskt sanerades efter branden,
+- historisk brand-/rökpåverkan och vad som faktiskt sanerades,
 - material- eller ytemissioner,
 - andra källor till lukt eller kemisk påverkan,
-- dolda konstruktionsrelaterade förhållanden,
-- eller andra omständigheter som inte ingick i den okulära kontrollen och ventilationsmätningen.
+- dolda konstruktionsförhållanden,
+- eller andra parametrar som inte ingick i den okulära kontrollen och ventilationsmätningen.
 
-Detta är inte ett påstående att någon av dessa möjliga orsaker redan är bevisad.
+Jag påstår inte att någon av dessa orsaker därmed är bevisad.
 
-Det är ett påstående om **utredningens räckvidd**.
+Jag påstår att en undersökning inte kan ges större bevisräckvidd än dess uppdrag och metod medger.
 
 > **En rapport kan inte besvara en fråga den aldrig har undersökt.**
 
-Och en undersökning kan inte utan ytterligare metodstöd användas för att utesluta frågor som den aldrig var utformad för att undersöka.
+Den formuleringen är ett bevis- och metodresonemang, inte en självständig rättsregel.
 
 ---
 
-# 6. MILJÖFÖRVALTNINGEN BEDÖMDE SJÄLV ATT INSPEKTION BEHÖVDES OCH ATT STÖRNINGEN BEHÖVDE ”RINGAS IN”
+# 7. MILJÖFÖRVALTNINGEN BEDÖMDE SJÄLV ATT STÖRNINGEN BEHÖVDE OBSERVERAS OCH ”RINGAS IN”
 
-Före tillsynen skrev Miljöförvaltningen att en inspektion i bostaden behövde ske för att kunna bedöma störningen.
+Före tillsynen angav Miljöförvaltningen att en inspektion behövdes för att bedöma störningen och efterfrågade uppgifter som kunde hjälpa till att planera inspektionen vid en situation där luktstörningen kunde observeras.
 
-Miljöförvaltningen bad också om uppgifter som kunde hjälpa myndigheten att *”ringa in”* de omständigheter under vilka luktstörningen förekom, så att inspektionen kunde planeras bättre.
+Detta är relevant eftersom det visar att myndigheten själv behandlade störningen som potentiellt situations- eller tidsberoende.
 
-Detta visar att myndigheten själv bedömde att störningen kunde vara situations- eller tidsberoende och att tidpunkten för observationen kunde ha betydelse.
+En negativ luktobservation vid ett enskilt tillfälle kan därför inte bedömas isolerat från
 
-Mot den bakgrunden är det inte tillräckligt att isolerat hänvisa till att avvikande lukt inte noterades vid ett enskilt besök utan att samtidigt förklara hur den observationen värderades mot
-
-- tidigare och senare rapporterade besvär,
+- tidigare rapporterade besvär,
+- senare rapporterade besvär,
 - myndighetens egen förståelse att störningen kunde variera,
-- och de förhållanden som rådde vid tillsynen.
+- och de faktiska förhållanden som rådde under inspektionen.
+
+Det behöver kunna utläsas hur dessa olika uppgifter vägdes samman.
 
 ---
 
-# 7. NORMALA BOENDEFÖRHÅLLANDEN HAR INTE TYDLIGT VERIFIERATS
+# 8. NYTT HUVUDSPÅR: DOKUMENTATIONSKEDJAN FRÅN TILLSYNEN DEN 11 MARS
 
-Vid tillsynen diskuterades bland annat vädring, luftcirkulation och öppna innerdörrar. När jag frågade om Familjebostäders erbjudande om målning rekommenderades jag också att tacka ja till målningen.
+Det finns ytterligare en utredningsfråga som enligt min mening behöver klarläggas innan riktigheten av slutsatsen om tillräcklig utredning kan bedömas.
 
-Jag har därefter uttryckligen frågat hur Miljöförvaltningen verifierade att lägenheten fungerar under normala boendeförhållanden utan kompensatorisk vädring eller särskilda luftcirkulationsåtgärder.
+Vid tillsynen förekom muntliga observationer och diskussioner om bland annat luftning/luftcirkulation, öppna innerdörrar, målning och frågan om bostadens användbarhet.
 
-Den frågan är central.
+Jag gör **inte** gällande som fastslaget faktum att Miljöförvaltningen brutit mot dokumentations- eller kommuniceringsreglerna. Den fullständiga aktkontrollen återstår.
 
-En permanentbostad ska kunna användas som bostad under normala förhållanden. Om tillsynens observationer görs samtidigt som dörrar eller fönster öppnas eller särskilda luftningsåtgärder används måste det gå att förklara vad kontrollen faktiskt säger om bostadens funktion när den används normalt.
+Men gällande förvaltningslag skapar en tydlig kontrollkedja:
+
+## 8.1 27 § förvaltningslagen – dokumentation
+
+Om en myndighet får uppgifter på annat sätt än genom en handling och uppgifterna kan ha betydelse för ett beslut ska de dokumenteras snarast. Av dokumentationen ska framgå när den gjordes och av vem.
+
+Frågan blir därför:
+
+> **Vilka muntliga uppgifter och observationer från tillsynen bedömdes kunna ha betydelse för det kommande beslutet och hur dokumenterades de?**
+
+## 8.2 10 § förvaltningslagen – partsinsyn
+
+En part har rätt att ta del av material som har tillförts ärendet, med de begränsningar som följer av sekretessreglerna.
+
+Frågan blir:
+
+> **Vilket material från tillsynen tillfördes ärendet och fanns tillgängligt som processmaterial?**
+
+## 8.3 25 § förvaltningslagen – kommunicering
+
+Innan beslut fattas ska parten som huvudregel underrättas om material av betydelse för beslutet och få tillfälle att yttra sig.
+
+Frågan blir:
+
+> **Vilket beslutsrelevant material från tillsynen och de senare kompletteringarna kommunicerades före beslutet den 13 april?**
+
+## 8.4 32 § förvaltningslagen – motivering
+
+Ett beslut som påverkar någon på ett inte obetydligt sätt ska innehålla en klargörande motivering med de föreskrifter som tillämpats och de omständigheter som varit avgörande.
+
+Frågan blir:
+
+> **Vilka omständigheter från tillsynen var avgörande, och går det att följa hur de vägdes mot de uppgifter som talade för fortsatt utredning?**
+
+Denna kedja är särskilt relevant för **granskningsdispens enligt 39 § 2 ärendelagen**. Om det inte går att avgöra vilket beslutsrelevant material som faktiskt fanns, dokumenterades och värderades går det heller inte säkert att bedöma riktigheten av slutsatsen att utredningen var tillräcklig.
+
+Jag begär därför att den fullständiga dokumentationskedjan kring tillsynen granskas, inklusive eventuella fält-/tjänsteanteckningar av de inspektörer som deltog, i den mån sådana finns och utgör eller innehåller material av betydelse för ärendet.
 
 ---
 
-# 8. MILJÖBALKEN INNEHÅLLER UTREDNINGSVERKTYG – MEN DET FRAMGÅR INTE VARFÖR DE INTE BEHÖVDES
+# 9. NORMALA BOENDEFÖRHÅLLANDEN HAR INTE TYDLIGT VERIFIERATS
 
-Enligt 23 § förvaltningslagen ska en myndighet se till att ett ärende blir utrett i den omfattning som dess beskaffenhet kräver.
+Vid tillsynen diskuterades enligt det material jag har tillgång till bland annat vädring, luftcirkulation och öppna innerdörrar. När jag frågade om Familjebostäders erbjudande om målning rekommenderades jag också att tacka ja till åtgärden.
 
-Enligt 26 kap. 1 § miljöbalken ska tillsynsmyndigheten vidta de åtgärder som behövs i den utsträckning som är nödvändig för att säkerställa syftet med balken.
+Jag åberopar inte denna omständighet som bevis för en viss teknisk orsak.
 
-Enligt 26 kap. 21 § miljöbalken får tillsynsmyndigheten förelägga den som omfattas av tillsynen att lämna de uppgifter och handlingar som behövs för tillsynen.
+Den relevanta frågan är i stället vilken situation myndighetens observationer faktiskt avser.
 
-Enligt 26 kap. 22 § miljöbalken kan den som upplåter en byggnad för bostäder behöva utföra sådana undersökningar som behövs för tillsynen när det finns skäl att anta att byggnadens skick medför olägenhet för människors hälsa.
+Om luftning eller särskilda luftcirkulationsåtgärder förekommer under eller i anslutning till kontrollen behöver det klargöras vad tillsynen faktiskt säger om bostadens funktion under normala boendeförhållanden utan sådana kompensatoriska åtgärder.
 
-Jag gör inte gällande att bestämmelserna automatiskt kräver ett visst VOC-test eller någon annan på förhand bestämd metod.
-
-Min invändning är mer grundläggande:
-
-> **När flera personer rapporterat återkommande besvär, när problematiken kvarstått efter flera åtgärder och när relevanta orsaks- och dokumentationsspår fortfarande var öppna – vilket underlag gjorde att ytterligare utredning enligt dessa bestämmelser inte behövdes?**
-
-Varken besluts- eller domskedjan ger enligt min uppfattning ett tillräckligt konkret svar på den frågan.
+Detta är en metod- och utredningsfråga.
 
 ---
 
-# 9. BRAND-/RÖKHÄNDELSEN ÄR INTE EN BEVISAD ORSAK – MEN DEN ÄR ETT KONKRET UTREDNINGSSPÅR
+# 10. MILJÖBALKEN GER TILLSYNSMYNDIGHETEN KONKRETA UTREDNINGSVERKTYG
 
-Efter Mark- och miljödomstolens prövning har jag kunnat säkra ytterligare dokumentation om en tidigare brand-/rökhändelse i lägenheten den 16 november 2017.
+Enligt 26 kap. 1 § miljöbalken ska tillsynsmyndigheten vidta de åtgärder som behövs för att säkerställa syftet med balken i den omfattning som följer av tillsynsuppdraget.
 
-Jag gör inte gällande att branden därmed är bevisad som orsak till dagens rapporterade besvär.
+Enligt 26 kap. 21 § kan tillsynsmyndigheten kräva de uppgifter och handlingar som behövs för tillsynen.
 
-Den nya dokumentationen visar däremot att det inte längre är fråga om en obestyrkt uppgift om att det *kan* ha brunnit.
+Enligt 26 kap. 22 § kan den som upplåter en byggnad för bostäder behöva utföra sådana undersökningar som behövs för tillsynen när bestämmelsens förutsättningar är uppfyllda.
 
-Den visar ett konkret historiskt händelseförlopp som behöver hållas isär från frågan om dagens orsak:
+Jag gör **inte** gällande att dessa bestämmelser automatiskt kräver ett visst VOC-test eller någon annan på förhand bestämd teknisk metod.
 
-- brandförsvarets handlingar verifierar en brand i byggnaden med start i köket,
-- två personer utrymdes,
-- lägenheten ventilerades i samband med insatsen,
-- och fastighetsägaren kontaktades i samband med insatsen.
+Min invändning är i stället:
 
-Räddningstjänstens uppgift är samtidigt att ansvaret för den fortsatta hanteringen efter avslutad räddningsinsats ligger hos fastighetsägaren.
+> **När återkommande besvär hade rapporterats, problemen enligt anmälningarna kvarstod efter flera åtgärder och relevanta orsaks- och dokumentationsspår fortfarande var öppna – vilket underlag gjorde att ytterligare utredning eller krav på kompletterande underlag inte behövdes?**
 
-Det som fortfarande inte är sammanhängande verifierat är vad som därefter gjordes i lägenheten:
+Det är den frågan som behöver ett konkret svar.
+
+---
+
+# 11. BRAND-/RÖKHÄNDELSEN ÄR INTE EN BEVISAD ORSAK – MEN DEN ÄR ETT KONKRET UTREDNINGS- OCH DOKUMENTATIONSSPÅR
+
+Det finns nu verifierbar dokumentation om en tidigare brand-/rökhändelse i lägenheten den 16 november 2017.
+
+Jag gör inte gällande att denna historiska händelse i sig bevisar orsaken till de besvär som senare rapporterats.
+
+Dess juridiska funktion är en annan.
+
+Den visar att ett konkret historiskt förhållande som redan aktualiserats i tillsynsärendet faktiskt har inträffat och att den fortsatta efterarbetskedjan därför kan vara relevant att verifiera.
+
+Den hittills identifierade dokumentationen visar bland annat att räddningstjänsten hanterade en brandhändelse, att lägenheten ventilerades i samband med insatsen och att fastighetsägaren kontaktades.
+
+Det som fortfarande behöver hållas isär och verifieras är vad som skedde **därefter**:
 
 - skadeinventering,
 - eventuell sanering,
-- vilka ytor eller material som behandlades eller byttes,
+- vilka ytor/material som behandlades eller byttes,
 - vem som beställde arbetet,
 - vem som utförde det,
 - vilken metod som användes,
 - och hur resultatet kontrollerades.
 
-Detta skapar en konkret fråga:
+Den korrekta frågan är därför inte:
 
-> **Vad gjorde fastighetsägaren efter räddningstjänstens överlämnande, och var finns den dokumentation som visar åtgärdernas omfattning och resultat?**
+> **”Kan jag bevisa att ingen sanering skedde?”**
 
-Om dokumentation finns ska den kunna granskas.
+utan:
 
-Om dokumentation inte kan redovisas betyder det inte automatiskt att ingen sanering eller återställning skedde.
+> **”Vilken primär handling visar vad som faktiskt gjordes efter branden och hur resultatet verifierades?”**
 
-Men frånvaron av redovisad dokumentation kan inte heller användas som om den verifierade vad som gjordes.
+Avsaknad av redovisad dokumentation bevisar inte att inget arbete utfördes.
 
-> **Avsaknad av dokumentation kan varken bevisa att sanering uteblev eller verifiera att den genomfördes, vad den omfattade och att resultatet kontrollerades.**
-
----
-
-# 10. BRAND-/SANERINGSFRÅGAN FANNS REDAN HOS MILJÖFÖRVALTNINGEN
-
-Brandfrågan är inte ett helt nytt sidospår som skapats efter domen.
-
-Miljöförvaltningens egen handläggning visar att uppgifter om tidigare brand och oklar sanering fanns i ärendet.
-
-I januari avgränsade Miljöförvaltningen frågan med hänvisning till att branden låg långt tillbaka i tiden och uppgav då att myndigheten inte efterfrågade hur saneringen hade utförts.
-
-Efter tillsynen den 11 mars återkom Miljöförvaltningen emellertid till frågor om bland annat
-
-- sanering efter brand,
-- kanalrensning,
-- och VOC.
-
-Detta är processuellt viktigt.
-
-Det visar att myndigheten själv ansåg frågorna tillräckligt relevanta för att åter ta upp dem.
-
-Den avgörande frågan blir därför:
-
-> **Vilket svar eller tekniskt underlag gjorde att dessa återöppnade frågor därefter kunde lämnas utan ytterligare verifiering?**
-
-Om svaret var att sanering hade skett behöver det gå att identifiera vilket underlag som visade vad som sanerades och hur resultatet verifierades.
-
-Om underlag saknades behöver det gå att förstå hur den osäkerheten värderades innan ärendet avslutades.
+Men avsaknaden kan inte heller fungera som verifiering av att en viss sanering utfördes, vad den omfattade eller att resultatet kontrollerades.
 
 ---
 
-# 11. YTTERLIGARE DOKUMENTATION OM BRANDENS EFTERARBETE FANNS INTE I MMD:S URSPRUNGLIGA PRÖVNING
+# 12. BRAND-/SANERINGSFRÅGAN FANNS REDAN I MILJÖFÖRVALTNINGENS HANDLÄGGNING
 
-Efter Mark- och miljödomstolens prövning har ytterligare material inhämtats från eller beträffande bland annat
+Brandfrågan är inte ett helt nytt sidospår som uppkom efter domstolsprocessen.
 
-- Storstockholms brandförsvar,
-- Restvärderäddning,
-- försäkrings-/skadehanteringsspåret,
-- fastighetsägarens dokumentationskedja,
-- samt efterfrågade sanerings- och efterarbetsuppgifter.
+Miljöförvaltningens handläggning visar att uppgifter om tidigare brand och oklar sanering fanns i ärendet.
 
-Materialet ska inte användas för att överdriva vad som är visat.
+I januari avgränsades den äldre brandhändelsen från den dåvarande utredningen med hänvisning till den tid som gått. Efter tillsynen återkom Miljöförvaltningen emellertid till frågor om bland annat sanering efter brand, kanalrensning och VOC.
 
-Ett besked om att en viss aktör saknar en rapport betyder inte automatiskt att inget arbete genomfördes.
+Det är betydelsefullt eftersom myndigheten själv därmed behandlade dessa frågor som relevanta att följa upp.
 
-Det relevanta är i stället den samlade verifieringsfrågan:
+Den centrala kontrollfrågan är:
 
-> **Vilken primär handling visar faktiskt vad som gjordes efter branden?**
+> **Vilket svar eller annat verifierbart underlag gjorde att dessa åter aktualiserade frågor därefter kunde lämnas utan ytterligare utredningsåtgärd?**
 
-När fastighetsägaren inte redovisat en sammanhängande efterarbetsakt, räddningstjänsten inte dokumenterar den fortsatta fastighetsåtgärden och andra aktörer inte kan presentera den efterfrågade dokumentationen blir dokumentationsfrågan mer – inte mindre – relevant för en fortsatt utredning.
+Om svaret var att sanering hade utförts behöver det gå att identifiera vilket underlag som visade vad som faktiskt hade gjorts.
+
+Om verifierande underlag saknades behöver det gå att förstå hur den osäkerheten värderades före beslutet.
 
 ---
 
-# 12. FLERA PERSONERS REAKTIONER ÄR INTE MEDICINSKT KAUSALITETSBEVIS – MEN DE ÄR RELEVANTA FÖR UTREDNINGSBEHOVET
+# 13. SENARE FRAMTAGNA HANDLINGAR OM EN ÄLDRE HÄNDELSE MÅSTE ANVÄNDAS KORREKT
 
-Mark- och miljödomstolen har själv noterat att fem personer utöver mig har lämnat uppgifter om hälsobesvär i samband med vistelse i lägenheten.
+Efter underinstansernas prövning har ytterligare handlingar och besked inhämtats beträffande bland annat brandförsvaret, försäkrings-/skadespåret och Restvärderäddning.
 
-Dessa uppgifter omfattar bland annat andningsbesvär, påverkan på astma, huvudvärk och yrsel.
+Jag åberopar inte senare mottagna handlingar som om Miljöförvaltningen hade haft dessa specifika dokument framför sig den 13 april.
 
-Jag gör inte gällande att vittnesuppgifterna ensamma bevisar vilken fysisk, biologisk eller kemisk orsak som finns.
+När senare framtagen dokumentation däremot avser **historiska förhållanden som redan existerade och redan hade aktualiserats i tillsynsärendet** kan den vara relevant för att belysa hur klar eller oklar den historiska verifieringskedjan faktiskt är.
 
-Det är inte deras juridiska funktion.
+Varje sådan handling måste dock användas inom sitt eget scope:
 
-Deras betydelse ligger i frågan om det fortfarande fanns skäl att utreda vidare.
+- att en viss aktör inte hittar en rapport bevisar inte automatiskt att inget arbete utfördes,
+- att räddningstjänsten kan verifiera själva insatsen betyder inte att räddningstjänsten kan verifiera fastighetsägarens senare sanering,
+- och frånvaro av ett försäkringsärende hos en viss aktör behöver inte utesluta annan skadehantering.
 
-Om ett antal personer vid olika tillfällen beskriver liknande eller tydliga reaktioner vid vistelse i samma bostad, medan orsaken ännu inte är klarlagd, är den relevanta tillsynsfrågan inte om vittnena kan ersätta en teknisk undersökning.
+Det samlade värdet ligger i kontrollfrågan:
 
-Frågan är om deras uppgifter borde ha påverkat bedömningen av **behovet av en teknisk undersökning**.
-
----
-
-# 13. JÄMFÖRELSEN MED GRANNLÄGENHETEN ÄR ETT OBSERVATIONSSPÅR – INTE ETT ORSAKSBEVIS
-
-Två personer som under lång tid bott i grannlägenheten på samma våningsplan har lämnat uppgifter om en tydlig skillnad mellan lägenheterna.
-
-En av dem har beskrivit påverkan på sin astma under vistelse i min lägenhet.
-
-Jag gör inte gällande att denna jämförelse bevisar att branden är orsaken till skillnaden.
-
-Men uppgifterna är relevanta eftersom de rör personer som har lång erfarenhet av den omedelbara grannbostaden och som kan jämföra miljöerna.
-
-Om ett upplevt problem är tydligt lokaliserat till en viss lägenhet är det en omständighet som kan ha betydelse för hur orsaksutredningen bör avgränsas.
+> **Var finns då den primära dokumentationskedja som visar vad fastighetsägaren faktiskt gjorde efter händelsen?**
 
 ---
 
-# 14. ÅTGÄRDER ÄR INTE SAMMA SAK SOM ORSAKSUTREDNING
+# 14. VITTNESUPPGIFTERNA BEVISAR INTE MEDICINSK KAUSALITET – MEN DE KAN VARA RELEVANTA FÖR UTREDNINGSBEHOVET
 
-Under ärendets gång har flera åtgärder genomförts, bland annat städningar, ventilationsåtgärder, byte av köksgolv och köksbänkar samt andra arbeten.
+Mark- och miljödomstolens dom återger att fem personer utöver mig lämnat uppgifter om hälsobesvär i samband med vistelse i lägenheten.
 
-Det är viktigt att hålla två frågor isär:
+Jag gör inte gällande att vittnesuppgifterna kan ersätta en teknisk undersökning eller ensamma fastställa medicinsk kausalitet.
 
-1. **Vilka åtgärder har genomförts?**
-2. **Vilken utredning fastställde orsaken till problemet?**
+Det är inte deras funktion i min argumentation.
 
-En åtgärd kan vara rimlig utan att samtidigt fastställa orsaken.
+Deras funktion är att bidra till bedömningen av **om det fanns anledning att utreda vidare**.
 
-Om åtgärden inte löser det rapporterade problemet blir det dessutom särskilt relevant att fråga vad nästa felsökningssteg är.
+Om flera personer vid olika tillfällen beskriver reaktioner i samma bostad och orsaken ännu inte är klarlagd är den relevanta tillsynsfrågan inte om vittnena kan namnge en teknisk förorening.
 
-Jag har därför upprepade gånger frågat vilken undersökning som uttryckligen haft i uppdrag att fastställa grundorsaken till de återkommande besvären.
-
-Att hänvisa till OVK, luftflödesmätningar eller en okulär kontroll svarar endast på den bredare orsaksfrågan i den utsträckning dessa undersökningar faktiskt hade ett sådant uppdrag och en metod som kunde besvara den.
+Frågan är vilken betydelse deras uppgifter fick för bedömningen av fortsatt utredningsbehov.
 
 ---
 
-# 15. MÅLNING KAN INTE ERSÄTTA EN OUTFÖRD ORSAKSUTREDNING
+# 15. JÄMFÖRELSE MED GRANNLÄGENHETEN – OBSERVATIONSSPÅR, INTE ORSAKSBEVIS
 
-Vid tillsynen rekommenderades jag att tacka ja till Familjebostäders erbjudande om målning.
+Det finns uppgifter från personer med lång erfarenhet av den omedelbara grannlägenheten om en tydlig skillnad mellan miljöerna och om reaktion vid vistelse i lägenhet 1202.
+
+Jag gör inte gällande att denna jämförelse bevisar att den tidigare branden är orsaken eller att ett visst ämne finns i lägenheten.
+
+Dess relevans är mer begränsad:
+
+- den kan stödja att det rapporterade fenomenet upplevs som lokaliserat till en viss bostad,
+- och den kan därför vara relevant för hur en fortsatt felsökning avgränsas.
+
+Exakta vittnesuppgifter och citat ska i slutversionen endast användas där originalredogörelsen är source-lockad.
+
+---
+
+# 16. ÅTGÄRDER ÄR INTE AUTOMATISKT ORSAKSUTREDNING
+
+Under ärendets gång har flera åtgärder genomförts, bland annat städningar, ventilationsåtgärder och arbeten i köket.
+
+Två frågor måste hållas isär:
+
+1. Vilka åtgärder utfördes?
+2. Vilken undersökning identifierade orsaken till det rapporterade problemet?
+
+En åtgärd kan vara rimlig även om orsaken är okänd.
+
+Men om det påtalade problemet fortsätter efter åtgärden behöver det kunna visas
+
+- vilken hypotes åtgärden avsåg,
+- hur åtgärdens effekt följdes upp,
+- och vad nästa utredningssteg blev när problemet enligt anmälningarna kvarstod.
+
+Att hänvisa till OVK, luftflödesmätningar eller okulär kontroll besvarar den bredare orsaksfrågan endast i den utsträckning dessa undersökningar faktiskt var utformade för att göra det.
+
+---
+
+# 17. MÅLNING KAN INTE I SIG ERSÄTTA EN ORSAKSUTREDNING
+
+Vid tillsynen rekommenderades jag enligt den kontrollerade delen av tillsynsmaterialet att tacka ja till Familjebostäders erbjudna åtgärd/målning.
 
 Jag följde den linjen eftersom jag inte ville riskera att det senare skulle hävdas att jag hindrat fastighetsägaren från att utföra åtgärder.
 
-Detta innebär dock inte att målning i sig fastställer eller utesluter den bakomliggande orsaken.
+Det innebär dock inte att målning i sig fastställer eller utesluter en bakomliggande orsak.
 
-Senare har jag också fått principiell vägledning om att målning för att enbart stänga in ett eventuellt problem inte är en lämplig metod och att orsaken till bristen i stället behöver utredas och åtgärdas.
+Jag åberopar därför inte målningen som bevis för eller emot en viss teknisk teori.
 
-Jag åberopar inte detta som bevis för att ett specifikt brandrelaterat ämne finns i väggarna.
+Den relevanta metodfrågan är:
 
-Poängen är metodisk:
-
-> **En åtgärd kan inte användas som bevis för att en orsak har utretts om orsaken aldrig först identifierades eller prövades med en relevant metod.**
+> **Om målning eller annan åtgärd användes som ett led i hanteringen, vilken utredning visade vad åtgärden skulle avhjälpa och hur verifierades effekten efteråt?**
 
 ---
 
-# 16. ATT JAG INTE HAR KUNNAT ANVÄNDA BOSTADEN ÄR EN FAKTISK OMSTÄNDIGHET SOM MÅSTE VÄRDERAS KORREKT
+# 18. MIN LÅNGVARIGA OFÖRMÅGA ATT ANVÄNDA BOSTADEN ÄR INTE ORSAKSBEVIS – MEN ÄR EN RELEVANT FAKTISK OMSTÄNDIGHET
 
-Jag fick tillträde till lägenheten den 1 oktober 2025.
+Jag fick tillträde till bostaden den 1 oktober 2025 och har ett starkt eget intresse av att kunna använda den bostad jag hyr och betalar för.
 
-Jag har ett starkt eget intresse av att kunna använda den bostad jag hyr och betalar för.
+Jag har under en lång period uppgett att jag inte kunnat använda lägenheten som min permanenta bostad på grund av återkommande besvär vid vistelse där.
 
-Trots detta har jag under en mycket lång period inte kunnat använda lägenheten som min permanenta bostad eftersom jag upprepade gånger upplever besvär vid vistelse där och behöver få frisk luft eller lämna lägenheten.
+Det bevisar inte den tekniska orsaken.
 
-Detta bevisar inte den tekniska orsaken.
+Men det är inte heller irrelevant vid bedömningen av om den rapporterade störningen kan betraktas som ringa eller helt tillfällig och om fortsatta uppgifter om problem behövde tas på allvar i tillsynen.
 
-Men det är heller inte en irrelevant omständighet.
+Enligt 9 kap. 3 § miljöbalken är en olägenhet för människors hälsa en störning som enligt medicinsk eller hygienisk bedömning kan påverka hälsan menligt och som inte är ringa eller helt tillfällig.
 
-En person avstår normalt inte från den bostad hon hyr, fortsätter betala för den och ordnar ett mer osäkert boende någon annanstans utan att det finns ett faktiskt skäl till att hon upplever att bostaden inte kan användas.
-
-Tillsammans med den långa anmälningshistoriken, utförda men otillräckliga åtgärder och flera andra personers uppgifter är detta relevant för frågan om den påtalade störningen rimligen kan behandlas som ringa eller helt tillfällig.
-
-Enligt 9 kap. 3 § miljöbalken avses med olägenhet för människors hälsa en störning som enligt medicinsk eller hygienisk bedömning kan påverka hälsan menligt och som inte är ringa eller helt tillfällig.
-
-Jag gör inte gällande att min uteblivna inflyttning ensam uppfyller denna rättsliga definition.
-
-Jag gör gällande att den är en del av det faktiska underlag som måste vägas in när behovet av fortsatt utredning bedöms.
+Jag gör inte gällande att min uteblivna inflyttning ensam uppfyller denna definition. Den är en del av den samlade faktiska bilden som ska värderas tillsammans med övriga uppgifter.
 
 ---
 
-# 17. HYRESVÄRDENS EGET ANSVAR FÖR BOSTADENS SKICK ÄR RELEVANT SOM BAKGRUND
+# 19. LÄNSSTYRELSENS PRÖVNING – VILKA AVGÖRANDE OMSTÄNDIGHETER BAR SLUTSATSEN?
 
-Även om detta mål primärt gäller miljötillsyn finns ett separat hyresrättsligt ansvar för bostadens skick.
-
-Enligt 12 kap. 9 § jordabalken ska lägenheten på tillträdesdagen vara fullt brukbar för sitt avsedda ändamål och enligt 12 kap. 15 § jordabalken ska hyresvärden under hyrestiden hålla lägenheten i sådant skick som hyresgästen har rätt att fordra.
-
-Jag åberopar inte jordabalken som om Mark- och miljödomstolen i detta mål skulle pröva hela hyresrättstvisten.
-
-Bestämmelserna illustrerar däremot varför det är fel perspektiv att lägga den tekniska felsökningsbördan på hyresgästen.
-
-Fastighetsägaren ansvarar för bostaden. Jag ansvarar för att anmäla problem jag upptäcker, medverka och ge tillträde. Jag kan inte förväntas själv fastställa den tekniska orsaken till ett fel i en bostad som jag inte äger eller förvaltar.
-
----
-
-# 18. LÄNSSTYRELSENS BEDÖMNING ÄR MYCKET KORT I FÖRHÅLLANDE TILL DE INVÄNDNINGAR SOM ÅTERGES
-
-Länsstyrelsen återger i sitt beslut bland annat mina invändningar om
-
-- tekniskt otillräcklig utredning,
-- oklar orsak,
-- att genomförda åtgärder inte visats ha effekt,
-- att det inte visats att bostaden är säker och brukbar,
-- och att det inte var klarlagt om problematiken var lokal eller systemrelaterad.
-
-Länsstyrelsen skriver därefter i huvudsak att den gått igenom utredningen och instämmer i nämndens bedömning och skäl.
+Länsstyrelsen återgav flera av mina centrala invändningar men anslöt sig därefter i huvudsak till nämndens bedömning.
 
 Jag gör inte gällande att en överinstans rättsligt måste besvara varje enskild fråga punkt för punkt.
 
-Men enligt 32 § förvaltningslagen ska ett beslut som påverkar någon på ett inte obetydligt sätt innehålla en klargörande motivering med uppgift om vilka föreskrifter som har tillämpats och vilka omständigheter som varit avgörande för myndighetens ställningstagande.
+Men 32 § förvaltningslagen kräver en klargörande motivering som anger vilka föreskrifter som tillämpats och vilka omständigheter som varit avgörande för myndighetens ställningstagande.
 
-Den relevanta frågan är därför:
+Den relevanta kontrollfrågan är därför:
 
-> **Vilka avgörande faktiska omständigheter gjorde att Länsstyrelsen bedömde just den genomförda utredningen som tillräcklig trots de uttryckligen återgivna invändningarna om att orsaken fortfarande inte var utredd?**
+> **Vilka avgörande faktiska omständigheter gjorde att Länsstyrelsen ansåg att den genomförda utredningen var tillräcklig trots de återgivna invändningarna om begränsat tekniskt scope, kvarstående orsaksfråga och fortsatta reaktionsuppgifter?**
 
----
-
-# 19. MARK- OCH MILJÖDOMSTOLEN FÖRSTOD KÄRNINVÄNDNINGEN – MEN DET GÖR FRÅGAN OM SLUTSATSENS RIKTIGHET ÄNNU TYDLIGARE
-
-Mark- och miljödomstolens dom återger att jag anfört att
-
-- flera personer fått hälsobesvär,
-- besvären kvarstått efter tillsyn, åtgärder och genomvädring,
-- ingen förklaring getts,
-- det saknas redovisning av vad som kunnat uteslutas,
-- och att ett stort antal centrala frågor lämnats obesvarade.
-
-Jag hävdar därför inte att domstolen aldrig såg eller förstod min grundinvändning.
-
-Frågan är i stället hur domstolen, trots att den hade förstått dessa invändningar, kunde komma fram till att nämnden redan hade gjort den utredning som ärendets beskaffenhet krävde.
-
-Det är just den slutsatsen som behöver granskas.
+Jag åberopar detta som ett stödjande processargument, inte som ett kategoriskt påstående att varje kortfattad motivering är rättsstridig.
 
 ---
 
-# 20. DOMSTOLENS EGET UTREDNINGSANSVAR
+# 20. MARK- OCH MILJÖDOMSTOLEN FÖRSTOD KÄRNINVÄNDNINGEN – FRÅGAN ÄR VARFÖR SLUTSATSEN ÄNDÅ VAR RIKTIG
 
-Enligt 5 kap. 1 § lagen (2010:921) om mark- och miljödomstolar handläggs ett överklagat mål som detta enligt lagen om domstolsärenden.
+Mark- och miljödomstolens dom återger att jag anfört bland annat
+
+- att flera personer rapporterat besvär,
+- att problemen fortsatt efter tillsyn och olika åtgärder,
+- att någon klarlagd förklaring inte redovisats,
+- och att det saknas redovisning av vad som tekniskt kunnat uteslutas och varför ytterligare utredning ansetts obehövlig.
+
+Jag gör därför inte gällande att domstolen aldrig såg eller förstod min huvudinvändning.
+
+Min invändning riktar sig mot slutsatsen:
+
+> **Hur kunde domstolen, trots dessa invändningar, säkert komma fram till att nämndens utredning motsvarade vad ärendets beskaffenhet krävde?**
+
+Det är denna slutsats som behöver prövas enligt 39 § 1 och 2 lagen om domstolsärenden.
+
+---
+
+# 21. DOMSTOLENS EGET UTREDNINGSANSVAR
+
+Enligt 5 kap. 1 § lagen (2010:921) om mark- och miljödomstolar handläggs ett överklagat mål som detta enligt lagen om domstolsärenden, om inte annat föreskrivs.
 
 Enligt 12 § lagen om domstolsärenden ska domstolen se till att ärendet blir så utrett som dess beskaffenhet kräver och genom frågor och påpekanden försöka avhjälpa otydligheter och ofullständigheter.
 
-Jag gör inte gällande att denna bestämmelse innebär att Mark- och miljödomstolen själv måste genomföra tekniska undersökningar av lägenheten.
+Jag gör inte gällande att Mark- och miljödomstolen eller Mark- och miljööverdomstolen själv måste bedriva teknisk inomhusmiljöutredning.
 
-Men när den avgörande materiella frågan är om underinstansens utredning varit tillräcklig, måste domstolen kunna bedöma **vad som faktiskt undersökts och vad som fortfarande saknats**.
+Men när den avgörande rättsfrågan är om underinstansens utredning var tillräcklig måste domstolen ha ett processmaterial som gör det möjligt att avgöra
 
-När detta inte går att avgöra säkert på befintligt material talar 12 § lagen om domstolsärenden för att oklarheten behöver avhjälpas innan slutsatsen dras att utredningen varit tillräcklig.
+- vad som faktiskt undersöktes,
+- vad som inte undersöktes,
+- och varför kvarstående frågor inte krävde fortsatt tillsyn.
 
----
-
-# 21. NYA FAKTISKA OMSTÄNDIGHETER EFTER BESLUTET DEN 13 APRIL MÅSTE HÅLLAS ISÄR FRÅN DET GAMLA BESLUTSUNDERLAGET
-
-Efter Miljöförvaltningens beslut den 13 april har ytterligare händelser inträffat och nya förstahandsuppgifter lämnats.
-
-Dessa senare händelser kunde självklart inte ingå i Miljöförvaltningens ursprungliga beslutsunderlag.
-
-De ska därför inte användas retroaktivt som om nämnden kände till dem den 13 april.
-
-Men de är relevanta för en annan fråga:
-
-> **Vad ska myndigheten göra när det efter ett avslutat beslut kommer nya konkreta uppgifter om att den påtalade problematiken fortsätter?**
-
-Miljöförvaltningen har i augusti hänvisat till att Mark- och miljödomstolen prövar *”samma sakfråga”* och att förvaltningen därför måste avvakta.
-
-Jag ifrågasätter inte att 39 § förvaltningslagen begränsar beslutsmyndighetens möjlighet att ändra ett överklagat beslut efter att handlingarna har överlämnats till högre instans.
-
-Men det behöver fortfarande klargöras hur långt detta hinder sträcker sig.
-
-Det är en sak att förbjuda parallell ändring av det överklagade beslutet.
-
-Det är en annan sak att
-
-- svara på frågor om hur den tidigare handläggningen faktiskt gick till,
-- redovisa vilka handlingar som användes,
-- registrera nya faktiska händelser,
-- eller bedöma om en ny omständighet kräver en ny och separat tillsynsmässig åtgärd.
+Om detta inte går att bedöma säkert på befintligt material aktualiseras just den situation som 39 § 2 om granskningsdispens tar sikte på.
 
 ---
 
-# 22. CENTRALA FRÅGOR SOM FORTFARANDE BEHÖVER ETT VERIFIERBART SVAR
+# 22. ÅTERFÖRVISNING ÄR DEN PROCESSUELLT RIMLIGA LÖSNINGEN OM UTREDNINGEN ÄR OFULLSTÄNDIG
 
-Följande frågor är enligt min uppfattning fortfarande centrala för om utredningen kan anses tillräcklig:
+Min talan kräver inte att Mark- och miljööverdomstolen själv genomför en teknisk orsaksutredning.
 
-1. Vilken undersökning hade uttryckligen i uppdrag att fastställa grundorsaken till de återkommande rapporterade besvären?
-2. Vilka möjliga orsaker har faktiskt undersökts med en metod som kunnat pröva dem?
-3. Vilka möjliga orsaker har därigenom kunnat uteslutas?
-4. Vad gjorde Familjebostäder efter brandförsvarets insats 2017?
-5. Var finns den verifierbara dokumentationen om sanering, återställning, entreprenör och efterkontroll?
-6. Vad svarade Familjebostäder när Miljöförvaltningen efter tillsynen efterfrågade uppgifter om sanering efter brand, kanalrensning och VOC?
-7. Hur värderades avsaknaden av sådan dokumentation om den inte kunde tas fram?
-8. Vilken betydelse fick de återkommande vittnesuppgifterna för frågan om behov av fortsatt utredning?
-9. Hur verifierades bostadens funktion under normala boendeförhållanden utan särskild vädring eller öppna innerdörrar?
-10. Vilken utredning visar att de genomförda åtgärderna faktiskt undanröjde den störning som gav upphov till klagomålet?
-11. Var finns resultatet av den felsökning som Familjebostäder själva uppgav skulle genomföras redan den 6 november 2025?
-12. Vilket konkret underlag gjorde ytterligare tillsyn obehövlig?
+Om domstolen finner att centrala utredningsfrågor inte är tillräckligt klarlagda är den naturliga lösningen i stället att återförvisa ärendet för fortsatt handläggning.
+
+Det finns flera skäl för detta:
+
+- den tekniska förstahandsutredningen hör i första hand hemma i tillsynen,
+- tillsynsmyndigheten har verktyg enligt 26 kap. miljöbalken att kräva handlingar och undersökningar,
+- fastighetsägaren kan där bemöta de konkreta frågorna och lämna sin dokumentation,
+- historiska handlingar och tekniskt underlag kan värderas i första instans,
+- och ett nytt beslut kan därefter prövas i full instansordning om tvisten kvarstår.
+
+Detta är också anledningen till att mitt huvudyrkande är fortsatt tillsyn genom återförvisning – inte att MÖD ska fastställa en viss alternativ orsak.
 
 ---
 
-# 23. DEN AVGÖRANDE SKILLNADEN MELLAN ”ORSAKEN ÄR INTE BEVISAD” OCH ”ORSAKSFRÅGAN ÄR TILLRÄCKLIGT UTREDD”
+# 23. SENARE FAKTISKA OMSTÄNDIGHETER SKA HÅLLAS ISÄR FRÅN BESLUTSUNDERLAGET DEN 13 APRIL
 
-Det finns en avgörande logisk skillnad mellan två påståenden:
+Efter Miljöförvaltningens beslut den 13 april har nya händelser inträffat och nya förstahandsuppgifter lämnats.
 
-**A. Det har inte kunnat visas exakt vilken orsak som ligger bakom de rapporterade besvären.**
+Dessa kunde självklart inte ingå i nämndens beslutsunderlag den 13 april och ska inte användas som om myndigheten kände till dem då.
+
+De måste däremot hållas isär från frågan om den äldre beslutskedjan och kan aktualisera en annan processuell fråga: hur nya konkreta omständigheter ska hanteras när ett äldre beslut samtidigt är föremål för överprövning.
+
+Miljöförvaltningen har senare hänvisat till att överinstansen prövar `samma sakfråga`.
+
+Jag gör inte detta till en huvudgrund för prövningstillstånd i förevarande överklagande.
+
+Jag konstaterar endast att
+
+- förbudet mot att beslutsmyndigheten ändrar ett redan överlämnat överklagat beslut,
+- frågor om hur den gamla handläggningen faktiskt gick till,
+- och en eventuellt ny tillsynsfråga grundad på nya faktiska händelser
+
+inte utan vidare är identiska processuella frågor.
+
+Det spåret bör därför hållas separat från huvudfrågan om riktigheten av domen i M 5167-26.
+
+---
+
+# 24. CENTRALA KONTROLLFRÅGOR SOM MÅSTE KUNNA BESVARAS
+
+För att slutsatsen om tillräcklig utredning ska kunna granskas behöver följande frågor kunna besvaras med hänvisning till konkreta handlingar eller undersökningar:
+
+1. Vilken undersökning hade uttryckligen i uppdrag att identifiera grundorsaken till de återkommande rapporterade reaktionerna?
+2. Vilka möjliga orsaker har faktiskt undersökts med en metod som kunde pröva dem?
+3. Vilka möjliga orsaker kunde därigenom uteslutas?
+4. Vilket resultat finns av den felsökning som Familjebostäder uppgav skulle genomföras?
+5. Vad gjorde fastighetsägaren efter brand-/rökhändelsen 2017 och var finns dokumentationen som visar efterarbetets omfattning och resultat?
+6. Vad svarade Familjebostäder när Miljöförvaltningen efter tillsynen frågade om sanering efter brand, kanalrensning och VOC?
+7. Hur värderades en eventuell avsaknad av verifierande dokumentation?
+8. Vilken betydelse fick vittnesuppgifterna för frågan om fortsatt utredningsbehov?
+9. Hur verifierades bostadens funktion under normala boendeförhållanden utan särskild vädring eller andra kompensatoriska luftningsåtgärder?
+10. Hur dokumenterades beslutsrelevanta muntliga uppgifter och observationer från tillsynen enligt 27 § förvaltningslagen?
+11. Vilket tillsynsmaterial tillfördes ärendet och vilket kommunicerades före beslutet?
+12. Vilka omständigheter var enligt beslutet avgörande för slutsatsen att ytterligare tillsyn inte behövdes?
+13. Vilken undersökning visar att genomförda åtgärder faktiskt undanröjde den störning som gav upphov till klagomålet?
+14. Vilket konkret underlag gjorde ytterligare användning av utredningsverktygen i 26 kap. miljöbalken obehövlig?
+
+---
+
+# 25. SAMMANFATTNING – VARFÖR PRÖVNINGSTILLSTÅND BÖR MEDDELAS
+
+Jag menar sammanfattningsvis att prövningstillstånd bör meddelas eftersom det finns konkreta skäl att betvivla riktigheten av slutsatsen att tillsynen redan var tillräcklig och eftersom riktigheten i vart fall inte går att bedöma utan närmare granskning av centralt process- och utredningsmaterial.
+
+Det gäller särskilt följande:
+
+- Den redovisade undersökningen hade ett begränsat tekniskt scope.
+- Slutsatsen att mer utredning inte behövdes är bredare än de redovisade undersökningarna ensamma kan bära utan ytterligare förklaring.
+- Miljöförvaltningen återaktualiserade själv frågor om sanering efter brand, kanalrensning och VOC.
+- Det är ännu inte klarlagt vilket konkret svar eller underlag som löste dessa frågor före beslutet.
+- Det måste klarläggas hur muntliga observationer och uppgifter från tillsynen dokumenterades och ingick i beslutsunderlaget.
+- Flera personer hade lämnat uppgifter om reaktioner som inte bevisar orsaken men som kan vara relevanta för fortsatt utredningsbehov.
+- Fastighetsägaren hade själv beskrivit problemet som något som behövde felsökas.
+- De tekniska och historiska uppgifterna ligger i betydande utsträckning hos fastighetsägaren, entreprenörer och myndigheter, inte hos den enskilde hyresgästen.
+- Miljöbalken ger tillsynsmyndigheten konkreta möjligheter att kräva uppgifter och undersökningar.
+
+Detta skapar både
+
+> **ändringsdispens enligt 39 § 1 lagen om domstolsärenden**, eftersom det finns anledning att betvivla riktigheten av slutet,
 
 och
 
-**B. Det har genomförts en tillräckligt bred utredning för att tillsynen ska kunna avslutas utan ytterligare åtgärd.**
-
-Det första påståendet innebär inte automatiskt det andra.
-
-Tvärtom kan avsaknaden av en fastställd orsak i vissa situationer vara ett tecken på att ytterligare utredning behövs, särskilt om problemen fortsätter och om de tidigare undersökningarna haft ett begränsat scope.
-
-Det är detta som min talan gäller.
-
-> **Orsaksfrågan är fortfarande obesvarad i det granskade underlaget.**
-
-Det betyder inte att en viss alternativ orsak därmed är bevisad.
-
-Det betyder att domstolen måste kunna förklara varför den kvarstående osäkerheten ändå var förenlig med slutsatsen att utredningen redan var tillräcklig.
+> **granskningsdispens enligt 39 § 2**, eftersom riktigheten inte går att bedöma utan närmare prövning av centrala utrednings- och dokumentationsfrågor.
 
 ---
 
-# 24. SAMMANFATTNING AV VARFÖR PRÖVNINGSTILLSTÅND BÖR MEDDELAS
-
-Jag menar sammanfattningsvis att det finns anledning att betvivla riktigheten av Mark- och miljödomstolens slutsats därför att
-
-- den undersökning som redovisas i besluts- och domskedjan hade ett begränsat tekniskt scope,
-- slutsatsen om att ytterligare utredning inte behövdes är bredare än vad de redovisade undersökningarna ensamma kan bära utan ytterligare förklaring,
-- Miljöförvaltningen hade själv återöppnat frågor om bland annat sanering efter brand, kanalrensning och VOC,
-- det saknas fortfarande en tydlig aktkedja som visar vilket svar som löste dessa frågor före beslutet,
-- den tidigare brand-/rökhändelsen är numera verifierad genom ytterligare primärt material men efterarbetets dokumentationskedja är fortfarande ofullständig,
-- flera personer har lämnat uppgifter om återkommande reaktioner,
-- problemen har rapporterats även efter flera utförda åtgärder,
-- fastighetsägaren hade själv uppgett att problemet skulle felsökas utan att någon sammanhängande slutsats från den felsökningen har redovisats,
-- och bevis- och utredningsbördan kan inte i praktiken läggas på hyresgästen att själv fastställa den tekniska orsaken innan tillsynsmyndighetens verktyg används.
-
-Det går därför inte utan närmare prövning att säkert bedöma om Mark- och miljödomstolens slut är riktigt.
-
-Prövningstillstånd bör därför meddelas.
-
----
-
-# 25. SLUTLIG BEGÄRAN
+# 26. SLUTLIG BEGÄRAN
 
 Jag begär inte att Mark- och miljööverdomstolen ska utgå från att jag redan har bevisat den tekniska orsaken till de rapporterade besvären.
 
-Jag begär att frånvaron av en fastställd orsak inte ska vändas mot mig när min centrala invändning är att relevanta orsaksfrågor och dokumentationsspår inte har blivit tillräckligt utredda för att bära slutsatsen att tillsynen kunde avslutas.
+Jag begär att frånvaron av en fastställd orsak inte ska behandlas som om den i sig visade att utredningen varit tillräcklig.
 
-Jag har som hyresgäst återkommande anmält problemen, medverkat till undersökningar, gett tillträde och låtit åtgärder genomföras.
+Jag har som hyresgäst anmält problemet, medverkat, lämnat de uppgifter som står till mitt förfogande och gett fastighetsägaren och myndigheten möjlighet att undersöka bostaden.
 
-Fastighetsägaren uppgav redan i november 2025 att problemet skulle felsökas.
+Den centrala frågan är därför:
 
-Den fråga som fortfarande måste kunna besvaras är därför inte varför jag som hyresgäst inte själv har identifierat orsaken.
+> **Vilken felsökning identifierade problemet, vilka relevanta frågor undersöktes med metoder som kunde besvara dem, vilka frågor återstod och vilket konkret underlag gjorde ytterligare tillsyn obehövlig?**
 
-Den är:
+Om det finns en spårbar kedja som besvarar detta bör den kunna redovisas och granskas.
 
-> **Vilken felsökning identifierade problemet, vilken utredning uteslöt de relevanta alternativen och vilket underlag gjorde ytterligare tillsyn obehövlig?**
-
-Om ett sådant underlag finns bör det kunna redovisas och granskas.
-
-Om det inte finns är det svårt att förstå hur slutsatsen samtidigt kan vara att utredningen redan motsvarade vad ärendets beskaffenhet krävde.
+Om den kedjan inte kan följas är det svårt att samtidigt slå fast att utredningen redan motsvarade vad ärendets beskaffenhet krävde.
 
 Jag begär därför att Mark- och miljööverdomstolen meddelar prövningstillstånd och återförvisar ärendet för fortsatt och tillräcklig utredning.
 
 
 Farsta den [DATUM FÖR INLÄMNING]
 
-**Erica Güler**  
+Erica Güler  
 Kilsgatan 3, lägenhet 1202  
 123 44 Farsta  
 [E-POST]  
@@ -583,44 +632,28 @@ Kilsgatan 3, lägenhet 1202
 
 ---
 
-# 26. PRELIMINÄR BILAGEPLAN – INTE SLUTLIG
+# INTERN KÄLL- OCH BILAGEKONTROLL – SKA TAS BORT UR SLUTVERSIONEN
 
-Bilagenumrering ska fastställas först efter source-lock och kontroll mot MMD:s aktförteckning.
+## Centrala lagrum som ska dubbelkontrolleras samma dag som inlämning
 
-**Potentiella bilagor:**
+- Förvaltningslagen (2017:900): 10, 23, 25, 27, 32 §§.
+- Miljöbalken (1998:808): 2 kap. 1 §, 9 kap. 3 §, 26 kap. 1, 21 och 22 §§.
+- Lagen (2010:921) om mark- och miljödomstolar: 5 kap. 1 §.
+- Lagen (1996:242) om domstolsärenden: 12, 13, 14 och 39 §§.
 
-- Mark- och miljödomstolens dom 19 augusti 2026, M 5167-26.
-- Länsstyrelsens beslut 3 juni 2026, 21412-2026.
-- Miljöförvaltningens beslut 13 april 2026, ärende 2025-23696.
-- Miljöförvaltningens kontrollrapport/tillsynsunderlag 11 mars 2026.
-- Relevant MF-korrespondens om `sanering efter brand`, kanalrensning och VOC.
-- Storstockholms brandförsvars primärhandlingar och senare svar om insatsen den 16 november 2017.
-- Svar från Restvärderäddning inom exakt verifierat scope.
-- Svar från försäkrings-/skadehanteringsspåret inom exakt verifierat scope.
-- Familjebostäders motstridiga skriftliga brandbesked 24–25 november 2025 och senare uppgift om sanering/dokumentationsbrist.
-- Familjebostäders mejl 6 november 2025 om att problemet skulle felsökas.
-- Vittnesredogörelser som faktiskt finns i original.
-- Relevanta senare förstahandsuppgifter, tydligt märkta som händelser efter MF:s beslut.
-- Dokumentation av åtgärder som utförts utan att problemet uppges ha upphört.
+## Högsta source-lock-prioritet
 
----
+1. MMD:s dom och fullständiga dagboksblad.
+2. MF:s fullständiga akt kring tillsynen 11 mars.
+3. Eventuella fält-/tjänsteanteckningar från Stina Jurell och Heval samt dokumentationsdatum/författare.
+4. Handling 96–104 mot beslutet 13 april.
+5. Exakt FB-svar på MF:s frågor om sanering efter brand, kanalrensning och VOC.
+6. Native original för 6 november-felsökningen.
+7. SSBF:s originalhandlingar.
+8. Försäkrings-/RVR-svar inom respektive källas faktiska scope.
+9. OCAB:s ursprungliga beställning och metod/scope.
+10. Vittnesredogörelser som ska åberopas i MÖD.
 
-# 27. HÅRDA KONTROLLPUNKTER FÖRE INLÄMNING
+## Hård regel
 
-Denna arbetsversion får **inte** skickas innan följande är gjort:
-
-1. kontrollera 2 kap. 1–3 §§ MB, 9 kap. 3 § MB, 26 kap. 1, 21 och 22 §§ MB i aktuell lydelse,
-2. kontrollera 23, 32 och 39 §§ FL i aktuell lydelse,
-3. kontrollera 5 kap. 1 § LOMD samt 12, 28 och 39 §§ lagen om domstolsärenden,
-4. source-locka SSBF:s exakta formuleringar och datum,
-5. source-locka RVR:s och försäkringsaktörens exakta svar och undvik inferensen `ingen akt = ingen sanering`,
-6. source-locka FB:s 6 november-mejl och brandbeskeden 24/25 november,
-7. identifiera exakt MF-fråga och FB-svar om sanering/kanalrensning/VOC,
-8. kontrollera handling 96–104 mot beslutet 13 april,
-9. kontrollera MMD:s dagboksblad och vilka kompletteringar som faktiskt låg i akten vid domen,
-10. kontrollera att senare händelser efter 13 april inte framställs som om de fanns i MF:s ursprungliga beslutsunderlag,
-11. kontrollera vittnesantal och vilka redogörelser som är native original,
-12. numrera bilagor efter den slutliga aktkontrollen,
-13. separat kontrollera om MÖD-överklagandet bör innehålla en uttrycklig begäran om inhibition eller annan processuell begäran – endast om rättsligt relevant.
-
-**Status efter dessa kontroller:** först därefter kan filen eventuellt bli `SLUTVERSION FÖR INLÄMNING`.
+Ingen uppgift i denna arbetsversion får uppgraderas genom repetition. Om originalkälla saknas ska uppgiften i slutversionen antingen tas bort, source-lockas eller uttryckligen formuleras som `det framgår inte av det material jag fått del av` / `det behöver klarläggas`.
