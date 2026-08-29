@@ -157,7 +157,7 @@ Kan inte ensam visa:
 Rättsliga kontrollpunkter:
 - 23 § förvaltningslagen – utredningsansvar,
 - 32 § förvaltningslagen – motivering,
-- miljöbalkens regler om tillsyn och möjlighet att kräva uppgifter/undersökningar.
+- 26 kap. 1, 21 och 22 §§ miljöbalken – tillsyn, uppgifter/handlingar och undersökningar.
 
 Huvudfråga:
 
@@ -166,7 +166,7 @@ Huvudfråga:
 ### Mark- och miljödomstolen
 Håll isär myndighetens handläggning från domstolens process.
 
-För MMD ska rätt processlag kontrolleras i aktuell rätt innan extern inlaga. Arbetsnotering: överklagade miljömål handläggs enligt lagen om mark- och miljödomstolar tillsammans med lagen om domstolsärenden; utredningsansvar ska knytas till rätt bestämmelse för just måltypen.
+För överklagade mål i MMD är arbetsramen 5 kap. 1 § lagen om mark- och miljödomstolar tillsammans med 12 § lagen om domstolsärenden: domstolen ska se till att ärendet blir så utrett som dess beskaffenhet kräver och genom frågor/påpekanden försöka avhjälpa otydligheter och ofullständigheter.
 
 ## 6. Tjänstefel
 
@@ -197,20 +197,21 @@ När materialet byggs in i huvudtidslinjen ska varje viktig post kunna få:
 - `FEL DATUM/PERSON`
 - `SAKNAS I HUVUDTIDSLINJE`
 
-samt juridisk funktion, exempelvis:
+samt juridisk funktion.
 
-- `J1 KÄNNEDOM`
-- `J2 FAKTISKT SKICK/HINDER`
-- `J3 SYMPTOM-/EXPONERINGSMÖNSTER`
-- `J4 TEKNISKT SCOPE`
-- `J5 MOTSÄGELSE/TILLFÖRLITLIGHET`
-- `J6 DOKUMENTATIONSLUCKA`
-- `J7 MYNDIGHETENS KÄNNEDOM`
-- `J8 UTREDNINGSVAL/AVGRÄNSNING`
-- `J9 BESLUTSMOTIVERING`
-- `J10 DOMSTOLENS UTREDNING`
+## 8. Stora auditten är nu styrande kontrollregister
 
-## 8. Slutregel
+Den fulla kronologiska bevis- och rättsfunktionsauditen ligger i:
+
+`analyser/STORA-AUDITEN-BEVIS-KRONOLOGI-RATTSFUNKTION-2026-08-29.md`
+
+Den filen registrerar för varje central händelse:
+
+`datum → källa → vad källan visar → bevisklass → juridisk funktion → vad den inte visar → vilket ytterligare bevis som behövs → lag/princip → relevant sakspår`.
+
+Den innehåller också en särskild kontrollkö över original som fortfarande måste source-lockas. Inget material får beskrivas som slutverifierat enbart därför att det förekommer i ett masterdokument, ett filnamn eller en senare sammanställning.
+
+## 9. Slutregel
 
 Huvudtidslinjen ska redovisa **fakta och källstatus**. Juridisk analys ska ligga i audit-/rättsfunktionslagret och länkas till tidslinjeposterna.
 
