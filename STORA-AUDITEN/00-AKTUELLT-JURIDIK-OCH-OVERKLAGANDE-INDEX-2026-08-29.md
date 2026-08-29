@@ -29,7 +29,8 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 9. `STORA-AUDITEN/21-FB-SVARSBLANKETT-OCAB-CAROLINE-ATGARDER-AUDIT-2026-08-29.md`
 10. `STORA-AUDITEN/22-HGF-BRISTUNDERLAG-ARON-NABI-VIDAREBEFORDRAN-AUDIT-2026-08-29.md`
 11. `STORA-AUDITEN/23-KORRIGERING-HALLMALNING-SVARSBLANKETT-THOMAS-PETER-JENNIFER-2026-08-30.md` – **styrande korrigering av halltolkningen i audit 21 och nytt orsaks-/åtgärdsspår**
-12. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
+12. `STORA-AUDITEN/24-BRAND-FB-SYSTEM-TOMSTALLNING-UNDERHALL-KAKEL-AUDIT-2026-08-30.md` – **nytt brand/systemspår: Gaby förnekar synlig brandhistorik men redovisar tidigare tomställning + nytt golv/tapeter; 2017-kopplingen är uttryckligen inte verifierad**
+13. `styrning/MASTERPROMPT-JURIDISK-AI-ANALYS-MED-KALLKONTROLL.md`
 
 ## Aktuella bevisfynd som ska source-lockas före slutversion
 
@@ -39,6 +40,11 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 - **5 november 2025:** omfattande bristpaket source-lockat som skickat direkt till Familjebostäder. Mejlet hänvisar till bristblankett, detaljerad bristbilaga, foton efter städning och OCAB. Exakt bilageinventering ska ändå låsas före formuleringen att samtliga senare HGF-dokument fanns hos FB.
 - **6 november 2025:** HGF-rådgivningen mottog/återmottog material i CAS-133640-Q5D1C8 med bilagor. Det visar inte att Emma Sega personligen läste hela paketet samma dag.
 - **10 november 2025:** ytterligare bristunderlag innehåller bl.a. frågor om kökskonstruktion, el/spis, svart missfärgning vid ventilation och separat kemisk/unken lukt i förråd/klädkammare. Tekniska slutsatser i partsdokumentet ska hållas isär från observationerna.
+- **11 november 2025 – installations-/bytesår:** Erica skickade en särskild begäran till Jennifer om historik för spis, kyl/frys, bänkskivor, köksluckor, el, kakel, golv och tapeter och frågade specifikt om det visuellt avvikande kaklet ovanför spisen. Fullständigt svar med faktiska historiska årtal har ännu inte identifierats.
+- **25 november 2025 – Gaby/brand + tomställning:** source-lockat att Gaby skriver att hon inte ser att det funnits någon brand och i samma korrespondens att FB haft lägenheten tomställd en gång tidigare av `andra anledningar`, vilket enligt henne syns genom nytt golv och nya tapeter i vissa utrymmen. Detta är ett nytt J5/J6-spår: **vilken primär källa gav henne tomställnings-/renoveringsuppgiften om branden samtidigt saknades i den vy hon kontrollerade?**
+- **Gaby – brandformuleringar:** två kategoriska formuleringar är identifierade i samma sammanhängande mejltråd (`ser inte ... någon brand` och `ingen brand situation ... inget dokumenterad från vår sida`). De får inte räknas som två självständiga systemkontroller utan source-lock av vilken kontroll som faktiskt gjordes.
+- **Underhållsbild 2033/2037:** den nyuppladdade FB-bilden visar **framtida planerade underhållsår**, inte tidigare installations-/bytesår. Den får inte användas som bevis för att spis, tapet, golv eller vitvaror byttes 2017. Den visar däremot att objektspecifik underhållsplanering finns och väcker frågan vilket historiskt underlag planeringen bygger på.
+- **Kakelspåret:** olika utföranden/färgskillnader kring kaklet ovanför spisen är ett legitimt historik-/arbetsorderspår men **inte bevis för brandrelaterat byte**. Primär arbetsorder/faktura/materialbeställning krävs.
 - **HGF→FB:** senare uppger Emma Sega att HGF redan skickat ett `förbehåll` till hyresvärden. Exakt datum, innehåll, mottagare och bilagor är ännu inte source-lockade. Ett senare föreslaget mejl efter HGF:s platsbesök skickades uttryckligen inte efter Ericas invändning mot utkastet.
 - **Ventilationsbilder oktober 2025:** starka observationsbevis men får inte användas för att identifiera sot/mögel/ämne utan expertstöd.
 - **20–27 november 2025:** kvarstående visuellt skick och lukt efter flera städningar. Samtida material, men Ericas tekniska slutsatser ska hållas isär från observationerna.
@@ -84,6 +90,7 @@ Ingen slutversion får expedieras innan denna kontroll är genomförd.
 - bemötande/känslighet – separat dokumentationsspår; konkret ordalydelse ska hållas isär från upplevelse/etiketter.
 - MF-kommunicering/partsinsyn – bygg på **vilket material som faktiskt kommunicerades**. Nu finns en specifik röd kontrollpost, akt 95 den 9 april, men den rättsliga FL 25-betydelsen är ännu inte fastställd.
 - FB:s svarsblankett – använd som partens egen redovisning och jämför scope/tidslinje mot bilagorna; formulera inte kategoriskt att kryssen är falska innan varje åtgärds syfte och tidpunkt är source-lockad. **Audit 23 är styrande korrigering för hallmålning/åtgärdsspåret.**
+- brand/system/tomställning – **audit 24 är styrande**. Använd aldrig framtida HLU-år 2033/2037 som historiska installationsår och påstå inte 2017-koppling för golv/tapet/kakel utan primär arbetsorder.
 
 ## Slutregel
 
