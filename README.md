@@ -1,6 +1,6 @@
 # Kilsgatan 3 – källbaserat bevis- och tidslinjearkiv
 
-Detta repository ska fungera som **en sammanhängande källbank för hela ärendet**.
+Detta repository ska fungera som **en sammanhängande källbank, huvudtidslinje, audit- och rättsfunktionsstruktur för hela ärendet**.
 
 ## Huvudprincip
 
@@ -10,11 +10,11 @@ Det finns **EN huvudtidslinje**:
 
 Alla separata tidslinjer och sakspår ska vara **filtrerade vyer av huvudmaterialet**. De får aldrig byggas fristående eller innehålla en egen konkurrerande kronologi.
 
-Arbetsordningen är därför alltid:
+Arbetsordningen är:
 
-`originalkälla → bevisregister → anteckning/audit → huvudtidslinje → separat sakspår`
+`originalkälla → bevisregister → anteckning/audit → juridisk bevisfunktion → huvudtidslinje → separat sakspår → extern argumentation`
 
-Om en viktig uppgift upptäcks i ett separat spår men saknas i huvudtidslinjen ska den först flaggas och föras tillbaka till huvudmaterialet.
+Om en viktig uppgift upptäcks i ett separat spår men saknas i huvudtidslinjen ska den flaggas och föras tillbaka till huvudmaterialet.
 
 ---
 
@@ -28,12 +28,20 @@ Om en viktig uppgift upptäcks i ett separat spår men saknas i huvudtidslinjen 
 
 - [`BEVISREGISTER.md`](BEVISREGISTER.md) – register över bevis och källor.
 
-## Audit / kontroll
+## Struktur
 
+- [`STRUKTUR-HUVUDTIDSLINJE-OCH-SPAR.md`](STRUKTUR-HUVUDTIDSLINJE-OCH-SPAR.md) – styr hur originalkällor, anteckningar, audit, juridisk bevisfunktion, huvudtidslinje och separata spår hänger ihop.
+
+## Huvudaudit / rättsfunktion
+
+- [`analyser/BEVIS-OCH-RATTSFUNKTION-HUVUDAUDIT-ALLT-MATERIAL-2026-08-29.md`](analyser/BEVIS-OCH-RATTSFUNKTION-HUVUDAUDIT-ALLT-MATERIAL-2026-08-29.md)
+- [`analyser/PROJEKTAUDIT-KILSGATAN-3-2026-08-29.md`](analyser/PROJEKTAUDIT-KILSGATAN-3-2026-08-29.md)
 - [`analyser/AUDIT-HUVUDTIDSLINJE-OCH-KALLTACKNING-2026-08-29.md`](analyser/AUDIT-HUVUDTIDSLINJE-OCH-KALLTACKNING-2026-08-29.md)
 - [`analyser/AUDIT-FYND-OCH-OMISSION-REGISTER-2026-08-29.md`](analyser/AUDIT-FYND-OCH-OMISSION-REGISTER-2026-08-29.md)
+- [`analyser/MF-AKT-01-107-BRAND-SANERING-AUDIT-2026-08-29.md`](analyser/MF-AKT-01-107-BRAND-SANERING-AUDIT-2026-08-29.md)
+- [`analyser/MF-AKT-01-107-KONTROLLREGISTER-2026-08-29.md`](analyser/MF-AKT-01-107-KONTROLLREGISTER-2026-08-29.md)
 
-Auditfilerna används för att hitta sådant som saknas, är för kortfattat, har fel person, fel datum, saknar ordalydelse eller endast finns i ett tillägg.
+Auditfilerna används för att hitta sådant som saknas, är för kortfattat, har fel person, fel datum, saknar ordalydelse, saknar källa, motsäger annan källa, utgör dokumentationslucka eller används till en juridisk slutsats som källan inte ensam kan bära.
 
 ---
 
@@ -41,27 +49,51 @@ Auditfilerna används för att hitta sådant som saknas, är för kortfattat, ha
 
 Användarens egna förstahandsanteckningar ska ligga i `anteckningar/` och **ska alltid bevaras även innan de är source-lockade**.
 
-Aktuell arbetsfil:
+Aktiva filer:
 
+- [`anteckningar/2026-08-29_HUVUDANTECKNING-JURIDISK-BEVISFUNKTION.md`](anteckningar/2026-08-29_HUVUDANTECKNING-JURIDISK-BEVISFUNKTION.md)
 - [`anteckningar/2026-08-29_AUDIT-ANTECKNINGAR-11-24-NOVEMBER-2025.md`](anteckningar/2026-08-29_AUDIT-ANTECKNINGAR-11-24-NOVEMBER-2025.md)
+- [`anteckningar/README.md`](anteckningar/README.md)
 
 Anteckningar märks med status, exempelvis:
 
 - `SOURCE-LOCKAD`
 - `STÖDS AV KÄLLA MEN EXAKT ORDALYDELSE EJ LÅST`
 - `ANVÄNDARENS FÖRSTAHANDSUPPGIFT/ANTECKNING`
+- `VITTNESUPPGIFT`
 - `BEHÖVER VERIFIERAS`
-- `MOTSÄGELSE – ORIGINALKÄLLOR SKA KONTROLLERAS`
-
-Anteckningar får **inte** läggas i `.gitignore`. De ska vara versionshanterade och spårbara i repositoryt.
+- `MOTSÄGELSE`
+- `DOKUMENTATIONSLUCKA`
+- `OBESVARAD FRÅGA`
 
 ---
 
-# 3. TIDSLINJETILLÄGG UNDER AUDIT
+# 3. JURIDISK BEVISFUNKTION
+
+Varje viktig uppgift ska kunna klassificeras efter vad den faktiskt kan bevisa:
+
+- `J1 KÄNNEDOM`
+- `J2 FAKTISKT SKICK/HINDER`
+- `J3 SYMPTOM-/EXPONERINGSMÖNSTER`
+- `J4 TEKNISKT SCOPE`
+- `J5 MOTSÄGELSE/TILLFÖRLITLIGHET`
+- `J6 DOKUMENTATIONSLUCKA`
+- `J7 MYNDIGHETENS KÄNNEDOM`
+- `J8 UTREDNINGSVAL/AVGRÄNSNING`
+- `J9 BESLUTSMOTIVERING`
+- `J10 DOMSTOLENS UTREDNING`
+
+**Huvudtidslinjen ska säga vad som hände. Rättsfunktionslagret ska säga vad händelsen juridiskt kan användas till.**
+
+Det förhindrar att faktum, analys och slutsats blandas ihop.
+
+---
+
+# 4. TIDSLINJETILLÄGG UNDER AUDIT
 
 När huvudtidslinjen ännu inte hunnit få en fullständig källsäkrad omskrivning används daterade tidslinjetillägg som arbetslager.
 
-Aktuellt tillägg:
+Exempel:
 
 - [`TIDSLINJE-TILLAGG-2025-11-10--2025-11-26-AUDIT-2026-08-29.md`](TIDSLINJE-TILLAGG-2025-11-10--2025-11-26-AUDIT-2026-08-29.md)
 
@@ -69,62 +101,58 @@ Aktuellt tillägg:
 
 ---
 
-# 4. SEPARATA SAKSPÅR
+# 5. SEPARATA SAKSPÅR
 
-Separata spår används först när huvudmaterialet är tillräckligt komplett. De ska kunna härledas tillbaka till huvudtidslinjen och originalkällorna.
+Separata spår används när huvudmaterialet är tillräckligt komplett. De ska kunna härledas tillbaka till huvudtidslinjen och originalkällorna.
 
 ## Brand / brandhistorik / dokumentationskedja
 
 - [`BRAND-TIDSLINJE.md`](BRAND-TIDSLINJE.md)
 - [`TIDSLINJE-BRAND-2017-2026.md`](TIDSLINJE-BRAND-2017-2026.md)
 
-Brandspåret ska omfatta mer än själva branddatumet:
+Brandspåret ska omfatta:
 
-`brand → kännedom → vittnesuppgifter → frågor → FB:s svar → sanering/återställning → dokumentation → myndighets- och försäkringsspår → kvarstående dokumentationsluckor`
+`brand → kännedom → vittnesuppgifter → frågor → FB:s svar/nekanden → sanering/återställning → dokumentation → myndighets-/försäkringsspår → kvarstående verifieringsluckor`
 
 ## Kanalrensning / ventilation
 
 - [`KANALRENSNING-TIDSLINJE.md`](KANALRENSNING-TIDSLINJE.md)
 
-Spåret ska skilja mellan:
+Spåret ska skilja mellan ventilationskontroll, mätning, justering, ventilationsdon/lock, rengöring i kanal/rör, termen `kanalrensning`, faktisk utförd rensning och vem som föreslog/beställde/utförde åtgärden.
 
-- ventilationskontroll,
-- mätning,
-- justering,
-- ventilationsdon/lock,
-- rengöring i kanal/rör,
-- uttrycket **kanalrensning**,
-- faktisk utförd kanalrensning,
-- vem som föreslog/beställde/utförde åtgärden.
+## Hälsa / exponeringsmönster
+
+Ska hållas som eget spår: vem som vistas i lägenheten, datum, exakt reaktion, kännedom i förväg, återhämtning efter vädring/lämnande. Vittnesuppgifter kan stödja ett återkommande fenomen men ska inte användas som medicinskt bevis för en specifik orsak.
+
+## Myndighetsspår
+
+- Miljöförvaltningen
+- Stadsbyggnadskontoret / PBL / OVK
+- Länsstyrelsen
+- Mark- och miljödomstolen
+
+## Dokumentationsspår
+
+- OVK
+- arbetsordrar
+- sanerings-/brandskadehandlingar
+- försäkring/RVR
+- tekniska rapporter
+- efterfrågade men ej återfunna handlingar
 
 ## Separat jämförelseunderlag
 
 - [`JAMFORELSE-ANDRA-BRANDER.md`](JAMFORELSE-ANDRA-BRANDER.md)
 
-Jämförelsefilen är ett analys-/referensunderlag och ska inte blandas ihop med huvudtidslinjen eller kanalrensningstidslinjen.
+Jämförelsefilen är ett analys-/referensunderlag och ska inte blandas ihop med huvudtidslinjen.
 
 ---
 
-# 5. ORIGINALKÄLLOR
+# 6. ORIGINALKÄLLOR
 
-## Korrespondens
-
-- [`korrespondens/TRADINDEX.md`](korrespondens/TRADINDEX.md)
-- [`korrespondens/GRANSKNINGSLOGG.md`](korrespondens/GRANSKNINGSLOGG.md)
-- [`korrespondens/familjebostader/`](korrespondens/familjebostader/)
-- [`korrespondens/miljoforvaltningen/`](korrespondens/miljoforvaltningen/)
-- övriga aktörer under `korrespondens/`
-
-## Bevisfiler
-
+- `korrespondens/`
 - `bevis/`
-
-## Handlingar
-
 - `handlingar/`
-
-## Inspelningar och transkriptioner
-
 - `inspelningar/`
 - `transkriptioner/`
 
@@ -132,7 +160,7 @@ Originalkällan har alltid högre bevisvärde än en senare sammanfattning.
 
 ---
 
-# 6. STYRREGLER FÖR HUVUDTIDSLINJEN
+# 7. STYRREGLER FÖR HUVUDTIDSLINJEN
 
 Varje materiellt relevant händelse ska, när uppgifterna finns, innehålla:
 
@@ -143,53 +171,56 @@ Varje materiellt relevant händelse ska, när uppgifterna finns, innehålla:
 5. källa/bevis-ID,
 6. bevisstatus,
 7. eventuell motsägelse/osäkerhet/dokumentationslucka,
-8. vilka separata sakspår händelsen hör till.
-
-Enbart formuleringen **”mejl skickades med ämnet…”** är inte tillräcklig när mejlet innehåller materiellt viktig information.
+8. vilka separata sakspår händelsen hör till,
+9. länk/klassning till juridisk bevisfunktion när relevant.
 
 Även följande är tidslinjehändelser:
 
 - en fråga ställs,
 - ett svar uteblir,
-- en person lovar att återkomma,
+- någon lovar att återkomma,
 - ett möte bokas,
-- en fråga som skulle behandlas vid ett möte inte behandlas,
+- en utlovad fråga inte behandlas,
 - en uppgift motsägs senare,
 - ett dokument efterfrågas men inte återfinns.
 
 ---
 
-# 7. SÄRSKILDA PERSONREGLER
+# 8. ARGUMENTREGEL
 
-Personer med samma förnamn får aldrig blandas ihop.
+Varje juridiskt argument ska testas mot fyra frågor:
+
+1. Vad säger källan faktiskt?
+2. Vilken juridisk funktion kan den fylla?
+3. Vilket lagrum/princip är relevant och är aktuell rätt verifierad?
+4. Vilket ytterligare bevis behövs för en starkare slutsats?
 
 Exempel:
 
-- **Thomas Bartsch** – Ericas vän; stöd/vittne i november 2025.
-- **Thomas Duvsjö** – separat granne/vittne i Kilsgatan-spåret.
+- `Saknat saneringsintyg` är en verifieringslucka – inte automatiskt bevis för utebliven sanering.
+- `Flera personer reagerar` kan stärka utredningsbehov – inte automatiskt bevisa medicinsk kausalitet.
+- `OCAB` kan bära slutsatser inom sitt faktiska uppdrag/metod – inte besvara frågor som inte undersökts.
+- `Godkänd OVK` måste knytas till rätt system/objekt och kan inte ensam bevisa att bostaden är fri från alla andra inomhusmiljöproblem.
 
 ---
 
-# 8. AKTUELL AUDIT – NOVEMBER 2025
+# 9. PERSONKONTROLL
 
-Följande punkter är särskilt aktiva i auditten:
+Personer med samma förnamn får aldrig blandas ihop.
 
-- 4 november: Caroline/Karolin – source-lockat ventilationsbesök.
-- 7 november: Erica skickar Jennifer omfattande checklista inför första mötet.
-- checklistan innehåller ventilation/ventilationskanal/OVK men inte termen **kanalrensning**.
-- 10 november: Erica och Thomas Bartsch går igenom lägenheten inför mötet; förstahandsanteckningar bevaras.
-- 11 november: **1:a mötet med FB (Familjebostäder) i lägenheten**.
-- branduppgift, ventilationsdon och kanalrengöring/kanalrensning under mötet ska source-lockas.
-- 14 november: skriftligt stöd för att platsmötet faktiskt ägt rum.
-- 17–26 november: åtgärdskedja, städning, målning, golv, ventilation och frågor/svar granskas i fulltext.
-- 24–25 november: Gabys två separata skriftliga uttalanden om att Familjebostäder inte ser någon dokumenterad brand.
-- 26 november: Ericas mejl ger senare skriftligt stöd för att rengöring inne i kanalen diskuterats och att frågan kopplats till att det då skulle behöva göras i fler/alla lägenheter.
-- 28 november: Erica hänvisar skriftligen till Brottsplatskartan/Polisens händelserapport i mejl till Gaby med Jennifer i kopia; exakt första överföring av själva skärmdumpen/länken är fortfarande en separat kontrollpunkt.
+- **Thomas Bartsch** – Ericas vän; stöd/vittne i november 2025.
+- **Thomas Duvsjö** – separat granne/vittne.
+
+---
+
+# 10. `.gitignore`
+
+`.gitignore` används endast för lokala/tempfiler. Viktiga projektmappar och kärnfiler har uttryckliga negationsregler så att `anteckningar/`, `analyser/`, `bevis/`, `handlingar/`, `korrespondens/`, `inspelningar/`, `transkriptioner/` och tidslinjer **inte oavsiktligt ignoreras**.
 
 ---
 
 # Slutprincip
 
-**Huvudtidslinjen ska vara komplett först. Därefter bygger vi enskilda spår.**
+**Först komplett huvudtidslinje. Därefter enskilda spår.**
 
-Ett separat spår får aldrig bli en plats där uppgifter försvinner ur huvudhistoriken. Om en post är relevant för flera spår ska den finnas i huvudtidslinjen och länkas/klassificeras mot samtliga relevanta spår.
+Varje bevis ska användas för den juridiska funktion det faktiskt kan bära. Ett separat spår får aldrig bli en plats där uppgifter försvinner ur huvudhistoriken.
