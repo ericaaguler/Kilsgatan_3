@@ -4,6 +4,12 @@ Detta är projektets **kontrollpanel**, inte ännu en sammanfattning.
 
 Alla centrala påståenden som ska kunna hamna i huvudtidslinje, juridisk analys, myndighetskontakt eller domstolsinlaga ska kunna spåras till en post i `AUDIT/STORA-AUDITEN-KONTROLLPANEL.md`.
 
+## Huvudfiler
+
+1. `AUDIT/STORA-AUDITEN-KONTROLLPANEL.md` – bevispost för bevispost.
+2. `AUDIT/ORIGINALKONTROLL-OCH-STOPPLISTA.md` – material som måste tillbaka till original innan extern användning.
+3. `AUDIT/FYR-PDF-OCH-LAGUTNYTTJANDEAUDIT-2026-08-29.md` – juridisk källkontroll: vad de fyra böckerna faktiskt ger, direkt tillämplig regel, aktuell-rätt-kontroll och saknat bevis.
+
 ## Obligatoriska fält per bevispost
 
 `AUDIT-ID → DATUM → KÄLLA → FAKTISK UPPGIFT → BEVISKLASS → JURIDISK FUNKTION → VAD DEN INTE BEVISAR → SAKNAD KOMPLETTERING → RELEVANT LAG/PRINCIP → STATUS I HUVUDTIDSLINJEN/SPÅREN → ORIGINALSTATUS`
@@ -51,6 +57,19 @@ Auditlagret ska skilja mellan:
 
 Att en processregel *kan ha åsidosatts* är inte samma sak som att lagbrott är slutligt fastställt.
 
+## Rättskälleregel – obligatorisk från 29 augusti 2026
+
+Juridiska böcker/PDF:er är **inte självständiga bevis för gällande rätt**. De används som vägvisare till lag, förarbeten och praxis.
+
+Före extern användning av varje juridiskt argument ska auditlagret kunna svara på:
+
+`DOKTRINUPPGIFT → VILKEN REGEL/PRINCIP? → DIREKT TILLÄMPLIG I VILKET FORUM? → AKTUELL LAGTEXT KONTROLLERAD? → AKTUELL PRAXIS KONTROLLERAD? → VILKET SAKBEVIS AKTIVERAR REGELN? → VAD ÅTERSTÅR?`
+
+### Två permanenta rättskällestopp
+
+1. **FPL-kommentaren får inte användas som om FPL 8 § automatiskt är den direkta regeln i ett överklagat MMD-mål.** Kontrollera först LOMMD och lagen om domstolsärenden. Fyr-PDF-auditen pekar ut Ärendelagen 12 och 22 §§ som centrala direkta processregler i det spåret.
+2. **Äldre hyresdoktrins “19 § hälsovådlig lägenhet” får inte återges som dagens 12 kap. 19 § JB.** Dagens hyresrättsliga huvudspår ska byggas mot aktuell JB 12:9, 11, 15, 16 och vid behov 18 a.
+
 ## Huvudspår
 
 - **A – Hälsobesvär / tidssamband**
@@ -75,3 +94,5 @@ Att en processregel *kan ha åsidosatts* är inte samma sak som att lagbrott är
 **Foto av avvikelse ≠ laboratorieidentifierad substans.**
 
 **Flera personer med liknande reaktion ≠ medicinskt fastställd kausalitet.**
+
+**Doktrin beskriver rätt – men den aktuella lagtexten och tillämpligheten måste alltid kontrolleras separat.**
