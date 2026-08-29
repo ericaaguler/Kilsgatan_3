@@ -1,0 +1,19 @@
+# Operativsystem / editor
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.bak
+*.swp
+
+# Lokala cache-/arbetsmappar
+__pycache__/
+.pytest_cache/
+.idea/
+.vscode/
+_scratch/
+_temp/
+lokalt/
+
+# VIKTIGT: bevismaterial, PDF, ljud, bilder och projektanteckningar ignoreras INTE generellt.
+# De kan vara av betydelse för Kilsgatan 3-ärendet och ska hanteras uttryckligen.
