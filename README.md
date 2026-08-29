@@ -30,6 +30,10 @@ Repositoryt ska inte innehålla:
 - [Brandtidslinje – Kilsgatan 3, lägenhet 1202](BRAND-TIDSLINJE.md)
 - [Tidslinje – kanalrensning och ventilation, lägenhet 1202 / objekt 60020562](KANALRENSNING-TIDSLINJE.md)
 
+## Separat jämförelseunderlag
+
+- [Andra brandärenden hos Familjebostäder – dokumentationsspår](JAMFORELSE-ANDRA-BRANDER.md)
+
 ## Ingångar
 
 - [Tidslinje](TIDSLINJE.md)
