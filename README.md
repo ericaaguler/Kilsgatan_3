@@ -52,8 +52,10 @@ Material som bara finns som sammanställning eller ej originalkontrollerad trans
 - [`analyser/PROJEKTAUDIT-KILSGATAN-3-2026-08-29.md`](analyser/PROJEKTAUDIT-KILSGATAN-3-2026-08-29.md)
 - [`analyser/AUDIT-HUVUDTIDSLINJE-OCH-KALLTACKNING-2026-08-29.md`](analyser/AUDIT-HUVUDTIDSLINJE-OCH-KALLTACKNING-2026-08-29.md)
 - [`analyser/AUDIT-FYND-OCH-OMISSION-REGISTER-2026-08-29.md`](analyser/AUDIT-FYND-OCH-OMISSION-REGISTER-2026-08-29.md)
+- [`analyser/AUDIT-FYND-TILLAGG-BRAND-TILLSYN-FRAGELOGG-2026-08-29.md`](analyser/AUDIT-FYND-TILLAGG-BRAND-TILLSYN-FRAGELOGG-2026-08-29.md) – nya fynd 015–024 från tillsyn 11 mars, frågeloggen och dokumentationsspåret.
 - [`analyser/MF-AKT-01-107-BRAND-SANERING-AUDIT-2026-08-29.md`](analyser/MF-AKT-01-107-BRAND-SANERING-AUDIT-2026-08-29.md)
 - [`analyser/MF-AKT-01-107-KONTROLLREGISTER-2026-08-29.md`](analyser/MF-AKT-01-107-KONTROLLREGISTER-2026-08-29.md)
+- [`analyser/BRAND-FRAGELOGG-OCH-MF-TILLSYN-11-MARS-2026.md`](analyser/BRAND-FRAGELOGG-OCH-MF-TILLSYN-11-MARS-2026.md) – source-lockad kontroll av tillsynen 11 mars och räknad frågelogg.
 
 Dessa filer är nu **underlag** till `STORA-AUDITEN/`; de är inte konkurrerande kontrollpaneler.
 
@@ -67,6 +69,7 @@ Aktiva filer:
 
 - [`anteckningar/2026-08-29_HUVUDANTECKNING-JURIDISK-BEVISFUNKTION.md`](anteckningar/2026-08-29_HUVUDANTECKNING-JURIDISK-BEVISFUNKTION.md)
 - [`anteckningar/2026-08-29_AUDIT-ANTECKNINGAR-11-24-NOVEMBER-2025.md`](anteckningar/2026-08-29_AUDIT-ANTECKNINGAR-11-24-NOVEMBER-2025.md)
+- [`anteckningar/2026-08-29_BRAND-TILLSYN-FRAGELOGG-MALNING-OCH-DOKUMENTATIONSLUCKA.md`](anteckningar/2026-08-29_BRAND-TILLSYN-FRAGELOGG-MALNING-OCH-DOKUMENTATIONSLUCKA.md) – bevarar Hevals målningråd, 11 mars-scope, 7 januari-datumkorrigeringen, 9 mars-mejlet och den konservativa frågeloggen.
 - [`anteckningar/README.md`](anteckningar/README.md)
 
 Anteckningar märks med status, exempelvis:
@@ -79,6 +82,8 @@ Anteckningar märks med status, exempelvis:
 - `MOTSÄGELSE`
 - `DOKUMENTATIONSLUCKA`
 - `OBESVARAD FRÅGA`
+
+**Bevaranderegel:** en aktiv anteckning får senare kompletteras eller markeras som fel/osäker, men får inte tyst raderas när en korrigerad version skapas.
 
 ---
 
@@ -121,10 +126,13 @@ Separata spår används när huvudmaterialet är tillräckligt komplett. De ska 
 
 - [`BRAND-TIDSLINJE.md`](BRAND-TIDSLINJE.md)
 - [`TIDSLINJE-BRAND-2017-2026.md`](TIDSLINJE-BRAND-2017-2026.md)
+- [`analyser/BRAND-FRAGELOGG-OCH-MF-TILLSYN-11-MARS-2026.md`](analyser/BRAND-FRAGELOGG-OCH-MF-TILLSYN-11-MARS-2026.md)
 
 Brandspåret ska omfatta:
 
-`brand → kännedom → vittnesuppgifter → frågor → FB:s svar/nekanden → sanering/återställning → dokumentation → myndighets-/försäkringsspår → kvarstående verifieringsluckor`
+`brand → kännedom → vittnesuppgifter → frågor → FB:s svar/nekanden → sanering/återställning → dokumentation → MF:s kännedom/avgränsning/återöppning → tillsynens faktiska scope → myndighets-/försäkringsspår → kvarstående verifieringsluckor`
+
+Det ska dessutom alltid synliggöra **varje source-lockat tillfälle där Erica ställer en materiell brand-/saneringsfråga och om den faktiskt besvaras**.
 
 ## Kanalrensning / ventilation
 
@@ -198,7 +206,31 @@ Varje materiellt relevant händelse ska, när uppgifterna finns, innehålla:
 
 ---
 
-# 8. ARGUMENTREGEL
+# 8. OBLIGATORISKA NYA KONTROLLPUNKTER
+
+Följande fynd från 29 augusti 2026 får inte tappas i senare omskrivning:
+
+- Hevals råd vid tillsynen 11 mars att Erica bör tacka ja till målning/åtgärd.
+- toxiner, brand-/rökpartiklar diskuteras men provtas inte vid tillsynen.
+- muntlig observation om tung luft på plats.
+- MF hade ännu inte tagit slutlig ställning till beboelighet på plats.
+- omfattande MF-yttrande ska dateras **7 januari 2026** enligt Outlook, inte 6 januari, om inte separat original visar annat.
+- **9 mars 2026**: direkt begäran att MF ska kräva in uppgifter/dokumentation om eventuell sanering efter rök/brand.
+- konservativ räknad frågelogg: minst **5** materiella tillfällen till FB + minst **7** till MF = minst **12**.
+- Gabys **”här ska vi felsöka vad problemet är”** den 6 november ska följas till vilken dokumenterad grundorsak som faktiskt identifierades.
+- dokumentationskedjan efter 2017 ska följas hos FB, SSBF, S:t Erik, RVR, SBK och eventuell entreprenör utan att frånvaro av handling automatiskt likställs med frånvaro av utfört arbete.
+
+Obligatoriska arbetslinjer:
+
+> **Orsaksfrågan är fortfarande obesvarad i det granskade underlaget.**
+
+> **En rapport kan inte besvara en fråga den aldrig har undersökt.**
+
+> **En rapport kan inte fylla en historisk dokumentationslucka när de handlingar som skulle verifiera åtgärden aldrig har redovisats.**
+
+---
+
+# 9. ARGUMENTREGEL
 
 Varje juridiskt argument ska testas mot fyra frågor:
 
@@ -216,7 +248,7 @@ Exempel:
 
 ---
 
-# 9. PERSONKONTROLL
+# 10. PERSONKONTROLL
 
 Personer med samma förnamn får aldrig blandas ihop.
 
@@ -225,9 +257,11 @@ Personer med samma förnamn får aldrig blandas ihop.
 
 ---
 
-# 10. `.gitignore`
+# 11. `.gitignore`
 
 `.gitignore` används endast för lokala/tempfiler. Viktiga projektmappar och kärnfiler har uttryckliga negationsregler så att `anteckningar/`, `analyser/`, `bevis/`, `handlingar/`, `korrespondens/`, `inspelningar/`, `transkriptioner/` och tidslinjer **inte oavsiktligt ignoreras**.
+
+PDF, ljud, bilder och video får inte läggas in som generella ignore-mönster utan ett uttryckligt dokumenterat beslut. Om en specifik fil inte versionshanteras ska källan ändå finnas kvar i auditens källförteckning.
 
 ---
 
