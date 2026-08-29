@@ -100,7 +100,7 @@ STORA AUDITEN ska aktivt stoppa följande felslut:
 
 **B0001–B0464 har nu fått 464/464 separata bas-auditrader i registermatrisen.** Bas-audit innebär att varje registrerad post har kvalitetsstatus/originalspärr; det betyder inte att varje post redan är postspecifikt fullauditerad eller EXTERN-READY.
 
-Nya identifierade bilder, video, ljud och processuppgifter som ännu saknar B-ID ska läggas i originalkarantänen tills original/source-lock är säkrat och posten har registrerats.
+Nya identifierade bilder, video, ljud och processuppgifter som ännu saknar B-ID ska läggas i originalkarantänen tills original/source-lock är säkrat och posten har registrerats. Materiellt viktiga sådana poster får samtidigt ett tillfälligt `AUD-...`-ID och fullauditeras i `07-NYA-BEVISPOSTER-FULLAUDIT-CHAT-2026-08-29.md`, utan att `AUD-...` ersätter ett permanent B-ID.
 
 Nya bevis-ID ska automatiskt läggas till auditens scope.
 
@@ -112,6 +112,7 @@ Nya bevis-ID ska automatiskt läggas till auditens scope.
 - `04-MF-MMD-PROCESSAUDIT.md` – fördjupad processaudit av Miljöförvaltningen och Mark- och miljödomstolen.
 - `05-REGISTERMATRIS-B0001-B0464.md` – index till 464/464 separata bas-auditrader för samtliga registrerade Bevis-ID.
 - `06-CHAT-BEVIS-ORIGINALKARANTAN.md` – nya visuella/ljud-/SMS-/processbevis från arbetschatten som ännu saknar B-ID eller source-lock.
+- `07-NYA-BEVISPOSTER-FULLAUDIT-CHAT-2026-08-29.md` – full audit enligt samtliga obligatoriska fält för materiellt viktiga nya bevis från chatten, med `AUD-...`-ID tills permanent B-ID/source-lock finns.
 
 Registermatrisens fem segment ligger i `audit/` men är **underordnade STORA-AUDITEN** och nås via `05-REGISTERMATRIS-B0001-B0464.md`. De är inte ett konkurrerande huvudlager.
 
