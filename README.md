@@ -32,7 +32,13 @@ Om en viktig uppgift upptäcks i ett separat spår men saknas i huvudtidslinjen 
 
 - [`STRUKTUR-HUVUDTIDSLINJE-OCH-SPAR.md`](STRUKTUR-HUVUDTIDSLINJE-OCH-SPAR.md) – styr hur originalkällor, anteckningar, audit, juridisk bevisfunktion, huvudtidslinje och separata spår hänger ihop.
 
-## Huvudaudit / rättsfunktion
+## STORA AUDITEN – primärt auditregister
+
+- [`analyser/STORA-AUDITEN-BEVIS-KRONOLOGI-RATTSFUNKTION-2026-08-29.md`](analyser/STORA-AUDITEN-BEVIS-KRONOLOGI-RATTSFUNKTION-2026-08-29.md) – masterregistret för datum, källa, faktisk uppgift, bevisklass, juridisk funktion, begränsning, saknat bevis, lag/princip och kontrollkö.
+
+**Stora auditten ska vara den centrala kontrollpanelen för fortsatt source-lock.** Den ersätter inte originalkällor eller `TIDSLINJE.md`; den talar om vad varje källa kan användas till och vilka luckor som fortfarande måste fyllas.
+
+## Övrig huvudaudit / rättsfunktion
 
 - [`analyser/BEVIS-OCH-RATTSFUNKTION-HUVUDAUDIT-ALLT-MATERIAL-2026-08-29.md`](analyser/BEVIS-OCH-RATTSFUNKTION-HUVUDAUDIT-ALLT-MATERIAL-2026-08-29.md)
 - [`analyser/PROJEKTAUDIT-KILSGATAN-3-2026-08-29.md`](analyser/PROJEKTAUDIT-KILSGATAN-3-2026-08-29.md)
