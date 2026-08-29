@@ -4,6 +4,22 @@
 **Status:** STYRANDE KONTROLLPANEL FÖR HELA PROJEKTET  
 **Prioritet:** Detta lager står över sammanfattningar, chattanteckningar, arbetsutkast och lösa tidslinjer när bevisstatus ska bedömas.
 
+## 0. Lagerstruktur / kontrollpanel
+
+STORA AUDITEN består av separata styr- och kontrollager. De ska läsas som ett system, inte som fristående sammanfattningar:
+
+1. [`00-HUVUDLAGER-STYRNING-OCH-BEVISSTANDARD.md`](00-HUVUDLAGER-STYRNING-OCH-BEVISSTANDARD.md) – styrregler, bevisklasser, source-lock och förbjudna inferenshopp.
+2. [`01-BEVISPOSTER-KONTROLLPANEL.md`](01-BEVISPOSTER-KONTROLLPANEL.md) – genererad rad-för-rad-kontrollpanel för **samtliga 464 poster som för närvarande finns i huvud-BEVISREGISTER**.
+3. [`02-JURIDISK-NYCKEL-OCH-RACKVIDD.md`](02-JURIDISK-NYCKEL-OCH-RACKVIDD.md) – kontrollerad lag-/principnyckel för juridisk funktion och räckvidd.
+4. [`03-ORIGINALKARANTAN-OCH-SOURCE-LOCK.md`](03-ORIGINALKARANTAN-OCH-SOURCE-LOCK.md) – prioriterad kö över material som måste tillbaka till original innan säker extern användning.
+5. [`04-IDENTIFIERADE-POSTER-UTANFOR-HUVUDBEVISREGISTER.md`](04-IDENTIFIERADE-POSTER-UTANFOR-HUVUDBEVISREGISTER.md) – säkerhetslager för reserverade eDok-poster B0465–B0474 och identifierade ljudoriginal som ännu inte är fullvärdigt registrerade i huvudregistret.
+6. [`OVERRIDES.json`](OVERRIDES.json) – manuella, källnära preciseringar för särskilt viktiga bevisposter; dessa ersätter generiska klassningar när original-/fulltextgranskning gett bättre precision.
+7. [`../scripts/build_stora_auditen.py`](../scripts/build_stora_auditen.py) – generatorn som bygger om kontrollpanelen från `BEVISREGISTER.md`, `TIDSLINJE.md` och overrides.
+
+**Täckningsregel:** att en post saknas i huvud-BEVISREGISTER innebär inte att den får försvinna ur auditen. Identifierat men ännu inte fullt registrerat material ska ligga i lager 04 eller originalkarantänen tills luckan är sluten.
+
+---
+
 ## 1. Syfte
 
 STORA AUDITEN är **inte en sammanfattning**. Den är projektets bevis- och processkontroll.
