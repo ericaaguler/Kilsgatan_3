@@ -2,6 +2,20 @@
 
 Detta lager innehåller juridiska arbetsutkast, processanalyser och möjliga framtida inlagor. En fil i denna mapp är **inte automatiskt en slutlig handling för inlämning**.
 
+## Juridisk research – fyra permanenta huvudspår
+
+### `JURIDISK-RESEARCH-4-HUVUDSPAR-AVTAL-DOKUMENT-STRATEGI-REGELEFTERLEVNAD-2026-08-30.md`
+
+**Status:** AKTIVT RESEARCHLAGER.  
+Detta dokument organiserar den fortsatta juridiska analysen i fyra separata arbetsområden:
+
+1. **Avtalsutformning och förhandling** – hyresavtal, besiktningsunderlag, HLU, brist-/underhållsåtgärder, förhandlingsreservationer och eventuella uppgörelser.
+2. **Analys av dokument** – source-lock, scope, bevisklass, motsägelseaudit och dokumentkedjor för avtal/besiktning, OCAB, ventilation, brand/sanering, försäkring och MF:s akt.
+3. **Juridiska strategier och prognoser** – MÖD/PT, hyresrätt, offentlighet/handlingar, försäkringsspår och kvalitativ styrke-/riskbedömning.
+4. **Övervakning och regelefterlevnad** – kontrollmatris för FB, MF, LST/MMD/MÖD, dokumenthantering och försäkrings-/incidentregler.
+
+Researchlagret ska användas tillsammans med MASTERPROMPTEN och får inte uppgradera hypoteser till fakta.
+
 ## Aktuell potentiell överklagan
 
 ### `OVERKLAGAN-KANSKE-ERICA-M-5167-26-2026-08-29.md`
