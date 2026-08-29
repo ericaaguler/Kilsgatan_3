@@ -121,6 +121,7 @@ Nya bevis-ID ska automatiskt läggas till auditens scope.
 - `09-PROCESS-DOKUMENTHANTERING-HGF-GALLRING-SAMMA-SAKFRAGA-AUDIT.md` – samlad process-/dokumenthanteringsaudit som låser gallringskedjan, HGF-originalkarantänen och de nya processreglerna.
 - `10-OBESVARADE-FRAGOR-MASTER-FB-MF-LST-MMD-2026-08-29.md` – levande master över obesvarade, delvis besvarade och felriktat besvarade frågor till FB, MF, Länsstyrelsen och MMD.
 - `11-MF-LANSSTYRELSEN-MMD-FYR-PDF-LAGUTNYTTJANDE-AUDIT-2026-08-29.md` – full myndighets-/processaudit av MF, Länsstyrelsen och MMD med fyr-PDF-kontroll, aktuell lagverifiering, direkt tillämplighet och beviskrav.
+- `12-SEXBOKS-AUDIT-NYA-RATTSSPAR-OCH-OVERKLAGANDE-FORBATTRINGAR-2026-08-29.md` – fördjupad audit av sex juridiska böcker med nya spår: tillsynens dokumentationskedja, teknisk informationsasymmetri, återförvisning/instansordning, `samma sak`, saklig bevisvärdering, JO/klarspråk samt konkreta V2-förbättringar av `Överklagan kanske Erica`.
 - `08-FYR-PDF-OCH-LAGUTNYTTJANDEAUDIT-NYA-BEVISPOSTER-2026-08-29.md` – fyr-PDF-audit av de nya bevisposterna med kontroll mot aktuell 2026-rätt; särskilt LOMD/ärendelagen, miljöbalken 26 kap., förvaltningslagen och 12 kap. JB.
 
 Registermatrisens fem segment ligger i `audit/` men är **underordnade STORA-AUDITEN** och nås via `05-REGISTERMATRIS-B0001-B0464.md`. De är inte ett konkurrerande huvudlager.
@@ -134,11 +135,17 @@ Vid postspecifik fördjupning används bland annat:
 - `JB12:16` – 12 kap. 16 § jordabalken, skada/hinder/men och åtgärdsfunktion.
 - `MB9:3` – 9 kap. 3 § miljöbalken, olägenhet för människors hälsa.
 - `MB26:19` – 26 kap. 19 § miljöbalken, kontroll/egenkontroll.
+- `FL5` – 5 § förvaltningslagen, legalitet, saklighet/opartiskhet och proportionalitet.
+- `FL6` – 6 § förvaltningslagen, service och hjälp utan onödigt dröjsmål.
+- `FL10` – 10 § förvaltningslagen, partsinsyn i material som tillförts ärendet.
 - `FL23` – 23 § förvaltningslagen, myndighetens utredningsansvar.
+- `FL25` – 25 § förvaltningslagen, kommunicering av material av betydelse före beslut.
+- `FL27` – 27 § förvaltningslagen, dokumentation av muntliga/andra uppgifter som kan ha betydelse för beslut.
 - `FL32` – 32 § förvaltningslagen, klargörande beslutsmotivering med tillämpade föreskrifter och avgörande omständigheter.
 - `FL39` – 39 § förvaltningslagen, begränsning av beslutsmyndighetens möjlighet att ändra överklagat beslut efter överlämnande.
 - `LOMD5:1` – 5 kap. 1 § lagen om mark- och miljödomstolar; leder i överklagade mål till lagen om domstolsärenden.
 - `ÄRENDE12` – 12 § lagen om domstolsärenden, MMD:s utrednings-/processledningsansvar.
+- `ÄRENDE13-14` – sammanträde när det är till fördel för utredningen och enskild parts begäran, med lagens undantag.
 - `ÄRENDE28` – 28 § lagen om domstolsärenden; skäl för avgörande och särskild regel när överklagat beslut fastställs.
 - `ÄRENDE39` – 39 § lagen om domstolsärenden; prövningstillståndsgrunder vid överklagande till hovrätt/MÖD.
 - `PBL-OVK` – PBL/PBF:s bestämmelser om obligatorisk ventilationskontroll inom deras faktiska scope.
