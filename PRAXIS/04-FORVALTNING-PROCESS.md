@@ -1,6 +1,6 @@
 # SPÅR 4 – MYNDIGHETENS UTREDNING OCH PROCESS
 
-Status: **GO PÅ MINIMAL GRUPPTÄCKNING 2026-08-30 – PROCESSFÖRDJUPAD MED TILLSYNSAVSLUT, BESLUTSUNDERLAG, SCOPE, NYTT MATERIAL OCH KORREKT MMD-PROCESSRAM**
+Status: **GO PÅ MINIMAL GRUPPTÄCKNING 2026-08-30 – PROCESSFÖRDJUPAD MED TILLSYNSAVSLUT, BESLUTSUNDERLAG, SCOPE, NYTT MATERIAL, KORREKT MMD-PROCESSRAM OCH SOURCE-LOCKADE PROCESSDATUM**
 
 Spår 4 gäller officialprincipen, utredningsansvar, kommunicering, motivering, dokumentation, beslutsunderlag, motstridiga uppgifter samt nytt material efter beslut/under överklagande.
 
@@ -13,12 +13,33 @@ Spår 4 gäller officialprincipen, utredningsansvar, kommunicering, motivering, 
 - `04X-SPAR4-MOD-2020-45-HFD-2020-REF-12-HANDLINGSPLIKT-NOLLBESLUT-KLAGORATT-2026-08-30.md` – handlingsplikt, nollbeslut och överprövning.
 - `04Y-SPAR4-HFD-2023-54-HFD-2019-17-MOD-2010-37-HFD-2024-58-MOD-2021-8-REVISIONSRAPPORT-2026-08-30.md` – tillsynsavslut, faktiskt tillfört beslutsunderlag, utredningsscope, återförvisningsmekanik och processinitiering/klagorätt.
 - `04Z-SPAR4-NYTT-MATERIAL-OMPROVNING-KOMMUNIKATION-BEVISVARDERING-MMD-PROCESS-REVISIONSRAPPORT-2026-08-30.md` – nytt material efter beslut/överklagande, 38–39 och 46 §§ FL, kommunikationsregler, bevisvärdering samt den korrekta processramen för överklagade mål i mark- och miljödomstol.
+- `04ZA-SPAR4-PROCESSKARTA-MF-LST-MMD-SOURCE-LOCK-DATUM-NYTT-MATERIAL-2026-08-30.md` – source-lockad processkarta för MF → Länsstyrelsen → MMD, inklusive exakt ingivandedatum 1 maj, Länsstyrelsens mottagande senast 5 maj, beslut 3 juni, överklagande 14 juni och överlämnande/MMD-registrering 15 juni.
 
 ## Kärnaxel
 
 Kontrollen ska alltid ske i denna ordning:
 
 **rättsfråga → aktuell instans och processfas → tillämplig processlag/specialreglering → nödvändiga fakta → bevis-/utredningsbörda → vilket material var faktiskt tillfört ärendet? → befintligt beslutsunderlag → kvarstående kärnfråga → har myndigheten genom scopebeslut eller avslut bestämt vad som inte längre ska utredas? → har föreslagen komplettering direkt samband med kärnfrågan? → finns särskild rättslig handlingsplikt/specialreglering? → har beslutet/underlåtenheten/scopeavgränsningen rättsverkningar och är den överklagbar? → annan obligatorisk prövningsram? → är kompletteringen sakligt motiverad och rimlig? → kommunicering → motivering → nytt material/tidpunkt → eventuell återförvisning och vad den innebär.**
+
+## Source-lockad processaxel MF → Länsstyrelsen → MMD
+
+Följande datum är nu styrande i Spår 4:
+
+- **13 april 2026** – MF/MHN beslut 2026-5104.
+- **28 april 2026** – dokumentdatum för överklagandeskriften; får inte blandas ihop med ingivandedatum.
+- **1 maj 2026** – source-lockat originalmejl visar att överklagandet gavs in till Funktion MHN Registratur.
+- **senast 5 maj 2026** – Länsstyrelsen bekräftade att överklagandet hade mottagits. Exakt MF→Länsstyrelsen-överlämnandedatum mellan 1 och 5 maj är fortfarande inte fullt låst.
+- **3 juni 2026** – Länsstyrelsens beslut 21412-2026.
+- **14 juni 2026 kl. 14:16** – överklagandet av Länsstyrelsens beslut skickades.
+- **15 juni 2026** – Länsstyrelsen rättidsprövade och överlämnade överklagandet och handlingarna till MMD, dnr 31258-2026; MMD-spåret registrerades som M 5167-26.
+
+### Projektregel för nytt material
+
+Varje senare omständighet ska placeras i rätt processzon:
+
+**händelsedatum → dokumentdatum → ingivandedatum → mottagningsdatum → registreringsdatum → vilken instans hade ärendet? → vad skulle materialet styrka? → kunde det ingå i det beslut som angrips eller är det senare material?**
+
+En senare händelse får aldrig användas för att påstå att MF eller Länsstyrelsen kände till den när deras respektive beslut fattades om den inte faktiskt hade tillförts ärendet före beslutet.
 
 ## Viktig praxisaxel: MÖD 2021:14 ↔ MÖD 2025:27
 
@@ -114,7 +135,8 @@ Den nya processfördjupningen ändrar inte GO-tröskeln. Den gör i stället ana
 1. **hur mycket som måste utredas**,
 2. **vilket material som faktiskt ingick i ärendet och vad som utgjorde beslutsunderlag**,
 3. **om myndigheten har låst utredningens scope eller avslutat tillsynen och vilken rättsverkan det fått**,
-4. **vilken ändringsregel som gäller beroende på om beslutet redan har överklagats och överlämnats**, och
-5. **vilken processlag som faktiskt styr i den aktuella överinstansen – särskilt lagen om domstolsärenden i överklagade MMD-mål.**
+4. **vilken ändringsregel som gäller beroende på om beslutet redan har överklagats och överlämnats**,
+5. **vilken processlag som faktiskt styr i den aktuella överinstansen – särskilt lagen om domstolsärenden i överklagade MMD-mål**, och
+6. **vilken instans som faktiskt hade ärendet när en senare omständighet eller ett nytt bevis uppkom och gavs in.**
 
 **Spår 4 får därför användas vidare för jämförande analys, men varje extern juridisk formulering ska fortfarande source-lockas mot exakt originalstycke och prövas för direkt tillämplighet.**
