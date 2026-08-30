@@ -6,26 +6,13 @@
 
 ## 0. Överordnat juridiskt analysprotokoll
 
-All juridisk research, praxisanalys, bevisaudit och extern text inom projektet ska även följa:
+All juridisk research, praxisanalys, bevisaudit och extern text inom projektet ska följa tre samverkande styrprotokoll:
 
-`STORA-AUDITEN/00-JURIDISK-AI-MASTERPROMPT-KALLKONTROLL.md`
+1. `STORA-AUDITEN/00-JURIDISK-AI-MASTERPROMPT-KALLKONTROLL.md`
+2. `STORA-AUDITEN/00-MOD-OVERKLAGANDE-MASTERPROMPT-PT-KALLKONTROLL.md`
+3. `STORA-AUDITEN/00-FORSVARBAR-JURIDIK-SPARBARHET-OVERPRÖVNING-MASTERPROMPT.md`
 
-För arbete som specifikt gäller **överklagande till Mark- och miljööverdomstolen, prövningstillstånd och återförvisning i mål M 5167-26** ska dessutom följande specialprotokoll tillämpas:
-
-`STORA-AUDITEN/00-MOD-OVERKLAGANDE-MASTERPROMPT-PT-KALLKONTROLL.md`
-
-Det specialiserade MÖD-protokollet kräver bland annat:
-
-- PT-test mot **39 § 1 och 2 lagen om domstolsärenden** för varje huvudargument,
-- särskild kontroll av **5 kap. 1 § lagen om mark- och miljödomstolar samt 12 § och 39 § ärendelagen**,
-- att varje större sakfråga bryts ned i kedjan **problem → fråga → undersökning → scope → metod → vad metoden kunde/inte kunde visa → kvarstående fråga → vilket underlag bar avslutet**,
-- strikt skillnad mellan **åtgärd** och **orsaksutredning**,
-- särskild kontroll av MF:s tillsynsscope, brand/sanering, vittnesuppgifter, teknisk informationsasymmetri och FL 27 → 10 → 25 → 32,
-- motargumentstest från Familjebostäder, Miljöförvaltningen, Länsstyrelsen och MÖD,
-- stryk-test: **BEHÅLLAS / KORTAS / FLYTTAS TILL BILAGA / STRYKAS**,
-- rangordning till maximalt **3–5 bärande argument**,
-- återförvisning som separat processuell fråga i stället för att göra MÖD till teknisk förstahandsutredare,
-- slutkedjan **KÄLLA → REGEL → REKVISIT → FAKTUM → TILLÄMPNING → SLUTSATS**.
+### Nivå 1 – generell juridisk källkontroll
 
 Den generella masterprompten kräver bland annat:
 
@@ -38,7 +25,53 @@ Den generella masterprompten kräver bland annat:
 - kontroll av varje doms rättsfråga, avgörande fakta, begränsningar och originalstatus,
 - slutkontrollen: **Säkert belagt → Juridiskt starkast → Osäkert → Får inte användas ännu → Nästa viktigaste komplettering**.
 
-Vid konflikt mellan detta huvudlager, den generella masterprompten och MÖD-specialprotokollet ska den regel som ger **striktast käll-, bevis-, source-lock- eller processkontroll** tillämpas.
+### Nivå 2 – MÖD/PT-specialprotokoll
+
+För arbete som specifikt gäller **överklagande till Mark- och miljööverdomstolen, prövningstillstånd och återförvisning i mål M 5167-26** ska MÖD-specialprotokollet dessutom tillämpas.
+
+Det kräver bland annat:
+
+- PT-test mot **39 § 1 och 2 lagen om domstolsärenden** för varje huvudargument,
+- särskild kontroll av **5 kap. 1 § lagen om mark- och miljödomstolar samt 12 § och 39 § ärendelagen**,
+- att varje större sakfråga bryts ned i kedjan **problem → fråga → undersökning → scope → metod → vad metoden kunde/inte kunde visa → kvarstående fråga → vilket underlag bar avslutet**,
+- strikt skillnad mellan **åtgärd** och **orsaksutredning**,
+- särskild kontroll av MF:s tillsynsscope, brand/sanering, vittnesuppgifter, teknisk informationsasymmetri och FL 27 → 10 → 25 → 32,
+- motargumentstest från Familjebostäder, Miljöförvaltningen, Länsstyrelsen och MÖD,
+- stryk-test: **BEHÅLLAS / KORTAS / FLYTTAS TILL BILAGA / STRYKAS**,
+- rangordning till maximalt **3–5 bärande argument**,
+- återförvisning som separat processuell fråga i stället för att göra MÖD till teknisk förstahandsutredare,
+- slutkedjan **KÄLLA → REGEL → REKVISIT → FAKTUM → TILLÄMPNING → SLUTSATS**.
+
+### Nivå 3 – försvarbarhet, spårbarhet och överprövning
+
+Det tredje protokollet är ett överordnat kvalitetsfilter för alla större slutsatser. Det kräver att varje juridisk linje ska kunna:
+
+- spåras till primärkälla,
+- kopplas till aktuell rättsregel och rekvisit,
+- rekonstrueras av extern granskare,
+- testas mot starkaste motargument,
+- placeras i rätt processuellt sammanhang,
+- avgränsas mot vad källan eller rapporten inte säger,
+- source-lockas,
+- och försvaras vid överprövning.
+
+Obligatorisk slutkedja:
+
+`FRÅGA → KÄLLA → RÄTTSREGEL → REKVISIT → VERIFIERAT FAKTUM → TILLÄMPNING → MOTARGUMENT → SLUTSATS → KONTROLL`
+
+Obligatoriskt sluttest:
+
+- **KAN JAG VISA KÄLLAN?**
+- **KAN JAG VISA RÄTTSREGELN?**
+- **KAN JAG VISA VILKA REKVISIT SOM ÄR UPPFYLLDA?**
+- **KAN JAG FÖRKLARA TILLÄMPNINGEN?**
+- **KAN JAG REDOVISA MOTARGUMENTET?**
+- **KAN JAG FÖRSVARA SLUTSATSEN OM DEN IFRÅGASÄTTS?**
+- **KAN EN ANNAN PERSON REKONSTRUERA RESONEMANGET?**
+
+Om något svar är NEJ är slutsatsen inte färdig.
+
+Vid konflikt mellan detta huvudlager och något av de tre styrprotokollen ska den regel som ger **striktast käll-, bevis-, source-lock-, rekvisit-, spårbarhets- eller processkontroll** tillämpas.
 
 ---
 
