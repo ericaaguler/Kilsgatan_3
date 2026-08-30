@@ -1,6 +1,6 @@
 # SPÅR 4 – MYNDIGHETENS UTREDNING OCH PROCESS
 
-Status: **GO PÅ MINIMAL GRUPPTÄCKNING 2026-08-30 – PROCESSFÖRDJUPAD MED TILLSYNSAVSLUT, BESLUTSUNDERLAG, SCOPE OCH ÅTERFÖRVISNING**
+Status: **GO PÅ MINIMAL GRUPPTÄCKNING 2026-08-30 – PROCESSFÖRDJUPAD MED TILLSYNSAVSLUT, BESLUTSUNDERLAG, SCOPE, NYTT MATERIAL OCH KORREKT MMD-PROCESSRAM**
 
 Spår 4 gäller officialprincipen, utredningsansvar, kommunicering, motivering, dokumentation, beslutsunderlag, motstridiga uppgifter samt nytt material efter beslut/under överklagande.
 
@@ -12,12 +12,13 @@ Spår 4 gäller officialprincipen, utredningsansvar, kommunicering, motivering, 
 - `04W-MOD-2025-17-TYDLIGHET-KOMMUNICERING-RATTSVERKAN-SOURCE-LOCK-2026-08-30.md` – tydlighet i myndighetens handläggning när rättsverkningar är knutna till handläggningsbesked/tidsfrister.
 - `04X-SPAR4-MOD-2020-45-HFD-2020-REF-12-HANDLINGSPLIKT-NOLLBESLUT-KLAGORATT-2026-08-30.md` – handlingsplikt, nollbeslut och överprövning.
 - `04Y-SPAR4-HFD-2023-54-HFD-2019-17-MOD-2010-37-HFD-2024-58-MOD-2021-8-REVISIONSRAPPORT-2026-08-30.md` – tillsynsavslut, faktiskt tillfört beslutsunderlag, utredningsscope, återförvisningsmekanik och processinitiering/klagorätt.
+- `04Z-SPAR4-NYTT-MATERIAL-OMPROVNING-KOMMUNIKATION-BEVISVARDERING-MMD-PROCESS-REVISIONSRAPPORT-2026-08-30.md` – nytt material efter beslut/överklagande, 38–39 och 46 §§ FL, kommunikationsregler, bevisvärdering samt den korrekta processramen för överklagade mål i mark- och miljödomstol.
 
 ## Kärnaxel
 
 Kontrollen ska alltid ske i denna ordning:
 
-**rättsfråga → nödvändiga fakta → bevis-/utredningsbörda → vilket material var faktiskt tillfört ärendet? → befintligt beslutsunderlag → kvarstående kärnfråga → har myndigheten genom scopebeslut eller avslut bestämt vad som inte längre ska utredas? → har föreslagen komplettering direkt samband med kärnfrågan? → finns särskild rättslig handlingsplikt/specialreglering? → har beslutet/underlåtenheten/scopeavgränsningen rättsverkningar och är den överklagbar? → annan obligatorisk prövningsram? → är kompletteringen sakligt motiverad och rimlig? → kommunicering → motivering → nytt material/tidpunkt → eventuell återförvisning och vad den innebär.**
+**rättsfråga → aktuell instans och processfas → tillämplig processlag/specialreglering → nödvändiga fakta → bevis-/utredningsbörda → vilket material var faktiskt tillfört ärendet? → befintligt beslutsunderlag → kvarstående kärnfråga → har myndigheten genom scopebeslut eller avslut bestämt vad som inte längre ska utredas? → har föreslagen komplettering direkt samband med kärnfrågan? → finns särskild rättslig handlingsplikt/specialreglering? → har beslutet/underlåtenheten/scopeavgränsningen rättsverkningar och är den överklagbar? → annan obligatorisk prövningsram? → är kompletteringen sakligt motiverad och rimlig? → kommunicering → motivering → nytt material/tidpunkt → eventuell återförvisning och vad den innebär.**
 
 ## Viktig praxisaxel: MÖD 2021:14 ↔ MÖD 2025:27
 
@@ -54,6 +55,49 @@ När domstol lämnar tillbaka handlingarna utan att slutligt avgöra överklagan
 ### MÖD 2021:8
 Klagorätt kan bero på hur tillsyns-/omprövningsprocessen initierades och om myndighetsprocessen hade satts i gång med anledning av den enskildes klagomål.
 
+## Nytt material efter beslut och överklagande
+
+### 38 § FL
+Beslutsmyndigheten **ska** ändra ett förstainstansbeslut bara när det är uppenbart felaktigt i något väsentligt hänseende, bl.a. på grund av nya omständigheter, och ändringen kan ske snabbt och enkelt utan nackdel för någon enskild part.
+
+### 39 § FL
+Efter överklagande är ändringsutrymmet begränsat till 38 §-fallen och gäller bara så länge överklagandet och övriga handlingar ännu inte har överlämnats till överinstansen.
+
+### 46 § FL
+Efter rättidsprövningen ska överklagandet och övriga handlingar i ärendet överlämnas **skyndsamt** till överinstansen.
+
+### Spärr
+Det finns därför inte någon generell regel att beslutsmyndigheten alltid måste göra en fullständig omprövning av allt nytt material innan varje överklagande skickas vidare.
+
+## Kritisk processrättelse: överklagade mål i mark- och miljödomstol
+
+För överklagade mål i mark- och miljödomstol är **förvaltningsprocesslagen inte automatiskt huvudprocesslagen**.
+
+### 5 kap. 1 § lagen (2010:921) om mark- och miljödomstolar
+I mål som har överklagats till mark- och miljödomstol tillämpas, om inte annat föreskrivs, **lagen (1996:242) om domstolsärenden**.
+
+### 12 § lagen om domstolsärenden
+Domstolen ska se till att ärendet blir så utrett som dess beskaffenhet kräver och att inget onödigt dras in. Genom frågor och påpekanden ska domstolen försöka avhjälpa otydligheter och ofullständigheter i parternas framställningar.
+
+### 7, 15 och 22 §§
+Processramen innehåller regler om vad ett överklagande ska innehålla, skriftväxling och parts möjlighet att få del av material som tillförts genom annan innan avgörande, med lagens undantag.
+
+### 23 § → 35 kap. RB
+I fråga om bevisning i allmänhet tillämpas bl.a. 35 kap. 1–7 §§ rättegångsbalken. Därmed ska tekniska rapporter och annan bevisning värderas konkret; någon automatisk bevisrangordning följer inte av att en handling kommer från en myndighet.
+
+### Projektregel
+Vid nytt material i MMD ska arbetskedjan vara:
+
+**vilken sak är under prövning? → när kom materialet in? → vilken instans hade det? → vilket bevistema har det? → lagen om mark- och miljödomstolar → lagen om domstolsärenden → behövs komplettering? → kommunicering/skriftväxling → bevisvärdering → kan MMD själv avgöra eller aktualiseras återförvisning?**
+
+## Bevisvärde för myndighetsrapporter – spärr
+
+Det får inte användas som generell rättsregel att en teknisk rapport från en myndighet automatiskt har ”mycket högt bevisvärde” på grund av objektivitetsprincipen.
+
+En rapport kan ha starkt bevisvärde för vad den faktiskt observerar, mäter och dokumenterar, men värdet måste bedömas mot **bevistema, metod, mätförhållanden, tidpunkt, representativitet, kompetens, rådata, osäkerheter, alternativa förklaringar, motbevisning och rapportens tekniska scope**.
+
+En rapport bevisar inte automatiskt orsaken till ett problem som den aldrig undersökte eller att ett fenomen inte kan uppstå vid andra tidpunkter.
+
 ## GO-status
 
 Minimikraven är täckta med:
@@ -67,7 +111,10 @@ Minimikraven är täckta med:
 
 Den nya processfördjupningen ändrar inte GO-tröskeln. Den gör i stället analysen mer precis genom att skilja mellan:
 
-1. **hur mycket som måste utredas**, och
-2. **vilket material som faktiskt ingick i ärendet, om myndigheten har låst utredningens scope eller avslutat tillsynen, vilken rättsverkan det fått, om beslutet är överklagbart och vad en eventuell återförvisning innebär.**
+1. **hur mycket som måste utredas**,
+2. **vilket material som faktiskt ingick i ärendet och vad som utgjorde beslutsunderlag**,
+3. **om myndigheten har låst utredningens scope eller avslutat tillsynen och vilken rättsverkan det fått**,
+4. **vilken ändringsregel som gäller beroende på om beslutet redan har överklagats och överlämnats**, och
+5. **vilken processlag som faktiskt styr i den aktuella överinstansen – särskilt lagen om domstolsärenden i överklagade MMD-mål.**
 
 **Spår 4 får därför användas vidare för jämförande analys, men varje extern juridisk formulering ska fortfarande source-lockas mot exakt originalstycke och prövas för direkt tillämplighet.**
