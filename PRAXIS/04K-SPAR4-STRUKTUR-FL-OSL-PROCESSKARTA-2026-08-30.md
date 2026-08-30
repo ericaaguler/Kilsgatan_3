@@ -3,7 +3,7 @@
 Datum: 2026-08-30
 Status: **AKTIV STRUKTURKARTA – SPÅR 4 FORTSATT STOPP TILLS GO-KRAVEN ÄR UPPFYLLDA**
 
-Syfte: ordna Spår 4 efter rättslig funktion så att förvaltningslagen (FL), förvaltningsprocesslagen (FPL), offentlighets- och sekretesslagen (OSL), praxis och sekundärkällor inte blandas ihop.
+Syfte: ordna Spår 4 efter rättslig funktion så att förvaltningslagen (FL), förvaltningsprocesslagen (FPL), offentlighets- och sekretesslagen (OSL), specialförordningar, praxis och sekundärkällor inte blandas ihop.
 
 ## 0. Hård grundregel
 
@@ -117,6 +117,9 @@ Myndigheten ska se till att ärendet blir utrett i den omfattning som dess beska
 **Positiva analogier/processfall:**
 - MIG 2016:8 – starka indikatorer + relevant oklarhet som inte klarlades.
 - MÖD 2025:44 – otillräckligt underlag för den rättsliga kontrollen i specialreglerad AL-process.
+
+**Direkt miljötillsyn / teknisk utredningskontext:**
+- **MÖD 2016:22 / M 8829-16** – kommunal miljönämnd förelade om provtagningsprogram för att klarlägga förekomst av trikloretylen. **GRÖN som miljötillsynsdom och teknisk undersökningskontext, men inte ett rent 23 § FL-prejudikat.** Prejudikattyngden ligger främst i ansvarsfrågan enligt 10 kap. 3 § MB tillsammans med tillsynsföreläggandet.
 
 **Domstol/FPL – håll separat:** HFD 2015 ref. 55 och RÅ 2002 ref. 22.
 
@@ -241,13 +244,62 @@ Sekretess hindrar inte att uppgift lämnas till en myndighet om uppgiften behöv
 
 ---
 
-# 3. KÄLLHIERARKI OCH SOURCE-LOCK
+# 3. SERVICE / EXPEDITION / TILLHANDAHÅLLANDE – HISTORISKT SIDOSPÅR
+
+Detta sidospår får inte blandas ihop med 23 § FL:s officialprincip.
+
+## A. Förordning (1980:900) om statliga myndigheters serviceskyldighet, m.m.
+
+**Status:** upphävd 2003-07-01 genom SFS 2003:234. **GRÖN historik.**
+
+Vid upphävandet innehöll förordningen bl.a. regler om tider för tillhandahållande av domar, beslut och andra handlingar, utsändande/upplysningar samt kompletterande servicebestämmelser.
+
+**Viktig korrigering:** 14 § i 1980:900 hänvisade redan till 4 och 5 §§ förvaltningslagen (1986:223) som de grundläggande reglerna om serviceskyldighet i myndigheters förvaltningsverksamhet. Förordningen får därför inte beskrivas som om hela dagens serviceskyldighet först "flyttades" därifrån till nuvarande FL.
+
+## B. Förordning (2003:234) om tiden för tillhandahållande av domar och beslut, m.m.
+
+**Status:** gällande specialförordning; Riksdagens konsoliderade text ändrad t.o.m. SFS 2020:930. **GRÖN.**
+
+1 § anger att förordningen reglerar bl.a.:
+- tiden för tillhandahållande av handlingar,
+- hur handlingar tillhandahålls,
+- upplysningar till enskilda,
+- betalningar.
+
+**Juridisk funktion:** expedition, tillhandahållande och vissa upplysningar. Inte utredningsansvar eller bevisvärdering.
+
+## C. 5 § och Förordning (2006:159)
+
+Nuvarande konsoliderade 5 § anger att en inskrivningsmyndighet ska tillhandahålla handlingar som utfärdas för en part senast två veckor efter inskrivningsdagen och, om ett beslut gått sökanden eller annan hörd person emot, genast underrätta denne. Ändringshänvisningen är **Förordning (2006:159)**.
+
+**Spärr:** den regeln är mycket snäv och gäller inskrivningsmyndigheter. Den får inte användas som generell regel för kommunal miljötillsyn.
+
+**Originalstatus för exakt 2006 års ändringsakt:** GUL tills separat original-SFS 2006:159 source-lockats. Den konsoliderade lydelsen och ändringshänvisningen är GRÖN.
+
+## D. Ds 2001:25
+
+Promemorian beskriver att 4–5 §§ i 1986 års FL redan innehöll grundläggande serviceskyldighet och diskuterade serviceförordningens framtid och reglerna om tillhandahållande av domar/beslut.
+
+**Status:** GRÖN som dokument / GUL som bärande rättskälla.
+
+Separat source-lockfil:
+`04M-SERVICEFORORDNING-1980-900-SFS-2003-234-OCH-2006-159-HISTORIK-SOURCE-LOCK-2026-08-30.md`
+
+---
+
+# 4. KÄLLHIERARKI OCH SOURCE-LOCK
 
 ## Primärkällor – GRÖN när aktuella/originalkontrollerade
 
-1. Riksdagens SFS-text – FL, FPL, OSL.
+1. Riksdagens SFS-text – FL, FPL, OSL och gällande specialförordningar.
 2. Officiella HFD/MÖD/MIG/RÅ-avgöranden och referat.
 3. Förarbeten när själva propositionen/lagrådsremissen är kontrollerad.
+
+## Historiska författningar
+
+- får användas för rättshistorik och äldre handläggning,
+- får inte presenteras som gällande rätt efter upphävandet,
+- måste alltid kontrolleras mot ikraftträdande/upphävande och efterföljande reglering.
 
 ## Sekundärkällor – GUL
 
@@ -256,18 +308,19 @@ Sekretess hindrar inte att uppgift lämnas till en myndighet om uppgiften behöv
 
 ---
 
-# 4. SPÅR 4 – AKTUELL FILSTRUKTUR
+# 5. SPÅR 4 – AKTUELL FILSTRUKTUR
 
 ## Kontroll / revision
 
 - `04H-SPAR4-HUVUDREVISION-ALLT-INKOMMET-GRON-GUL-ROD-2026-08-30.md` – överordnad revisionsrapport.
 - `04K-SPAR4-STRUKTUR-FL-OSL-PROCESSKARTA-2026-08-30.md` – denna strukturella rättskarta.
 
-## Lag / sekundärkällor
+## Lag / sekundärkällor / servicehistorik
 
 - `04D-SPAR4-FORVALTNINGSLAGEN-AKTUELL-LYDELSE-SOURCE-LOCK-2026-08-30.md`
 - `04J-LAGENNU-FL-2017-900-PRAXISREGISTER-OCH-SOURCE-LOCK-2026-08-30.md`
-- OSL har nu ett strukturellt sidolager i denna 04K och ska vid behov brytas ut till separat source-lockfil om OSL blir en bärande fråga i huvudärendet.
+- `04M-SERVICEFORORDNING-1980-900-SFS-2003-234-OCH-2006-159-HISTORIK-SOURCE-LOCK-2026-08-30.md`
+- OSL har ett strukturellt sidolager i denna 04K och ska vid behov brytas ut till separat source-lockfil om OSL blir en bärande fråga i huvudärendet.
 
 ## Praxis / analys
 
@@ -276,10 +329,11 @@ Sekretess hindrar inte att uppgift lämnas till en myndighet om uppgiften behöv
 - `04F`: HFD 2019 ref. 66 source-lock/motpol.
 - `04G`: MIG 2016:8 + RÅ 2002 ref. 22.
 - `04I`: motstridiga myndighetsuppgifter – påståendekontroll.
+- `04L`: MÖD 2016:22 / M 8829-16 – direkt miljötillsyn och tekniskt provtagningsprogram; stödjande Spår 4-dom, inte rent 23 § FL-prejudikat.
 
 ---
 
-# 5. GO-STATUS
+# 6. GO-STATUS
 
 ## GRÖNT
 
@@ -288,6 +342,8 @@ Sekretess hindrar inte att uppgift lämnas till en myndighet om uppgiften behöv
 - OSL:s registrerings-, partsinsyns- och utlämnandestruktur på lagnivå.
 - HFD 2019 ref. 66 som direkt 23 §-motpol.
 - flera positiva utrednings-/processfall.
+- MÖD 2016:22 som direkt miljötillsyns- och teknisk undersökningskontext.
+- historisk status för 1980:900 samt nuvarande grundstruktur i 2003:234.
 
 ## GULT
 
@@ -295,6 +351,7 @@ Sekretess hindrar inte att uppgift lämnas till en myndighet om uppgiften behöv
 - Lagen.nu:s kommentarer/praxislistor.
 - analogier från migrations-, upphandlings- och anläggningsmål till miljötillsyn.
 - RÅ 2002 ref. 22 tills full officiell originaltext source-lockas.
+- exakt original-SFS 2006:159 tills separat originalkontroll är gjord.
 
 ## RÖTT / kvarstående kärnluckor
 
