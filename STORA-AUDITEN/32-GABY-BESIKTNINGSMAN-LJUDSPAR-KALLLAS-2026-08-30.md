@@ -1,206 +1,94 @@
 # 32 – Gaby som besiktningsman / besiktningsvärd – ljudspår och källåsning
 
 **Datum för audit:** 2026-08-30  
-**Status:** PÅGÅENDE KÄLLÅSNING – originala ljudfiler finns, exakt uttalande ännu inte tidsstämplat/verifierat  
-**Syfte:** Fastställa om Gaby Khalaf själv säger i inspelning att han utförde den ursprungliga besiktningen och/eller upprättade besiktningsprotokollet för objekt 60020562, Kilsgatan 3.
+**Status:** DEPRIORITERAT SOM EGET HUVUDSPÅR  
+**Styrande korrigering:** Det är inte längre en prioriterad uppgift att fastställa om Gaby Khalaf var formell besiktningsman/besiktningsvärd den 9 juli 2025. Frågan behålls endast som möjlig stöduppgift om den redan framgår tydligt av källmaterialet utan större kontrollinsats.
 
-## 1. Användaruppgift som ska verifieras
+## 1. Varför spåret deprioriteras
 
-Erica uppger att **Gaby själv har sagt att han var den som besiktigade lägenheten och utförde protokollet**.
+Det juridiska huvudvärdet ligger inte i titeln eller den formella rollen **besiktningsman** i sig.
 
-Denna uppgift behandlas tills vidare som **USER_NOTE / ej ännu ordagrant source-lockad**.
+Det relevanta är i stället om Gaby i originalljud själv uppger att han före Ericas tillträde:
 
-Den får **inte** externt formuleras som fastställt faktum förrän exakt ljudfil, tidsstämpel och ordalydelse har identifierats.
+- hade varit i lägenheten,
+- hade sett köksbänken/folien eller vinylskiktet,
+- och hade instruerat den tidigare hyresgästen att avlägsna materialet.
 
-## 2. Originala ljudfiler som finns i projektet och är särskilt relevanta
+Om detta source-lockas visar det främst **Gabys egen kännedom om ett konkret förhållande i lägenheten före tillträdet och hans direkta delaktighet i en åtgärdsinstruktion till den avflyttande hyresgästen**.
 
-Följande originalfiler har identifierats i projektets filbibliotek och fem av dem har även materialiserats som råa M4A-original för kontroll:
+Det kräver inte att vi först bevisar att han var formell besiktningsvärd.
 
-1. `9 okt - gaby samtal .m4a`
-2. `10 okt 2025 gaby i lägenheten .m4a`
-3. `20 okt 2025 gaby telefonsamtal om ocab .m4a`
-4. `4. Erica & Gaby fullständigt HLU 20 oktober 2025 (1).m4a`
-5. `11 nov 2025 1mötet med FB torsbygatan tomas är med .m4a`
+## 2. Bevisvärde om uttalandet om köksbänken verifieras
 
-Det finns dessutom en fil med samma storlek som 11-novemberinspelningen under namnet:
+Om Gaby ordagrant säger att det var han som sade till tidigare hyresgäst att avlägsna folien/vinylskiktet på köksbänken får uppgiften följande funktion:
 
-- `11. Nov 1:a möte med Jennifer.m4a`
+- **J1 KÄNNEDOM:** Gaby hade direkt kännedom om ett konkret förhållande i köket före Ericas tillträde.
+- **J2 FAKTISKT SKICK/HINDER:** visar att köksbänkens ytskikt redan före tillträdet var föremål för en konkret åtgärdsinstruktion.
+- **J5 MOTSÄGELSE/TILLFÖRLITLIGHET:** kan jämföras med senare uppgifter om vad Familjebostäder kände till före tillträdet och vilka brister som ansågs behöva åtgärdas.
+- **J6 DOKUMENTATIONSLUCKA:** om åtgärden/instruktionen inte går att följa i arbetsorder eller annan dokumentation kan det bli en spårbarhetsfråga.
 
-Det innebär att **originalspåret inte saknas**. Status är:
+### Vad detta INTE bevisar
 
-> **ORIGINAL FINNS I PROJEKTET – EXAKT UTTALANDE ÄR ÄNNU INTE TRANSKRIBERAT/TIDSSTÄMPLAT I DENNA AUDIT.**
+Uttalandet bevisar inte i sig:
 
-## 3. Vad tidigare transkriptions-/sammanställningsmaterial redan stödjer
+- att Gaby var den formella besiktningsvärden,
+- att han upprättade hela besiktningsprotokollet,
+- att han gjorde besiktningen den 9 juli 2025,
+- att protokollet ändrades,
+- att köksbänken hade en viss teknisk skada,
+- att folien/vinylskiktet hade koppling till branden,
+- att någon särskild sanering genomfördes eller inte genomfördes.
 
-Projektets tidigare sammanställningar anger att Gaby deltog vid det större platsmötet den 11 november 2025 tillsammans med Jennifer, Micke, Erica och Thomas.
+## 3. De två besiktnings-PDF:erna
 
-Tidigare transkriptionssammanställning används dock här endast som **E-bevis / sökindex**, inte som ersättning för originalljudet när ett exakt självuttalande ska användas externt.
+De två nu granskade PDF-filerna är två genererade versioner av ett protokoll med samma registrerade besiktningsdag **9 juli 2025**.
 
-Den hittills återfunna transkriptionssammanställningen visar **inte ännu i den träff som lokaliserats** ett ordagrant uttalande av typen:
+- `60020562 Besiktningsprotokoll.pdf` – synligt genererings-/utskriftsdatum 12 augusti 2025.
+- `Besiktningsprotokoll.pdf` – synligt genererings-/utskriftsdatum 30 oktober 2025.
 
-- ”jag gjorde besiktningen”,
-- ”jag besiktigade lägenheten”,
-- ”det var jag som skrev/gjorde protokollet”, eller
-- motsvarande formulering.
+Båda innehåller samma huvudsakliga rums- och anmärkningsuppgifter och båda har en rad märkt **Besiktningsvärd** utan synligt namn/signatur i den granskade PDF-versionen.
 
-Det betyder inte att uttalandet saknas i ljudet; bara att det ännu inte har källåsts.
+De ska därför inte beskrivas som två olika besiktningar enbart på grund av PDF-datumen.
 
-## 4. Besiktningsprotokollet – korrigerad datumtolkning
+## 4. Tidigare formulering om ”två besiktningar utförda av samma person”
 
-Det aktuella protokollet för objekt 60020562 avslutas med rubriken **”Besiktningsvärd”**, men den maskinellt extraherade texten visar inte något namn efter rubriken.
-
-Det går därför inte att använda protokollet ensamt för att säga att Gaby var besiktningsvärden.
-
-### KORRIGERING AV TIDIGARE FORMULERING
-
-Den tidigare formuleringen att protokollet skulle visa ett ”märkligt datumspår” eller i sig bevisa en senare protokollversion var för långtgående.
-
-Det som faktiskt kan läsas i protokollet är flera separata datumfält:
-
-- synligt datum högst upp: **2025-10-30**,
-- **Besiktningsdag: 20250709**, dvs. 9 juli 2025,
-- **Inflyttningsdatum: 20220716**,
-- **Avflyttningsdatum: 20250930**.
-
-Den mest försiktiga tolkningen är:
-
-- 9 juli 2025 är den registrerade besiktningsdagen,
-- 16 juli 2022 ser ut att avse den dåvarande/avflyttande hyresgästens inflyttningsdatum i objektets historik,
-- 30 september 2025 är avflyttningsdatum,
-- 30 oktober 2025 kan vara utskrifts-/genererings-/senare systemdatum, men **det är inte i sig bevis på att innehållet ändrades den dagen**.
-
-Att den **inflyttande hyresgästen Erica är markerad som inte närvarande vid besiktningen** är i sig inte motsägelsefullt om besiktningen gjordes 9 juli 2025 innan hennes tillträde. Det säger däremot ingenting om huruvida den avflyttande hyresgästen var närvarande.
-
-### Kvarstående kontrollfrågor
-
-1. Vem utförde den registrerade besiktningen den 9 juli 2025?
-2. Vem var formell besiktningsvärd i Familjebostäders system?
-3. Vilken person skrev in anmärkningarna i protokollet?
-4. Vad betyder datumet 2025-10-30 exakt i systemet – utskrift, generering, revision eller annat?
-5. Är filen som skickades 12 augusti innehållsmässigt identisk med den senare PDF som nu finns i akten?
-
-## 5. Patrick Segerstens utskick den 12 augusti 2025
-
-Patrick Segersten skickade redan den 12 augusti 2025 ett mejl till Erica med bilagan:
-
-`60020562 Besiktningsprotokoll.pdf`
-
-och skrev att Familjebostäder bifogade besiktningsprotokollet för att Erica skulle kunna ta del av anmärkningarna.
-
-Det är därmed fastställt att en version av protokollet existerade och distribuerades **senast 12 augusti 2025**.
-
-Detta gör följande kontrollfråga central om Gaby i ljudet säger att han själv utförde besiktningen:
-
-> **Avser Gaby den registrerade besiktningen den 9 juli 2025 som låg bakom protokollet som skickades 12 augusti, eller avser han en senare kontroll/återbesiktning?**
-
-## 6. Formuleringen ”Två besiktningar utförda av samma person” – vad den faktiskt bevisar
-
-I Ericas senare överklagandematerial står:
+I Ericas senare överklagandematerial finns formuleringen:
 
 > ”Två besiktningar utförda av samma person visar motstridiga bedömningar.”
 
-Detta **bekräftar att Erica redan vid överklagandet utgick från att samma person hade gjort båda besiktningarna**.
+Den är **derivat processmaterial** och ska inte användas som fristående identitetsbevis för Gaby.
 
-Det bekräftar däremot **inte självständigt att personen var Gaby**, eftersom texten är Ericas egen processuppgift och inte en neutral primärkälla som namnger personen.
+Eftersom frågan om hans formella besiktningsroll nu är lågprioriterad ska ingen ytterligare tidskrävande ljudjakt göras enbart för att bevisa just titeln/besiktningsrollen.
 
-Bevisvärdet är därför:
+## 5. Ny prioriteringsregel
 
-- **C/E:** samtida/senare processuppgift om hur Erica identifierade händelseförloppet,
-- **inte A-bevis för identiteten Gaby**.
+**STOPPREGEL:** Lägg inte mer arbete på att identifiera Gaby som besiktningsman om inte uppgiften framträder naturligt i samband med annan redan prioriterad ljudgranskning.
 
-Om originalljudet visar att Gaby själv säger att det var han som gjorde den första besiktningen, då kan överklagandetexten användas som **korroborerande kontinuitetsstöd**: Erica har inte hittat på identiteten i efterhand utan har redan tidigare byggt sin argumentation på samma sak.
+Om ett tydligt originaluttalande om köksbänken hittas ska endast följande source-lockas:
 
-Det korrekta bevisupplägget blir då:
+1. exakt ljudfil,
+2. tidsstämpel,
+3. exakt ordalydelse,
+4. vad Gaby säger att han själv såg/gjorde,
+5. vilken åtgärd han säger att han instruerade tidigare hyresgäst att göra,
+6. vad uttalandet inte bevisar.
 
-> **Originalljud Gaby = primärt identitetsbevis.**  
-> **Överklagandetexten = stöd för att uppgiften redan tidigare fanns i Ericas redogörelse.**
+Ingen separat jakt efter titeln **besiktningsman/besiktningsvärd** behövs.
 
-## 7. Källåsningsprotokoll för ljudet
+## 6. Relation till viktigare spår
 
-För att uppgiften ska flyttas från USER_NOTE till source-lockad bevispost ska följande fyllas i:
+Detta spår är underordnat följande:
 
-| Kontrollpunkt | Status |
-|---|---|
-| Exakt ljudfil | EJ FASTSTÄLLD |
-| Inspelningsdatum | Kandidater 9/10/20 okt och 11 nov 2025 |
-| Talare identifierad som Gaby i sammanhanget | ATT VERIFIERA I ORIGINAL |
-| Starttid | EJ FASTSTÄLLD |
-| Sluttid | EJ FASTSTÄLLD |
-| Exakt ordalydelse | EJ FASTSTÄLLD |
-| Avser besiktning eller senare återbesök? | EJ FASTSTÄLLT |
-| Avser upprättande av protokoll eller fysisk besiktning? | EJ FASTSTÄLLT |
-| Koppling till registrerad besiktningsdag 9 juli 2025 | EJ FASTSTÄLLD |
-| Koppling till protokoll skickat 12 aug | EJ FASTSTÄLLD |
+1. MF:s akt 1–107 och kedjan **öppna frågor → FB-svar → MF-värdering → beslut 13 april**.
+2. Om och hur FB:s utlovade felsökning faktiskt genomfördes och dokumenterades.
+3. Brand-/saneringsdokumentationens spårbarhet.
+4. Ventilation/kanalrensning och vad som faktiskt undersöktes.
+5. Source-lock av originalaudio/video som redan har direkt processuell betydelse.
 
-## 8. Prioriterad sökordning i originalljud
+## 7. Status
 
-1. **9 oktober – Gaby-samtal**
-2. **10 oktober – Gaby i lägenheten**
-3. **20 oktober – Gaby / OCAB**
-4. **20 oktober – Gaby / fullständigt HLU**
-5. **11 november – första större FB-mötet**
-
-Sökord/meningsinnehåll:
-
-- besiktning
-- besiktningsman
-- besiktningsvärd
-- protokoll
-- jag var här
-- jag gjorde
-- jag skrev
-- jag besiktigade
-- när jag var här med tidigare hyresgäst
-- avflyttande hyresgäst
-- folie/bänkskiva
-- sovrum 1 / sovrum 2
-- HLU
-
-## 9. Juridisk/bevismässig funktion om uttalandet verifieras
-
-Om Gaby ordagrant bekräftar att han utförde den besiktning som låg till grund för protokollet får posten flera funktioner:
-
-- **J1 KÄNNEDOM:** direkt koppling mellan Gaby och lägenhetens skick före tillträdet.
-- **J5 MOTSÄGELSE/TILLFÖRLITLIGHET:** möjlig jämförelse mellan vad han noterade före upplåtelsen och vad han senare såg/medgav efter tillträdet.
-- **J6 DOKUMENTATIONSLUCKA:** varför hans namn/roll inte framgår tydligt i den extraherade protokollversionen.
-- **J8 UTREDNINGSVAL/AVGRÄNSNING:** vilka delar av lägenheten faktiskt kontrollerades före uthyrning och vilka lämnades utanför.
-
-Det kan också bli centralt för besiktningskedjan:
-
-> **Om samma person både gjorde första besiktningen och senare deltog när fler/andra brister konstaterades, måste det klarläggas varför dessa brister inte fanns i det ursprungliga beslutsunderlaget och om någon senare besiktning eller komplettering registrerades.**
-
-## 10. Vad detta ännu INTE bevisar
-
-Före exakt ljudverifiering ska följande inte påstås som fastställt:
-
-- att Gaby upprättade originalprotokollet,
-- att Gaby var den formella ”besiktningsvärden” i systemet,
-- att Gaby gjorde besiktningen den 9 juli 2025,
-- att Gaby ändrade protokollet senare,
-- att protokollet manipulerades,
-- att 12 augusti- och 30 oktober-filerna innehåller olika sakuppgifter.
-
-## 11. Nya Miljöförvaltningshandlingar 80–87
-
-Dokument 80–87 från Miljöförvaltningens akt har nu tillförts som separat källmaterial.
-
-De stödjer **inte i sig identiteten på den som gjorde Familjebostäders besiktning**. De ska därför inte användas som bevis för att Gaby var besiktningsman.
-
-De är däremot viktiga för tillsynsspåret. Bland annat framgår att:
-
-- Erica återkommande begärde att frågor om brandsanering och kanalrensning skulle ställas till Familjebostäder,
-- Heval kommunicerade Ericas yttrande till Jennifer den 11 mars,
-- Miriam Adolfsson skrev den 11 mars att Heval hade skickat frågorna om sanering, kanalrensning och när detta skett till fastighetsägaren och att hon skulle följa upp att Erica fick svar,
-- Miriam skrev också att nästa steg i tillsynen skulle bedömas efter inspektionen,
-- Erica dokumenterade samma dag att ventilation hade mätts men att inga analyser av luftens innehåll eller materialprov hade gjorts,
-- dokument 87 är fotografi av den bruna förekomsten/materialet i konstruktionen.
-
-Dessa handlingar ska behandlas i MF-spåret och fyr-PDF/lagutnyttjandeauditen, separat från frågan om Gabys identitet som besiktningsman.
-
-## 12. Status i STORA AUDITEN
-
-**Bevispost:** GABY-BESIKTNING-01  
-**Nuvarande bevisklass:** ORIGINAL LJUD FINNS, men sakuppgiften är tills vidare **C/USER_NOTE + E-sökstöd** tills exakt passage är verifierad.  
-**Originalkontroll:** Råa M4A-filer identifierade och fem prioriterade Gaby-filer säkrade för kontroll.  
-**Extern användbarhet:** NEJ som kategoriskt påstående att Gaby gjorde 9-juli-besiktningen – inte före tidsstämpel och ordagrann källåsning.  
-**Nästa steg:** exakt ljudgenomgång → tidsstämpel → ordalydelse → fastställ vilken besiktning uttalandet avser → uppgradering av bevisklass.
+**Bevispost:** GABY-KÄNNEDOM-KÖKSBÄNK-01  
+**Nuvarande status:** USER_NOTE – Erica uppger att Gaby i originalljud säger att han sade till tidigare hyresgäst att avlägsna folien/vinylskiktet på köksbänken.  
+**Original:** relevant Gaby-ljud finns i projektet.  
+**Extern användbarhet:** efter exakt tidsstämpel och ordalydelse om uttalandet ska användas externt.  
+**Prioritet:** MEDEL/LÅG. Ingen separat sökinsats för att fastställa formell besiktningsroll.
