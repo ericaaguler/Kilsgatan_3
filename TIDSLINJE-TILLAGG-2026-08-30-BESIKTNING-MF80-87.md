@@ -1,8 +1,8 @@
-# TIDSLINJE-TILLÄGG – BESIKTNINGSPROTOKOLL + MF 80–87
+# TIDSLINJE-TILLÄGG – BESIKTNINGSPROTOKOLL + MF 80–87 + GABY/EL/METALLGALLER
 
 **Datum för tillägg:** 2026-08-30  
 **Status:** KÄLLSÄKRAT CATCH-UP-LAGER TILL `TIDSLINJE.md`  
-**Regel:** Endast poster som nu har verifierats mot primärhandling/originalfil tas in här. Där exakt originalkoppling ännu saknas anges det uttryckligen.
+**Regel:** Endast poster som nu har verifierats mot primärhandling/originalfil tas in här. Där exakt originalkoppling eller semantiskt ljudinnehåll ännu saknas anges det uttryckligen.
 
 | Datum | Tid | Aktör | Händelse | Bevisstatus | Juridisk funktion | Källa/status |
 |---|---:|---|---|---|---|---|
@@ -10,13 +10,19 @@
 | 2025-07-09 | – | AB Familjebostäder / besiktningsprotokoll | I köket anges **Linoleumgolv – inga synliga skador – Ej åtgärd**. | GRÖN | J1, J5, J8 | Identiskt i båda PDF-versionerna. |
 | 2025-07-09 | – | AB Familjebostäder / besiktningsprotokoll | I köket anges **arbetsbänk har folie över**. Avflyttande hyresgäst ska avlägsna folien fackmannamässigt och ta bort limrester i samband med flyttstädning; annars kan debitering följa. Status Åtg HG. | GRÖN | J1, J6 | Identiskt i båda PDF-versionerna. |
 | 2025-07-09 | – | AB Familjebostäder / besiktningsprotokoll | Kyl/frys anges ha inga synliga skador. Badrummets tvättställ anges ha spricka som HV ska åtgärda; badrumsskåp anges ha lite rost och HV ska kontrollera för byte. | GRÖN | J1, J6 | Identiskt i båda PDF-versionerna. |
-| 2025-07-09 | – | AB Familjebostäder / besiktningsprotokoll | Protokollet anger uttryckligen att **mindre fel som inte är av akut karaktär inte har noterats**. | GRÖN | J8 scope | Viktigt scope-lås: protokollet är inte uttömmande. |
+| 2025-07-09 | – | AB Familjebostäder / besiktningsprotokoll | Protokollet anger uttryckligen att **mindre fel som inte är av akut karaktär inte har noterats**. | GRÖN | J8 scope | Viktigt scope-lås: protokollet är inte uttömmande. Frånvaro av en el-/galleranmärkning bevisar därför inte ensam att avvikelsen saknades eller att protokollet var felaktigt. |
 | 2025-08-12 | – | AB Familjebostäder | Ett PDF-uttag av besiktningsprotokollet genereras med synligt datum 2025-08-12. Inflyttande hyresgästs namn är blankt i denna version. | GRÖN | J6 dokumentversion | Original-PDF, SHA-256 `788582e5aa55973cddc0a4fe722c2a3f8f63578b038f0ee08941f67ac668cf37`. |
 | 2025-08-12 | 10:09 | Patrick Segersten / Familjebostäder | Patrick mejlar Erica att hon är godkänd som hyresgäst och bifogar `60020562 Besiktningsprotokoll.pdf` för att hon ska kunna ta del av anmärkningarna. | GRÖN | J1, J6 | Original Outlook-utskrift / mejl. |
+| 2025-10-06 | 11:23 | Erica Güler → Familjebostäders HLU-funktion | Erica skickar sex bilder och frågar uttryckligen om det hon ser vid elen är lagligt samt ber att även **metallgallret** ska ses över. | GRÖN för att frågorna och bilderna skickades; teknisk/laglighetsbedömning ej fastställd | J1 KÄNNEDOM, J2 SKICK | Native Outlook-spår. Viktigt som tidig kännedom; inte sakkunnig el- eller fuktbedömning. |
 | 2025-10-08 | 08:32 | Erica Güler → Familjebostäder | Erica skickar fotodokumentation av köket och begär att materialet registreras och att bristerna utreds. | GRÖN | J1, J7-liknande kännedom hos FB | Redan bevisregistrerad korrespondens; fördjupad audit finns i audit 28. |
+| 2025-10-09 | 15:47 lokal tid | Original ljudfil / kandidat Gaby-samtal | Originalfilen `9 okt - gaby samtal (1).m4a` har inbyggd creation_time 2025-10-09 13:47 UTC och längd ca 25:06. | GRÖN för filmetadata; GUL för exakt semantiskt innehåll | Source-lock / möjlig J1/J5 beroende på innehåll | Original Voice Memo finns. Exakta uttalanden får inte citeras externt förrän tidskod och ordalydelse kontrollerats. |
+| 2025-10-29 | 11:17 | Leonard Thörnfeldt / Familjebostäder | Leonard uppger att HLU innebär kostnadsfritt underhåll vart 15:e år och att Sovrum 1:s väggar, tak och snickerier senast underhölls 7 juni 2022; Gaby hade valt att tidigarelägga HLU efter skada av tidigare hyresgäst. | GRÖN | J1, J6 | Native Outlook-kedja enligt tidigare audit. |
 | 2025-10-30 | – | AB Familjebostäder / systemuttag | Ny PDF av samma registrerade besiktning genereras. Den anger fortfarande besiktningsdag 2025-07-09 men har nu Erica Aylin Güler som inflyttande hyresgäst. Rums-/anmärkningstexten är enligt maskinell textdiff oförändrad från 12-augusti-versionen. | GRÖN | J6 dokumentversion | Original-PDF, SHA-256 `84b3eac9c3e2999dda1726a819640571ba67b57a30c63fe10d120208277c88d6`. |
 | 2025-10-30 | – | AB Familjebostäder / besiktningsprotokoll | Raden **Besiktningsvärd** är blank även i den senare PDF-versionen. | GRÖN | J6 | Protokollet identifierar inte Gaby eller annan person som besiktningsvärd. |
-| 2025-10-29 | 11:17 | Leonard Thörnfeldt / Familjebostäder | Leonard uppger att HLU innebär kostnadsfritt underhåll vart 15:e år och att Sovrum 1:s väggar, tak och snickerier senast underhölls 7 juni 2022; Gaby hade valt att tidigarelägga HLU efter skada av tidigare hyresgäst. | GRÖN | J1, J6 | Native Outlook-kedja enligt tidigare audit. |
+| 2025-11-10 | 09:47 | Erica Güler → Gaby Khalaf | Erica skriver direkt till Gaby att hon fortfarande saknar svar och listar bl.a. **felaktiga elinstallationer**, **galler i köksskåp** och att besiktningsprotokollet enligt henne inte matchar nuvarande skick. | GRÖN för att uppgifterna framfördes; tekniska slutsatser är partsuppgifter | J1 KÄNNEDOM, J2 SKICK | Original-/Outlookspår. Visar kontinuitet i reklamationen, inte att el/galler tekniskt var olagliga/hälsovådliga. |
+| 2025-11-18 | 12:03 lokal tid | Original ljudfil / Gaby-samtal | Originalfilen heter `18 nov 2018 samtal med gaby (2).m4a`, men inbyggd creation_time är **2025-11-18 11:03:04 UTC** och längden ca 4:55. | GRÖN för metadata; GUL för exakt semantiskt innehåll | Source-lock / J1/J5 beroende på innehåll | Filnamnets årtal 2018 ska inte styra; metadata placerar filen 18 nov 2025 om ingen starkare primärkälla motsäger. |
+| 2025-11-18 | 15:03:48 | Gaby Khalaf → Erica Güler, cc Jennifer Ehlin | Gaby skriver: **”Hej, tack för ett trevligt samtal. Jag skriver en sammanfattning här som vi pratade om i senaste samtalet.”** Under köket anger han bl.a. att golv och målning hanteras, att **”EL kan det göras i efterhand när arbetet är klart”**, samt att arbetsbänk ska hanteras enligt standard. | GRÖN | J1 KÄNNEDOM, J2 ÅTGÄRD, J5 KORROBORERING | Samma-dag-mejl korroborerar ljudfilens datum och att el/arbetsbänk var konkreta samtals-/åtgärdsspår. |
+| 2025-11-24–28 | – | Gaby / Familjebostäder ↔ Erica | I bevarad mejlkedja återges Gabys svar att **all el ska bort så att installationen blir korrekt från början** och att utanpåliggande elkablar i köket bör demonteras och kopplas rätt från början. | GUL→GRÖN när exakt native original/datum isoleras | J1, J2, möjlig elsäkerhetsfunktion | Viktigare än protokollets tystnad. Bevisar konkret planerad omkoppling/demontering, men inte automatiskt att tidigare installation var olaglig eller omedelbart farlig. Elektrikerns arbetsorder är nästa bästa bevis. |
 | 2026-03-06 | 09:08 | Erica Güler → Heval Remazan | Erica upprepar att hon saknar svar om eventuell sanering efter brand/rök, om/när kanalrensning genomförts och om tidigare kanalrensning/tillträde. Hon begär att frågorna ställs till FB och att svaren redovisas i handläggningen. | GRÖN | J7, J8 | Handling 80/82-mejlkedja. |
 | 2026-03-11 | 08:26 | Heval Remazan → Erica | Heval meddelar att det planerade tillsynsbesöket måste ställas in p.g.a. sjukdom och ber om nya tider. | GRÖN | Process | Handling 80. |
 | 2026-03-11 | 08:31 | Heval Remazan → Jennifer Ehlin | Heval skickar Ericas inkomna yttrande till Jennifer och ger FB möjlighet att bemöta uppgifterna senast 18 mars. Den bifogade mejlkedjan innehåller frågorna om sanering och kanalrensning. | GRÖN | J7, J8 | **Handling 81 – korrigerar tidigare bild att frågeöverföringen inte identifierats.** |
@@ -38,11 +44,14 @@
 ## Styrande korrigeringar
 
 1. **12 augusti och 30 oktober är inte två verifierade fysiska besiktningar.** De är två PDF-uttag med samma registrerade besiktningsdag 9 juli 2025.
-2. **Handling 81 visar att de tre kärnfrågorna om sanering/kanalrensning faktiskt skickades till FB via Ericas bifogade yttrande den 11 mars 08:31.**
-3. Kvarstående fråga är inte längre enbart ”skickades frågorna?” utan framför allt:
-   **vad svarade FB konkret, hur värderades svaret och vilket underlag gjorde frågorna färdigbedömda före beslutet?**
-4. VOC-frågan är separat: Miriams 12-marsbesked är verifierat, men den faktiska utgående kommuniceringen av just VOC-frågan behöver fortfarande source-lockas.
+2. Protokollets text **”Mindre fel som inte är av akut karaktär har inte noterats”** är en scope-begränsning. Den gör att frånvaron av el/galler inte ensam kan användas som motsägelse. Det juridiskt relevanta är faktisk karaktär, kännedom, kontroll och åtgärd.
+3. Elspåret är nu starkare genom **tidig skriftlig kännedom 6 okt → direkt reklamation till Gaby 10 nov → original ljudmetadata 18 nov → Gabys samma-dag-mejl → senare konkret planerad demontering/omkoppling**. Det bevisar fortfarande inte utan sakkunnig att installationen var olaglig/farlig.
+4. Metallgallret är GRÖNT för visuell rost/missfärgning och tidig kännedom, men påståenden om mögel, aktiv fuktskada, bakterierisk eller hälsorisk kräver sakkunnig kontroll.
+5. **Handling 81 visar att de tre kärnfrågorna om sanering/kanalrensning faktiskt skickades till FB via Ericas bifogade yttrande den 11 mars 08:31.**
+6. Kvarstående MF-fråga är framför allt: **vad svarade FB konkret, hur värderades svaret och vilket underlag gjorde frågorna färdigbedömda före beslutet?**
+7. VOC-frågan är separat: Miriams 12-marsbesked är verifierat, men den faktiska utgående kommuniceringen av just VOC-frågan behöver fortfarande source-lockas.
 
-## Kopplad audit
+## Kopplade auditer
 
-Se `STORA-AUDITEN/35-BESIKTNINGSPROTOKOLL-DIFF-MF80-87-TIDSLINJE-CATCHUP-AUDIT-2026-08-30.md`.
+- `STORA-AUDITEN/35-BESIKTNINGSPROTOKOLL-DIFF-MF80-87-TIDSLINJE-CATCHUP-AUDIT-2026-08-30.md`
+- `STORA-AUDITEN/36-LJUD-GABY-JURIDIKEN-FORST-EL-METALLGALLER-PROTOKOLLSCOPE-2026-08-30.md`
