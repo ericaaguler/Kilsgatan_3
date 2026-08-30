@@ -10,7 +10,24 @@ All juridisk research, praxisanalys, bevisaudit och extern text inom projektet s
 
 `STORA-AUDITEN/00-JURIDISK-AI-MASTERPROMPT-KALLKONTROLL.md`
 
-Masterprompten kräver bland annat:
+För arbete som specifikt gäller **överklagande till Mark- och miljööverdomstolen, prövningstillstånd och återförvisning i mål M 5167-26** ska dessutom följande specialprotokoll tillämpas:
+
+`STORA-AUDITEN/00-MOD-OVERKLAGANDE-MASTERPROMPT-PT-KALLKONTROLL.md`
+
+Det specialiserade MÖD-protokollet kräver bland annat:
+
+- PT-test mot **39 § 1 och 2 lagen om domstolsärenden** för varje huvudargument,
+- särskild kontroll av **5 kap. 1 § lagen om mark- och miljödomstolar samt 12 § och 39 § ärendelagen**,
+- att varje större sakfråga bryts ned i kedjan **problem → fråga → undersökning → scope → metod → vad metoden kunde/inte kunde visa → kvarstående fråga → vilket underlag bar avslutet**,
+- strikt skillnad mellan **åtgärd** och **orsaksutredning**,
+- särskild kontroll av MF:s tillsynsscope, brand/sanering, vittnesuppgifter, teknisk informationsasymmetri och FL 27 → 10 → 25 → 32,
+- motargumentstest från Familjebostäder, Miljöförvaltningen, Länsstyrelsen och MÖD,
+- stryk-test: **BEHÅLLAS / KORTAS / FLYTTAS TILL BILAGA / STRYKAS**,
+- rangordning till maximalt **3–5 bärande argument**,
+- återförvisning som separat processuell fråga i stället för att göra MÖD till teknisk förstahandsutredare,
+- slutkedjan **KÄLLA → REGEL → REKVISIT → FAKTUM → TILLÄMPNING → SLUTSATS**.
+
+Den generella masterprompten kräver bland annat:
 
 - strikt separation mellan **FAKTISK UPPGIFT**, **RÄTTSKÄLLA** och **JURIDISK BEDÖMNING**,
 - uttrycklig märkning **INTE VERIFIERAT** när underlag saknas,
@@ -21,7 +38,7 @@ Masterprompten kräver bland annat:
 - kontroll av varje doms rättsfråga, avgörande fakta, begränsningar och originalstatus,
 - slutkontrollen: **Säkert belagt → Juridiskt starkast → Osäkert → Får inte användas ännu → Nästa viktigaste komplettering**.
 
-Vid konflikt mellan detta huvudlager och masterprompten ska den regel som ger **striktast käll-, bevis- eller source-lock-kontroll** tillämpas.
+Vid konflikt mellan detta huvudlager, den generella masterprompten och MÖD-specialprotokollet ska den regel som ger **striktast käll-, bevis-, source-lock- eller processkontroll** tillämpas.
 
 ---
 
