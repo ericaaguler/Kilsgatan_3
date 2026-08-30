@@ -1,0 +1,48 @@
+# TIDSLINJE-TILLÄGG – BESIKTNINGSPROTOKOLL + MF 80–87
+
+**Datum för tillägg:** 2026-08-30  
+**Status:** KÄLLSÄKRAT CATCH-UP-LAGER TILL `TIDSLINJE.md`  
+**Regel:** Endast poster som nu har verifierats mot primärhandling/originalfil tas in här. Där exakt originalkoppling ännu saknas anges det uttryckligen.
+
+| Datum | Tid | Aktör | Händelse | Bevisstatus | Juridisk funktion | Källa/status |
+|---|---:|---|---|---|---|---|
+| 2025-07-09 | – | AB Familjebostäder / besiktningsprocess | Båda original-PDF:erna anger denna dag som **Besiktningsdag** för objekt 60020562. Lägenheten anges som tom och inflyttande hyresgäst inte närvarande. | GRÖN | J1, J6, J8 | Två original-PDF:er med samma registrerade besiktningsdag. |
+| 2025-07-09 | – | AB Familjebostäder / besiktningsprotokoll | I köket anges **Linoleumgolv – inga synliga skador – Ej åtgärd**. | GRÖN | J1, J5, J8 | Identiskt i båda PDF-versionerna. |
+| 2025-07-09 | – | AB Familjebostäder / besiktningsprotokoll | I köket anges **arbetsbänk har folie över**. Avflyttande hyresgäst ska avlägsna folien fackmannamässigt och ta bort limrester i samband med flyttstädning; annars kan debitering följa. Status Åtg HG. | GRÖN | J1, J6 | Identiskt i båda PDF-versionerna. |
+| 2025-07-09 | – | AB Familjebostäder / besiktningsprotokoll | Kyl/frys anges ha inga synliga skador. Badrummets tvättställ anges ha spricka som HV ska åtgärda; badrumsskåp anges ha lite rost och HV ska kontrollera för byte. | GRÖN | J1, J6 | Identiskt i båda PDF-versionerna. |
+| 2025-07-09 | – | AB Familjebostäder / besiktningsprotokoll | Protokollet anger uttryckligen att **mindre fel som inte är av akut karaktär inte har noterats**. | GRÖN | J8 scope | Viktigt scope-lås: protokollet är inte uttömmande. |
+| 2025-08-12 | – | AB Familjebostäder | Ett PDF-uttag av besiktningsprotokollet genereras med synligt datum 2025-08-12. Inflyttande hyresgästs namn är blankt i denna version. | GRÖN | J6 dokumentversion | Original-PDF, SHA-256 `788582e5aa55973cddc0a4fe722c2a3f8f63578b038f0ee08941f67ac668cf37`. |
+| 2025-08-12 | 10:09 | Patrick Segersten / Familjebostäder | Patrick mejlar Erica att hon är godkänd som hyresgäst och bifogar `60020562 Besiktningsprotokoll.pdf` för att hon ska kunna ta del av anmärkningarna. | GRÖN | J1, J6 | Original Outlook-utskrift / mejl. |
+| 2025-10-08 | 08:32 | Erica Güler → Familjebostäder | Erica skickar fotodokumentation av köket och begär att materialet registreras och att bristerna utreds. | GRÖN | J1, J7-liknande kännedom hos FB | Redan bevisregistrerad korrespondens; fördjupad audit finns i audit 28. |
+| 2025-10-30 | – | AB Familjebostäder / systemuttag | Ny PDF av samma registrerade besiktning genereras. Den anger fortfarande besiktningsdag 2025-07-09 men har nu Erica Aylin Güler som inflyttande hyresgäst. Rums-/anmärkningstexten är enligt maskinell textdiff oförändrad från 12-augusti-versionen. | GRÖN | J6 dokumentversion | Original-PDF, SHA-256 `84b3eac9c3e2999dda1726a819640571ba67b57a30c63fe10d120208277c88d6`. |
+| 2025-10-30 | – | AB Familjebostäder / besiktningsprotokoll | Raden **Besiktningsvärd** är blank även i den senare PDF-versionen. | GRÖN | J6 | Protokollet identifierar inte Gaby eller annan person som besiktningsvärd. |
+| 2025-10-29 | 11:17 | Leonard Thörnfeldt / Familjebostäder | Leonard uppger att HLU innebär kostnadsfritt underhåll vart 15:e år och att Sovrum 1:s väggar, tak och snickerier senast underhölls 7 juni 2022; Gaby hade valt att tidigarelägga HLU efter skada av tidigare hyresgäst. | GRÖN | J1, J6 | Native Outlook-kedja enligt tidigare audit. |
+| 2026-03-06 | 09:08 | Erica Güler → Heval Remazan | Erica upprepar att hon saknar svar om eventuell sanering efter brand/rök, om/när kanalrensning genomförts och om tidigare kanalrensning/tillträde. Hon begär att frågorna ställs till FB och att svaren redovisas i handläggningen. | GRÖN | J7, J8 | Handling 80/82-mejlkedja. |
+| 2026-03-11 | 08:26 | Heval Remazan → Erica | Heval meddelar att det planerade tillsynsbesöket måste ställas in p.g.a. sjukdom och ber om nya tider. | GRÖN | Process | Handling 80. |
+| 2026-03-11 | 08:31 | Heval Remazan → Jennifer Ehlin | Heval skickar Ericas inkomna yttrande till Jennifer och ger FB möjlighet att bemöta uppgifterna senast 18 mars. Den bifogade mejlkedjan innehåller frågorna om sanering och kanalrensning. | GRÖN | J7, J8 | **Handling 81 – korrigerar tidigare bild att frågeöverföringen inte identifierats.** |
+| 2026-03-11 | 09:31 | Erica Güler → Miriam Adolfsson | Erica eskalerar handläggningen och begär åter att MF ska inhämta från FB vilka saneringsåtgärder som gjorts och om/när kanalrensning genomförts. | GRÖN | J7, J8 | Handling 83. |
+| 2026-03-11 | 11:00 | Miriam Adolfsson → Erica | Miriam skriver att Heval skickat frågorna om sanering, kanalrensning och när detta skett till fastighetsägaren ”igår eller idag”, att hon följer upp att de verkligen kommer fram och **att Erica får svar**, samt att nästa steg ska bedömas efter inspektionen. | GRÖN | J7, J8, J6 | Handling 84. |
+| 2026-03-11 | – | Miljöförvaltningen | Tillsyn genomförs i lägenheten. Okulär bedömning och ventilationskontroller genomförs. | GRÖN | J8 | Kontrollrapport handling 90 / tidigare audits. |
+| 2026-03-11 | 16:27 | Erica Güler → Miriam Adolfsson | Erica ber att få ta del av korrespondensen där frågorna skickats till FB och dokumenterar att ventilation mättes men att inga analyser av luftens innehåll eller laboratorieprov av material gjordes enligt hennes iakttagelse. | GRÖN för att uppgiften framfördes; teknisk slutsats är partsuppgift | J7, J8, partsinsyn | Handling 85. |
+| 2026-03-11 | 16:33 | Erica Güler → Miriam Adolfsson | Erica kompletterar med bilder av den bruna förekomsten/materialet som visats under inspektionen och skriver att inget prov, såvitt hon kunde se, togs. | GRÖN för kommunikation/foto; ej expertidentifiering | J7, J8 | Handling 86. |
+| 2026-03-11 | – | Fotodokumentation | Foto visar visuellt brun förekomst/materialdel i konstruktionen. | GRÖN för visuellt utseende; RÖD för ämnes-/orsaksidentifiering | J2/J7 | Handling 87. |
+| 2026-03-12 | 07:59 | Miriam Adolfsson | Miriam preciserar att Heval ska skicka om fyra frågor: sanering efter brand, om/när kanalrensning utförts, tidigare kanalrensning och om FB avser VOC-test. | GRÖN | J7, J8 | Tidigare source-lockad handling 89. VOC-frågans faktiska utgående handling kvarstår att spåra. |
+| 2026-03-18 | 09:12 | Heval Remazan → Erica + Jennifer | Heval skickar tillsynsrapporten till båda parter och ger möjlighet att yttra sig senast 1 april. | GRÖN | Kommunicering / J8 | Handling 91/92-kedja. |
+| 2026-03-26 | – | Erica Güler → MF | Erica invänder att okulär kontroll och ventilationsmätning inte besvarar frågor om luftinnehåll, VOC, sot/restprodukter eller material och frågar vilket underlag som bär bedömningen att fördjupad brandrelaterad utredning inte behövs. | GRÖN för partsinlagan | J7, J8, J9 | Handling 92. |
+| 2026-04-09 | 12:22 | Heval Remazan → Erica | Heval skriver att OVK-/ventilationsfrågor ska vidarebefordras till FB och att en samlad bedömning ska göras när ärendet är tillräckligt utrett. | GRÖN | J8/J9 | Handling 93. |
+| 2026-04-09 | 12:28 | Heval Remazan → FB | MF påminner FB om yttrande och sätter svarstid till 16 april. | GRÖN | J8 | Handling 94. |
+| 2026-04-09 | 12:50 | Jennifer Ehlin / FB → MF | Jennifer skriver att FB inte har något mer att tillägga. I detta mejl lämnas inget substantiellt svar på sanering, kanalrensning eller VOC. | GRÖN för just detta mejls innehåll | J5, J6, J8 | Handling 95. |
+| 2026-04-09 | 13:57 | Erica Güler → MF | Erica lämnar omfattande komplettering med nya frågor och bilagor. | GRÖN | J7/J8 | Handling 96 ff. |
+| 2026-04-13 | – | Miljöförvaltningen | MF fattar beslut att avsluta tillsynsärendet. | GRÖN | J9 | Handling 105. |
+
+## Styrande korrigeringar
+
+1. **12 augusti och 30 oktober är inte två verifierade fysiska besiktningar.** De är två PDF-uttag med samma registrerade besiktningsdag 9 juli 2025.
+2. **Handling 81 visar att de tre kärnfrågorna om sanering/kanalrensning faktiskt skickades till FB via Ericas bifogade yttrande den 11 mars 08:31.**
+3. Kvarstående fråga är inte längre enbart ”skickades frågorna?” utan framför allt:
+   **vad svarade FB konkret, hur värderades svaret och vilket underlag gjorde frågorna färdigbedömda före beslutet?**
+4. VOC-frågan är separat: Miriams 12-marsbesked är verifierat, men den faktiska utgående kommuniceringen av just VOC-frågan behöver fortfarande source-lockas.
+
+## Kopplad audit
+
+Se `STORA-AUDITEN/35-BESIKTNINGSPROTOKOLL-DIFF-MF80-87-TIDSLINJE-CATCHUP-AUDIT-2026-08-30.md`.
