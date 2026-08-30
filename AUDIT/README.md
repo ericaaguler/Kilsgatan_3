@@ -4,11 +4,26 @@ Detta är projektets **kontrollpanel**, inte ännu en sammanfattning.
 
 Alla centrala påståenden som ska kunna hamna i huvudtidslinje, juridisk analys, myndighetskontakt eller domstolsinlaga ska kunna spåras till en post i `AUDIT/STORA-AUDITEN-KONTROLLPANEL.md`.
 
+## Styrprincip – juridik först
+
+Auditlagret ska byggas **juridik först, teknik därefter**.
+
+Det betyder:
+
+`RÄTTSFRÅGA → REKVISIT → BEVISTEMA → RELEVANT KÄLLA → TEKNISK/SAKKUNNIG TOLKNING → JURIDISK BEDÖMNING`
+
+AI förbereder, sorterar, verifierar, föreslår och hittar luckor. **Mänsklig/juridisk bedömning avgör vad som godkänns och används externt.**
+
+Projektet ska inte samla mer data för datans skull. **Relevant data prioriteras framför all data.** Den redaktionella processen avgör vad som lyfts till huvudlagret utifrån juridisk funktion, bevisvärde och faktisk betydelse.
+
+Full arbetsprincip: `AUDIT/ARBETSPRINCIP-JURIDIK-FORST.md`.
+
 ## Huvudfiler
 
 1. `AUDIT/STORA-AUDITEN-KONTROLLPANEL.md` – bevispost för bevispost.
 2. `AUDIT/ORIGINALKONTROLL-OCH-STOPPLISTA.md` – material som måste tillbaka till original innan extern användning.
 3. `AUDIT/FYR-PDF-OCH-LAGUTNYTTJANDEAUDIT-2026-08-29.md` – juridisk källkontroll: vad de fyra böckerna faktiskt ger, direkt tillämplig regel, aktuell-rätt-kontroll och saknat bevis.
+4. `AUDIT/ARBETSPRINCIP-JURIDIK-FORST.md` – styr hur material prioriteras: juridiken först, AI förbereder, smartare data framför mer data.
 
 ## Obligatoriska fält per bevispost
 
@@ -96,3 +111,5 @@ Före extern användning av varje juridiskt argument ska auditlagret kunna svara
 **Flera personer med liknande reaktion ≠ medicinskt fastställd kausalitet.**
 
 **Doktrin beskriver rätt – men den aktuella lagtexten och tillämpligheten måste alltid kontrolleras separat.**
+
+**Mer data är inte bättre data. Endast material med juridisk eller bevismässig funktion ska lyftas i kontrollpanelen.**
