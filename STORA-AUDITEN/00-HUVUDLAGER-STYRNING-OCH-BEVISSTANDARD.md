@@ -4,6 +4,27 @@
 **Status:** STYRANDE KONTROLLPANEL FÖR HELA PROJEKTET  
 **Prioritet:** Detta lager står över sammanfattningar, chattanteckningar, arbetsutkast och lösa tidslinjer när bevisstatus ska bedömas.
 
+## 0. Överordnat juridiskt analysprotokoll
+
+All juridisk research, praxisanalys, bevisaudit och extern text inom projektet ska även följa:
+
+`STORA-AUDITEN/00-JURIDISK-AI-MASTERPROMPT-KALLKONTROLL.md`
+
+Masterprompten kräver bland annat:
+
+- strikt separation mellan **FAKTISK UPPGIFT**, **RÄTTSKÄLLA** och **JURIDISK BEDÖMNING**,
+- uttrycklig märkning **INTE VERIFIERAT** när underlag saknas,
+- styrkegradering av juridiska argument,
+- motargument/motpraxis för viktiga rättsliga linjer,
+- aktualitetskontroll av lag, föreskrifter och praxis,
+- GRÖN/GUL/RÖD source-lock före extern användning,
+- kontroll av varje doms rättsfråga, avgörande fakta, begränsningar och originalstatus,
+- slutkontrollen: **Säkert belagt → Juridiskt starkast → Osäkert → Får inte användas ännu → Nästa viktigaste komplettering**.
+
+Vid konflikt mellan detta huvudlager och masterprompten ska den regel som ger **striktast käll-, bevis- eller source-lock-kontroll** tillämpas.
+
+---
+
 ## 1. Syfte
 
 STORA AUDITEN är **inte en sammanfattning**. Den är projektets bevis- och processkontroll.
