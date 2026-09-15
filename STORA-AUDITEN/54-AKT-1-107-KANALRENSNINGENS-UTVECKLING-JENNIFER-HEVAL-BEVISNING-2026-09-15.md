@@ -16,6 +16,13 @@ Syftet är inte att utan primärbevis påstå att någon rengöring aldrig kan h
 
 > **Den specifika åtgärd som senare beskrivits som en femmeters kanalrensning i köket den 4 november 2025 är inte verifierad genom en sammanhängande samtida dokumentkedja. Uppgiften byggs successivt på i senare redogörelser, samtidigt som de tidigare handlingarna beskriver andra eller mer begränsade ventilationsåtgärder och Jennifer den 2 december skriver att kanalrensning fortfarande ska ske.**
 
+### Formulering för domstolen
+
+Den bevismässigt hållbara slutsatsen är inte att det är absolut bevisat att ingen form av rengöring förekom. Slutsatsen är:
+
+> **I det tillgängliga materialet i akt 1–107 finns inte någon samtida arbetsorder, arbetsrapport, metodbeskrivning eller efterkontroll som verifierar att en fem meter lång kanalsträcka i köket rensades den 4 november 2025. Det som är samtida dokumenterat är ett driftteknikerbesök med ventilationskontroll, luftflödesmätning/injustering samt arbete med ventilationsdon. Den mer precisa uppgiften om fem meter, köksstam, två tekniker, AO 774725 och viska/stålborste tillkommer först i senare partsuppgifter och måste därför styrkas mot originalhandlingar.**
+
+Detta är den formulering som bör användas i inlagan. Den visar dokumentbristen utan att lägga bevisbördan på en spekulation om Jennifers avsikt. Om Jennifer uppger att primärhandlingar finns, bör hon eller Familjebostaden föreläggas att ge in dem.
 Akten ska göra det möjligt för en domstol eller annan mottagare att själv följa:
 
 - vad som sades eller skrevs,
