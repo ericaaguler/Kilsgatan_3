@@ -101,7 +101,78 @@ Den centrala bevisbilden är därför en **utveckling från generell eller begr�
 
 ---
 
-## 5. Kronologisk utveckling – vem sa vad och vad det visar
+## 5. Fasindelad tidslinje – före, under och efter Miljöförvaltningens handläggning
+
+Denna översikt visar när uppgiften om kanalrensning först förekommer, hur den beskrivs av Familjebostaden och när den senare byggs på med detaljer om fem meter, AO, tekniker och metod.
+
+### Fas 1 – före Miljöförvaltningens handläggning
+
+| Datum | Vem | Vad som faktiskt framgår | Bevismässig betydelse |
+|---|---|---|---|
+| 27 okt 2025 | Erica → Familjebostaden | Du anmäler smuts/misstänkt påverkan i köksventilationen och begär rengöring av fläkt och kanaler. | Visar behovet och din begäran. Bevisar inte att rengöring utfördes. |
+| 29 okt 2025 | Leonard Thörnfeldt → Erica, Jennifer kopierad | Leonard skriver att han beställt drifttekniker för ventilationskontroll samt **”rensning av frånluftsdon”**. | Visar beställningens ordalydelse. Den anger inte fem meter, köksstam, två tekniker eller AO 774725. |
+| 3 nov 2025 | Erica → Gaby Khalaf | Du frågar hur ventilationen hade kontrollerats och rengjorts och begär inspektion. | Visar att rengöringsfrågan fortfarande var aktuell före besöket. |
+| 4 nov 2025 | Drifttekniker/Caroline Blomberg | Driftteknikerbesöket ägde rum. Carolines anteckning redovisar ventilationsmätning/injustering och formuleringen **”efter rensningen av kanal”**. | Besöket och mätningen är belagda. Anteckningen identifierar inte den senare femmetersrensningen. |
+| 5–6 nov 2025 | Erica → Familjebostaden | Du beskriver byte av ventilationsöppningar i kök och badrum. I din samtida beskrivning anges även rengöring av ventilationskanaler och att ljudisoleringspapper/ljudisolerande material tagits bort från fönsterventiler. | Visar vad som samtida uppfattades eller noterades. Det står inte i Hevals/Miljöförvaltningens senare kontrollrapport som en redovisad åtgärd. |
+| 11 nov 2025 | Första mötet med Jennifer/Gaby/Micke enligt projektets mötesspår | Ventilation, luft, brand och rengöringsfrågor behandlas i mötesmaterialet. Exakt möteskoppling för ljudfilen ska hållas source-lockad. | Mötesmaterialet får inte bära ett säkert citat om fem meter innan originalaudio, talare och datum är låsta. |
+| 12 nov 2025 | Erica → Jennifer efter mötet | Du skriver: **”Vi hann inte toucha på ämnet huvudvärken - luften - jag tror rengöring i kanal ... är smart början.”** | Starkt samtida stöd för att kanalrensning fortfarande var en föreslagen eller kvarstående åtgärd efter mötet. |
+| 24–27 nov 2025 | Erica och Gaby | Du skriver att kanalens insida är smutsig och frågar när röret senast rengjordes. Gaby beskriver ny bokning av Caroline, luftflödesmätning, injustering och rengjort köksdon. | Familjebostadens samtida beskrivning nämner inte fem meters kanalrensning. |
+| 2 dec 2025 | Jennifer → Erica | Jennifer skriver: **”Gällande ventilationen kommer en kanalrensning ske.”** | Central kronologisk motsägelsemarkör: kanalrensning uttrycks som kommande åtgärd. |
+| 12–17 dec 2025 | Jennifer och Erica | Jennifer skriver den 12 december att kvarvarande frågor ska gås igenom den 17 december. Enligt Ericas mötesanteckning togs de kvarvarande frågorna om brand, sanering och dokumentation inte upp eller besvarades. | Ska användas som dokumenterad processlucka; exakt ljudstöd och talaridentitet ska hållas åtskilda från Ericas egen anteckning. |
+| 22 dec 2025 | Familjebostaden → Miljöförvaltningen | Familjebostaden beskriver åtgärden som **”mätning luftflöde av drifttekniker samt rensning av frånluftsdon”**. | Den inlämnade samtida beskrivningen använder annan och mer begränsad terminologi än den senare femmetersuppgiften. |
+| 23 dec 2025 | Miljöförvaltningen → Erica | Caroline-materialet kommuniceras till dig. | Visar när anteckningen kom in i Miljöförvaltningens akt, inte när eventuell kanalrensning utfördes. |
+
+<br>
+
+### Fas 2 – under Miljöförvaltningens handläggning
+
+| Datum | Vem | Vad som faktiskt framgår | Bevismässig betydelse |
+|---|---|---|---|
+| 6 jan 2026 | Erica → Miljöförvaltningen | Du begär datum, arbetsorder, utförare, metod, omfattning, före-/efterkontroll och resultat. | Visar att teknisk spårbarhet saknades och efterfrågades uttryckligen. |
+| 9 jan 2026 | Miljöförvaltningen | Miljöförvaltningen frågar vilken typ av kanalrensning som utförts och vilket företag som anlitats. | Visar att den historiska kanalrensningen fortfarande var en öppen kontrollfråga. |
+| 15 jan 2026 | Jennifer/Familjebostaden → Miljöförvaltningen | Jennifer uppger: **”Under hösten har drifttekniker gjort en kanalrensning i köket 5m upp.”** | Första tydliga femmetersuppgiften i myndighetsakten. Fortfarande en partsuppgift utan redovisad arbetsrapport. |
+| 28 jan–10 feb 2026 | Erica, HGF och Miljöförvaltningen | Frågan kvarstår när fullständig kanalrensning senast utförts i lägenheten. | Visar att Jennifers uppgift inte gjorde frågan tekniskt klarlagd. |
+| 6–11 mar 2026 | Erica, Heval Remazan och Miriam Adolfsson | Erica upprepar att hon saknar svar om sanering, om/när kanalrensning utförts och tidigare kanalrensning. Heval skickar frågorna till Familjebostaden. | Visar att frågan fortfarande behövde utredas efter Jennifers 15 januari-uppgift. |
+| 11 mar 2026 kl. 11:00 | Miriam Adolfsson → Erica | Miriam skriver: **”Avseende frågorna om sanering, kanalrensning och när detta skett har Heval skickat till fastighetsägaren igår eller idag. Men jag följer upp att frågorna verkligen kommer till fastighetsägaren och att du får svar på dina frågor.”** | Direkt bevis för att Miljöförvaltningen ännu följde upp om frågorna verkligen nått fastighetsägaren och att du skulle få svar. |
+| 11 mar 2026 | Heval/Stina/Miljöförvaltningen | Tillsyn med luftflödesmätning, rökprov, undertryck och okulär kontroll. | Visar ventilationens förhållande vid tillsynen, inte historiskt att fem meter rensats. |
+| 3 apr 2026 | Jimmy Bast och Karolin Bast | De besöker lägenheten efter lång vädring. Reaktioner uppges ha kommit inom cirka tio minuter efter att fönster och balkongdörr stängts. | Vittnesuppgift om aktuell reaktion och förändring efter vädring; bevisar inte kanalrensningens omfattning. |
+| 4 apr 2026 | Jimmy Bast och Karolin Åsbrandt | Jimmy skickar vittnesuppgifter den 4 april. Karolin Åsbrandt skickar också uppgifter den 4 april. | Skriftliga vittnesuppgifter med identifierade mottagningsdatum. |
+| 6 apr 2026 | Karolin Bast och Thomas Duvsjö | Karolin Bast lämnar vittnesuppgifter den 6 april. Thomas Duvsjös vittnesmål anges i aktmaterialet som daterat 6 april och avser besök den 4 april. | Vittnesmaterialet ska bedömas som vittnesuppgifter om upplevda förhållanden, inte som teknisk bevisning om femmetersrensning. |
+| 9 apr 2026, akt 95 | Jennifer/Familjebostaden → Miljöförvaltningen | Familjebostaden lämnar ett yttrande och uppger att man inte har något mer att tillägga. | Akt 95 måste bedömas också processuellt: om och när yttrandet kommunicerades till dig före beslutet. |
+| 13 apr 2026, akt 105 | Miljöförvaltningen | Tillsynsärendet avslutas. | Beslutet redovisar inte någon konkret samtida arbetsorder, arbetsrapport, metodbeskrivning eller efterkontroll som verifierar femmetersrensningen. |
+
+<br>
+
+### Fas 3 – efter Miljöförvaltningens beslut: Jennifer tillför nya detaljer
+
+| Datum | Vem | Vad som faktiskt framgår | Bevismässig betydelse |
+|---|---|---|---|
+| 17 aug 2026 | Jennifer → Erica | Jennifer uppger att drifttekniker under hösten 2025 utfört **”en kanalrensning (5 m upp)”** och hänvisar samtidigt till Carolines anteckning. | Senare partsuppgift. Carolines anteckning innehåller inte Jennifers detaljer om fem meter, AO, två tekniker eller exakt sträcka. |
+| 26–27 aug 2026 | Erica och Jennifer | Du begär exakt datum, utförare, AO, åtkomstpunkt, sträcka, metod, arbetsrapport och efterkontroll. Jennifer svarar att hon ska återkomma med arbetsorderinformation. | Visar att primärunderlaget fortfarande inte hade redovisats. |
+| 31 aug 2026 | Miriam/Miljöförvaltningen | Miriam redogör för tillsynens processuella ram men tillför inget primärunderlag som verifierar kanalrensningen. | Relevant för myndighetens handläggning, inte bevis på utförd femmetersrensning. |
+| 7 sep 2026 | Jennifer → Erica | Jennifer preciserar uppgiften till 4 november 2025, två drifttekniker, AO 774725, åtkomst via kökskanalen, köksstam till vinden och cirka fem meter med viska/stålborste. | Detaljerad efterhandsuppgift som kräver kontroll mot original-AO och arbetsrapport. |
+| 15 sep 2026 | Jennifer → Erica | Jennifer upprepar uppgifterna och förklarar konflikten med 2 december som **”en mänsklig faktor i form av hopblandning av datum”**. | Senare partsförklaring. Den visar inte vilken handling som stöder 4 november, omfattningen eller metoden. |
+
+<br>
+
+<br>
+
+### Den obesvarade datumfrågan
+
+Den centrala frågan är: **När skulle den fem meter långa kanalrensningen ha utförts?**
+
+Det tillgängliga materialet innehåller tre olika tidsmässiga hållpunkter, men ingen sammanhängande primär dokumentkedja som binder ihop dem:
+
+1. Caroline Blombergs anteckning är daterad den 4 november 2025 och nämner ”rensningen av kanal”, men anger inte att det var en femmetersrensning.
+2. Erica skriver den 12 november att rengöring i kanal fortfarande är en bra början.
+3. Jennifer skriver den 2 december att kanalrensning kommer att ske.
+4. Först därefter blir uppgiften att fem meter redan skulle ha rensats tydlig och preciseras senare med datum, AO, tekniker, sträcka och metod.
+
+Det går därför inte att fastställa om Jennifer med ”4 november” avser samma åtgärd som Carolines anteckning, en annan åtgärd som skulle ske efter den 2 december eller en efterhandsrekonstruktion av vad som faktiskt gjordes. Denna oklarhet är själva bevisfrågan.
+
+---
+
+## 6. Detaljerad kronologisk utveckling – vem sa vad och vad det visar
 
 | Datum | Aktör och källa | Faktisk uppgift | Bevisstatus och betydelse |
 |---|---|---|---|
@@ -214,6 +285,10 @@ Det är därför inte korrekt att säga att anteckningen innehåller ”ingentin
 
 > **Anteckningen innehåller en odaterad och ospecificerad hänvisning till ”rensningen av kanal”, men ingen dokumentation som identifierar den femmetersrensning som Jennifer senare beskriver.**
 
+Anteckningen är däremot relativt konkret när det gäller ventilationstyp, tilluftsventiler och uppmätta luftflöden. Just därför blir frånvaron av uppgifter om fem meter, åtkomstpunkt, verktyg, utförare och arbetsorder betydelsefull. Den innehåller inte heller någon uppgift om att ljudisoleringspapper eller ljudisolerande material hade tagits bort. Sådant framgår i stället av Ericas samtida beskrivning av vad som gjordes vid ventilationsöppningarna.
+
+Hevals/Miljöförvaltningens kontrollrapport redovisar inte heller borttagandet av ljudisoleringspapper som en utförd åtgärd. Rapportens tystnad bevisar inte ensam att åtgärden inte utfördes, men innebär att rapporten inte kan användas som självständig verifiering av vare sig detta moment eller den senare uppgivna femmetersrensningen.
+
 ---
 
 ## 8. Hevals/Miljöförvaltningens material
@@ -251,6 +326,14 @@ Det måste därför hållas isär:
 - lokal kanalrensning,
 - femmetersrensning,
 - och fullständig rengöring av en ventilationsstam.
+
+### 8.4 Akt 95 – Familjebostadens yttrande och bristande kommunicering
+
+**Bevisvärde**
+
+**Akt 95 visar att Familjebostaden den 9 april 2026 tillförde ärendet ett yttrande där fastighetsägaren dels uppgav att man inte hade något mer att tillägga, dels formulerade sin tolkning att Miljöförvaltningen inte heller ansåg att det fanns brister i ventilationen eller lägenheten. Jag var inte mottagare av yttrandet. Den fullständiga aktförteckningen 1–107 visar ingen efterföljande kommuniceringsakt där akt 95 lämnades till mig för bemötande innan ärendet avslutades genom akt 105 den 13 april 2026. Det går därför inte av den tillgängliga aktkedjan att se att jag fick möjlighet att bemöta Familjebostäders yttrande innan beslutet fattades.**
+
+Den processuella frågan ska hållas åtskild från frågan om kanalrensningen faktiskt utfördes. Akt 95 är relevant eftersom det visar vilket yttrande som låg i ärendet strax före beslutet och om jag fick möjlighet att bemöta Familjebostadens tolkning. Om akt 95 innehöll eller byggde vidare på uppgifter om ventilation eller kanalrensning måste även dessa uppgifter ha kunnat bemötas innan beslutet fattades.
 
 ---
 
