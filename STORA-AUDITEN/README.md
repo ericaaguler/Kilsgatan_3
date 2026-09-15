@@ -125,6 +125,8 @@ Nya bevis-ID ska automatiskt läggas till auditens scope.
 - `08-FYR-PDF-OCH-LAGUTNYTTJANDEAUDIT-NYA-BEVISPOSTER-2026-08-29.md` – fyr-PDF-audit av de nya bevisposterna med kontroll mot aktuell 2026-rätt; särskilt LOMD/ärendelagen, miljöbalken 26 kap., förvaltningslagen och 12 kap. JB.
 - `30-FORSVARBARHETSREVISION-OCH-CATCHUP-AUDIT-OVERKLAGANDE-2026-08-30.md` – kör den styrande försvarbarhets-/överprövningsmodellen på den aktiva MÖD-versionen och inventerar senaste inflödet; skiljer redan auditerat material från kvarvarande source-lock-kö och rangordnar de 3–5 argument som bör bära PT-frågan.
 
+- `54-AKT-1-107-KANALRENSNINGENS-UTVECKLING-JENNIFER-HEVAL-BEVISNING-2026-09-15.md` – kanonisk akt 1–107-audit av kanalrensningens utveckling, Carolines anteckning, Heval/Miljöförvaltningens scope och Jennifers senare femmetersuppgifter.
+
 Registermatrisens fem segment ligger i `audit/` men är **underordnade STORA-AUDITEN** och nås via `05-REGISTERMATRIS-B0001-B0464.md`. De är inte ett konkurrerande huvudlager.
 
 ## 9. Rättsliga kontrolltaggar i den nya registerauditen
