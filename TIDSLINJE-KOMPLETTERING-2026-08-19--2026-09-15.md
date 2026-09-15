@@ -17,10 +17,12 @@
 | 2026-09-09 | 15:55 | Jenny Hamrin, Stadsbyggnadskontoret | Jenny meddelar att begäran om utlämnande av handlingar framöver ska skickas till Stadsbyggnadskontorets allmänna adress med diarienummer, i stället för till henne som handläggare. | — | `korrespondens/stadsbyggnadskontoret/2026-09-09_1555_jenny-hamrin_utlamnande-av-handlingar-kontaktvag.md` |
 | 2026-09-11 | — | Mark- och miljööverdomstolen | MÖD förelägger Erica i mål M 13759-26 att lämna en sammanhållen förteckning över åberopade handlingar och ge in samtliga dessa handlingar senast 25 september 2026. | — | `korrespondens/domstol/2026-09-11_mod-m13759-26-aktbilaga-51-forelaggande.md` |
 | 2026-09-14 | 12:40 | Jennifer Ehlin, Familjebostäder | Jennifer bekräftar att Ocab-utredningen nu är beställd och att FB efter rapporten ska göra en ny samlad bedömning. | ”När utredningen är genomförd och vi har tagit del av rapporten kommer vi att kunna göra en ny samlad bedömning av ärendet.” | `korrespondens/familjebostader/2026-09-14_1240_jennifer-ehlin_ocab-bestallt-ny-samlad-bedomning.md` |
+| 2026-09-15 | 10:25 | Jennifer Ehlin, Familjebostäder | Jennifer svarar punktvis om tidigare åtgärder, AO 774725, branden 2017 och Ocab-uppdraget. Hon förklarar 4 nov/2 dec-motsägelsen med ”mänsklig faktor i form av hopblandning av datum”, uppger att FB saknar dokumentation om branden 2017 och preciserar Ocabs undersökningsmoment. | ”En mänsklig faktor i form av hopblandning av datum.” / ”Vi har ingen dokumentation gällande någon brand överhuvudtaget från 2017…” | `korrespondens/familjebostader/2026-09-15_1025_jennifer-ehlin_svar-ocab-kanalrensning-brand-ao774725.md` |
 
 ## Källkritiska låsningar
 
 - Jennifers detaljer 7 september om AO 774725 är en **senare partsuppgift**. Fysisk omfattning av arbetet den 4 november 2025 måste source-lockas mot själva arbetsordern/utföranderapporten.
+- Jennifers förklaring 15 september att datummotsägelsen beror på ”hopblandning av datum” är en **senare förklaring från motparten**, inte en samtida utförandehandling. Den ska vägas mot 2 december-mejlet och, efter source-lock, originalaudion från 11 november.
 - Jennifers bilagor den 17 augusti är återutsända äldre dokument och ska inte räknas som nya oberoende bevis.
 - Thomas SMS visar uppgift om hans egen bostads anpassning, inte teknisk orsak i 1202.
 - MÖD:s föreläggande skapar ett processkrav på en enda konsekvent bilageförteckning; det ändrar inte bevisvärdet i de enskilda handlingarna.
