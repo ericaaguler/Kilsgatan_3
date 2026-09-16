@@ -32,7 +32,7 @@ Viktigt: tidslinjen skiljer mellan **luftflödesmätning**, **injustering**, **r
 | **7 apr 2026** | **Erica Güler → Stadsbyggnadskontoret** | Erica tar upp den oklara kanalrensningen i sin begäran om tillsyn enligt PBL och uppger att central dokumentation om bland annat OVK, kanalrensning och sanering efter brand saknas. | Myndighetsärende, dnr 2026-06369 |
 | **26 aug 2026** | **Erica Güler → Jennifer Ehlin / Familjebostäder** | Erica begär att femmetersrensningen preciseras: exakt datum, utförare, åtkomstpunkt, rengjord kanalsträcka, metod och utrustning samt arbetsorder, utföranderapport och efterkontroll. | Dokumenterat mejl |
 | **27 aug 2026** | **Jennifer Ehlin / Familjebostäder → Erica Güler** | Jennifer besvarar inte kanalrensningsfrågorna utan skriver: ”Jag återkommer med information kring dina AO som du har frågor kring.” | Dokumenterat mejl |
-| **28 aug 2026 – status** | **Öppen verifieringsfråga** | I den granskade korrespondensen har inget svar lokaliserats som anger exakt när den uppgivna femmetersrensningen utfördes eller som visar en fullständig primär arbetsrapport för åtgärden. | Status efter genomgång av identifierat underlag |
+| **28 aug 2026 – tidigare status** | **Öppen verifieringsfråga** | Vid den tidpunkten hade ingen primär AO-handling lokaliserats. | Status före registerutdraget 16 september 2026 |
 
 ## Samlad källkritisk iakttagelse
 
@@ -51,3 +51,22 @@ Tidslinjen visar därför en dokumentations- och terminologisk oklarhet. Den bev
 **Vilken primär handling visar exakt vilken åtgärd som utfördes den 4 november 2025: rensning av ett frånluftsdon eller en närliggande kanalsträcka, en fem meter lång lokal kanalrensning eller en mer omfattande rensning av berörd ventilationsstam?**
 
 Om mejlet den 2 december avsåg en ytterligare kanalrensning kvarstår även frågan: **när utfördes den, i vilka lägenheter eller stammar och var finns arbetsorder, metodbeskrivning och kontrollresultat?**
+
+
+## Ny primär källa – registerutdrag 16 september 2026
+
+Familjebostäders registerutdrag från Fastighetssystemet verifierar nu följande:
+
+| Datum | Källa | Faktisk uppgift | Bevisvärde |
+|---|---|---|---|
+| **27 okt 2025** | AO **774725** | ”Dålig ventilation”; bokad kl. 12:15 den 4 november; ”Rensning av ventilation kök samt kontroll och injustering av ventilation överlag.” | Primärverifierar att beställningen fanns och var planerad. Bevisar inte utförande, fem meter, utförare eller resultat. |
+| **25 nov 2025** | AO **786124** | Kontrollera ventilation och luftflöde, montera saknad frånluftsventil i köket, ta bilder och ta med kollega. | Visar att ytterligare ventilationsåtgärd efterfrågades senare. Bevisar inte att åtgärden utfördes. |
+| **27–31 okt 2025** | Kundvårdsärende **142046** | Intern notering om att AO skickats till drifttekniker för ventilationskontroll och rensning av kanal/frånluftsdon; ärendet avslutades administrativt 31 oktober. | Stödjer intern planering/beskrivning, men inte arbetsresultat. |
+
+### Reviderad status
+
+Den tidigare formuleringen att AO 774725 saknade primär källa ska inte längre användas. Den korrekta formuleringen är:
+
+> **AO 774725 är primärverifierad som beställning, men den redovisade dokumentkedjan innehåller fortfarande ingen arbetsrapport som visar att beställningen utfördes som en femmetersrensning eller vilket resultat arbetet gav.**
+
+Registerutdraget är ett efterföljande material och ska hållas separat från Miljöförvaltningens akt 1–107.
