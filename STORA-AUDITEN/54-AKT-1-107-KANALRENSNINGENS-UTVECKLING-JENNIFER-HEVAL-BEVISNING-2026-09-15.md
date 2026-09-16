@@ -462,6 +462,47 @@ Detta är den bevismässigt hållbara bilden. Den visar en tydlig förändring o
 **Caroline:** mätanteckning inkluderad med avgränsad bevisvärdering  
 **Jennifer 2 december:** central framtidsformulering inkluderad  
 **Jennifer 7/15 september:** senare detaljuppgifter inkluderade som partsuppgifter  
-**AO 774725:** inte primärverifierad i den redovisade dokumentkedjan  
+**AO 774725:** primärverifierad som arbetsorder i Fastighetssystemet; utförande, femmetersomfattning och resultat fortfarande inte verifierade  
 **Akt 81 MSG-bilaga:** saknad/innehåll ej verifierat  
 **Originalaudio:** femmetersuppgift får inte användas som säkert personcitat innan talare och tidskod är source-lockade
+
+
+---
+
+## 15. Ny primär källa – registerutdrag från Familjebostäder 16 september 2026
+
+Registerutdraget `20260916_08372066.pdf` är ett 24-sidigt utdrag från Familjebostäders Fastighetssystem. Det är ett senare material och ingår inte i Miljöförvaltningens akt 1–107 eller i beslutets ursprungliga beslutsunderlag.
+
+På sidan 3 finns AO 774725:
+
+- arbetsorder skapad 27 oktober 2025,
+- feltext ”Dålig ventilation”,
+- bokning kl. 12:15 den 4 november,
+- ”Rensning av ventilation kök samt kontroll och injustering av ventilation överlag”,
+- samt noteringen ”Se enhet notering”/”Avslutar ärendet”.
+
+### Reviderad bevisvärdering
+
+AO 774725 är nu **primärverifierad som en faktisk beställning i Familjebostäders system**. Detta stärker att ett ventilationsarbete var planerat inför den 4 november 2025.
+
+AO:n verifierar däremot inte ensam:
+
+- att arbetet utfördes,
+- att fem meter kanal rensades,
+- att två drifttekniker deltog,
+- vilken metod som användes,
+- vem som utförde arbetet,
+- eller vilket resultat/efterkontroll som följde.
+
+Registerutdraget visar också AO 786124 från 25 november 2025, där drifttekniker ombeds kontrollera ventilationen, mäta luftflödet, montera den frånluftsventil som saknas i köket, ta bilder och ta med en kollega. Detta är en separat senare order och ska inte automatiskt läggas till på 4 november.
+
+### Skillnad mellan beställning och utförandebevis
+
+Den nya källan ändrar alltså bevisläget på en begränsad men viktig punkt:
+
+- **Beställningen:** nu primärverifierad.
+- **Utförandet:** fortfarande inte verifierat genom arbetsrapport.
+- **Femmetersuppgiften:** fortfarande inte verifierad genom AO:n.
+- **Resultatet:** fortfarande inte redovisat.
+
+Detta ersätter inte kravet på original arbets-/servicerapport, utan visar exakt vilken handling som fortfarande saknas.
