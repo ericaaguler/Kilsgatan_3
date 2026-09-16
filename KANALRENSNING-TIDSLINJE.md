@@ -11,7 +11,7 @@ Viktigt: tidslinjen skiljer mellan **luftflödesmätning**, **injustering**, **r
 | Datum | Vem | Vad som sades/gjordes | Källstatus |
 |---|---|---|---|
 | **22–30 mar 2021** | **HA Ventilation / Familjebostäder** | Jennifer Ehlin uppger senare till Miljöförvaltningen att HA Ventilation kanalrensade fastigheten under denna period men att lägenhet 562 inte lämnade tillträde. Uppgiften visar därför inte att lägenhet 1202 kanalrensades 2021. | Dokumenterat besked från Familjebostäder; underliggande arbetsrapport behöver kopplas till uppgiften |
-| **4 nov 2025** | **Caroline Blomberg / drifttekniker Familjebostäder** | Caroline besöker lägenheten. Luftflöden mäts och justeras. Tillufts-/fönsterventiler kontrolleras och papper som hindrar tilluften tas bort. | Driftteknikeranteckning + transkribering/inspelning |
+| **4 nov 2025** | **Caroline Blomberg / drifttekniker Familjebostäder – platsbesök** | Besöket hade bokats efter återkommande klagomål om lukt/stank, tung luft och bristande ventilation. Caroline uppgav att mätningen skulle visa hur ventilationen stod till och var arbetet skulle börja. Frånluftsdonet i köket demonterades, kanalen kontrollerades och Caroline beskrev arbetsmomentet som att hon kom åt kanalen, kontrollerade att inget låg i vägen och ”vispade” för att göra rent. I realtid angavs följande värden: kök 26, inställt till 20; badrum 18, inställt till 20 efter kommentaren att 18 var ”lite lågt”; enligt transkriberingens sammanfattning ställdes övriga slutvärden till 20. Enheten för talen 26, 18 och 20 anges inte uttryckligen i transkriberingen och de ska därför inte utan vidare beskrivas som l/s. Tilluftsventilerna vid fönstren kontrollerades och Caroline förklarade att de måste hållas öppna för att ventilationen ska fungera. | Samtida ljudinspelning och transkribering. Stödjer arbetsmoment, uttalanden och realtidsvärden men verifierar inte fem meters rensning, exakt kanalsträcka eller AO-resultat. |
 | **4 nov 2025** | **Caroline Blombergs senare ingivna mätanteckning** | Anteckningen anger bland annat: ”Jag balanserade från 7,4 till 10.2 l/s i grund och efter rensningen av kanal så fick jag 35l/s i forcerat.” Anteckningen beskriver inte vilken kanalsträcka som rensades, hur långt, med vilken metod eller utrustning och innehåller ingen arbetsorder. | Dokumenterad mätanteckning; rensningens art och omfattning framgår inte |
 | **6 nov 2025** | **Erica Güler → Gaby Khalaf / Familjebostäder** | Erica skriver att ljudisolering tagits bort ur fönsterventilerna och att hon ombetts att inte vädra så att ventilationen ska arbeta, men att lukten då blir starkare och att hon får huvudvärk kort efter att fönstren stängts. | Dokumenterat mejl |
 | **6 nov 2025** | **Gaby Khalaf / Familjebostäder → Erica Güler** | Gaby svarar: ”detta är en ny information för mig att ventilationen inte funkar, här ska vi felsöka vad problemet är.” Hon skriver även att det tar längre tid att förstå problemet eftersom det uppges finnas i Ericas lägenhet och inte i någon annan. | Dokumenterat mejl |
@@ -34,6 +34,36 @@ Viktigt: tidslinjen skiljer mellan **luftflödesmätning**, **injustering**, **r
 | **27 aug 2026** | **Jennifer Ehlin / Familjebostäder → Erica Güler** | Jennifer besvarar inte kanalrensningsfrågorna utan skriver: ”Jag återkommer med information kring dina AO som du har frågor kring.” | Dokumenterat mejl |
 | **28 aug 2026 – tidigare status** | **Öppen verifieringsfråga** | Vid den tidpunkten hade ingen primär AO-handling lokaliserats. | Status före registerutdraget 16 september 2026 |
 
+## Källåst detaljpost – platsbesöket den 4 november 2025
+
+### Bakgrund och uttalat syfte
+
+Besöket var bokat med anledning av återkommande uppgifter om lukt/stank, tung luft och bristande ventilation. I inspelningen uppger Caroline att fönstren behöver stängas tillfälligt för att de ska kunna mäta, få rätt värden och se ”hur det står till” samt var de ska börja arbeta.
+
+### Samtida arbetsmoment och realtidsvärden
+
+- **Kök:** kollegan anger värdet **26**. Caroline uppger att det ska vara **20**, varefter donet ställs till **20**.
+- **Badrum:** uppmätt värde anges som **18**. Teknikern kommenterar: ”Det var lite lågt, här ska det vara 20”, varefter donet ställs till **20**.
+- **Övriga rum:** transkriberingens sammanfattning anger att slutvärden ställs till **20**.
+- **Enhetsreservation:** transkriberingen anger inte uttryckligen vilken enhet talen 26, 18 och 20 avser. De ska därför återges som realtidsvärden enligt inspelningen, inte automatiskt som liter per sekund.
+
+Caroline beskriver frånluftens funktion, demonterar köksdonet och säger att hon ska komma åt kanalen, kontrollera att ingenting ligger i vägen samt ”vispa” för att få rent i kanalen. Detta verifierar att ett rengörings-/kontrollmoment utfördes vid åtkomstpunkten i köket. Det verifierar däremot inte i sig att fem meter av köksstammen rensades.
+
+### Tilluft
+
+Caroline förklarar att tilluftsventilerna vid fönstren alltid ska vara öppna och att stängda ventiler gör att frånluftssystemet i stället försöker ta luft från bland annat brevinkast och trapphus. Transkriberingen visar också att hon återställer det hon ser vid fönstren och ser till att tilluftsventilerna är öppna.
+
+Den nu granskade korttranskriberingen säger däremot inte uttryckligen att **samtliga tre tilluftsventiler var helt blockerade** eller att **vardagsrummet saknade en föreskriven tilluftsventil**. Dessa två uppgifter ska tills vidare redovisas som uppgifter som behöver källåsas mot exakt tidskod i den fullständiga ljudinspelningen eller annan samtidig handling, och inte som redan verifierade fakta från den korta transkriberingen.
+
+### Bevismässig funktion
+
+Platsbesöket styrker att:
+
+1. Familjebostäder genomförde mätning, injustering och ett rengörings-/kontrollmoment den 4 november 2025,
+2. tilluftens öppna eller stängda läge behandlades som en central förutsättning för ventilationens funktion,
+3. vissa realtidsvärden ändrades under besöket, och
+4. den samtida inspelningen inte ensam visar den senare preciserade uppgiften om en fem meter lång rensning, AO 774725:s utföranderesultat, exakt kanalsträcka eller efterkontroll.
+
 ## Samlad källkritisk iakttagelse
 
 Handlingarna använder minst tre olika uttryck:
@@ -51,7 +81,6 @@ Tidslinjen visar därför en dokumentations- och terminologisk oklarhet. Den bev
 **Vilken primär handling visar exakt vilken åtgärd som utfördes den 4 november 2025: rensning av ett frånluftsdon eller en närliggande kanalsträcka, en fem meter lång lokal kanalrensning eller en mer omfattande rensning av berörd ventilationsstam?**
 
 Om mejlet den 2 december avsåg en ytterligare kanalrensning kvarstår även frågan: **när utfördes den, i vilka lägenheter eller stammar och var finns arbetsorder, metodbeskrivning och kontrollresultat?**
-
 
 ## Ny primär källa – registerutdrag 16 september 2026
 
