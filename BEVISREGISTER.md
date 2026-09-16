@@ -485,3 +485,4 @@ Markera först `Ja` när:
 - datumet är kontrollerat,
 - avsändare eller deltagare är kontrollerade,
 - citat och tidskoder är jämförda med originalet.
+| B0465 | 2026-09-16 09:50 | Anders Burman <anders.burman@familjebostader.com> | E-post med registerutdrag | [2026-09-16_0950_registerutdrag_anders-burman.md](korrespondens/familjebostader/2026-09-16_0950_registerutdrag_anders-burman.md) | Anders Burman uppgav att begärt registerutdrag bifogades som `20260916_08372066.pdf`. Meddelandet visar inte bilagans innehåll eller om AO 774725 förekommer. | Ja – e-post / bilaga ej fulltextgranskad |
