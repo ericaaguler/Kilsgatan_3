@@ -37,17 +37,47 @@ Familjebostäders senare registerutdrag visar dessutom att AO **774725** hade sk
 
 ### 4 november 2025 – Caroline Blomberg, platsbesök
 
-Driftteknikerna genomför mätning, injustering och ett rengörings-/kontrollmoment via kökets frånluftsöppning. Caroline beskriver hur hon kommer åt kanalen, kontrollerar att inget ligger i vägen och ”vispar” för att få rent.
+Besöket bokades efter upprepade klagomål om stank/lukt, tung luft och upplevd obefintlig eller bristande ventilation i bostaden. Syftet var att undersöka ventilationen, mäta och justera värden samt kontrollera och rengöra/rensa frånluftsdon och åtkomligt kanalparti.
 
-I den tillgängliga transkriberingen anges i realtid:
+Caroline förklarar i den samtida ljudinspelningen att fönstren behöver stängas för att teknikerna ska kunna mäta, ”få rätt värden” och se ”hur det står till”. I köket demonteras frånluftsdonet. Caroline beskriver att hon kommer åt kanalen, kontrollerar att ingenting ligger i vägen och ”vispar” för att få rent.
 
-- kök: **26 → 20**,
-- badrum: **18 → 20**, med kommentaren att 18 var ”lite lågt”,
-- övriga rum: enligt transkriberingens sammanfattning ställs slutvärden till 20.
+#### Faktiskt uttalade och inställda realtidsvärden i ljudinspelningen
 
-Transkriberingen anger inte uttryckligen enheten för 26, 20 och 18. Värdena ska därför inte utan teknisk förklaring betecknas som liter per sekund.
+- **Kök:** uppmätt/avläst utgångsvärde **26** → inställt slutvärde **20**.
+- **Badrum:** uppmätt/avläst utgångsvärde **18** → teknikerns kommentar: ”Det var lite lågt, här ska det vara 20” → inställt slutvärde **20**.
+- **Sovrum / övriga rum:** transkriberingen anger att slutvärdena ställs på **20**.
 
-Besöket verifierar mätning, injustering och ett rengörings-/kontrollmoment. Inspelningen verifierar däremot inte ensam en fem meter lång kanalrensning, exakt rengjord kanalsträcka eller efterkontroll av en sådan sträcka.
+Caroline säger bland annat:
+
+> ”Vad har vi för värde på den här?”
+
+Kollegan svarar:
+
+> ”Den står på 26.”
+
+Caroline fortsätter:
+
+> ”Uppmätt utgångsvärde är 26... Men den ska stå på 20. Vi ställer ner den till 20.”
+
+I badrummet anges utgångsvärdet 18 och kommentaren:
+
+> ”Det var lite lågt, här ska det vara 20.”
+
+Därefter anges slutvärdet 20.
+
+**Enhetsreservation:** Transkriberingen anger inte uttryckligen vilken teknisk enhet talen 26, 20 och 18 avser. De ska därför återges som realtidsvärden enligt inspelningen och inte utan ytterligare tekniskt underlag automatiskt betecknas som l/s.
+
+#### Särskilda iakttagelser om tilluft
+
+Caroline förklarar under besöket att tilluftsventilerna vid fönstren alltid ska vara öppna och att ventilationen inte fungerar på avsett sätt om de är stängda. Mot slutet av den tillgängliga transkriberingen säger hon:
+
+> ”Jag återställer det som jag ser vid fönstren och ser till att tillluftsventilerna är helt öppna.”
+
+I Ericas redogörelse för platsbesöket anges dessutom att **samtliga tilluftsventiler i sovrum 1, sovrum 2 och vardagsrummet var blockerade** när besöket påbörjades och att **vardagsrummet saknade en av de föreskrivna tilluftsventilerna**. Dessa två senare detaljuppgifter ska hållas isär från vad den korta transkriberingen ensam ordagrant verifierar: transkriberingen styrker att Caroline återställde förhållanden vid fönstren och såg till att tilluftsventilerna blev helt öppna, men den korta transkriberingen innehåller inte själv formuleringen att samtliga tre var helt blockerade eller att en tilluftsventil saknades. De uppgifterna ska därför anges med separat källstatus tills exakt ljudpassage eller annan samtidig primärhandling har källåsts.
+
+#### Bevismässig funktion för 4 november
+
+Platsbesöket verifierar att Familjebostäder genomförde mätning, injustering samt ett rengörings-/kontrollmoment. Inspelningen verifierar däremot inte ensam en fem meter lång kanalrensning, exakt rengjord kanalsträcka, arbetsorderns utföranderesultat eller någon efterkontroll av en femmeterssträcka.
 
 ### 6 november 2025 – Erica Güler och Gaby Khalaf
 
@@ -69,7 +99,7 @@ Begreppet **kanalrensning** anges inte i checklistan som en redan utförd åtgä
 
 ### 11 november 2025 – första platsmötet
 
-Vid mötet behandlas kanalrensning enligt mötesmaterialet som en möjlig eller framtida åtgärd.
+Vid mötet behandlas kanalrensning enligt mötesmaterialet som en möjlig eller framtida åtgärd. Enligt Ericas mötesredogörelse introduceras här begreppet **kanalrensning** som en framtida åtgärd och diskuteras i relation till den gemensamma ventilationsstammen.
 
 Uppgiften om just **fem meter** ska däremot inte föras tillbaka till detta möte utan en exakt källåst passage. Den första hittills källåsta femmetersformuleringen återfinns i den separat daterade inspelningen från den 17 december 2025.
 
@@ -94,6 +124,8 @@ Gaby skriver:
 > ”Vad gäller ventilationen så har jag bokat in Caroline igen till dig och hon kommer boka tid med dig.”
 
 Svaret hänvisar till ett kommande återbesök. Det innehåller inget besked om att en fem meter lång kanalrensning redan hade utförts.
+
+**Kronologisk betydelse:** Svaret visar att ventilationsfrågan alltjämt var under pågående hantering och beroende av ett kommande teknikerbesök. Meddelandet utgör inte en bekräftelse på att den senare påstådda femmetersrensningen redan hade utförts. Det måste därför förklaras hur detta samtidiga framtidsbesked förhåller sig till den senare uppgiften att den aktuella rensningen redan skulle ha varit färdigställd.
 
 ### 2 december 2025 – Jennifer Ehlin
 
@@ -183,7 +215,7 @@ Den källsäkra slutsatsen är därför:
 | Kontroll av ventilation och rensning av frånluftsdon beställs | 29 oktober 2025 |
 | Platsarbete med mätning, injustering och rengörings-/kontrollmoment | 4 november 2025 |
 | Ventilationen beskrivs som fortsatt föremål för felsökning | 6 november 2025 |
-| Kanalrensning behandlas som framtida åtgärd i mötes-/korrespondenskedjan | november 2025 |
+| Kanalrensning behandlas som framtida åtgärd i mötes-/korrespondenskedjan | 11 november 2025 enligt mötesredogörelsen |
 | Jennifer skriver uttryckligen att kanalrensning ”kommer” att ske | 2 december 2025 |
 | Uppgiften ”kanalrensning i fem meter” preciseras muntligen | 17 december 2025 |
 | Caroline Blombergs anteckning ges in och registreras som akt 33 | 22 december 2025 |
@@ -195,7 +227,7 @@ Den källsäkra slutsatsen är därför:
 Den kronologiska dokumentkedjan visar följande:
 
 1. I slutet av oktober beställdes kontroll och rengöring/rensning av ventilation eller frånluftsdon.
-2. Den 4 november genomfördes mätning, injustering och ett dokumenterat rengörings-/kontrollmoment.
+2. Den 4 november genomfördes mätning, injustering och ett dokumenterat rengörings-/kontrollmoment. Realtidsvärdena 26 → 20 i köket och 18 → 20 i badrummet finns dokumenterade i ljudtranskriberingen.
 3. Den 6–28 november beskrevs ventilationsfrågan fortfarande som föremål för felsökning, kvarstående behov och kommande återbesök.
 4. Den 2 december angavs kanalrensning skriftligen som en framtida åtgärd.
 5. Först den 17 december preciserades muntligen att en fem meter lång kanalrensning redan skulle ha utförts.
