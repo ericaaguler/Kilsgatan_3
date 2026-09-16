@@ -4,7 +4,9 @@
 **Avsändare:** Anders Burman <anders.burman@familjebostader.com>  
 **Befattning:** Enhetschef, AB Familjebostäder  
 **Ämne/ärende:** Begärt registerutdrag  
-**Bilaga:** `20260916_08372066.pdf`
+**Bilaga:** `20260916_08372066.pdf`  
+**Källbild:** `Skärmavbild 2026-09-16 kl. 10.25.38.png`  
+**Säkert meddelande-ID:** `1069927`
 
 ## Faktisk meddelandetext
 
@@ -17,6 +19,8 @@ Enhetschef
 AB Familjebostäder
 
 ## Källstatus
+
+Skärmbilden visar Stockholm stads säkra meddelandetjänst med meddelande-ID 1069927, avsändaren Anders Burman, datum/tid 2026-09-16 09:50 och bilagan `20260916_08372066.pdf`.
 
 - **Källa:** inkommet e-postmeddelande med angiven bilaga.
 - **Klassificering:** ny korrespondenspost efter den 13 april 2026.
