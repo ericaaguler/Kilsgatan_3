@@ -3,6 +3,8 @@
 **Mottaget:** 2026-09-16 09:50:29  
 **Avsändare:** Anders Burman, enhetschef, AB Familjebostäder  
 **Bilaga:** `20260916_08372066.pdf`  
+**Säkert meddelande-ID:** `1069927`  
+**Källbild:** `Skärmavbild 2026-09-16 kl. 10.25.38.png`  
 **Kopplad korrespondens:** [2026-09-16 – Anders Burman – registerutdrag](../korrespondens/familjebostader/2026-09-16_0950_registerutdrag_anders-burman.md)
 
 ## Preliminär klassificering
@@ -12,6 +14,8 @@
 Detta är en ny handling från Familjebostäder efter Miljöförvaltningens avslut av ärendet. Den ska därför ligga i ett separat efterföljande informationsspår och inte blandas ihop med Miljöförvaltningens akter 1–107.
 
 ## Vad som är verifierat nu
+
+Skärmbilden visar att uppgiften kommer från Stockholm stads säkra meddelandetjänst och att meddelandet har ID 1069927.
 
 1. Anders Burman skickade ett meddelande den 16 september 2026.
 2. Han uppgav att det begärda registerutdraget bifogades.
