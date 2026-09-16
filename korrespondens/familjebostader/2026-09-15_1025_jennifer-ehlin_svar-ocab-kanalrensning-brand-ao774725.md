@@ -43,7 +43,37 @@ På frågan om dokumentationen kring AO 774725 svarar Jennifer:
 
 > ”Den dokumentation som gjorts är det som jag skrivit i tidigare mail, se nedan konversation.”
 
-**Viktigt:** Mejlet innehåller fortfarande ingen kopia av AO 774725, ingen separat utföranderapport, ingen driftteknikeranteckning och ingen dokumenterad efterkontroll.
+### Reviderad källstatus efter 16 september 2026
+
+Familjebostäders registerutdrag från **Fastighetssystemet**, utskrivet 16 september 2026, verifierar nu att **AO 774725** fanns som samtida systempost från **27 oktober 2025**. Den synliga posten anger:
+
+> ”Dålig ventilation”  
+> ”Bokad kl 12:15 den 4/11”  
+> ”Rensning av ventilation kök samt kontroll och injustering av ventilation överlag. Ring och boka tid med HG.”  
+> ”Se enhet notering”  
+> ”Avslutar ärendet”
+
+**Viktig korrigering:** Det ska därför inte längre stå att AO 774725 saknas eller att själva arbetsordern endast är en senare partsuppgift.
+
+Det som däremot **inte framgår av den synliga samtida AO-posten** är:
+
+- cirka fem meters omfattning,
+- två drifttekniker,
+- åtkomst via kökskanalen,
+- sträckan köksstammen från köket upp till vinden,
+- cirka fem meter lång viska och stålborste,
+- någon separat utföranderapport,
+- eller dokumenterad efterkontroll.
+
+Posten hänvisar dessutom till **”Se enhet notering”**. Den underliggande enhetsnoteringen har ännu inte återfunnits i det material som varit tillgängligt för Erica.
+
+Den juridiskt hållbara beskrivningen är därför att **AO 774725 nu är primärverifierad som samtida beställnings-/systempost, medan Jennifers senare redogörelse är mer detaljerad än den synliga samtida posten och behöver verifieras mot enhetsnotering, eventuell utföranderapport och övrigt primärunderlag.**
+
+### Separat AO 786124
+
+Registerutdraget visar även en **separat arbetsorder AO 786124 den 25 november 2025**. Den instruerar om kontroll av ventilation/luftflöde, saknad frånluftsventil i köket, fotografisk dokumentation av mätningen och att driftteknikern gärna ska ta med en kollega så att de är **två**.
+
+Denna arbetsorder får inte blandas samman med AO 774725. Uppgiften om ”två” i AO 786124 verifierar inte i sig Jennifers senare uppgift att två drifttekniker utförde AO 774725 den 4 november.
 
 ## 4. Motsägelsen 4 november / 2 december
 
@@ -55,7 +85,7 @@ Jennifer svarar:
 
 ### Bevisvärde
 
-Detta är första uttryckliga förklaringen från Familjebostäder till datummotsägelsen. Förklaringen visar att Familjebostäder erkänner att de två uppgifterna behöver förenas, men mejlet tillför inte någon samtida arbetsorder/utföranderapport som självständigt verifierar vilket datum rensningen faktiskt skedde.
+Detta är Familjebostäders uttryckliga förklaring till datummotsägelsen. Registerutdraget verifierar nu att AO 774725 var bokad till den 4 november, men den synliga AO-posten visar fortfarande inte den fulla senare beskrivningen av femmetersrensningens utförande. Förklaringen om ”hopblandning av datum” är därför en senare partsuppgift som ska vägas tillsammans med de samtida systemposterna och den övriga tidslinjen.
 
 ### Source-lock-fråga
 
@@ -116,18 +146,20 @@ Ocab-uppdraget är alltså **bredare än en ren ventilationskontroll**. Ventilat
 
 Samtidigt framgår **inte uttryckligen** av denna uppdragsbeskrivning att Ocab ska analysera exempelvis brandspecifika restprodukter, sot, PAH, VOC eller någon namngiven mikrobiologisk parameter. Om sådana analyser är relevanta måste det framgå av faktisk provtagningsplan/labbrapport eller beställning.
 
-## 8. Juridiskt användbar kärna
+## 8. Juridiskt användbar kärna – reviderad 16 september 2026
 
 Detta mejl är särskilt viktigt för fyra separata bevisteman:
 
-1. **Datummotsägelsen kanalrensning:** Familjebostäder ger nu en uttrycklig förklaring – ”mänsklig faktor/hopblandning av datum” – men utan att samtidigt visa AO 774725 eller separat utföranderapport.
-2. **Branddokumentationen:** Familjebostäder säger uttryckligen att de saknar dokumentation om branden 2017, samtidigt som händelsen är externt dokumenterad av räddningstjänsten.
-3. **Tidigare åtgärder/efterkontroll:** Familjebostäder räknar upp flera åtgärder men lämnar inte här en objektsspecifik verifiering av datum, syfte, resultat och efterkontroll för varje åtgärd.
-4. **Ocab:** den nya utredningen är bredare än tidigare ventilationskontroller och kan därför skapa nytt tekniskt underlag, men den kan inte i sig retroaktivt visa exakt vad som gjordes inom äldre arbetsordrar eller efter branden 2017.
+1. **Successiv precisering av kanalrensningen:** AO 774725 är nu verifierad som samtida systempost. Den synliga posten är dock mindre detaljerad än Jennifers senare redogörelse om 5 m, två drifttekniker, exakt kanalsträcka och metod. Bevisfrågan gäller därför inte längre om AO:n fanns, utan **vilket samtida underlag som verifierar de senare preciseringarna**.
+2. **Datummotsägelsen:** Familjebostäder förklarar skillnaden mellan uppgiften om 4 november och beskedet 2 december med ”mänsklig faktor/hopblandning av datum”.
+3. **Branddokumentationen:** Familjebostäder säger uttryckligen att de saknar dokumentation om branden 2017, samtidigt som händelsen är externt dokumenterad av räddningstjänsten.
+4. **Ocab:** den nya utredningen är bredare än tidigare ventilationskontroller men kan inte retroaktivt visa exakt vad som gjordes inom äldre arbetsordrar eller efter branden 2017.
 
 ## 9. Vad posten inte får användas till
 
 - Inte bevis för att branden orsakar dagens besvär.
-- Inte bevis för att kanalrensningen faktiskt utfördes 4 november i beskriven omfattning utan AO/utföranderapport eller annan source-lock.
+- Inte bevis för att AO 774725 fabricerats eller skapats i efterhand; registerutdraget visar att den fanns som systempost från 27 oktober 2025.
+- Inte ensam bevis för att den senare beskrivna femmetersrensningen faktiskt utfördes exakt så som Jennifer beskriver den; den synliga AO-posten verifierar inte alla dessa detaljer.
+- Inte bevis för att uppgiften om två drifttekniker i Jennifers redogörelse kommer från AO 786124; det är endast en separat kontrollpunkt.
 - Inte bevis för att alla uppräknade tidigare åtgärder var kopplade till hälsobesvären eller att de hade avsedd effekt.
 - Inte bevis för att Ocab redan har uteslutit någon orsak; uppdraget är ännu en planerad/ny undersökning.
