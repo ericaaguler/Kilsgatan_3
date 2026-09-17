@@ -56,6 +56,14 @@ Exakt klockslag är inte angivet i det nu registrerade underlaget.
 
 > God morgon! Om du skickar din mailadress till mig så kan jag skicka den information som jag har. De har beställt en inomhusmiljöutredning. Vi har som sagt inte fått några restriktioner kring vad vi får titta på utan jag gör det jag tycker är lämpligt. De sakerna som jag nämnde att jag vill kolla på har jag inte fått till mig från Familjebostäder utan det är sådant vi alltid kollar vid inomhusmiljöutredningar. De har nämnt att du mår dåligt i lägenheten med diverse symptom och att du kopplar det till inomhusmiljön. Jag har tillgång till en fuktrapport från Ocab och en rapport från miljöförvaltningen. Jag planerar bara att göra ett besök och vara där så länge jag behöver. Beroende på vad vi hittar så kan det bli aktuellt med återbesök för vidare utredning efter rivning, luftprovtagning eller liknande. /Erik Niklasson, Ocab Byggnadsmiljö
 
+## 17 september 2026 kl. 14:53 – Erik Niklasson följer upp efter mejlet
+
+Skärmdumpen av SMS-tråden visar följande meddelande från Erik:
+
+> Jag mailade dig nu för en stund sedan. Jag är bokad runt 3 veckor, så om vi ska boka en tid så skulle jag säga att den 8/10 eller 9/10 skulle funka för mig. Jag kan vara där runt 8:30. Skulle någon av de dagarna funka för dig?
+
+Meddelandet skickades efter Eriks e-post kl. 14:35 samma dag med arbetsbeskrivning, AO 895229 och två rapportbilagor.
+
 ## Faktiska uppgifter som SMS-tråden tillför
 
 Eriks SMS den 16–17 september innehåller följande uppgifter från Ocab:
@@ -73,8 +81,9 @@ Eriks SMS den 16–17 september innehåller följande uppgifter från Ocab:
 - Om den information Familjebostäder lämnat inför uppdraget uppger Erik den 17 september att de har sagt att Erica **mår dåligt i lägenheten med diverse symptom och kopplar detta till inomhusmiljön**.
 - Erik uppger att han inför undersökningen har tillgång till **en fuktrapport från Ocab** och **en rapport från Miljöförvaltningen**.
 - Erik erbjuder sig att skicka den information han har om Erica lämnar sin e-postadress.
+- Den 17 september kl. 14:53 bekräftar Erik att han har mejlat underlaget och föreslår **8 eller 9 oktober 2026 omkring kl. 08:30** för platsbesök, eftersom han uppger sig vara bokad omkring tre veckor framåt.
 
-## Koppling till Familjebostäders beställning
+## Koppling till Familjebostäders beställning och senare verifiering
 
 Samma dag som första Ocab-kontakten, **14 september 2026 kl. 12:40**, skrev Familjebostäders förvaltare Jennifer Ehlin till Erica att hon **”nu beställt en inomhusmiljöutredning via Ocab”**, att Ocab skulle kontakta Erica för bokning och att Ocab även skulle återkoppla till Jennifer med bokad dag och tid.
 
@@ -83,6 +92,8 @@ Redan den **8 september 2026** hade Jennifer skrivit att Familjebostäder skulle
 Eriks svar den **16 september kl. 07:40** verifierar genom Ocabs egen uppgift att **Familjebostäder är Ocabs beställare** för den aktuella utredningen.
 
 Eriks svar den **17 september kl. 10:51** preciserar att de konkreta kontrollmoment han tidigare räknat upp enligt honom inte kom från Familjebostäder utan från Ocabs egen normala metodik för inomhusmiljöutredningar. Det innebär att dessa enskilda moment inte får tillskrivas Familjebostäders beställning utan att själva beställningen eller annan uppdragsdokumentation visar det.
+
+Senare samma dag, kl. **14:35**, skickade Erik själva arbetsbeskrivningen och AO 895229. AO:n anger uttryckligen: **”Vill beställa en inomhusmiljöutredning av bostaden. Detta är utöver vårt avtal.”** Den uppgiften registreras separat i `korrespondens/sakkunniga-och-entreprenorer/2026-09-17_1435_erik-niklasson_arbetsbeskrivning-ao895229.md`.
 
 ## Bevisfunktion
 
@@ -94,21 +105,22 @@ Eriks svar den **17 september kl. 10:51** preciserar att de konkreta kontrollmom
 - Dokumenterar att Familjebostäders övergripande information till Ocab enligt Erik varit att Erica får olika symtom i lägenheten och kopplar dem till inomhusmiljön.
 - Dokumenterar att ett första besök kan följas av ytterligare undersökning beroende på fynd.
 - Dokumenterar en existerande avtalsrelation mellan Ocab och Familjebostäder för **saneringstjänster**, samtidigt som Erik uttryckligen skiljer den aktuella utredningen från detta avtal.
+- Dokumenterar att Erik den 17 september efter att ha skickat arbetsunderlaget föreslog platsbesök den **8 eller 9 oktober omkring kl. 08:30**.
 
 ## Källkritisk avgränsning
 
-- Eriks uppgifter är **förstahandsuppgifter från den Ocab-representant som kontaktat Erica om uppdraget**, men de ersätter inte själva beställningsunderlaget, uppdragsbeskrivningen eller avtalet mellan Ocab och Familjebostäder.
-- Att Familjebostäder är beställare är uttryckligen bekräftat av både Familjebostäder och Ocab.
+- Eriks uppgifter är **förstahandsuppgifter från den Ocab-representant som kontaktat Erica om uppdraget**.
+- Att Familjebostäder är beställare är uttryckligen bekräftat av både Familjebostäder och Ocab och har den 17 september även verifierats genom AO 895229.
 - Eriks uppgift den 17 september innebär att de konkreta kontrollpunkterna inte bör beskrivas som att Familjebostäder uttryckligen har beställt just dessa moment, om inte detta senare kan verifieras i beställningen.
-- Uppgiften att den aktuella utredningen ligger utanför saneringsavtalet bör verifieras mot själva avtalet eller beställningen.
-- Uppgiften att Ocab inte fått restriktioner är Eriks uppgift om uppdragets instruktioner; den visar inte ensam hela innehållet i den skriftliga beställningen.
-- Att Erik har tillgång till en Ocab-fuktrapport och en rapport från Miljöförvaltningen visar inte i sig **vem som skickade respektive handling, vilken version det är eller när han fick dem**. Detta behöver verifieras om det blir bevismässigt relevant.
-- Det framgår ännu inte av SMS-tråden om det finns en formell skriftlig beställning eller uppdragsbeskrivning, eller exakt vilka skriftliga frågeställningar Familjebostäder i så fall har lämnat till Ocab.
+- Formuleringen om att utredningen ligger utanför avtalet har nu fått stöd i AO 895229, som anger att utredningen är **”utöver vårt avtal”**.
+- Uppgiften att Ocab inte fått restriktioner är Eriks uppgift om uppdragets instruktioner; den visar inte ensam hela innehållet i all intern kommunikation mellan Familjebostäder och Ocab.
+- Att Erik har tillgång till en Ocab-fuktrapport och en rapport från Miljöförvaltningen visar inte i sig när eller genom vem han först fick respektive handling. Mejlet den 17 september visar dock att han då skickade dessa två rapporter vidare till Erica.
 - Formuleringen från den 16 september att Familjebostäder ”vill bara lösa detta problem” är Eriks återgivning/bedömning och ska inte behandlas som självständig bevisning om Familjebostäders motiv.
 - Materialet visar inte ensamt att Jennifer Ehlin personligen talade direkt med Erik Niklasson före hans första SMS kl. 09:47 den 14 september.
 
 ## Relaterade repo-poster
 
+- `korrespondens/sakkunniga-och-entreprenorer/2026-09-17_1435_erik-niklasson_arbetsbeskrivning-ao895229.md`
 - `korrespondens/familjebostader/2026-09-08_1446_jennifer-ehlin_bestaller-inomhusmiljoutredning-ocab.md`
 - `korrespondens/familjebostader/2026-09-14_1240_jennifer-ehlin_ocab-bestallt-ny-samlad-bedomning.md`
 - `korrespondens/familjebostader/2026-09-15_1025_jennifer-ehlin_svar-ocab-kanalrensning-brand-ao774725.md`
