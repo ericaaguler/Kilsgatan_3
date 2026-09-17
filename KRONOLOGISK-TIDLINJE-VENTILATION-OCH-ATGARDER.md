@@ -169,6 +169,12 @@ Miljöförvaltningen kommunicerar Familjebostäders kompletterande material till
 
 Detta är den första identifierade tidpunkten då Erica fick del av Caroline Blombergs skriftliga anteckning. Anteckningen ska därför kronologiskt beskrivas som en senare ingiven redogörelse om besöket den 4 november, inte som en handling som var tillgänglig för Erica den dagen.
 
+### 26 maj 2026 – öppning i förrådsdörren
+
+Enligt Ericas uppgift gjorde **Jonnie** den 26 maj 2026 en öppning i förrådsdörren. Ett foto från samma datum visar dörren efter åtgärden med en rektangulär ventilationsöppning/galler i dörrens nedre del.
+
+**Källstatus:** Ericas förstahandsuppgift om utförare och datum samt samtida fotografi av resultatet. Fotografiet visar själva dörrens utseende efter åtgärden men identifierar inte ensamt vem som utförde arbetet eller det tekniska syftet med åtgärden.
+
 ## Vad akt 33 faktiskt innehåller
 
 Akt 33 anger:
