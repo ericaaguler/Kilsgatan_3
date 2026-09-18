@@ -209,7 +209,16 @@ Källsäkrare:
 
 ## 9. Klädkammardörr – senare åtgärd
 
-Håltagning i klädkammardörr för luftcirkulation hör enligt nuvarande tidslinje till **19 maj 2026**, alltså efter MF:s beslut den 13 april.
+Håltagning i klädkammardörr för luftcirkulation hör enligt den korrigerade orderuppgiften till **19 maj 2026**, alltså efter MF:s beslut den 13 april.
+
+Den korrigerade orderuppgiften är:
+
+- **Datum:** `20260519` (19 maj 2026)
+- **Order nr:** `854763`
+- **Registrerad text:** `Sätt dit en ventil. Borrat hål i dörren till klk h. monterat vit galler.`
+
+Texten ska förstås som en registrerad åtgärdsuppgift om luftcirkulation/ventil i klädkammaren. Den visar inte ensam vem som utförde arbetet. Användarens mötesuppgift anger att Jonnie gjorde hålet, men ordertexten identifierar inte utföraren. Den visar inte heller att åtgärden hade avsedd effekt. Själva orderutdraget ska läggas in som separat originalkälla för full source-lock.
+
 
 Den får därför INTE användas som bevis för att svarsblankettens decemberuppgift "inga åtgärder planeras" var falsk vid den tidpunkten.
 
@@ -274,7 +283,7 @@ Rätt kontrollfråga:
 | FB 15 jan | "kanalrensning i köket 5m upp" under hösten | A | J5/J6 | Inte exakt arbetsorder/metod/resultat | GRÖN |
 | Målning hall/kök | Åtgärder identifierade i sammanställt mejlmaterial | E/A-pending | J2/J5 | Inte syfte eller erkänd inomhusmiljöbrist | GUL – ORIGINALKONTROLL |
 | El | Åtgärds-/arbetsordningsfrågor dokumenterade | A/E | J2/J5 | Inte exakt FB-erkänd brist utan arbetsorder | GUL |
-| Hål klädkammardörr 19 maj | Senare luftcirkulationsåtgärd | B/A-pending | J2/J4/J8 | Inte decemberplan | SEPARAT SENARE FAKTUM |
+| Hål/ventil i klädkammardörr 19 maj 2026 – order 854763 | Senare luftcirkulationsåtgärd; registrerad text om ventil, hål och vitt galler | B/A-pending | J2/J4/J8 | Inte decemberplan; bevisar inte utförare eller effekt | SEPARAT SENARE FAKTUM – ORDERUTDRAG SOURCE-LOCK KRÄVS |
 
 ---
 
@@ -297,7 +306,7 @@ Rätt kontrollfråga:
 - att alla separata underhållsarbeten var avsedda att avhjälpa samma påtalade hälsostörning,
 - att hallmålningen gällde ett fel Erica aldrig tidigare påtalat – hon hade faktiskt tagit upp hallbrister,
 - att köksbänkar skulle bytas – originalbevis saknas i denna audit,
-- att håltagningen i klädkammardörr var planerad redan i december – den hör till maj 2026,
+- att håltagningen i klädkammardörr var planerad redan i december – den korrigerade orderuppgiften placerar den den 19 maj 2026 (order 854763),
 - att svarsblanketten bevisligen innehåller en medvetet falsk uppgift.
 
 **HUVUDFYND:** Den verkligt starka motsägelsen är inte "de gjorde åtgärder alltså erkände de störning". Den är **dokumentations- och tidsmotsägelsen kring kanalrensningen samt den oklara räckvidden i blankettens kategoriska Nej-svar i förhållande till de underlag FB själv bifogade.**
