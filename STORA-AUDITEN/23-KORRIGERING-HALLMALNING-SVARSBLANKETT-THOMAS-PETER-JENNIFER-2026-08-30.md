@@ -92,7 +92,9 @@ Thomas beskriver åter:
 - obehag vid vistelsen,
 - svårighet att vistas längre tid i bostaden.
 
-Den senare kompletteringen anger dessutom att Thomas lämnade en särskild redogörelse den 28 maj om besöket den 19 maj.
+Den senare kompletteringen anger dessutom att Thomas lämnade en särskild redogörelse den 28 maj om besöket den 19 maj. B0349/B0350 redovisar bilagor med namnen `Thomas mail till erica .pdf` och `till erica från thomas om 18 maj .rtf`. B0341 visar samtidigt den 24 maj att Erica hade skickat ett utkast till Thomas för kontroll och att han skulle återmejla texten.
+
+Källstatusen ska därför anges precist: Thomas 19-maj-redogörelse är identifierad som inlämnad/åberopad efter Miljöförvaltningens beslut den 13 april och före Björns senare redogörelse, men den ursprungliga PDF/RTF-filen är ännu inte registrerad som separat source-lockad källfil i repot. Den exakta ordalydelsen får därför inte behandlas som verifierad enbart genom sammanställningar.
 
 **VIKTIGT:** Thomas uppgifter är förstahandsuppgifter om upplevelse/observation. De fastställer inte teknisk orsak.
 
