@@ -38,13 +38,13 @@ Utgångspunkt för överklagandet och för frågan om beslutsunderlaget var till
 Thomas Duvsjö lämnade senare kompletterande förstahandsuppgifter från ett nytt besök den 19 maj.
 
 **KÄLLA**  
-Thomas kompletterande redogörelse. Original ska kontrolleras före exakt återgivning.
+Thomas kompletterande redogörelse, knuten till 28-maj-kompletteringen B0349/B0350. Originalet ska kontrolleras före exakt återgivning; de separata PDF/RTF-bilagorna är ännu inte registrerade som source-lockade källfiler i repot.
 
 **VAD VISSTE AKTÖREN**  
 Händelsen inträffade efter beslutet den 13 april.
 
 **VAD GJORDES**  
-Uppgifterna har senare åberopats i kommunikationen med Miljöförvaltningen.
+Uppgifterna har senare åberopats i kommunikationen med Miljöförvaltningen. I samma händelsekedja anges orderuppgiften `20260519`, order nr `854763`, om ventil/hål/vitt galler i klädkammardörren.
 
 **VAD SAKNAS**  
 Miljöförvaltningens konkreta bedömning av den senare händelsen har inte redovisats i Miriams svar.
@@ -53,7 +53,7 @@ Miljöförvaltningens konkreta bedömning av den senare händelsen har inte redo
 Ingen fastställd.
 
 **BETYDELSE**  
-Händelsen kunde inte ha ingått i det ursprungliga beslutsunderlaget och är därför central för gränsdragningen mellan det överklagade beslutet och nya omständigheter.
+Händelsen kunde inte ha ingått i det ursprungliga beslutsunderlaget och är därför central för gränsdragningen mellan det överklagade beslutet och nya omständigheter. Thomas senare redogörelse ligger kronologiskt före Björns senare redogörelse.
 
 ---
 
