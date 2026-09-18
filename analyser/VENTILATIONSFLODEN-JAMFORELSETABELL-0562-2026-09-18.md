@@ -46,6 +46,24 @@ Jenny Hamrin vid Stadsbyggnadskontoret lämnade den 3 september 2026 ut äldre O
 - Dessa 2018-handlingar ska hållas isär från **Miljöförvaltningens Akt 59–61**. De är äldre OVK-material som senare inhämtades från Stadsbyggnadskontoret och är inte samma sak som aktnumren i ärende 2025-23696.
 
 
+### MF Akt 58–68 – särskilt kontrollspår för 2018 års OVK
+
+Den 9 januari 2026 hänvisade Miljöförvaltningen i mejltråden som senare återges i Akt 58 till en **OVK från 2018** och till uppgiften att kanalrensning hade utförts **"där det fanns behov"**.
+
+Vid kontroll av den följande aktkedjan framgår dock:
+
+- **Akt 58, 15 januari 2026:** Jennifer Ehlins mejl listar tre bilagor, samtliga från **2022**: `1_2022-11-08.pdf`, `1_2022-04-04.pdf` och `2_2022-11-08.pdf`.
+- **Akt 59–61:** samtliga är OVK-handlingar från **2022**.
+- **Akt 62, 16 januari 2026:** Miljöförvaltningen kommunicerar samma tre 2022-filer vidare till Erica. Någon 2018-OVK anges inte som bilaga.
+- **Akt 63–68:** handläggningen går vidare till kvarstående lukt, inspektionsbehov och planritning. Någon identifierad uppföljning av 2018-OVK:n, dess aktplacering eller frågan om objekt 0562 omfattades av 2018 års rengöring har inte identifierats i dessa akter.
+
+**Bevisdisciplin:** detta visar inte att 2018-protokollet aldrig fanns hos Miljöförvaltningen eller att det "försvann". Det visar att **ingen 2018-OVK har identifierats som bilaga i den genomgångna kedjan Akt 58–68**, trots att Miljöförvaltningen den 9 januari hänvisade till en sådan handling.
+
+Formuleringen att rengöring utfördes "där det fanns behov" visar inte heller i sig att **objekt 0562** var ett av de objekt där behov konstaterades eller att just den kanal som betjänar lägenhet 1202 rengjordes.
+
+**Öppen teknisk kontrollfråga:** Var objekt 0562 ett av de objekt där rengöringsbehov konstaterades 2018, och vilken primär teknisk handling visar i så fall att just den relevanta kanalen faktiskt rengjordes?
+
+
 ## Samlad kronologi – mätvärden, ventilationsåtgärder och kanalrensning
 
 | Datum / källa | Kök | Badrum | Sovrum | Vad som faktiskt är dokumenterat | Betydelse för teknisk granskning |
