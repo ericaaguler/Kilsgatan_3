@@ -6,11 +6,14 @@
 
 Syfte: att kronologiskt redovisa vad som har observerats, utförts, utlovats och senare uppgetts om kanalrensning och ventilation i lägenhet 1202.
 
+
+**Beslutsunderlagsregel:** Vid analys av Miljöförvaltningens beslut den 13 april 2026 ska allt ventilationsmaterial som framkom efter beslutet hållas separat. Senare material får inte användas som om MF hade det före beslutet, om inte Erica uttryckligen säger att det ska inkluderas.
+
 Viktigt: tidslinjen skiljer mellan **luftflödesmätning**, **injustering**, **rensning av frånluftsdon**, **lokal kanalrensning** och **rensning av en ventilationsstam eller ett helt system**. Dessa uttryck ska inte behandlas som samma åtgärd utan ett primärt arbetsunderlag. En OVK visar inte i sig när en faktisk kanalrensning senast utfördes.
 
 | Datum | Vem | Vad som sades/gjordes | Källstatus |
 |---|---|---|---|
-| **22–30 mar 2021** | **HA Ventilation / Familjebostäder** | Jennifer Ehlin uppger senare till Miljöförvaltningen att HA Ventilation kanalrensade fastigheten under denna period men att lägenhet 562 inte lämnade tillträde. Uppgiften visar därför inte att lägenhet 1202 kanalrensades 2021. | Dokumenterat besked från Familjebostäder; underliggande arbetsrapport behöver kopplas till uppgiften |
+| **22–30 mar 2021** | **Familjebostäder uppger HA Ventilation** | Jennifer Ehlin uppger i Akt 58 att HA Ventilation kanalrensade fastigheten under denna period men att lägenhet 562 inte lämnade tillträde. **Detta är inte OVK.** Uppgiften visar inte att lägenhet 1202 kanalrensades 2021. | **Verifierad partsuppgift i Akt 58.** Ingen separat HA Ventilation-arbetsrapport, kanalrensningsrapport eller tillträdeslista har identifierats i det hittills genomgångna materialet. |
 | **4 nov 2025** | **Caroline Blomberg / drifttekniker Familjebostäder – platsbesök** | Besöket hade bokats efter återkommande klagomål om lukt/stank, tung luft och bristande ventilation. Caroline uppgav att mätningen skulle visa hur ventilationen stod till och var arbetet skulle börja. Frånluftsdonet i köket demonterades, kanalen kontrollerades och Caroline beskrev arbetsmomentet som att hon kom åt kanalen, kontrollerade att inget låg i vägen och ”vispade” för att göra rent. I realtid angavs följande värden: kök 26, inställt till 20; badrum 18, inställt till 20 efter kommentaren att 18 var ”lite lågt”; enligt transkriberingens sammanfattning ställdes övriga slutvärden till 20. Enheten för talen 26, 18 och 20 anges inte uttryckligen i transkriberingen och de ska därför inte utan vidare beskrivas som l/s. Tilluftsventilerna vid fönstren kontrollerades och Caroline förklarade att de måste hållas öppna för att ventilationen ska fungera. | Samtida ljudinspelning och transkribering. Stödjer arbetsmoment, uttalanden och realtidsvärden men verifierar inte fem meters rensning, exakt kanalsträcka eller AO-resultat. |
 | **4 nov 2025** | **Caroline Blombergs senare ingivna mätanteckning** | Anteckningen anger bland annat: ”Jag balanserade från 7,4 till 10.2 l/s i grund och efter rensningen av kanal så fick jag 35l/s i forcerat.” Anteckningen beskriver inte vilken kanalsträcka som rensades, hur långt, med vilken metod eller utrustning och innehåller ingen arbetsorder. | Dokumenterad mätanteckning; rensningens art och omfattning framgår inte |
 | **6 nov 2025** | **Erica Güler → Gaby Khalaf / Familjebostäder** | Erica skriver att ljudisolering tagits bort ur fönsterventilerna och att hon ombetts att inte vädra så att ventilationen ska arbeta, men att lukten då blir starkare och att hon får huvudvärk kort efter att fönstren stängts. | Dokumenterat mejl |
@@ -33,6 +36,13 @@ Viktigt: tidslinjen skiljer mellan **luftflödesmätning**, **injustering**, **r
 | **26 aug 2026** | **Erica Güler → Jennifer Ehlin / Familjebostäder** | Erica begär att femmetersrensningen preciseras: exakt datum, utförare, åtkomstpunkt, rengjord kanalsträcka, metod och utrustning samt arbetsorder, utföranderapport och efterkontroll. | Dokumenterat mejl |
 | **27 aug 2026** | **Jennifer Ehlin / Familjebostäder → Erica Güler** | Jennifer besvarar inte kanalrensningsfrågorna utan skriver: ”Jag återkommer med information kring dina AO som du har frågor kring.” | Dokumenterat mejl |
 | **28 aug 2026 – tidigare status** | **Öppen verifieringsfråga** | Vid den tidpunkten hade ingen primär AO-handling lokaliserats. | Status före registerutdraget 16 september 2026 |
+
+
+## Terminologisk spärr för 2021
+
+Mars 2021 ska benämnas **"uppgiven kanalrensning 22–30 mars 2021"** eller **"Familjebostäders uppgift om kanalrensning i mars 2021"**.
+
+Det ska inte benämnas "OVK 2021" eller "mars-OVK 2021", eftersom ingen OVK-handling från 2021 har identifierats och den aktuella uppgiften uttryckligen avser kanalrensning.
 
 ## Källåst detaljpost – platsbesöket den 4 november 2025
 
