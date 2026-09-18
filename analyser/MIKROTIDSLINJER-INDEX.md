@@ -102,7 +102,7 @@ Syftet är att visa vilka senare förstahandsuppgifter som inte låg till grund 
 ### 9. Åtgärder kontra ”inget fel”
 **Ny källa:** `bevis/2025-11-21--2026-07-10-sms-peter-husvard.md`
 
-El, ventilation, golv, målning, köksdelar, håltagning/lufttillförsel. Peter skriver 21 nov 2025 att all el är bortriven och 21 maj 2026 att han ska fixa köksluckan och kontrollera fönstret. Fråga: om allt varit fullgott sedan dag 1, varför beställdes och utfördes dessa åtgärder, vilket problem skulle varje åtgärd lösa och hur verifierades effekten?
+El, ventilation, golv, målning, köksdelar samt håltagning/lufttillförsel. För håltagningen är den korrigerade orderuppgiften **19 maj 2026, order nr 854763**, med registrerad text om att sätta dit en ventil, borra hål i klädkammardörren och montera vitt galler. Peter skriver 21 nov 2025 att all el är bortriven och 21 maj 2026 att han ska fixa köksluckan och kontrollera fönstret. Fråga: om allt varit fullgott sedan dag 1, varför beställdes och utfördes dessa åtgärder, vilket problem skulle varje åtgärd lösa och hur verifierades effekten?
 
 ### 10. Obesvarade frågor till Familjebostäder
 Datum fråga → exakt fråga → svar → besvarad/delvis/obesvarad → vad saknas.
