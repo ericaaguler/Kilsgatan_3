@@ -23,6 +23,19 @@ Tabellen skiljer strikt mellan:
 
 **Viktigt:** ett aktnummer hos Miljöförvaltningen är ett diariefört dokumentnummer. Det innebär inte i sig att hela den handlingen avser just lägenhet 1202. För varje OVK-handling måste man därför kontrollera **byggnad, ventilationssystem och om objekt 0562 faktiskt finns med i luftflödesredovisningen**.
 
+
+## Viktig avgränsning – MF:s beslutsunderlag före 13 april 2026
+
+När denna fil används för att bedöma Miljöförvaltningens handläggning ska material som framkom **efter 13 april 2026** hållas utanför. Det gäller bland annat det 2018-material som senare lämnades ut av Stadsbyggnadskontoret och senare arbetsorder-/registeruppgifter. Sådant material får endast tas in när Erica uttryckligen beslutar att senare material ska inkluderas.
+
+För MF-spåret före beslutet gäller:
+- Akt 58 = mejltråd/partsuppgifter, inte teknisk rapport.
+- Akt 59 = annat ventilationssystem än 0562.
+- Akt 60 = rätt byggnad, rätt system 01 och rätt objekt 0562; kärnhandlingen.
+- Akt 61 = annan byggnad/adressdel.
+- MF hänvisar till en 2018-OVK, men själva 2018-protokollet har inte identifierats i akt 1–107.
+- Uppgiften om 22–30 mars 2021 avser **kanalrensning**, inte OVK.
+
 ## OVK- och systemidentitet
 
 | Handling / datum | Vad handlingen avser | Träffar objekt 0562? | Verifierad betydelse |
@@ -68,8 +81,8 @@ Formuleringen att rengöring utfördes "där det fanns behov" visar inte heller 
 
 | Datum / källa | Kök | Badrum | Sovrum | Vad som faktiskt är dokumenterat | Betydelse för teknisk granskning |
 |---|---:|---:|---:|---|---|
-| **30 nov 2018 – OVK, objekt 0562, system 01** | **10–27 l/s** | **12 l/s** | Ej redovisat i den källåsta sammanställningen | Objekt 0562 redovisas individuellt i OVK-underlaget. | Historiskt jämförelsevärde för samma lägenhet. Exakt betydelse av de två köksvärdena bör verifieras mot originalprotokollets metod/driftlägen. |
-| **22–30 mar 2021 – uppgiven kanalrensning i fastigheten** | – | – | – | Familjebostäder uppgav den 15 jan 2026 att HA Ventilation hade genomfört kanalrensning i fastigheten under perioden **22–30 mars 2021**, men att **lägenhet 562 inte lämnade tillträde**. | Denna fastighetsrensning kan därför **inte användas som verifiering av att kanalerna i lägenhet 1202 faktiskt rensades 2021**. Underliggande arbetsrapport bör granskas om den finns. |
+| **30 nov 2018 – senare identifierat OVK-material** | **10–27 l/s** | **12 l/s** | Ej redovisat i den källåsta sammanställningen | Objekt 0562 redovisas individuellt i det 2018-material som senare lämnades ut av SBK. | **Senare material – ska inte användas som MF:s beslutsunderlag före 13 april 2026 om inte Erica uttryckligen säger att det ska inkluderas.** |
+| **22–30 mar 2021 – uppgiven kanalrensning i fastigheten (inte OVK)** | – | – | – | Familjebostäder uppgav i Akt 58 den 15 jan 2026 att HA Ventilation hade genomfört kanalrensning i fastigheten, men att **lägenhet 562 inte lämnade tillträde**. Någon separat HA Ventilation-arbetsrapport/tillträdeslista har inte identifierats i det hittills genomgångna materialet. | Detta är **en partsuppgift om kanalrensning, inte OVK**. Den kan inte användas som verifiering av att lägenhet 1202 rensades 2021. |
 | **4 apr 2022 – OVK, objekt 0562, system 01** | **9–33 l/s** | **15 l/s** | **4 l/s** | Mätmetod ET2/stos. Objekt 0562 finns med. System 01 godkänns. Protokollet anger samtidigt **”Projekterade värden saknas”**. | Historiskt jämförelsevärde för samma objekt. Viktigt för frågan varifrån ett senare objektspecifikt ”projekterat” värde om 4,2 l/s kommer. |
 | **8 nov 2022 – OVK-ombesiktning, system 02** | – | – | – | Ombesiktningen gäller system 02 / ”Bostäder 7–11” och anger att samtliga ventilationssystem inte ingår. Objekt 0562 finns inte i luftflödeslistan. | **Inte en mätning av 0562.** Ska hållas åtskild från OVK 4 apr 2022 för system 01. |
 | **4 nov 2025 – samtidig ljudinspelning från driftteknikerbesöket** | **26 → 20** | **18 → 20** | I transkriptionssammanfattningen anges slutvärde **20** även för övriga rum | Värdena uttalas **i realtid under det faktiska platsbesöket** och är källsäkrade mot ljudfilen. | **Samtida primärkälla för de värden som faktiskt uttalades/avlästes på plats. Dessa realtidsvärden ska redovisas som den primära uppgiften från besöket och hållas isär från den senare skriftliga anteckningen.** |
