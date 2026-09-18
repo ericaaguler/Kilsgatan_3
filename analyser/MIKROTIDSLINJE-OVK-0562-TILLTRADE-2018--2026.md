@@ -3,10 +3,13 @@
 **Objekt:** Kilsgatan 3, lgh 1202, objekt 60020562 / 0562  
 **Syfte:** följa just denna lägenhet – inte byggnaden generellt – genom OVK, mätningar, tillträde och senare tillsyn.
 
+> **BESLUTSUNDERLAGSFRYS:** Vid bedömning av Miljöförvaltningens handläggning fram till beslutet 13 april 2026 ska senare ventilationsmaterial inte användas. Det 2018-material som Stadsbyggnadskontoret lämnade ut i september 2026 är ett separat senare spår och ska inte blandas in förrän Erica uttryckligen säger att det ska inkluderas.
+
+
 | Datum | Vad sägs/görs | Status | Varför det är viktigt / öppen fråga |
 |---|---|---|---|
-| 30 nov 2018 | OVK för Järflotta 5. Objekt **0562 finns uttryckligen med** under system 01. Uppmätt: kök **10–27 l/s**, bad **12 l/s**. | VERIFIERAT mot OVK | Visar att lägenheten faktiskt kontrollerades individuellt 2018. Viktigt mot senare uppgifter om vad SBK har/inte har registrerat. |
-| 22–30 mar 2021 | Familjebostäder uppger senare att HA Ventilation genomförde kanalrensning i hela fastigheten. **Lgh 562 lämnade inte tillträde.** | VERIFIERAD partsuppgift från FB 15 jan 2026 | Vilka delar av kanalsträckan som betjänar 0562 kunde faktiskt rensas utan tillträde? Finns arbetsorder/rapport? |
+| 30 nov 2018 | Miljöförvaltningen hänvisade den 9 jan 2026 till en OVK från 2018, men **själva 2018-protokollet har inte identifierats i den genomgångna MF-akten 1–107**. Ett 2018-protokoll för 0562 kom fram först genom senare utlämnande från SBK och hålls därför utanför denna pre-decision-bedömning. | VERIFIERAD hänvisning i MF-spåret; senare protokoll separat | Använd inte det senare SBK-materialet som om MF hade det före beslutet. |
+| 22–30 mar 2021 | Familjebostäder uppger i Akt 58 att HA Ventilation genomförde **kanalrensning** i hela fastigheten och att **lgh 562 inte lämnade tillträde**. Detta är **inte OVK**. | VERIFIERAD partsuppgift från FB 15 jan 2026; ingen separat HA Ventilation-rapport identifierad | Kan inte användas som bevis för att 562 rensades. Kontrollfråga: finns arbetsrapport, tillträdeslista eller dokumentation om vad som kunde rensas från annan åtkomstpunkt? |
 | 4 apr 2022 | Ordinarie OVK byggnad 1. System 01 omfattar bostäder/uppgångar 1–5. **0562 finns med.** Uppmätt: kök ca **9–33 l/s**, bad **15 l/s**, sovrum **4 l/s**. System 01 godkänns. I systemanteckningar finns även **något ojämna flöden**, **otät lucka till sugkammare** och **litet läckage vid renslucka i källargång**. | VERIFIERAT | Godkänd OVK utesluter inte att noterade otätheter/läckage behöver följas upp i ett senare lukt-/inomhusmiljöärende. Var finns åtgärdsunderlag? |
 | 8 nov 2022 | Ombesiktning byggnad 1. Protokollet anger att **samtliga ventilationssystem inte ingår**. Ombesiktningen gäller endast **system 02 / bostäder 7–11**. **0562 ingår inte.** | VERIFIERAT | Detta är inte en ny kontroll av 0562/system 01. Adresshuvudet får inte misstolkas som att Kilsgatan 3/0562 faktiskt kontrollerats vid ombesiktningen. |
 | 1 okt 2025 | Erica får tillträde till objekt **60020562**. | VERIFIERAT | Från denna dag måste senare kontroller och åtgärder kunna knytas till exakt objekt/lägenhet. |
@@ -24,3 +27,13 @@
 5. Finns en dokumenterad effektkontroll efter varje ventilationsåtgärd i lägenheten?
 
 **Metodregel:** denna tidslinje visar kontrollkedjan för 0562. Den ska inte användas för att påstå att en godkänd OVK bevisar fullgod inomhusmiljö eller att skillnader i l/s i sig bevisar ett fel.
+
+## Låst tolkning av OVK-spåret före 13 april 2026
+
+- **Akt 58:** mejltråd/partsuppgifter, inte teknisk rapport och inte OVK-protokoll.
+- **Akt 59:** 2022, system 02 / Bostäder 7–11, inte objekt 0562.
+- **Akt 60:** 4 april 2022, rätt byggnad, rätt system 01 och objekt 0562. Kärnhandlingen för 0562 i MF:s OVK-underlag.
+- **Akt 61:** 2022, annan byggnad/adressdel, inte objekt 0562.
+- **2018:** MF hänvisar till OVK:n, men själva protokollet har inte identifierats i akt 1–107.
+- **Mars 2021:** kanalrensningsuppgift, **inte OVK**.
+
