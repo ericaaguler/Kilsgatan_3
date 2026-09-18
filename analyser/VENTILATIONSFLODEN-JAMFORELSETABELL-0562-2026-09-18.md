@@ -40,7 +40,7 @@ Tabellen skiljer strikt mellan:
 | **22–30 mar 2021 – uppgiven kanalrensning i fastigheten** | – | – | – | Familjebostäder uppgav den 15 jan 2026 att HA Ventilation hade genomfört kanalrensning i fastigheten under perioden **22–30 mars 2021**, men att **lägenhet 562 inte lämnade tillträde**. | Denna fastighetsrensning kan därför **inte användas som verifiering av att kanalerna i lägenhet 1202 faktiskt rensades 2021**. Underliggande arbetsrapport bör granskas om den finns. |
 | **4 apr 2022 – OVK, objekt 0562, system 01** | **9–33 l/s** | **15 l/s** | **4 l/s** | Mätmetod ET2/stos. Objekt 0562 finns med. System 01 godkänns. Protokollet anger samtidigt **”Projekterade värden saknas”**. | Historiskt jämförelsevärde för samma objekt. Viktigt för frågan varifrån ett senare objektspecifikt ”projekterat” värde om 4,2 l/s kommer. |
 | **8 nov 2022 – OVK-ombesiktning, system 02** | – | – | – | Ombesiktningen gäller system 02 / ”Bostäder 7–11” och anger att samtliga ventilationssystem inte ingår. Objekt 0562 finns inte i luftflödeslistan. | **Inte en mätning av 0562.** Ska hållas åtskild från OVK 4 apr 2022 för system 01. |
-| **4 nov 2025 – samtidig ljudinspelning från driftteknikerbesöket** | **26 → 20** | **18 → 20** | I transkriptionssammanfattningen anges slutvärde **20** även för övriga rum | Siffrorna uttalas **i realtid under platsbesöket**. Enheten framgår däremot inte uttryckligen av ljudet/transkriberingen. | Samtida primärkälla för vilka siffror som faktiskt uttalades/avlästes på plats. De får inte automatiskt betecknas l/s utan teknisk verifiering. |
+| **4 nov 2025 – samtidig ljudinspelning från driftteknikerbesöket** | **26 → 20** | **18 → 20** | I transkriptionssammanfattningen anges slutvärde **20** även för övriga rum | Värdena uttalas **i realtid under det faktiska platsbesöket** och är källsäkrade mot ljudfilen. | **Samtida primärkälla för de värden som faktiskt uttalades/avlästes på plats. Dessa realtidsvärden ska redovisas som den primära uppgiften från besöket och hållas isär från den senare skriftliga anteckningen.** |
 | **4 nov 2025 – Caroline Blombergs skriftliga anteckning, senare ingiven till MF som Akt 33** | Grund: **7,4 → 10,2 l/s**. Forcerat: **35 l/s** ”efter rensningen av kanal” | **10 → 15,4 l/s** | **10 → 4,2 l/s**, där 4,2 anges som ”projekterat” | Den skriftliga anteckningen redovisar andra siffror än de som hörs i realtid. Den innehåller inte fem meter, AO 774725, två utförare, exakt kanalsträcka eller metod. | Ska jämföras med realtidsljudet, inte ersätta det. Skillnaden mellan de två källorna kräver teknisk förklaring/originalmätdata. |
 | **22–23 dec 2025 – Akt 33 förs in i myndighetsspåret / kommuniceras** | – | – | – | Caroline-anteckningen blir del av Miljöförvaltningens aktmaterial och kommuniceras därefter till Erica. | Viktigt källkritiskt: den skriftliga redogörelsen är vad Familjebostäder presenterar i efterhand om besöket den 4 nov; ljudfilen är den samtidiga realtidskällan. |
 | **15 jan 2026 – Familjebostäders komplettering till Miljöförvaltningen (Akt 58)** | **10 l/s** | **15 l/s** | **4 l/s** | Familjebostäder redovisar dessa värden och uppger samtidigt: **”Under hösten har drifttekniker gjort en kanalrensning i köket 5m upp.”** Samma komplettering anger också den äldre 2021-rensningen och uteblivet tillträde för lägenhet 562. | Partsuppgift, inte ny oberoende mätning. Här finns första tydliga skriftliga ”5 m upp”-uppgiften i myndighetsakten, men utan exakt datum, utförare, AO, metod eller efterkontroll. |
@@ -59,7 +59,7 @@ Tabellen skiljer strikt mellan:
    **4 l/s (2022) → 10→4,2 l/s i Akt 33 → 3 l/s stängt / 5 l/s öppet vid MF:s mätning.**
 
 4. **4 november 2025 – två källor för samma besök:**  
-   Realtidsljudet återger **26→20** respektive **18→20**, medan den senare skriftliga anteckningen redovisar helt andra uttryckliga l/s-värden. Det måste klarläggas om källorna avser olika instrument, olika storheter, olika driftlägen eller olika moment i samma besök.
+   Den samtidiga ljudfilen källsäkrar att värdena **26→20** respektive **18→20** uttalas under det faktiska platsbesöket. Den senare skriftliga anteckningen redovisar andra värden för samma besök. Skillnaden mellan realtidskällan och den senare skriftliga redovisningen ska därför visas öppet och bedömas tekniskt, inte jämnas ut eller förklaras bort.
 
 5. **4,2 l/s-frågan:**  
    Caroline beskriver 4,2 l/s som ett ”projekterat” värde. OVK 4 apr 2022 för system 01 anger samtidigt **”Projekterade värden saknas”**. Källan till 4,2 l/s behöver därför identifieras.
@@ -78,7 +78,7 @@ Tabellen skiljer strikt mellan:
 - Vad säger **8 Pa undertryck** tillsammans med tilluftsförhållandena om systemets funktion vid mättillfället?
 - Är det tekniskt normalt i detta system att sovrummet redovisas med frånluftsflöde, och vilken funktion har det?
 - Vilken handling bör normalt finnas för att verifiera ett objektspecifikt ”projekterat” värde om **4,2 l/s**?
-- Vad kan realtidsvärdena **26→20** och **18→20** avse, och hur kan de tekniskt jämföras med Caroline Blombergs senare l/s-anteckning?
+- Hur ska de i ljudfilen källsäkrade realtidsvärdena **26→20** och **18→20** tekniskt förstås och jämföras med de andra värden som Caroline Blomberg senare redovisade skriftligt för samma besök?
 - Vilket tekniskt bevisvärde har en kanalrensning i fastigheten 2021 när den aktuella lägenheten uttryckligen uppges inte ha lämnat tillträde?
 - Vilken del av 2022 års OVK är tekniskt relevant för just objekt 0562: den ordinarie kontrollen 4 apr för system 01, ombesiktningen 8 nov för system 02, eller båda – och varför?
 - Behövs råmätningar, injusteringsprotokoll, ventilationsritning, systemritning eller arbetsrapporter för att kunna bedöma förändringarna?
@@ -87,7 +87,7 @@ Tabellen skiljer strikt mellan:
 
 - Tabellen visar **vad källorna anger**. Den fastställer inte själv varför värdena skiljer sig.
 - Skillnaderna är tekniska kontrollfrågor, inte automatiskt bevis för ventilationsfel.
-- Realtidsljudet är den starkaste källan för **vad som faktiskt sades och vilka siffror som uttalades under platsbesöket**, medan Akt 33 visar **vad som senare dokumenterades skriftligt**. De två källorna besvarar därför olika bevisfrågor.
+- Den samtidiga ljudfilen är primärkällan för **vad som faktiskt sades och vilka värden som uttalades under platsbesöket**. Akt 33 visar **vad som senare dokumenterades skriftligt**. Om uppgifterna skiljer sig ska båda redovisas och skillnaden lämnas synlig för teknisk bedömning.
 - Det ska inte påstås att badrumsflödet 4 l/s automatiskt utgör normbrott utan sakkunnig bedömning av system, metod och tillämpliga krav.
 - Det ska inte påstås att 8 Pa undertryck automatiskt bevisar viss lufttransport eller viss föroreningskälla.
 - Det ska inte påstås att OVK-ombesiktningen 8 nov 2022 avser 0562; den verifierade handlingen avser system 02 och innehåller inte objektet.
