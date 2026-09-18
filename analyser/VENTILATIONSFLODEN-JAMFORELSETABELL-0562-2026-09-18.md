@@ -30,7 +30,21 @@ Tabellen skiljer strikt mellan:
 | **OVK 30 nov 2018 – Järflotta 5** | Byggnads-/systemhandling där objekt redovisas individuellt | **JA** | Objekt **0562** finns uttryckligen med. Uppmätta värden: kök **10–27 l/s**, badrum **12 l/s**. |
 | **OVK 4 apr 2022 – byggnad 1, system 01, ”Bostäder 1–5”** | OVK för byggnad/system 01 | **JA** | Objekt **0562** redovisas uttryckligen under system 01 med kök **9–33 l/s**, badrum **15 l/s**, sovrum **4 l/s**. System 01 godkänns. Protokollet anger samtidigt **”Projekterade värden saknas”**. |
 | **OVK-ombesiktning 8 nov 2022 – byggnad 1, system 02, ”Bostäder 7–11”** | Ombesiktning av **system 02**; handlingen anger att samtliga ventilationssystem inte ingår | **NEJ** | Objekt 0562 finns inte i luftflödesredovisningen. Detta protokoll får därför inte användas som om det vore en ny individuell mätning av lägenhet 1202. |
-| **Miljöförvaltningens OVK-akter, bl.a. akt 59–61** | Diarieförda OVK-handlingar för fastigheten/byggnaden och aktuella ventilationssystem | **MÅSTE AVGÖRAS PER PROTOKOLL** | Aktnumret i sig visar inte att en OVK-handling avser 0562. Det är protokollets system- och objektrad som avgör om lägenheten faktiskt omfattas. |
+| **Akt 59 – OVK-ombesiktning 8 nov 2022** | **System 02 / Bostäder 7–11** | **NEJ** | Objekt 0562 finns inte i luftflödesredovisningen. Akt 59 är inte en individuell mätning av lägenhet 1202. |
+| **Akt 60 – OVK 4 apr 2022** | **System 01 / Bostäder 1–5** | **JA** | Detta är den relevanta 2022-handlingen för objekt 0562. Objektet redovisas med kök **9–33 l/s**, badrum **15 l/s** och sovrum **4 l/s**. Protokollet anger **”Projekterade värden saknas”**. |
+| **Akt 61 – OVK-handling** | Annan byggnad/adress | **NEJ** | Avser inte objekt 0562 och ska inte användas som individuell OVK för lägenhet 1202. |
+
+
+### Äldre OVK-material utlämnat av Stadsbyggnadskontoret 3 september 2026
+
+Jenny Hamrin vid Stadsbyggnadskontoret lämnade den 3 september 2026 ut äldre OVK-material för **Kilsgatan 1–11** respektive **Kilsgatan 13–23**. Handlingarna är registrerade hos Stadsbyggnadskontoret under **dnr 2018-17889**, inkom **5 december 2018**, och anger **besiktningsdatum 30 november 2018**.
+
+- Filnamnsdelen **”2016-OM”** ska inte användas som besiktningsår. Den identifierade OVK-besiktningen är från **2018**.
+- För **Kilsgatan 1–11** redovisas den historiska systemindelningen **system 01 = Bostäder 1–5** och **system 02 = Bostäder 7–11**.
+- Materialet för **Kilsgatan 1–11** är relevant för systemhistoriken kring lägenhet 1202/objekt 0562.
+- Materialet för **Kilsgatan 13–23** avser en annan adressdel och ska inte användas som objektspecifik mätning för 0562.
+- Dessa 2018-handlingar ska hållas isär från **Miljöförvaltningens Akt 59–61**. De är äldre OVK-material som senare inhämtades från Stadsbyggnadskontoret och är inte samma sak som aktnumren i ärende 2025-23696.
+
 
 ## Samlad kronologi – mätvärden, ventilationsåtgärder och kanalrensning
 
@@ -85,6 +99,8 @@ Tabellen skiljer strikt mellan:
 
 ## Bevisdisciplin
 
+- **Aktkoppling OVK:** Akt 59 = system 02 / Bostäder 7–11 / ej 0562; Akt 60 = system 01 / Bostäder 1–5 / innehåller 0562; Akt 61 = annan byggnad/adress.  
+- **2018-materialet:** OVK-besiktningen är daterad 30 november 2018 och inkom till Stadsbyggnadskontoret 5 december 2018 under dnr 2018-17889. Filnamnsdelen ”2016-OM” ska inte tolkas som besiktningsår.  
 - Tabellen visar **vad källorna anger**. Den fastställer inte själv varför värdena skiljer sig.
 - Skillnaderna är tekniska kontrollfrågor, inte automatiskt bevis för ventilationsfel.
 - Den samtidiga ljudfilen är primärkällan för **vad som faktiskt sades och vilka värden som uttalades under platsbesöket**. Akt 33 visar **vad som senare dokumenterades skriftligt**. Om uppgifterna skiljer sig ska båda redovisas och skillnaden lämnas synlig för teknisk bedömning.
