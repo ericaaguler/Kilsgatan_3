@@ -18,7 +18,7 @@ Denna tidslinje ska göra hela brandspåret synligt utan att gå längre än kä
 
 | Datum | Vem | Vad som sades/gjordes | Betydelse / lucka | Källstatus |
 |---|---|---|---|---|
-| **16 nov 2017** | **Storstockholms brandförsvar / Familjebostäder** | Brand-/rökhändelse inträffar i lägenheten. SSBF genomför räddningsinsats. Lägenheten ventileras för att minimera fortsatta rök- och sotskador. Kontakt etableras med Familjebostäder. | Brandhändelsen är verifierad genom extern myndighetskälla. Familjebostäder kontaktades i samband med insatsen. | **SOURCE-LOCKAD** – SSBF händelserapport 2017010144 |
+| **16 nov 2017** | **Storstockholms brandförsvar / Familjebostäder** | SSBF:s händelserapport klassificerar händelsen som **”Brand eller brandtillbud”**, **”Brand i byggnad”** och anger **”BRAND JA”**. Räddningsinsats inleds, **2 personer utryms**, startutrymme är **kök**, värmekälla **spisplatta/häll**, första antända objekt **mat**. Rapporten anger **risk för ohälsa för de boende i lägenheten**. Branden pågår inte vid räddningstjänstens ankomst och inga släckåtgärder utförs. Lägenheten ventileras och Familjebostäder kontaktas. | Brandhändelsen är nu primärverifierad i betydligt större detalj. **Ingen släckåtgärd ≠ ingen brand**; rapporten visar att branden redan hade upphört vid ankomst. Detta bevisar inte dagens kausalitet eller saneringsstatus. | **SOURCE-LOCKAD** – SSBF händelserapport 2017010144 |
 | **16 nov 2017 – efter avslutad insats** | **SSBF / fastighetsägaren** | SSBF:s senare besked är att deras dokumentation inte visar hur det fortsatta restvärdesarbetet genomfördes. Efter avslutad räddningsinsats ligger den fortsatta hanteringen av byggnaden hos fastighetsägaren. | Den centrala historiska frågan blir: **vad gjordes efter att räddningstjänsten lämnade platsen och var finns dokumentationen?** | **SOURCE-LOCKAD** – SSBF / Max Ekberg, dnr 3934/2026 |
 | **6 nov 2025** | **Gaby Khalaf / Familjebostäder** | Gaby skriver: **”här ska vi felsöka vad problemet är”** och att det komplexa är att problemet finns i just lägenheten, vilket gör att det tar längre tid att förstå var problemet finns. | FB:s egen företrädare beskriver problemet som ännu inte klarlagt. **Kontrollfråga: vilken senare utredning fullföljde denna utlovade felsökning och vilken orsak identifierades?** | **SOURCE-LOCKAT MEJL / senare återgivet i 17 aug-tråden** |
 | **7 nov 2025** | **Erica Güler / Thomas Bartsch / Thomas Duvsjö** | Erica och Thomas Bartsch träffar grannen Thomas Duvsjö. Thomas Duvsjö uppger att det tidigare har brunnit i lägenheten. | Del av 2025 års vittneskedja. Uppgiften är vittnesuppgift, inte tekniskt bevis för kvarvarande påverkan. | **VITTNESUPPGIFT / ANTECKNING – originalstöd ska source-lockas** |
@@ -60,6 +60,9 @@ Denna tidslinje ska göra hela brandspåret synligt utan att gå längre än kä
 | **10 aug 2026** | **Stockholms Stadshus AB** | Uppger att bolaget inte har handlingar i det specifika ärendet och hänvisar vidare till S:t Erik Försäkring. | Ägar-/koncernspåret ger inget svar på efterarbetet. | **SOURCE-LOCKAT EXTERNT BESKED** |
 | **10 aug 2026 kl. 15:12** | **Erica → S:t Erik Försäkring** | Erica begär besked om skadeärende, skadehandlingar och vilket dokumentationsspår som kan visa vad som gjordes efter 2017 års händelse. | Nästa dokumentationsspår öppnas efter Stadshus AB:s hänvisning. | **SOURCE-LOCKAT MEJL** |
 | **11 aug 2026** | **S:t Erik Försäkring** | S:t Erik bekräftar att FB var försäkrat 2017, men att Kilsgatan-händelsen **inte anmäldes** till bolaget, att inget skadeärende skapades och att inga skadehandlingar finns där. Bolaget uppger att samma skadesystem används idag som 2017. | Ett förväntat dokumentationsspår ger inget svar. Detta bevisar inte att efterarbete saknades eller att ingen annan aktör användes. | **SOURCE-LOCKAT**, SEF 2026/27 |
+
+| **14 aug 2026 – kontroll mot MF Akt 58** | **SSBF primärhandling jämförd med MF:s januaris formulering** | MF hade tidigare beskrivit händelsen som **”torrkokning med rökutveckling”** och skrivit att det ”tycks inte stå” att det förekom brand med brandsläckning som följd. SSBF:s senare primärhandling visar samtidigt **”Brand i byggnad”**, **”BRAND JA”**, räddningsinsats och utrymning, men också att branden inte längre pågick vid ankomst och att släckåtgärd därför inte utfördes. | **NY KÄRNKONTROLL:** MF:s faktabeskrivning var snävare än SSBF:s officiella klassificering. Det ska inte påstås att MF medvetet tonade ned rapporten eftersom SSBF-handlingen kom senare. Den hållbara formuleringen är att MF:s januaris avgränsning byggde på en **ofullständigt primärverifierad faktabild**. | **SOURCE-LOCKAD JÄMFÖRELSE** – MF Akt 58 + SSBF 2017010144 |
+
 | **14 aug 2026** | **Max Ekberg / SSBF** | SSBF lämnar ut händelserapporten. Den visar att lägenheten ventilerades och att FB kontaktades men inte hur efterföljande kontroll, sanering eller återställning genomfördes. Max anger att ansvaret för byggnadens fortsatta hantering efter avslutad insats vilar på fastighetsägaren och hänvisar till fastighetsägaren, berört försäkringsbolag och Restvärderäddning; för inomhusmiljöfrågor hänvisas till MF. | Verifierar händelsen, FB-kontakten och ansvarskedjan men inte efterarbetet. | **SOURCE-LOCKAT**, dnr 3934/2026 |
 | **17 aug 2026 kl. 10:03** | **Erica → Familjebostäder** | Ny felanmälan/klagomål. Erica citerar Gabys **”här ska vi felsöka vad problemet är”** och frågar uttryckligen: **”Vad gjorde Familjebostäder efter brandförsvarets insats den 16 november 2017 och med anledning av de råd som lämnades till fastighetsägaren i samband med insatsen?”** | Brandfrågan ställs på nytt, nu efter att SSBF:s ansvarskedja blivit känd. | **SOURCE-LOCKAT MEJL** |
 | **17 aug 2026** | **Restvärderäddning / Tim Nyqvist** | Uppger att det inte verkar finnas någon rapport hos RVR för händelsen. | Även RVR-spåret lämnar efterarbetet oklart. | **SOURCE-LOCKAT EXTERNT BESKED** |
@@ -253,3 +256,16 @@ Och till Familjebostäder specifikt:
 > **Ni skrev den 6 november 2025 att problemet skulle felsökas. Vilken felsökning identifierade problemet, vilken orsak fastställdes och var finns den dokumenterade slutsatsen?**
 
 Detta håller isär **historiskt faktum**, **dokumentationslucka**, **aktuell hälsoskyddstillsyn**, **orsaksfråga** och **upprepade uteblivna svar**.
+
+## Ny kanonisk brand-audit 18 september 2026
+
+Se `STORA-AUDITEN/55-BRAND-SSBF-MF-AKT58-SANERING-DOKUMENTKEDJA-FULLAUDIT-2026-09-18.md`.
+
+Den auditten låser särskilt:
+
+- SSBF:s exakta klassificering **”Brand i byggnad” / ”BRAND JA”**,
+- skillnaden mellan **ingen släckåtgärd** och **ingen brand**,
+- att senare SSBF-material ska hållas separat från MF:s beslutsunderlag före 13 april 2026,
+- MF:s januaris aktiva avgränsning av saneringsspåret,
+- MF:s återöppning av frågan i mars,
+- och den kvarstående luckan i dokumentkedjan efter räddningsinsatsen.
