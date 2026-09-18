@@ -51,6 +51,20 @@ Extern säker formulering:
 
 > "Vid Familjebostäders platsbesök den 19 maj 2026, enligt samtidig SMS-kedja och senare ingivna handlingar..."
 
+### 1.3 Korrigerad orderuppgift om klädkammardörren
+
+I samma 19-maj-händelse har följande orderuppgift identifierats:
+
+- **Datum:** `20260519` (19 maj 2026)
+- **Order nr:** `854763`
+- **Registrerad text:** `Sätt dit en ventil. Borrat hål i dörren till klk h. monterat vit galler.`
+
+Detta är en registrerad uppgift om en luftcirkulationsrelaterad åtgärd i klädkammaren. Den visar inte ensam vem som utförde arbetet eller att åtgärden fungerade. Uppgiften om att Jonnie gjorde hålet hålls därför som separat mötes-/partsuppgift tills utföraren framgår av originalordern eller annan primärkälla. Orderutdraget finns ännu inte som separat originalfil i repot.
+
+### 1.4 Thomas kompletterande redogörelse – processuell placering
+
+Thomas 19-maj-redogörelse är knuten till 28-maj-kompletteringen: B0349/B0350 listar `Thomas mail till erica .pdf` och `till erica från thomas om 18 maj .rtf` som bilagor. B0341 visar den föregående utkast-/godkännandeprocessen. Detta ger stöd för att redogörelsen lämnades in efter MF:s beslut den 13 april och före Björns senare redogörelse. De separata PDF/RTF-originalen är däremot ännu inte registrerade som källfiler i repot, så exakt ordalydelse och fullständigt innehåll är fortfarande **SOURCE-LOCK KRÄVS**.
+
 ---
 
 # 2. THOMAS DUVSJÖ – 4 APRIL 2026: NÄRGRANSKNINGEN ÄR NU SOURCE-LOCKAD
