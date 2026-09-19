@@ -7,7 +7,7 @@
 
 ## 0A. Status efter uppladdningen 19 september 2026
 
-Följande originalfiler har nu laddats upp i GitHub under `handlingar/miljoforvaltningen/`: akt 31, 33, 58, 87, 88, 89, 90, 101, 104, 105, 106 och 107 samt ärenderapporten. De ska därför inte längre beskrivas som repo-original som saknas. De två aktkedjefynden om MSG-bilagan i akt 81 och OVK 2018 i akt 58 påverkas inte av uppladdningen, eftersom ingen MSG-fil eller 2018-OVK ingick bland de nya filerna.
+Följande originalfiler har nu laddats upp i GitHub under `handlingar/miljoforvaltningen/`: akt 31, 33, 58, 87, 88, 89, 90, 101, 104, 105, 106 och 107 samt ärenderapporten. De ska därför inte längre beskrivas som repo-original som saknas. De två aktkedjefynden om MSG-bilagan i akt 81 och 2018 års OVK påverkas inte av uppladdningen. Den korrigerade aktkedjan visar dock att OVK-handlingen uttryckligen namnges i Akt 49 och Akt 50; den konkreta återstående luckan är att själva PDF-filen inte har återfunnits bland det material som granskats.
 
 ## 1. Källregel
 
@@ -25,7 +25,7 @@ Frånvaro i repot eller i den utlämnade kopian bevisar inte att en handling ald
 | Akt | Uttrycklig hänvisning | Kontrollresultat | Status |
 |---:|---|---|---|
 | **81** | En konkret bifogad `.msg`-fil med angiven ämnesrad. | Den specifika MSG-filen har inte återfunnits. Akt 82 återger en tråd med samma centrala ämne, men ersätter inte säkert originalfilen eller dess metadata/bilagor. | **A – verifierad spårbarhetslucka** |
-| **58** | Miljöförvaltningen hänvisar till en OVK utförd 2018. | Akt 58:s bilageförteckning innehåller tre 2022-filer. Ingen 2018-fil anges där. Akt 62 kommunicerar åter endast 2022-handlingarna och någon 2018-OVK har inte identifierats i akt 58–68. | **A – uttryckligen hänvisad men inte återfunnen** |
+| **49–50, 58** | Akt 49 och Akt 50 anger uttryckligen bilagan **“2025-23696 OVK 2018 Dalarö 1.pdf”**. Akt 58 uppger dessutom att en OVK från 2018 läggs till, men dess bilageförteckning visar endast tre 2022-filer. | Dialogen om 2018 års OVK är alltså dokumenterad. Den konkreta luckan är att den namngivna PDF-handlingen **“2025-23696 OVK 2018 Dalarö 1.pdf”** inte har återfunnits bland det material som granskats. | **A – uttryckligen namngiven men själva PDF-filen inte återfunnen** |
 | **89–90** | MF anger att Familjebostäder ska svara om sanering efter brand, om/när kanalrensning utförts, tidigare kanalrensning och VOC-test. | Något konkret primärunderlag eller ett substantiellt svar på dessa fyra frågor har inte identifierats före beslutet. Akt 95 innehåller ”Vi har inget mer att tillägga”, men redovisar inte saneringsintyg, arbetsrapport, kanalrensningsrapport eller VOC-resultat. | **C – uttryckligen efterfrågat underlag/svar inte identifierat** |
 | **58** | Familjebostäder uppger att kanalrensning utfördes 2021-03-22–30 och att lägenhet 562 inte lämnade tillträde. | Ingen separat HA Ventilation-rapport, kanalrensningsrapport, tillträdeslista, arbetsorder eller annan samtidig primär teknisk handling har identifierats som självständigt verifierar uppgiften. | **C – teknisk verifieringslucka; inte bevis för att åtgärden aldrig skedde** |
 | **107** | Erica begär bl.a. tjänste-/besöksanteckningar, Stina Jurells iakttagelser och korrespondens. | Ingen separat Stina-anteckning har identifierats i den återhämtade aktkedjan. Akt 107 är dock en begäran efter beslutet och bevisar inte att en separat anteckning måste ha funnits. | **C/D – kontrollpunkt, inte fastslaget saknat dokument** |
@@ -65,7 +65,7 @@ Utöver de två redan identifierade huvudfynden finns följande ytterligare doku
 De två starkaste fynden som kan formuleras som uttryckligen hänvisade men inte återfunna handlingar är fortfarande:
 
 - **Akt 81 – den specifika MSG-bilagan.**
-- **Akt 58–62 – 2018 års OVK-protokoll.**
+- **Akt 49–50 och 58 – 2018 års OVK-PDF.** Akt 49 och 50 namnger bilagan; Akt 58 visar inte tydligt att själva 2018-PDF:en följde med.
 
 Alla övriga fynd ska hållas i kategorin **original-/spårbarhetslucka eller uteblivet identifierat underlag**, inte automatiskt beskrivas som att handlingen har förstörts, undanhållits eller aldrig funnits.
 
@@ -94,7 +94,27 @@ Bilagan beskrivs som en rapport med resultat från ett mögellufttest. Själva P
 
 Detta är ett starkare fynd än att bara säga att “AGX-rapporten saknas”, eftersom filnamnet är uttryckligen angivet.
 
-### B. Akt 59–61 – exakta OVK-bilagor
+### B. Akt 49–50 och 58 – 2018 års OVK-PDF
+
+Den tidigare formuleringen behöver preciseras. Akt 49 och Akt 50 visar att dialogen om 2018 års OVK faktiskt är dokumenterad och att Miljöförvaltningen uttryckligen anger bilagan:
+
+- **“2025-23696 OVK 2018 Dalarö 1.pdf”**
+
+Akt 49 anger att bilagan ingår bland de handlingar som kommunicerats till förvaltaren. Akt 50 anger åter samma bilaga i utskicket till Jennifer, med svarstid till den 20 januari 2026. Akt 58 anger därefter att en OVK från 2018 läggs till, men den bilageförteckning som identifierats i Akt 58 visar endast tre OVK-handlingar från 2022.
+
+Därmed är den skarpa frågan inte om OVK 2018 nämndes eller om dialogen dokumenterades. Den skarpa frågan är:
+
+> Miljöförvaltningen anger i Akt 49 och Akt 50 att “2025-23696 OVK 2018 Dalarö 1.pdf” finns som bilaga. Var finns själva PDF-handlingen?
+
+**Status:** **A – uttryckligen namngiven bilaga, själva PDF-filen inte återfunnen i det granskade materialet.**
+
+**Säker formulering:**
+
+> Akt 49 och Akt 50 anger uttryckligen att “2025-23696 OVK 2018 Dalarö 1.pdf” ingår bland bilagorna. Den faktiska PDF-handlingen har emellertid inte kunnat återfinnas bland det material jag fått del av. Akt 58 visar inte tydligt att själva 2018-protokollet bifogades där; dess bilageförteckning anger endast tre 2022-handlingar.
+
+Det ska alltså inte längre skrivas att OVK 2018 saknar dokumenterad dialog eller att ingen hänvisning finns. Fyndet gäller i stället **spårbarheten till den uttryckligen namngivna original-PDF:en**.
+
+### C. Akt 59–61 – exakta OVK-bilagor
 
 I Miljöförvaltningens mejl den 16 januari 2026 anges följande bilagor:
 
@@ -108,10 +128,10 @@ Dessa motsvarar den identifierade OVK-kedjan Akt 59–61. De exakta filerna med 
 
 Denna punkt ska hållas åtskild från 2018-OVK-fyndet:
 
-- 2018-OVK:n är uttryckligen hänvisad men inte identifierad.
+- 2018-OVK:n är uttryckligen namngiven i Akt 49 och 50, men själva PDF-filen är inte återfunnen.
 - 2022-OVK-filerna är namngivna och akt 59–61 är identifierade, men de ursprungliga PDF-filerna är inte separat låsta som originalbilagor.
 
-### C. Akt 68 – planritning
+### D. Akt 68 – planritning
 
 Aktregistret anger uttryckligen:
 
@@ -121,7 +141,7 @@ Någon separat originalfil för planritningen har inte identifierats i repots tr
 
 **Status:** **B – registrerad handling, originalfil inte separat identifierad.**
 
-### D. Fotografier som är registrerade men inte separat source-lockade
+### E. Fotografier som är registrerade men inte separat source-lockade
 
 Aktregistret innehåller uttryckliga fotoposter för bland annat:
 
@@ -145,7 +165,7 @@ Detta ska formuleras som en source-lock-fråga:
 Efter den förnyade kontrollen är de viktigaste fynden:
 
 1. **Akt 81:** den specifika MSG-bilagan är inte återfunnen.
-2. **Akt 58–62:** 2018 års OVK är uttryckligen hänvisad men inte identifierad.
+2. **Akt 49–50 och 58:** 2018 års OVK-dialog är uttryckligen dokumenterad och PDF-filen **“2025-23696 OVK 2018 Dalarö 1.pdf”** är namngiven i Akt 49 och 50, men själva filen har inte återfunnits.
 3. **Akt 38:** AGX-bilagan “lufttest-med-rapport-se-261124.pdf” är namngiven men inte återfunnen som original-PDF.
 4. **Akt 59–61:** de exakta OVK-bilagorna 1_2022-11-08.pdf, 2_2022-11-08.pdf och 1_2022-04-04.pdf är inte separat source-lockade som originalfiler.
 5. **Akt 68:** planritningen är registrerad men originalfilen är inte separat identifierad.
@@ -159,7 +179,7 @@ Om du vill täppa till luckorna i effektiv ordning bör följande hämtas först
 
 1. **lufttest-med-rapport-se-261124.pdf**
 2. **MSG-filen enligt Akt 81**
-3. **2018 års OVK**
+3. **“2025-23696 OVK 2018 Dalarö 1.pdf”**
 4. **de tre ursprungliga OVK-PDF:erna från Akt 59–61**
 5. **planritningen i Akt 68**
 6. **separata fotofiler för Akt 2–8, 17–23, 47 och 98**
