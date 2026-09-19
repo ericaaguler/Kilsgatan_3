@@ -23,3 +23,8 @@ En juridisk bok är aldrig primärrätt. Lagtext, aktuell praxis och specialregl
 ## Styrissue
 
 GitHub issue **#14 – STORA AUDITEN – kontrollpanel för hela projektet** används för auditens öppna kontrollfrågor, source-lock-arbete och juridiska verifieringskö.
+
+
+## Nya aktkontroller
+
+- [Akt 1–107 – uttryckliga hänvisningar till handlingar och saknade original](AKT-1-107-UTTRYCKLIGA-HANDLINGSHANVISNINGAR-OCH-SAKNADE-ORIGINAL-2026-09-19.md) – kontroll av uttryckligt angivna bilagor, underlag och originalfiler.
