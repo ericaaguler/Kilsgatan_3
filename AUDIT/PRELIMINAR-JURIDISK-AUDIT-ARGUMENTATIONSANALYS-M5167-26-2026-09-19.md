@@ -58,6 +58,24 @@ Följande faktiska punkter bör formuleras så att de blir svåra att bemöta ut
 
 8. Frågan om vilken kanalrensning som utförts, i vilken omfattning och av vem måste kunna följas i en dokumentkedja om myndigheten själv gjorde den frågan central.
 
+## 3A. Preciserad insättning i den befintliga överklagandetexten
+
+Den nya upptäckten ska läggas in som en precisering av de redan befintliga resonemangen i avsnitt 4.1, 4.2, 6, 7.2 och 11.2 – inte som ett nytt fristående huvudargument.
+
+Det ska inte stå att OVK 2018 saknar dokumenterad dialog eller att den saknas helt. Den dokumenterade aktkedjan är i stället:
+
+- **Akt 49, 9 januari 2026:** anger bilagan **“2025-23696 OVK 2018 Dalarö 1.pdf”**.
+- **Akt 50, 9 januari 2026:** anger åter samma 2018-OVK bland bilagorna i kommunikationen till Jennifer.
+- **Akt 58, 15 januari 2026:** innehåller Jennifers svar, men den återfunna bilageförteckningen anger endast tre OVK-handlingar från 2022.
+
+**Föreslagen precisering:**
+
+> Akt 49 och Akt 50 anger uttryckligen bilagan “2025-23696 OVK 2018 Dalarö 1.pdf”. Dialogen om 2018 års OVK är alltså dokumenterad. Däremot går det inte tydligt att följa om den faktiska PDF-handlingen kommunicerades till mig, var den är placerad i akten eller hur den användes i den fortsatta bedömningen. Akt 58 innehåller Jennifers svar, men den bilageförteckning som återfunnits anger endast tre OVK-handlingar från 2022. Bristen gäller därför inte att OVK 2018 aldrig nämndes, utan att spårbarheten till den uttryckligen namngivna PDF-handlingen och dess användning i beslutsunderlaget inte kan verifieras.
+
+Den säkra kärnfrågan är:
+
+> Miljöförvaltningen anger i Akt 49 och Akt 50 att “2025-23696 OVK 2018 Dalarö 1.pdf” finns som bilaga. Var finns själva PDF-handlingen, och hur har den beaktats i den fortsatta bedömningen?
+
 ## 4. Juridisk compliance – korrigering av den föreslagna prompten
 
 ### Förvaltningslagen
