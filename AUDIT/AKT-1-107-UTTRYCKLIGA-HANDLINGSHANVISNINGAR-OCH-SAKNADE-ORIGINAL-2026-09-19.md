@@ -68,3 +68,102 @@ De två starkaste fynden som kan formuleras som uttryckligen hänvisade men inte
 - **Akt 58–62 – 2018 års OVK-protokoll.**
 
 Alla övriga fynd ska hållas i kategorin **original-/spårbarhetslucka eller uteblivet identifierat underlag**, inte automatiskt beskrivas som att handlingen har förstörts, undanhållits eller aldrig funnits.
+
+
+## 6. Förnyad kontroll – nya uttryckligt namngivna handlingar
+
+Vid en ny genomgång av aktregistret tillsammans med repots korrespondens hittades följande ytterligare dokumentluckor eller originalkontrollpunkter.
+
+### A. Akt 38 – AGX-rapporten
+
+Aktregistret anger:
+
+- **Akt 38: Rapport – mögel i luftprovstest AGX Nordic.**
+
+I repots AGX-korrespondens den 22 december 2025 anges en specifik bilaga:
+
+- **lufttest-med-rapport-se-261124.pdf**
+
+Bilagan beskrivs som en rapport med resultat från ett mögellufttest. Själva PDF-filen har inte identifierats i repots trädlager. Det finns endast korrespondensmetadata och återgiven mejltext.
+
+**Status:** **A/B – konkret namngiven bilaga, inte återfunnen som originalfil.**
+
+**Säker formulering:**
+
+> I den tillgängliga korrespondensen anges bilagan “lufttest-med-rapport-se-261124.pdf”. Själva rapporten har inte identifierats bland de uppladdade originalhandlingarna. Det går därför inte att kontrollera rapportens provtagningsplats, datum, metod, resultat eller begränsningar.
+
+Detta är ett starkare fynd än att bara säga att “AGX-rapporten saknas”, eftersom filnamnet är uttryckligen angivet.
+
+### B. Akt 59–61 – exakta OVK-bilagor
+
+I Miljöförvaltningens mejl den 16 januari 2026 anges följande bilagor:
+
+- **1_2022-11-08.pdf**
+- **2_2022-11-08.pdf**
+- **1_2022-04-04.pdf**
+
+Dessa motsvarar den identifierade OVK-kedjan Akt 59–61. De exakta filerna med dessa ursprungliga filnamn har inte identifierats som separata originalfiler i repot. De nya akt-PDF:erna i repot är aktåtergivningar/registrerade aktfiler och ska inte automatiskt likställas med de ursprungliga mejlbilagorna.
+
+**Status:** **B – exakt namngivna bilagor, originalfiler inte separat source-lockade.**
+
+Denna punkt ska hållas åtskild från 2018-OVK-fyndet:
+
+- 2018-OVK:n är uttryckligen hänvisad men inte identifierad.
+- 2022-OVK-filerna är namngivna och akt 59–61 är identifierade, men de ursprungliga PDF-filerna är inte separat låsta som originalbilagor.
+
+### C. Akt 68 – planritning
+
+Aktregistret anger uttryckligen:
+
+- **Akt 68: Planritning.**
+
+Någon separat originalfil för planritningen har inte identifierats i repots trädlager. Den kan ha funnits inbäddad i en akt- eller mejlfil, men detta är inte verifierat.
+
+**Status:** **B – registrerad handling, originalfil inte separat identifierad.**
+
+### D. Fotografier som är registrerade men inte separat source-lockade
+
+Aktregistret innehåller uttryckliga fotoposter för bland annat:
+
+- Akt 2–8,
+- Akt 17–23,
+- Akt 47,
+- Akt 87–88,
+- Akt 98,
+- Akt 101 och 104.
+
+Akt 87, 88, 101 och 104 har nu registrerade PDF-original i repot. För Akt 2–8, 17–23, 47 och 98 har däremot ingen separat aktfil med motsvarande originalidentitet identifierats i trädlagerkontrollen.
+
+**Status:** **B – original-/filkedjelucka, inte bevis för att fotografierna saknades hos myndigheten.**
+
+Detta ska formuleras som en source-lock-fråga:
+
+> De registrerade fotoposterna är identifierade i aktförteckningen, men de separata originalfilerna har inte kunnat kopplas till repots uppladdade filer med säker filidentitet, datum och aktnummer.
+
+## 7. Uppdaterad lista över konkreta saknade eller inte återfunna handlingar
+
+Efter den förnyade kontrollen är de viktigaste fynden:
+
+1. **Akt 81:** den specifika MSG-bilagan är inte återfunnen.
+2. **Akt 58–62:** 2018 års OVK är uttryckligen hänvisad men inte identifierad.
+3. **Akt 38:** AGX-bilagan “lufttest-med-rapport-se-261124.pdf” är namngiven men inte återfunnen som original-PDF.
+4. **Akt 59–61:** de exakta OVK-bilagorna 1_2022-11-08.pdf, 2_2022-11-08.pdf och 1_2022-04-04.pdf är inte separat source-lockade som originalfiler.
+5. **Akt 68:** planritningen är registrerad men originalfilen är inte separat identifierad.
+6. **Akt 2–8, 17–23, 47 och 98:** registrerade foton saknar fortfarande separat säker originalfilskoppling i repot.
+7. **Akt 89–90:** Miljöförvaltningens uttryckligt efterfrågade underlag/svar om sanering, kanalrensning, tidigare kanalrensning och VOC-test har inte identifierats som konkreta primärhandlingar före beslutet.
+8. **Akt 58:** den uppgivna kanalrensningen 2021 saknar identifierad separat arbets-/utförandedokumentation.
+
+## 8. Prioritetsordning för fortsatt uppladdning
+
+Om du vill täppa till luckorna i effektiv ordning bör följande hämtas först:
+
+1. **lufttest-med-rapport-se-261124.pdf**
+2. **MSG-filen enligt Akt 81**
+3. **2018 års OVK**
+4. **de tre ursprungliga OVK-PDF:erna från Akt 59–61**
+5. **planritningen i Akt 68**
+6. **separata fotofiler för Akt 2–8, 17–23, 47 och 98**
+7. **separat arbets-/utföranderapport för 2021 års kanalrensning**
+8. **svar eller underlag som besvarar MF:s fyra frågor i Akt 89–90**
+
+Den första gruppen är särskilt värdefull eftersom den innehåller uttryckligen namngivna dokument. Den andra gruppen gäller i första hand reproducerbarhet och originalkontroll.
