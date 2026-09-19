@@ -24,8 +24,8 @@ Det finns dock ännu ingen grund för att kalla något av spåren juridiskt “s
 
 | Spår | Preliminär nivå | Vad det faktiskt visar | Vad det inte ensamt visar | Huvudrisk |
 |---|---|---|---|---|
-| Akt 58 – 2018-OVK:n | STARKT | Miljöförvaltningen hänvisade den 9 januari 2026 till en OVK från 2018, medan Akt 58:s bilageförteckning anger tre 2022-filer. I Akt 58–68 har själva 2018-handlingen inte identifierats. | Att 2018-protokollet aldrig funnits, förstörts eller att beslutet automatiskt är ogiltigt. | Motparten kan säga att dokumentet fanns någon annanstans eller att hänvisningen var en sammanfattning. |
-| Akt 58 – mejl kontra OVK-protokoll | STARKT, men avgränsat | Ett mejl/partsuppgift visar vad som uppgetts och kommunicerats. Det ersätter inte automatiskt ett protokoll som visar kontrollens datum, objekt, system, resultat och kontrollomfattning. | Att mejlet i sig bevisar tekniskt fel eller lagbrott. | För hård formulering: “mejlet är ogiltigt”. Rätt formulering är att bevisvärdet är begränsat för tekniska slutsatser. |
+| Akt 49–50 och 58 – 2018-OVK:n | STARKT | Akt 49 och 50 anger uttryckligen bilagan “2025-23696 OVK 2018 Dalarö 1.pdf”. Akt 58 anger därefter att en OVK från 2018 läggs till, men bilageförteckningen visar endast tre 2022-filer. Dialogen är dokumenterad; den konkreta luckan är att den namngivna PDF-filen inte har återfunnits i det granskade materialet. | Att PDF:en aldrig funnits, förstörts eller att beslutet automatiskt är ogiltigt. | Motparten kan ange var den namngivna PDF-handlingen finns eller visa att den faktiskt ingick i det material som lämnades ut. |
+| Akt 49–50 och 58 – hänvisning kontra OVK-protokoll | STARKT, men avgränsat | Akt 49 och 50 visar en dokumenterad hänvisning till den namngivna PDF-handlingen. Akt 58:s uppgift om att en OVK från 2018 läggs till visar dock inte i sig att själva protokollet finns i den bilageförteckning som återfunnits. Ett mejl/partsuppgift ersätter inte automatiskt ett protokoll som visar kontrollens datum, objekt, system, resultat och kontrollomfattning. | Att den dokumenterade dialogen i sig bevisar tekniskt fel eller lagbrott. | För hård formulering: “mejlet är ogiltigt”. Rätt formulering är att den faktiska PDF-handlingen måste identifieras och att bevisvärdet för tekniska slutsatser är begränsat utan den. |
 | Akt 33 – diarierubrik kontra innehåll | GODTAGBART till STARKT | En diarierubrik som “Protokoll” avgör inte ensam vilken rättslig eller teknisk funktion handlingen har. Innehåll, utfärdare, datum, objekt, metod och omfattning måste kontrolleras. | Att handlingen aldrig kan vara ett protokoll eller att registreringen är felaktig bara på grund av rubriken. | Utan fullständig originalhandling blir argumentet metadata-baserat. |
 | Akt 59–61 – system/byggnad/objekt | STARKT om originalen är kompletta | Den låsta analysen skiljer mellan handlingar för rätt och fel system, byggnad och objekt. Akt 60 är den relevanta 2022-handlingen för objekt 0562; Akt 59 och 61 ska inte automatiskt användas som objektspecifik bevisning. | Att en annan OVK saknar all relevans för byggnaden som helhet. | Original-PDF:erna för Akt 59–61 är inte identifierade som separata filer i repots trädlager. |
 | Bilaga 1cd – visuell jämförelse | GODTAGBART till STARKT | En jämförelse kan tydliggöra skillnader i rubrik, system, byggnad, objekt, värden och anmärkningar. | Att skärmdumparna bevisar orsaken till lukt eller hälsobesvär. | Beskärning, låg upplösning och avsaknad av hela original kan minska bevisvärdet. |
@@ -42,11 +42,11 @@ Det finns dock ännu ingen grund för att kalla något av spåren juridiskt “s
 
 Följande faktiska punkter bör formuleras så att de blir svåra att bemöta utan att motparten anger ett konkret dokument:
 
-1. Miljöförvaltningen hänvisade uttryckligen till en OVK från 2018.
+1. Akt 49 och Akt 50 anger uttryckligen bilagan **“2025-23696 OVK 2018 Dalarö 1.pdf”**.
 
-2. Akt 58:s angivna OVK-bilagor är tre handlingar från 2022, inte en identifierad 2018-handling.
+2. Akt 58 anger därefter att en OVK från 2018 läggs till, men den återfunna bilageförteckningen visar endast tre handlingar från 2022.
 
-3. I den genomgångna kedjan Akt 58–68 har den uttryckligen nämnda 2018-handlingen inte identifierats.
+3. Dialogen om 2018 års OVK är alltså dokumenterad. Den konkreta spårbarhetsluckan är att den uttryckligen namngivna PDF-handlingen inte har identifierats bland det material som granskats.
 
 4. En mejluppgift eller partsuppgift är inte samma sak som ett objektspecifikt OVK-protokoll med verifierbar kontrollomfattning.
 
@@ -125,7 +125,7 @@ Den bästa strukturen är:
 
 **Starkaste spår:**
 
-1. 2018-OVK:n som uttryckligen hänvisad men inte identifierad handling.
+1. 2018-OVK:n som uttryckligen namngiven bilaga i Akt 49 och 50, men där själva PDF-filen inte har återfunnits.
 2. Skillnaden mellan mejl/partsuppgift och verifierbart OVK-protokoll.
 3. Avgränsningen mellan rätt och fel system, byggnad och objekt.
 4. Dokumentkedjan för kanalrensningen och frågan om samtida primärhandling.
