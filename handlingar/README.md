@@ -26,3 +26,23 @@ Här finns de 16 filer som Erica laddade upp den 18 augusti 2026. Varje fil har 
 | B0462 | 2025-12-15 | PDF – Outlook-utskrift | [Original](outlook-utskrifter/B0462_2025-12-15_mail-till-jennifer.pdf) | `4db13faa3bb95b79a49b975dc6b7719d2a6f1274759a4ef5a5a88c7e2052f90f` | Samma mejlhändelse som B0180 |
 | B0463 | 2026-01-07 | PDF – partsinlaga | [Original](partsuppgifter/B0463_2026-01-07_full-hyresaterbetalning.pdf) | `8bb3bda79f57bb67b8469734e88de3cef04b4213911385f4683ae446bde8a8a3` | Självständig handling |
 | B0464 | 2017-11-16 | PNG – skärmbild av händelseinformation | [Original](brand/B0464_2017-11-16_skarmbild-brandhandelse-kilsgatan-3.png) | `11f9707924b85d81fbeac3296d282ba6b34df805e38d4cfdbb435f1c4555fd01` | Självständig handling |
+
+## Miljöförvaltningen – aktfiler uppladdade 19 september 2026
+
+Filerna nedan är uppladdade med aktnummer och mottaget filnamn bevarade. De har ännu inte tilldelats nya B-bevis-ID:n; de ska i första hand identifieras genom aktnummer och filnamn.
+
+| Akt | Originalfil |
+|---:|---|
+| 31 | [2025-23696-31-Rapport.pdf](miljoforvaltningen/2025-23696-31-Rapport.pdf) |
+| 33 | [2025-23696-33-Protokoll(6).pdf](miljoforvaltningen/2025-23696-33-Protokoll(6).pdf) |
+| 58 | [2025-23696-58-Skrivelse(8).pdf](miljoforvaltningen/2025-23696-58-Skrivelse(8).pdf) |
+| 87 | [2025-23696-87-Foto(4).pdf](miljoforvaltningen/2025-23696-87-Foto(4).pdf) |
+| 88 | [2025-23696-88-Foto(3).pdf](miljoforvaltningen/2025-23696-88-Foto(3).pdf) |
+| 89 | [2025-23696-89-Skrivelse(2).pdf](miljoforvaltningen/2025-23696-89-Skrivelse(2).pdf) |
+| 90 | [2025-23696-90-Kontrollrapport(4).pdf](miljoforvaltningen/2025-23696-90-Kontrollrapport(4).pdf) |
+| 101 | [2025-23696-101-Foto(1).pdf](miljoforvaltningen/2025-23696-101-Foto(1).pdf) |
+| 104 | [2025-23696-104-Information(3).pdf](miljoforvaltningen/2025-23696-104-Information(3).pdf) |
+| 105 | [2025-23696-105-Beslut att avsluta ärende 2026-5104 (Huvudbeslut)(2).pdf](miljoforvaltningen/2025-23696-105-Beslut%20att%20avsluta%20ärende%202026-5104%20(Huvudbeslut)(2).pdf) |
+| 106 | [2025-23696-106-E-postmeddelande (Ärende 2025-23696 - Beslut i ärende 2025-23696)(2).pdf](miljoforvaltningen/2025-23696-106-E-postmeddelande%20(Ärende%202025-23696%20-%20Beslut%20i%20ärende%202025-23696)(2).pdf) |
+| 107 | [2025-23696-107-Information(2).pdf](miljoforvaltningen/2025-23696-107-Information(2).pdf) |
+| – | [Ärenderapport 2025-23696(4).pdf](miljoforvaltningen/Ärenderapport%202025-23696(4).pdf) |
