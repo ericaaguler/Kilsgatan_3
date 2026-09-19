@@ -28,3 +28,5 @@ GitHub issue **#14 – STORA AUDITEN – kontrollpanel för hela projektet** anv
 ## Nya aktkontroller
 
 - [Akt 1–107 – uttryckliga hänvisningar till handlingar och saknade original](AKT-1-107-UTTRYCKLIGA-HANDLINGSHANVISNINGAR-OCH-SAKNADE-ORIGINAL-2026-09-19.md) – kontroll av uttryckligt angivna bilagor, underlag och originalfiler.
+
+- [Preliminär juridisk audit och argumentationsanalys – M 5167-26](PRELIMINAR-JURIDISK-AUDIT-ARGUMENTATIONSANALYS-M5167-26-2026-09-19.md) – styrkegradering, compliance-kontroll och kvarstående bevisrisker. V10 är uttryckligen parkerad och ingår inte i denna audit.
